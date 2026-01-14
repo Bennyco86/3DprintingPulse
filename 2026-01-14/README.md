@@ -32,7 +32,12 @@ Innovations in respiratory medicine are seeing the fusion of virtual reality and
 Researchers are testing these technologies to create more accurate models for complex lung repair procedures.
 Read more ? https://3dprintingindustry.com
 
-?? Hill Aerospace Museum Preserves History with 3D Scanning
-Preserving historic aircraft has become more precise thanks to 3D technologies.
-The museum is using 3D scanning and printing to recreate missing or damaged parts for legendary planes.
-Read more ? https://3dprint.com
+
+
+?? Test Story: Automatic Integration Success
+
+This story confirms that the automated publishing pipeline from local machine to GitHub to GoDaddy is working.
+
+If you can read this on the website, the system is fully operational!
+
+Read more ? https://github.com/Bennyco86/3DprintingPulse
