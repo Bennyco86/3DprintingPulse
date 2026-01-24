@@ -4,18 +4,42 @@
     <title>Quality3Ds Daily Pulse</title>
     <link>https://quality3ds.godaddysites.com</link>
     <description>Curated daily news for 3D printing enthusiasts.</description>
-    <lastBuildDate>Sat, 24 Jan 2026 13:52:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 15:08:21 GMT</lastBuildDate>
     <item>
       <title>3D PRINTING PULSE #17 - 2026-01-24</title>
       <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;﻿# Quality3Ds Daily 3D Printing News - 2026-01-24&lt;/p&gt;
-&lt;p&gt;TODO: Replace this section with 4-8 verified stories per README requirements.&lt;/p&gt;
-&lt;p&gt;Template (delete this block once filled):
-?? Headline here
-Hook sentence.
-Concrete detail sentence.
-Read more ? https://example.com&lt;/p&gt;
-&lt;p&gt;(Repeat per story; separate stories with one blank line.)&lt;/p&gt;</description>
+      <description>&lt;p&gt;🫁🧬 VR + 3D Printing Could Help Repair Lungs (Not Replace Them)
+Researchers are combining virtual reality planning with 3D printing to explore new ways to bridge damaged lung sections.
+The RI-MUHC team in Montreal is using VR lung models to plan 3D-printed hollow connectors that could link healthy tissue to bypass damaged areas (reported Jan 8, 2026).
+Read more ? https://3dprintingindustry.com/news/muhc-researchers-test-vr-and-3d-printing-for-better-lung-repair-247926/&lt;/p&gt;
+&lt;p&gt;🚀🛠️ Rocket Lab Shows Why 3D-Printed Engines Are Here to Stay
+Additive manufacturing is still a core advantage for faster rocket iteration and production.
+Rocket Lab's Rutherford engine relies heavily on metal 3D-printed components, highlighted during a Jan 13, 2026 visit covered by VoxelMatters.
+Read more ? https://www.voxelmatters.com/secretary-hegseth-visits-rocket-lab-and-divergent/&lt;/p&gt;
+&lt;p&gt;🏠🏗️ 3D-Printed Homes: ICON's "Printed Neighborhood" Playbook Goes Mainstream
+3D-printed housing is shifting from novelty builds to repeatable community construction.
+Fine Homebuilding reports ICON is building 12 new 3D-printed homes in Austin, Texas, using gantry printers to create structural walls with built-in cavities for utilities (published Jan 12, 2026).
+Read more ? https://www.finehomebuilding.com/2026/01/12/printed-houses-are-here&lt;/p&gt;
+&lt;p&gt;🖨️🌈 Bambu Lab Watch: H2C Is "On the Way" (Multi-Tool Ambitions Continue)
+Bambu is openly teasing what's next in its H-series ecosystem, signaling more capability ahead.
+In a company blog update dated Jan 7, 2026, Bambu Lab discusses the H2C roadmap and the business tradeoffs of announcing it alongside existing H-series models.
+Read more ? https://blog.bambulab.com/h2c-is-on-the-way-heres-how-it-all-started/&lt;/p&gt;
+&lt;p&gt;📷🔍 3D Scanners: Creality's "Sermoon P1" Goes Standalone at CES 2026
+Creality is pushing scanning toward grab-and-go workflows without needing a laptop tether.
+The Sermoon P1 was shown at CES 2026 as an all-in-one 3D scanner with an integrated computer, display, and battery (posted Jan 10, 2026).
+Read more ? https://www.3printr.com/creality-unveiled-its-new-sermoon-p1-all-in-one-3d-scanner-at-ces-2026-1086140/&lt;/p&gt;
+&lt;p&gt;🤖🩻 AM Software Breakthrough: AI Reads X-Ray Print Data Faster for Better Metal Parts
+Quality control is getting a speed boost as AI starts "watching" metal prints more intelligently.
+UCL researchers introduced AM-SegNet to rapidly process X-ray images captured during metal AM, aiming to improve reliability for demanding applications (published Jan 13, 2026).
+Read more ? https://3dprintingindustry.com/news/ucl-team-develops-ai-tool-to-monitor-metal-additive-manufacturing-248041/&lt;/p&gt;
+&lt;p&gt;🧠🤖 Multi-Material Printing Expands Horizons with AtomForm Palette 300
+At CES 2026, AtomForm's Palette 300 impressed with 12 nozzles capable of mixing 36 colors and 12 materials.
+The system points toward richer multi-material workflows for creative and functional prints (coverage by Android Authority).
+Read more ? https://www.androidauthority.com/atomform-palette-300-3d-printer-3630645/&lt;/p&gt;
+&lt;p&gt;📡📈 Industry Forecast: Metal AM Moves Toward True Production Scale
+Across aerospace and defense and beyond, experts see industrial metal additive manufacturing shifting from prototype to production.
+Analysts expect certified hardware and materials to rise in use as companies expand full-scale metal AM output in 2026.
+Read more ? https://3dprint.com/322917/3d-printing-predictions-2026-industrial-production-in-metal-additive-manufacturing/&lt;/p&gt;</description>
       <pubDate>Sat, 24 Jan 2026 12:00:00 GMT</pubDate>
       <guid>pulse-17-2026-01-24</guid>
     </item>
@@ -45,11 +69,7 @@ Read more ? https://3dprint.com&lt;/p&gt;
 &lt;p&gt;?? MUHC Researchers Combine VR and 3D Printing for Lung Repair
 Innovations in respiratory medicine are seeing the fusion of virtual reality and additive manufacturing.
 Researchers are testing these technologies to create more accurate models for complex lung repair procedures.
-Read more ? https://3dprintingindustry.com&lt;/p&gt;
-&lt;p&gt;?? Test Story: Automatic Integration Success&lt;/p&gt;
-&lt;p&gt;This story confirms that the automated publishing pipeline from local machine to GitHub to GoDaddy is working.&lt;/p&gt;
-&lt;p&gt;If you can read this on the website, the system is fully operational!&lt;/p&gt;
-&lt;p&gt;Read more ? https://github.com/Bennyco86/3DprintingPulse&lt;/p&gt;</description>
+Read more ? https://3dprintingindustry.com&lt;/p&gt;</description>
       <pubDate>Wed, 14 Jan 2026 12:00:00 GMT</pubDate>
       <guid>pulse-7-2026-01-14</guid>
     </item>
