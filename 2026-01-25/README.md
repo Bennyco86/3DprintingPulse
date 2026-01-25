@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-01-25
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #18 - 2026-01-25
+## Stories
 
 🚀 Global Village Construction Set (GVCS): The Linux of Hardware Meets 3D Printing
 Charles R.
@@ -28,6 +26,3 @@ Read more ? https://3dprint.com/323464/3d-printing-news-briefs-1-24-2026
 A newly-launched US-based company is creating what it calls “modern architectural systems through advanced 3D printing techniques, engineered for fully circular design”, transforming digital design files directly...
 Reported by VoxelMatters on Jan 24, 2026.
 Read more ? https://www.voxelmatters.com/circdal-brings-advanced-3d-printing-techniques-to-architectural-design
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
