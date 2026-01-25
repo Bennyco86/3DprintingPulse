@@ -3,8 +3,8 @@
 ## Stories
 
 🚀 Global Village Construction Set (GVCS): The Linux of Hardware Meets 3D Printing
-Charles R.
 Goulding and Preeti Sulibhavi look at how GVCS challenges proprietary machinery, embraces right-to-repair, and positions 3D printing as a core engine of sustainable production.
+Reported by Fabbaloo on Jan 24, 2026.
 Read more ? https://www.fabbaloo.com/news/global-village-construction-set-gvcs-the-linux-of-hardware-meets-3d-printing
 
 💻 Full-stack 3D printed battery maker gets seed funding to develop innovative product
@@ -15,6 +15,7 @@ Read more ? https://www.voxelmatters.com/full-stack-3d-printed-battery-maker-get
 📰 How the US Navy embraced AM in 2025
 According to the US Navy, in 2025, additive manufacturing shifted from a promising capability to an operational warfighting tool.
 Lead times were cut by up to 70%, and strategic collaboration … The post How the US Navy embraced AM in 2025 appeared first on VoxelMatters - The heart of additive manufacturing.
+Reported by VoxelMatters on Jan 24, 2026.
 Read more ? https://www.voxelmatters.com/how-the-us-navy-embraced-am-in-2025
 
 💻 3D Printing News Briefs, January 24, 2026: Life Sciences, Quality Management Software, & More
