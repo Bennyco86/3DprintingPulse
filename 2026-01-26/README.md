@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-01-26
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #19 - 2026-01-26
+## Stories
 
 🦺 AZORG integrates PrintPlace directly onto healthcare workfloors
 AZORG is structurally embedding 3D printing within its hospital by establishing PrintPlace on the Moorselbaan campus.
@@ -46,9 +44,3 @@ Read more ? https://www.voxelmatters.com/nottingham-university-3d-prints-surface
 3D Printing: Transforming Psoriasis Treatment and Diagnosis BIOENGINEER.ORG
 Reported by Google News - 3D Printing on Jan 25, 2026.
 Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXdiRDhLc1BmbDVIYklaUnUzVnFUbG04S2g1UWdjWVg5RnVvcVA1VndVdXlCdF9zaXdka3puc3V3Ynl6XzhRSkZxaURndmZZaGc1cWJLVXRMb3VzZGFmZ09XRU9kanhVUHRfUERpS3VJY3dkTUJwMTd3bHMxRjlud1hHMkZyNjdPQzNN?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
