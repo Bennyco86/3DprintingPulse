@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-01-27
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #20 - 2026-01-27
+## Stories
 
 🚀 Is optical clarity possible in 3D printing? - Engineering.com
 Is optical clarity possible in 3D printing?
@@ -44,9 +42,3 @@ Read more ? https://news.google.com/rss/articles/CBMieEFVX3lxTE9wY1g0dEFPNUVwUHE
 Original Prusa is introducing a new cleaning agent for SLA printed parts called “Prusament Resin Cleaner DPM.” The manufacturer states that it is based on dipropylene glycol methyl ether (DPM), an organic solvent.
 The focus is on greater safety during handling and shipping, reported by 3Printr on Jan 26, 2026.
 Read more ? https://www.3printr.com/prusament-resin-cleaner-dpm-prusa-introduces-new-washing-cleaner-as-an-ipa-alternative-for-sla-post-processing-0886476
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
