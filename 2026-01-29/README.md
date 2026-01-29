@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-01-29
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #22 - 2026-01-29
+## Stories
 
 🦺 Chinese researchers successfully use 3D printed titanium prostheses in wrist tumor treatment
 Researchers at a Chinese hospital have developed a surgical technique that combines 3D printed all-metal prostheses with mesh patches for the treatment of distal radial giant cell tumors (GCT).
@@ -46,9 +44,3 @@ Volkmann USA, a powder handling equipment manufacturer based in Bristol, Pennsyl
 First launched in 2018, the PowTReX platform is designed to support metal additive manufacturing operations producing large volumes of parts using multiple 3D printers, reported by 3D Printing Industry on Jan 28, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/01/Volkmann-PowTReX-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/volkmann-introduces-powtrex-automated-powder-handling-system-248494
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
