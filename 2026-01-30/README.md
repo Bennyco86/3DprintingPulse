@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-01-30
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #23 - 2026-01-30
+## Stories
 
 🦺 3D-printed planning enables complex elbow reconstruction in Vietnam
 The use of additive manufacturing is gaining increasing importance in Vietnam’s healthcare system, as demonstrated by a recent case from the Vinmec Healthcare System .
@@ -43,9 +41,3 @@ Read more ? https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUZvdE1QV2FTUF9
 US 3D printing breakthrough builds realistic human hand model inexpensively Yahoo
 Reported by Google News - 3D Printing on Jan 29, 2026.
 Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxNczNxa1FiWHNGTGFXdzcwV2p5OWpGeWpvWWhPTzJKUjdmVlN2dG9ydXhqRGFObmpnRkFOalhvblRVbDRDdjdPeW5MdDJxa3BsMUJvRDBJblhpbVhnTUNvX2JkNENvdy1PcFhiRjZrZUx3Mkhjc1ZLSnBCckJzcTRheHA0MXdFWllncTc4aC1R?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
