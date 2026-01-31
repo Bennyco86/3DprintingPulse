@@ -1,14 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Quality3Ds Daily Pulse</title>
-    <link>https://quality3ds.godaddysites.com</link>
-    <description>Curated daily news for 3D printing enthusiasts.</description>
-    <lastBuildDate>Sat, 31 Jan 2026 12:00:00 GMT</lastBuildDate>
-    <item>
-      <title>3D PRINTING PULSE #24 - 2026-01-31</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;ðŸ¦º Nivalon Creates a Custom, Metal-Free Spinal Implant Using XJet 3D Printing
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>Quality3Ds Daily Pulse</title><link>https://quality3ds.godaddysites.com</link><description>Curated daily news for 3D printing enthusiasts.</description><lastBuildDate>Sat, 31 Jan 2026 12:00:00 GMT</lastBuildDate><item><title>3D PRINTING PULSE #24 - 2026-01-31</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;ðŸ¦º Nivalon Creates a Custom, Metal-Free Spinal Implant Using XJet 3D Printing
 Nivalon Medical Technologies says it has successfully produced a fully patient-specific spinal implant that preserves motion and contains no metal, using AI-based design and ceramic 3D printing.
 The implant is, reported by 3DPrint.com on Jan 30, 2026.
 Read more ? https://3dprint.com/323596/nivalon-creates-a-custom-metal-free-spinal-implant-using-xjet-3d-printing&lt;/p&gt;
@@ -41,14 +32,7 @@ Read more ? https://www.fabbaloo.com/news/prusa-cuts-prusa-xl-price-as-multicolo
 Researchers at the University of Texas at Austin have developed a 3D printing method that can create complex replicas â€“ like human hands â€“ with varying hardness, from a single â€¦ The post UT Austin researchers achieve...
 Reported by VoxelMatters on Jan 30, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/CRAFT-3D-printing-method-e1769786297828-150x150.jpg
-Read more ? https://www.voxelmatters.com/ut-austin-researchers-achieve-complex-human-hand-3d-print-with-single-material&lt;/p&gt;</description>
-      <pubDate>Sat, 31 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-24-2026-01-31</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #23 - 2026-01-30</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;🦺 3D-printed planning enables complex elbow reconstruction in Vietnam
+Read more ? https://www.voxelmatters.com/ut-austin-researchers-achieve-complex-human-hand-3d-print-with-single-material&lt;/p&gt;</description><pubDate>Sat, 31 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-24-2026-01-31</guid></item><item><title>3D PRINTING PULSE #23 - 2026-01-30</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 3D-printed planning enables complex elbow reconstruction in Vietnam
 The use of additive manufacturing is gaining increasing importance in Vietnam’s healthcare system, as demonstrated by a recent case from the Vinmec Healthcare System .
 There, physicians succeeded in implanting a rarely used total elbow megaprosthesis in a patient with a severe elbow deformity that had persisted for decades, reported by 3Printr on Jan 29, 2026.
 Read more ? https://www.3printr.com/3d-printed-planning-enables-complex-elbow-reconstruction-in-vietnam-4586558&lt;/p&gt;
@@ -83,14 +67,7 @@ Read more ? https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUZvdE1QV2FTUF9
 &lt;p&gt;📰 US 3D printing breakthrough builds realistic human hand model inexpensively - Yahoo
 US 3D printing breakthrough builds realistic human hand model inexpensively Yahoo
 Reported by Google News - 3D Printing on Jan 29, 2026.
-Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxNczNxa1FiWHNGTGFXdzcwV2p5OWpGeWpvWWhPTzJKUjdmVlN2dG9ydXhqRGFObmpnRkFOalhvblRVbDRDdjdPeW5MdDJxa3BsMUJvRDBJblhpbVhnTUNvX2JkNENvdy1PcFhiRjZrZUx3Mkhjc1ZLSnBCckJzcTRheHA0MXdFWllncTc4aC1R?oc=5&lt;/p&gt;</description>
-      <pubDate>Fri, 30 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-23-2026-01-30</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #22 - 2026-01-29</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;🦺 Chinese researchers successfully use 3D printed titanium prostheses in wrist tumor treatment
+Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxNczNxa1FiWHNGTGFXdzcwV2p5OWpGeWpvWWhPTzJKUjdmVlN2dG9ydXhqRGFObmpnRkFOalhvblRVbDRDdjdPeW5MdDJxa3BsMUJvRDBJblhpbVhnTUNvX2JkNENvdy1PcFhiRjZrZUx3Mkhjc1ZLSnBCckJzcTRheHA0MXdFWllncTc4aC1R?oc=5&lt;/p&gt;</description><pubDate>Fri, 30 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-23-2026-01-30</guid></item><item><title>3D PRINTING PULSE #22 - 2026-01-29</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 Chinese researchers successfully use 3D printed titanium prostheses in wrist tumor treatment
 Researchers at a Chinese hospital have developed a surgical technique that combines 3D printed all-metal prostheses with mesh patches for the treatment of distal radial giant cell tumors (GCT).
 The … The post Chinese researchers successfully use 3D printed titanium prostheses in wrist tumor treatment appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/1-150x150.jpg
@@ -124,14 +101,7 @@ Read more ? https://news.google.com/rss/articles/CBMizgFBVV95cUxPWVJCTDE0OEw4Zmc
 Volkmann USA, a powder handling equipment manufacturer based in Bristol, Pennsylvania, has introduced the next generation of its PowTReX automated metal powder conveying system.
 First launched in 2018, the PowTReX platform is designed to support metal additive manufacturing operations producing large volumes of parts using multiple 3D printers, reported by 3D Printing Industry on Jan 28, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/01/Volkmann-PowTReX-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/volkmann-introduces-powtrex-automated-powder-handling-system-248494&lt;/p&gt;</description>
-      <pubDate>Thu, 29 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-22-2026-01-29</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #21 - 2026-01-28</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;🦺 Researchers highlight metal AM prosthetics for tumour recovery - Metal Additive Manufacturing magazine
+Read more ? https://3dprintingindustry.com/news/volkmann-introduces-powtrex-automated-powder-handling-system-248494&lt;/p&gt;</description><pubDate>Thu, 29 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-22-2026-01-29</guid></item><item><title>3D PRINTING PULSE #21 - 2026-01-28</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 Researchers highlight metal AM prosthetics for tumour recovery - Metal Additive Manufacturing magazine
 Researchers highlight metal AM prosthetics for tumour recovery Metal Additive Manufacturing magazine
 Reported by Google News - 3D Printing on Jan 27, 2026.
 Read more ? https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1dNYXNMSVZLMUVST1dOYW9lanRnR0g4XzVISUk5QkxGRDc4cGdBTktBeUpxWXlRcFVjUF9mcTV5YVk5VkZlSXRPZHc4MmhaMzVkLWlkRGt4UERjSmUtdjQzbmV3VTZfYUI4dVRIc0pfNXd2cDMyRkRDWUhtRGNXaXp5VzZnUlJyZVlvUzVBYUNOeXBhQjF5WTJPcktwMWhJeGwyS3ltZzFMOUFh?oc=5&lt;/p&gt;
@@ -163,14 +133,7 @@ Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxPV1ZQYng0MDFxUlF
 &lt;p&gt;🖨 App download figures point to high Bambu Lab sales in 2025
 Sales figures for desktop 3D printers are rarely transparent.
 Many manufacturers are private companies and do not publish unit sales figures, reported by 3Printr on Jan 27, 2026.
-Read more ? https://www.3printr.com/app-download-figures-point-to-high-bambu-lab-sales-in-2025-4886510&lt;/p&gt;</description>
-      <pubDate>Wed, 28 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-21-2026-01-28</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #20 - 2026-01-27</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;🚀 Is optical clarity possible in 3D printing? - Engineering.com
+Read more ? https://www.3printr.com/app-download-figures-point-to-high-bambu-lab-sales-in-2025-4886510&lt;/p&gt;</description><pubDate>Wed, 28 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-21-2026-01-28</guid></item><item><title>3D PRINTING PULSE #20 - 2026-01-27</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🚀 Is optical clarity possible in 3D printing? - Engineering.com
 Is optical clarity possible in 3D printing?
 Reported by Google News - 3D Printing on Jan 26, 2026.
 Read more ? https://news.google.com/rss/articles/CBMie0FVX3lxTE01RjEzX3Mwc2FCOVR4aXFCWkdjRGdrS1E4RWJiX1FIN3RkeWx2VlVVOHgxNnZKY0NMTjNHZDFST0dyTGFHRHYyNU9LRzQxV2Q0QlJLSDQzUHFEUXpTallpcnNaUVgtVV9tb2FIeTI1cGhDTW5tOEdpbUJ4WQ?oc=5&lt;/p&gt;
@@ -202,14 +165,7 @@ Read more ? https://news.google.com/rss/articles/CBMieEFVX3lxTE9wY1g0dEFPNUVwUHE
 &lt;p&gt;🖨 Prusament Resin Cleaner DPM: Prusa introduces new washing cleaner as an IPA alternative for SLA post-processing
 Original Prusa is introducing a new cleaning agent for SLA printed parts called “Prusament Resin Cleaner DPM.” The manufacturer states that it is based on dipropylene glycol methyl ether (DPM), an organic solvent.
 The focus is on greater safety during handling and shipping, reported by 3Printr on Jan 26, 2026.
-Read more ? https://www.3printr.com/prusament-resin-cleaner-dpm-prusa-introduces-new-washing-cleaner-as-an-ipa-alternative-for-sla-post-processing-0886476&lt;/p&gt;</description>
-      <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-20-2026-01-27</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #19 - 2026-01-26</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;🦺 AZORG integrates PrintPlace directly onto healthcare workfloors
+Read more ? https://www.3printr.com/prusament-resin-cleaner-dpm-prusa-introduces-new-washing-cleaner-as-an-ipa-alternative-for-sla-post-processing-0886476&lt;/p&gt;</description><pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-20-2026-01-27</guid></item><item><title>3D PRINTING PULSE #19 - 2026-01-26</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 AZORG integrates PrintPlace directly onto healthcare workfloors
 AZORG is structurally embedding 3D printing within its hospital by establishing PrintPlace on the Moorselbaan campus.
 This brings product development, prototyping, and small- to medium-scale production directly onto healthcare workfloors, reported by VoxelMatters on Jan 25, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/KIR08845-150x150.jpg
@@ -243,14 +199,7 @@ Read more ? https://www.voxelmatters.com/nottingham-university-3d-prints-surface
 &lt;p&gt;🚀 3D Printing: Transforming Psoriasis Treatment and Diagnosis - BIOENGINEER.ORG
 3D Printing: Transforming Psoriasis Treatment and Diagnosis BIOENGINEER.ORG
 Reported by Google News - 3D Printing on Jan 25, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXdiRDhLc1BmbDVIYklaUnUzVnFUbG04S2g1UWdjWVg5RnVvcVA1VndVdXlCdF9zaXdka3puc3V3Ynl6XzhRSkZxaURndmZZaGc1cWJLVXRMb3VzZGFmZ09XRU9kanhVUHRfUERpS3VJY3dkTUJwMTd3bHMxRjlud1hHMkZyNjdPQzNN?oc=5&lt;/p&gt;</description>
-      <pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-19-2026-01-26</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #18 - 2026-01-25</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;🖨️ ORNL researchers combine multiple 3D printing extruders
+Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXdiRDhLc1BmbDVIYklaUnUzVnFUbG04S2g1UWdjWVg5RnVvcVA1VndVdXlCdF9zaXdka3puc3V3Ynl6XzhRSkZxaURndmZZaGc1cWJLVXRMb3VzZGFmZ09XRU9kanhVUHRfUERpS3VJY3dkTUJwMTd3bHMxRjlud1hHMkZyNjdPQzNN?oc=5&lt;/p&gt;</description><pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-19-2026-01-26</guid></item><item><title>3D PRINTING PULSE #18 - 2026-01-25</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🖨️ ORNL researchers combine multiple 3D printing extruders
 Oak Ridge National Laboratory researchers are exploring multi-extruder setups to expand material and process capability in a single build.
 Reported by VoxelMatters on Jan 23, 2026.
 Read more ? https://www.voxelmatters.com/ornl-researchers-combine-multiple-3d-printing-extruders/&lt;/p&gt;
@@ -273,14 +222,7 @@ Read more ? https://www.3printr.com/3d-printing-with-recycled-titanium-iperionx-
 &lt;p&gt;🧪 Optical data fiber in filament: Kai Parthy outlines concept for standard hot ends
 A proposed filament concept would carry optical data fiber while remaining compatible with standard hot ends.
 Reported by 3Printr on Jan 23, 2026.
-Read more ? https://www.3printr.com/optical-data-fiber-in-filament-kai-parthy-outlines-concept-for-standard-hot-ends-1486451/&lt;/p&gt;</description>
-      <pubDate>Sun, 25 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-18-2026-01-25</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #17 - 2026-01-24</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;🫁🧬 VR + 3D Printing Could Help Repair Lungs (Not Replace Them)
+Read more ? https://www.3printr.com/optical-data-fiber-in-filament-kai-parthy-outlines-concept-for-standard-hot-ends-1486451/&lt;/p&gt;</description><pubDate>Sun, 25 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-18-2026-01-25</guid></item><item><title>3D PRINTING PULSE #17 - 2026-01-24</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🫁🧬 VR + 3D Printing Could Help Repair Lungs (Not Replace Them)
 Researchers are combining virtual reality planning with 3D printing to explore new ways to bridge damaged lung sections.
 The RI-MUHC team in Montreal is using VR lung models to plan 3D-printed hollow connectors that could link healthy tissue to bypass damaged areas (reported Jan 8, 2026).
 Read more ? https://3dprintingindustry.com/news/muhc-researchers-test-vr-and-3d-printing-for-better-lung-repair-247926/&lt;/p&gt;
@@ -311,14 +253,7 @@ Read more ? https://www.androidauthority.com/atomform-palette-300-3d-printer-363
 &lt;p&gt;📡📈 Industry Forecast: Metal AM Moves Toward True Production Scale
 Across aerospace and defense and beyond, experts see industrial metal additive manufacturing shifting from prototype to production.
 Analysts expect certified hardware and materials to rise in use as companies expand full-scale metal AM output in 2026.
-Read more ? https://3dprint.com/322917/3d-printing-predictions-2026-industrial-production-in-metal-additive-manufacturing/&lt;/p&gt;</description>
-      <pubDate>Sat, 24 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-17-2026-01-24</guid>
-    </item>
-    <item>
-      <title>3D PRINTING PULSE #7 - 2026-01-14</title>
-      <link>https://quality3ds.godaddysites.com</link>
-      <description>&lt;p&gt;?? Bambu Lab Awarded Patent for Intelligent Speed Adjustment
+Read more ? https://3dprint.com/322917/3d-printing-predictions-2026-industrial-production-in-metal-additive-manufacturing/&lt;/p&gt;</description><pubDate>Sat, 24 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-17-2026-01-24</guid></item><item><title>3D PRINTING PULSE #7 - 2026-01-14</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;?? Bambu Lab Awarded Patent for Intelligent Speed Adjustment
 Bambu Lab continues to innovate with a new patent for an intelligent speed-adjusting method.
 This technology aims to automatically enhance print quality by adjusting parameters in real-time based on print conditions.
 Read more ? https://fabbaloo.com&lt;/p&gt;
@@ -341,9 +276,4 @@ Read more ? https://3dprint.com&lt;/p&gt;
 &lt;p&gt;?? MUHC Researchers Combine VR and 3D Printing for Lung Repair
 Innovations in respiratory medicine are seeing the fusion of virtual reality and additive manufacturing.
 Researchers are testing these technologies to create more accurate models for complex lung repair procedures.
-Read more ? https://3dprintingindustry.com&lt;/p&gt;</description>
-      <pubDate>Wed, 14 Jan 2026 12:00:00 GMT</pubDate>
-      <guid>pulse-7-2026-01-14</guid>
-    </item>
-  </channel>
-</rss>
+Read more ? https://3dprintingindustry.com&lt;/p&gt;</description><pubDate>Wed, 14 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-7-2026-01-14</guid></item></channel></rss>
