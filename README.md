@@ -9,10 +9,10 @@ Nivalon Medical Technologies says it has successfully produced a fully patient-s
 The implant is, reported by 3DPrint.com on Jan 30, 2026.
 Read more ? https://3dprint.com/323596/nivalon-creates-a-custom-metal-free-spinal-implant-using-xjet-3d-printing
 
-ðŸš€ Printerior Launches Circdal to Build a Sustainable Architectural Ecosystem with 3D Printing
-Robotic arm systems gradually gained traction for years in the large-format additive manufacturing (AM) space, before experiencing a legitimate breakout year in 2025.
-Pellet extrusion has been the clear winner, reported by 3DPrint.com on Jan 30, 2026.
-Read more ? https://3dprint.com/323583/printerior-launches-circdal-to-build-a-sustainable-architectural-ecosystem-w-3d-printing
+💻 Bambu Studio v2.5 adds remote AMS drying controls and new slicer tools
+Bambu Lab’s latest Bambu Studio update focuses on device control and print-quality refinements for multi-material jobs.
+Release notes cite remote AMS drying control for AMS 2 Pro/AMS HT on H2D plus prime-tower tweaks for PLA/PETG mixing and support-interface ironing, released Jan 27, 2026.
+Read more ? https://github.com/bambulab/BambuStudio/releases/tag/v02.05.00.65
 
 ðŸ  Underwater 3D printing may reshape maritime concrete construction - Tech Xplore
 Underwater 3D printing may reshape maritime concrete construction Tech Xplore
