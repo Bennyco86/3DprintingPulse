@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-01-31
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #24 - 2026-01-31
+## Stories
 
 🦺 Nivalon Creates a Custom, Metal-Free Spinal Implant Using XJet 3D Printing
 Nivalon Medical Technologies says it has successfully produced a fully patient-specific spinal implant that preserves motion and contains no metal, using AI-based design and ceramic 3D printing.
@@ -45,9 +43,3 @@ Researchers at the University of Texas at Austin have developed a 3D printing me
 Reported by VoxelMatters on Jan 30, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/CRAFT-3D-printing-method-e1769786297828-150x150.jpg
 Read more ? https://www.voxelmatters.com/ut-austin-researchers-achieve-complex-human-hand-3d-print-with-single-material
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
