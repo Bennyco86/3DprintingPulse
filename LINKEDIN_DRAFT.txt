@@ -25,11 +25,10 @@ Many people do this not only with metal, but also with plaster or chocolate, rep
 Reported by Google News - 3D Printing on Jan 30, 2026.
 🔗 Read more: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUzhUVS1VM0ZGeUsyYmxYcFROdEFKRVFEcnFadnpzVXV5dE10Q2oxOWJtaHNCRXhNYTV0cF9NSU9GTF9MV194cUxqMG9LeXRubFpiQjR1OTNXVHVuNVJsOHdGZFkwMTF1dnc3akc3ZzR1SlJSVG1kMmljMEJzR21KSnR3VVByZktRQUYyR1ByUzBBZ2tHRnZZck5lTU5rR3NYT3lFWFozY3o2NVRoTVhjQVBTcFpaQmZSSUYxbkQ4ME5ta0hOX2lRXw?oc=5
 
-ðŸ“° America Makes announces $8m round of project calls
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two new project calls, totalling $8M in funding.
-The first project, â€˜Powder Alloy Development for Additive â€¦ The post America Makes announces $8m round of project calls appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/America-Makes-facility-face-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/america-makes-announces-8m-round-of-project-calls
+🖨 Creality teases closed-loop filament recycling with Shredder R1 and Filament Maker M1
+Creality previewed a two-machine workflow that shreds failed prints into small particles and extrudes them back into usable filament.
+The company says the system targets a closed-loop setup for home shops and plans to launch via crowdfunding, with pricing not yet announced.
+🔗 Read more: https://www.hackster.io/news/creality-promises-a-closed-loop-filament-workflow-with-the-shredder-r1-and-filament-maker-m1-341ac48e749d
 
 ðŸ–¨ Prusa Cuts Prusa XL Price as Multicolor 3D Printing Competition Intensifies
 Prusa Research has lowered their price for the tool-changing Prusa XL 3D printer.
