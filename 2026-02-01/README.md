@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-01
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #25 - 2026-02-01
+## Stories
 
 🦺 Nivalon Medical produces metal-free spinal implant using advanced ceramic printing
 Nivalon Medical Technologies, an innovative spinal healthcare company, claims to have successfully produced the world’s first fully patient-specific, motion-preserving spinal implant built entirely without metal.
@@ -45,9 +43,3 @@ VulcanForms, a leading metal additive manufacturing solution provider, has close
 … The post VulcanForms to scale further following $220m funding round appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/VulcanForms-Command-Center-scaled-e1769850195457-150x150.jpg
 Read more ? https://www.voxelmatters.com/vulcanforms-to-scale-further-following-220m-funding-round
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
