@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-02
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #26 - 2026-02-02
+## Stories
 
 🏠 Building A Metal 3D Printer With A Laser Welder - Hackaday
 Building A Metal 3D Printer With A Laser Welder Hackaday
@@ -44,9 +42,3 @@ Read more ? https://news.google.com/rss/articles/CBMiswJBVV95cUxOZjY3OE1hd0l0T2t
 Europe urged to follow China's industrial 3D printing strategy Nikkei Asia
 Reported by Google News - 3D Printing on Feb 01, 2026.
 Read more ? https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN1hwYXRkTy1YMmhpUjlyN1l5ejd5cW1USHFDeG9rMnVsTmJSVmNmMk9uZWVzTFFmRW5CYmsxQ2prSzZDeF92T2dKeEtOVGw3bW1hcVZsY1NGZi03czhyUEF6dmlEOE5QemVlVzVtd2E2WWc1T3NISHVxbVU2VEt3c2JKaDVBUVNjN2hnNnBYNXd2bjhkdXhseTB6eUwwMGZ1WmZtOGNyYjR2UQ?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
