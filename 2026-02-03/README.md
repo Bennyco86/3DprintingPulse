@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-03
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #27 - 2026-02-03
+## Stories
 
 🦺 CRAFT controls crystallinity during 3D printing and varies hardness and transparency pixel by pixel
 Researchers at the University of Texas at Austin and Sandia National Laboratories present CRAFT, a 3D-printing process that controls material properties at pixel-level resolution via grayscale light.
@@ -48,9 +46,3 @@ The organisation's investment in metal AM includes the world's first deployment 
 Reported by TCT Magazine on Feb 02, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/02/ef560bd1-d69f-4795-b1a5-3638c4041d9f.jpg
 Read more ? https://www.tctmagazine.com/acmi-purchases-multiple-eos-metal-additive-manufacturing-platforms
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
