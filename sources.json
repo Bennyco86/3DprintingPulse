@@ -1,0 +1,16 @@
+[
+  { "name": "3D Printing Industry", "url": "https://3dprintingindustry.com/feed/" },
+  { "name": "3DPrint.com", "url": "https://3dprint.com/feed/" },
+  { "name": "VoxelMatters", "url": "https://www.voxelmatters.com/feed/" },
+  { "name": "Fabbaloo", "url": "https://www.fabbaloo.com/feed" },
+  { "name": "3D Natives", "url": "https://www.3dnatives.com/en/feed/" },
+  { "name": "3D Printing Media Network", "url": "https://www.3dprintingmedia.network/feed/" },
+  { "name": "TCT Magazine", "url": "https://www.tctmagazine.com/rss/" },
+  { "name": "Hackaday 3D Printing", "url": "https://hackaday.com/tag/3d-printing/feed/" },
+  { "name": "GrabCAD", "url": "https://blog.grabcad.com/feed/" },
+  { "name": "Prusa Blog", "url": "https://blog.prusa3d.com/feed/" },
+  { "name": "Bambu Lab", "url": "https://blog.bambulab.com/feed/" },
+  { "name": "BCN3D", "url": "https://www.bcn3d.com/feed/" },
+  { "name": "3Printr", "url": "https://www.3printr.com/feed/" },
+  { "name": "Google News - 3D Printing", "url": "https://news.google.com/rss/search?q=3d%20printing&hl=en-US&gl=US&ceid=US:en" }
+]
