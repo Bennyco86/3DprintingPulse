@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-04
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #28 - 2026-02-04
+## Stories
 
 🦺 In situ bioink mixing during 3D bioprinting is now a possibility
 Researchers at the Massachusetts Institute of Technology (MIT) have developed a magnetically actuated mixing platform called MagMix that integrates directly into standard extrusion 3D bioprinters.
@@ -47,9 +45,3 @@ Read more ? https://www.voxelmatters.com/stranger-things-season-5-vfx-included-3
 VulcanForms has raised a very large investment.
 The post Metal 3D Printing Firm VulcanForms Brings Total Funding to $575M With New Investment appeared on Fabbaloo.
 Read more ? https://www.fabbaloo.com/news/metal-3d-printing-firm-vulcanforms-brings-total-funding-to-575m-with-new-investment
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
