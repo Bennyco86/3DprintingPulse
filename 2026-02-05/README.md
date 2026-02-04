@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-05
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #29 - 2026-02-05
+## Stories
 
 🦺 Nivalon Leverages AI and 3D Printing to Create Personalized, Motion-Preserving Spinal Implants
 company creating patient-specific spinal implants Nivalon Medical Technologies has developed what it describes as the first fully patient-specific spinal implant that preserves natural motion without metal components.
@@ -47,9 +45,3 @@ Read more ? https://www.voxelmatters.com/lululemon-rolls-out-3d-printed-storefro
 Custom earmolds (otoplastics) are now often produced via additive manufacturing because geometries from an ear scan can be manufactured directly as one-off parts.
 However, a downside of common 3D-printing processes remains the typical surface roughness of the raw parts, reported by 3Printr on Feb 04, 2026.
 Read more ? https://www.3printr.com/otec-optimizes-automated-finishing-for-3d-printed-earmolds-and-titanium-ear-pieces-5186654
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

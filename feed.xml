@@ -1,5 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Quality3Ds Daily Pulse</title><link>https://quality3ds.godaddysites.com</link><description>Curated daily news for 3D printing enthusiasts.</description><lastBuildDate>Wed, 04 Feb 2026 12:00:00 GMT</lastBuildDate><item><title>3D PRINTING PULSE #28 - 2026-02-04</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 In situ bioink mixing during 3D bioprinting is now a possibility
+<rss version="2.0"><channel><title>Quality3Ds Daily Pulse</title><link>https://quality3ds.godaddysites.com</link><description>Curated daily news for 3D printing enthusiasts.</description><lastBuildDate>Thu, 05 Feb 2026 12:00:00 GMT</lastBuildDate><item><title>3D PRINTING PULSE #29 - 2026-02-05</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 Nivalon Leverages AI and 3D Printing to Create Personalized, Motion-Preserving Spinal Implants
+company creating patient-specific spinal implants Nivalon Medical Technologies has developed what it describes as the first fully patient-specific spinal implant that preserves natural motion without metal components.
+The device combines AI-driven design with advanced ceramic 3D printing, using a zirconia-toughened alumina (ZTA) structure and a flexible core to replicate spinal movement, reported by 3D Printing Industry on Feb 03, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/Youngstown_Business_Incubator_Device_image-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/nivalon-leverages-ai-and-3d-printing-to-create-personalized-motion-preserving-spinal-implants-248657&lt;/p&gt;
+&lt;p&gt;🚀 US startup Variloom develops 3D printed clothes process to minimize waste
+Variloom, a Palo Alto-based startup in the fashion textile space, is developing what it claims is a “transformative filament and 3D printing system designed for ultra-efficient fabrication of versatile and … The post...
+Reported by VoxelMatters on Feb 04, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Variloom-YKK-zipper-150x150.jpg
+Read more ? https://www.voxelmatters.com/us-startup-variloom-develops-3d-printed-clothes-process-to-minimize-waste&lt;/p&gt;
+&lt;p&gt;🏠 Metal 3D printing on Mars: shielding gas from the atmosphere instead of argon
+For longer missions on Mars, metal 3D printing will become important as a tool for repair and infrastructure.
+A preprint study (arXiv) tested three shielding-gas environments when selectively laser melting 316L stainless steel: argon, CO₂, and air, reported by 3Printr on Feb 04, 2026.
+Read more ? https://www.3printr.com/metal-3d-printing-on-mars-shielding-gas-from-the-atmosphere-instead-of-argon-4986652&lt;/p&gt;
+&lt;p&gt;♻️ Sustaining Autonomous Warfare: On-Site Production and Training in the U.S. Army
+Army is actively modernizing how it maintains autonomous and semi-autonomous systems on the battlefield.
+Drawing lessons from the Russia-Ukraine conflict, the Army is deploying mobile 3D printing and machining units, training soldiers in advanced manufacturing, and experimenting with in-field recycling of materials to, reported by 3D Printing Industry on Feb 04, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/original-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/sustaining-autonomous-warfare-on-site-production-and-training-in-the-u-s-army-248684&lt;/p&gt;
+&lt;p&gt;🖨 YouTuber measures breaking forces: Toolpath tuning noticeably changes FDM strength
+By default, many slicers first print the outer walls of FDM parts and then add the infill to the component.
+Maker NeedItMakeIt investigated a potential weak point in this sequence and tested an alternative line layout, reported by 3Printr on Feb 04, 2026.
+Read more ? https://www.3printr.com/youtuber-measures-breaking-forces-toolpath-tuning-noticeably-changes-fdm-strength-5286666&lt;/p&gt;
+&lt;p&gt;🖨 New York Proposal to Regulate 3D Printers Could Disrupt Manufacturing, Hobbyist, and Industrial Use
+It looks like New York State is now contemplating new laws for 3D printers that could cripple the technology in that state.
+The post New York Proposal to Regulate 3D Printers Could Disrupt Manufacturing, Hobbyist, and Industrial Use appeared on Fabbaloo.
+Read more ? https://www.fabbaloo.com/news/new-york-proposal-to-regulate-3d-printers-could-disrupt-manufacturing-hobbyist-and-industrial-use&lt;/p&gt;
+&lt;p&gt;💻 Lululemon rolls out 3D printed storefronts and interiors globally
+Lululemon has integrated a custom 3D printed ceiling and storefront system into key retail locations worldwide, including Milan and New York’s SoHo neighborhood, with Birmingham and Tokyo to follow.
+The … The post Lululemon rolls out 3D printed storefronts and interiors globally appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Aectual-04-150x150.jpg
+Read more ? https://www.voxelmatters.com/lululemon-rolls-out-3d-printed-storefronts-and-interiors-globally&lt;/p&gt;
+&lt;p&gt;📷 OTEC optimizes automated finishing for 3D-printed earmolds and titanium ear pieces
+Custom earmolds (otoplastics) are now often produced via additive manufacturing because geometries from an ear scan can be manufactured directly as one-off parts.
+However, a downside of common 3D-printing processes remains the typical surface roughness of the raw parts, reported by 3Printr on Feb 04, 2026.
+Read more ? https://www.3printr.com/otec-optimizes-automated-finishing-for-3d-printed-earmolds-and-titanium-ear-pieces-5186654&lt;/p&gt;</description><pubDate>Thu, 05 Feb 2026 12:00:00 GMT</pubDate><guid>pulse-29-2026-02-05</guid></item><item><title>3D PRINTING PULSE #28 - 2026-02-04</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 In situ bioink mixing during 3D bioprinting is now a possibility
 Researchers at the Massachusetts Institute of Technology (MIT) have developed a magnetically actuated mixing platform called MagMix that integrates directly into standard extrusion 3D bioprinters.
 The solution addresses a long-standing … The post In situ bioink mixing during 3D bioprinting is now a possibility appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Printer-01-150x150.jpg
@@ -295,38 +330,4 @@ Read more ? https://news.google.com/rss/articles/CBMieEFVX3lxTE9wY1g0dEFPNUVwUHE
 &lt;p&gt;🖨 Prusament Resin Cleaner DPM: Prusa introduces new washing cleaner as an IPA alternative for SLA post-processing
 Original Prusa is introducing a new cleaning agent for SLA printed parts called “Prusament Resin Cleaner DPM.” The manufacturer states that it is based on dipropylene glycol methyl ether (DPM), an organic solvent.
 The focus is on greater safety during handling and shipping, reported by 3Printr on Jan 26, 2026.
-Read more ? https://www.3printr.com/prusament-resin-cleaner-dpm-prusa-introduces-new-washing-cleaner-as-an-ipa-alternative-for-sla-post-processing-0886476&lt;/p&gt;</description><pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-20-2026-01-27</guid></item><item><title>3D PRINTING PULSE #19 - 2026-01-26</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🦺 AZORG integrates PrintPlace directly onto healthcare workfloors
-AZORG is structurally embedding 3D printing within its hospital by establishing PrintPlace on the Moorselbaan campus.
-This brings product development, prototyping, and small- to medium-scale production directly onto healthcare workfloors, reported by VoxelMatters on Jan 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/KIR08845-150x150.jpg
-Read more ? https://www.voxelmatters.com/azorg-integrates-printplace-directly-onto-healthcare-workfloors&lt;/p&gt;
-&lt;p&gt;🚀 3D Printing Innovations in Acute Maxillofacial Trauma Care - BIOENGINEER.ORG
-3D Printing Innovations in Acute Maxillofacial Trauma Care BIOENGINEER.ORG
-Reported by Google News - 3D Printing on Jan 25, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanAzR1lqS1lNWW1lUGFNaHlMN3NhbWR0eGZKYjMxSGtPUWlmSElwdlZqS2ZBN1hkMC01djhjX1ZlRUZ1OTdoUFJTRFNKdEhUQ0ZWUHl2eThJcjlOc3ZwenFEMXZ2b2Y3OGVHYWo3UUNJdWJQWHR3Ul9sV1J5UDFoamVNd2t2ak9hOVQ0?oc=5&lt;/p&gt;
-&lt;p&gt;🏠 5 Countries Just 3D-Printed Homes in Under a Week: The Future Is Here - Yanko Design
-5 Countries Just 3D-Printed Homes in Under a Week: The Future Is Here Yanko Design
-Reported by Google News - 3D Printing on Jan 24, 2026.
-Read more ? https://news.google.com/rss/articles/CBMirAFBVV95cUxOYl96TmpRbHhpd19jV1B0RExIandDRlVxdTU1bzBmQ2FTU1dYbHdSX2lGNzVYRjlNVFdnRW9oeHcxMjFpNlJ5QlBJamNLTTB6cFczWHVUN2hUa21Ea1UwYTU5X1pWRUxITEs4MHN2YzBEM2tGa0c4S3hvQUYzclQ0bmlWODZ1b1ZNc3RiT2RFMlFuV0R3cXhxV0wxektkZHpnZ1VGNE9mQ0loT1pu0gGyAUFVX3lxTFA4a1Q4cFNPeTlrMkVxcXVyZzA4LXVtb05oRlZTSFBwZG5nWFNkOHNDNmpYM1c3amF2N3d5THRwOU9xNnBrMzlOSS1yWE81ZGRMMWo1blBUOEVwcnFaUzVoNVFsOG1uRUxwOFBuLTNqeXVYTk12Y3JkN0NFbkV6Skgtd0JUSWIxMG5HeDlzOFAzZEhMYmprV3BjTTgteWc0WXl1RHluUTNKdjNNMXdxYUhvM1E?oc=5&lt;/p&gt;
-&lt;p&gt;📰 New Nitrides for Mass Production: The C1000 FLEXMATIC Reaches an Industrial Milestone
-Ceramic additive manufacturing is no longer limited to prototyping and is gradually establishing itself as an industrial production solution.
-Designed to meet stringent performance and reliability requirements, today’s ceramic AM processes now leverage advanced materials suited for demanding environments, reported by 3D Natives on Jan 25, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/01/3DCeram_cover.jpg
-Read more ? https://www.3dnatives.com/en/nitrides-c1000-flexmatic-industrial-milestone-26012026&lt;/p&gt;
-&lt;p&gt;🚀 China conducts first metal 3D printing experiment in space - Qazinform
-China conducts first metal 3D printing experiment in space Qazinform
-Reported by Google News - 3D Printing on Jan 25, 2026.
-Read more ? https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWFpSE9aRjE4Z3J3TUxwUklmR3lHM3Jncml3N0w0bkdhODhpS3pzbWJNd2RYWmVlVVgteEYwc0hFQzJfT0RhZHJWVkJaWlpUV0tiVGZXWUhCZ2FSN3lLMExHaldsbnc1Q1FpX0x5R2I3LUhVUm5yM3J5bHllWUpzTkpacmVMbnltemJmUDhsSnA0cWYtWXRV0gGXAUFVX3lxTE9CV1NEMHd5QlJkbmc3b1BFbW5yTmowYVRwWEkzc2RUaUFDRVo0Q3o5SGs3T1NwbEVCbmpqVkxGeHJ4SEtOMFhJLU0wOFFZUTd6U0pBRXBOaktwOGdtRXJlS3prMFlsdFg1c1dDNlFRMDBkZ3FjWlNsNmt0OEhGN25pdDg0R3ZFTGxpVTAtaWlMN2o1TWRjdU0?oc=5&lt;/p&gt;
-&lt;p&gt;💻 Creative Fabrica Enters the Third Dimension: New AI Tools Turn Text into 3D Print Models Instantly - savannahnow.com
-Creative Fabrica Enters the Third Dimension: New AI Tools Turn Text into 3D Print Models Instantly savannahnow.com
-Reported by Google News - 3D Printing on Jan 25, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNzd0VzY2RE5fVVVDbDk5U3ZYbVVERDBfUGdIdnBKWWlfNmsxczZwb1dPblNIQkR0QkxTTHR1SFN2bm9WYnpVcWRkU2JEZGdjdjVsdTNNZk9vM1NFUGtkM0czR0duaGJHTVRPQmpVUFRHWEhGTUs2RS1rU1VIRzNhNjRVek9jbGFabjZGaFBDSUJRTUNDT0hJMEROcEYyN1VhZXF2NWgwbjZlOExaLURFMUxuLUdYTmRfRjBxS1l2YWVvUW5XVnVhRldENGFsZHNkdjlKczRYYkhaU29CdzRZNjdrLWpaRVk?oc=5&lt;/p&gt;
-&lt;p&gt;📰 Nottingham University 3D prints surfaces for quantum sensors
-According to Nottingham University, scientists have created 3D printed surfaces featuring intricate textures that can be used to bounce unwanted gas particles away from quantum sensors, allowing useful particles like...
-Reported by VoxelMatters on Jan 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/printedsurfaces.xee28e267-150x150.jpg
-Read more ? https://www.voxelmatters.com/nottingham-university-3d-prints-surfaces-for-quantum-sensors&lt;/p&gt;
-&lt;p&gt;🚀 3D Printing: Transforming Psoriasis Treatment and Diagnosis - BIOENGINEER.ORG
-3D Printing: Transforming Psoriasis Treatment and Diagnosis BIOENGINEER.ORG
-Reported by Google News - 3D Printing on Jan 25, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUXdiRDhLc1BmbDVIYklaUnUzVnFUbG04S2g1UWdjWVg5RnVvcVA1VndVdXlCdF9zaXdka3puc3V3Ynl6XzhRSkZxaURndmZZaGc1cWJLVXRMb3VzZGFmZ09XRU9kanhVUHRfUERpS3VJY3dkTUJwMTd3bHMxRjlud1hHMkZyNjdPQzNN?oc=5&lt;/p&gt;</description><pubDate>Mon, 26 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-19-2026-01-26</guid></item></channel></rss>
+Read more ? https://www.3printr.com/prusament-resin-cleaner-dpm-prusa-introduces-new-washing-cleaner-as-an-ipa-alternative-for-sla-post-processing-0886476&lt;/p&gt;</description><pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate><guid>pulse-20-2026-01-27</guid></item></channel></rss>
