@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-06
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #30 - 2026-02-06
+## Stories
 
 🦺 AnyShape marks milestone with 200 3D printed titanium implants in past year
 AnyShape, an industrial additive technologies company, has applied its expertise in cutting-edge aerospace innovation to successfully help more than 200 medical patients regain mobility in the past year.
@@ -48,9 +46,3 @@ The upcoming Formnext 2026 will feature the United Kingdom as its partner countr
 Established players such as Renishaw … The post Formnext 2026 names the United Kingdom as partner country appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2025/11/Crowded-aisles-at-Formnext-2025.-Copyright-Formnext-Mesago-Messe-Frankfurt-Mathias-Kutt-150x150.jpg
 Read more ? https://www.voxelmatters.com/formnext-2026-names-the-united-kingdom-as-partner-country
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
