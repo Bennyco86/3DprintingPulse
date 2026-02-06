@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-07
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #31 - 2026-02-07
+## Stories
 
 🦺 Italian hospital scaling 3D surgical planning
 A urological surgery team at IRCCS Ospedale Policlinico San Martino in Genoa, Italy, has fully integrated 3D surgical planning into routine clinical practice.
@@ -47,9 +45,3 @@ Read more ? https://www.voxelmatters.com/nascar-3d-printing-usa-luge-winter-olym
 For filmmakers, this allows complex scenes to be executed safely, efficiently, and with greater creative flexibility, reported by 3D Printing Industry on Feb 06, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/stranger-things-2-780x470.jpg-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/behind-the-scenes-of-netflixs-stranger-things-3d-printing-in-action-248756
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
