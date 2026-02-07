@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-08
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #32 - 2026-02-08
+## Stories
 
 🚀 H3X develops modular 3D printed 2-MW diesel genset system for marine and industrial markets
 Using additive manufacturing, H3X is developing a modular 2-megawatt diesel generator set aimed at marine and industrial customers facing tighter space constraints and rising power density requirements.
@@ -49,9 +47,3 @@ An interdisciplinary team at Cornell University is developing a method to 3D pri
 Supported by the U.S, reported by 3D Printing Industry on Feb 06, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/0128_printing2-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/building-beneath-the-waves-cornell-advances-underwater-3d-concrete-printing-248745
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
