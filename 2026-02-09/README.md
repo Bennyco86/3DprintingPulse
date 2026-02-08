@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-09
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #33 - 2026-02-09
+## Stories
 
 🚀 SHINING 3D Metrology expands FreeScan Omni into modular series
 Leading developer of 3D scanning technology SHINING 3D Metrology has launched the FreeScan Omni Series, positioning it as the industry’s first wireless, standalone metrology scanning platform.
@@ -31,9 +29,3 @@ Read more ? https://www.voxelmatters.com/hiroshima-university-team-uses-hot-wire
 “Falling in love is not at all the most stupid thing that people do—but gravitation cannot be held responsible for it.” – Albert Einstein In simpler terms, Einstein meant that...
 Reported by 3DPrint.com on Feb 08, 2026.
 Read more ? https://3dprint.com/323760/falling-in-love-with-3d-printing-for-valentines-day
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
