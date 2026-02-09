@@ -17,6 +17,7 @@ MAX_ITEM_AGE_HOURS = 36
 REQUIRED_CATEGORIES = ["medical", "aerospace", "construction"]
 PREFERRED_CATEGORIES = ["recycling"]
 BLOCKLIST_TITLE_PHRASES = ["news briefs"]
+MIN_SOURCE_SCORE = 1
 NON_ENGLISH_HINT_WORDS = {
     "ejercito", "explora", "posibilidad", "usar", "alimentos", "impresos",
     "solucion", "militar", "investigadores", "tecnologia", "impresion",
@@ -70,6 +71,22 @@ CATEGORY_EMOJI = {
     "scanners": "\U0001F4F7",
     "software": "\U0001F4BB",
     "general": "\U0001F4F0"
+}
+
+SOURCE_SCORES = {
+    "voxelmatters": 3,
+    "3d printing industry": 3,
+    "tct magazine": 3,
+    "3dprint.com": 2,
+    "3d natives": 2,
+    "hackaday": 2,
+    "prusa": 2,
+    "bambu": 2,
+    "fabbaloo": 1,
+    "all3dp": 1,
+    "3d printing media network": 1,
+    "3printr": 0,
+    "google news": 0,
 }
 
 DEFAULT_SOURCES = [
@@ -463,8 +480,9 @@ def is_probably_non_english(title, summary, url=""):
 
 def source_preference_score(source_name):
     source = (source_name or "").lower()
-    if "google news" in source:
-        return 0
+    for key, score in SOURCE_SCORES.items():
+        if key in source:
+            return score
     return 1
 
 
@@ -507,8 +525,16 @@ def select_stories(items, seen_urls):
             continue
         if any(phrase in title_lower for phrase in BLOCKLIST_TITLE_PHRASES):
             continue
-        # Google News links are aggregator redirects; keep direct source links only.
-        if source_preference_score(item.get("source", "")) == 0:
+        if (
+            "who’s the biggest in 3d printing" in title_lower
+            or "who's the biggest in 3d printing" in title_lower
+            or "falling in love with 3d printing" in title_lower
+            or "interview with" in title_lower
+        ):
+            continue
+        source_score = source_preference_score(item.get("source", ""))
+        # Keep direct, stronger source links only.
+        if source_score < MIN_SOURCE_SCORE:
             continue
         if is_probably_non_english(title, item.get("summary", ""), url):
             continue
@@ -520,7 +546,7 @@ def select_stories(items, seen_urls):
         item["category"] = classify_item(item)
         item["url"] = url
         item["title_signature"] = normalize_title_for_dedupe(title)
-        item["source_score"] = source_preference_score(item.get("source", ""))
+        item["source_score"] = source_score
         candidates.append(item)
 
     if not candidates:
