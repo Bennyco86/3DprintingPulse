@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-10
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #34 - 2026-02-10
+## Stories
 
 🚀 Harvard researchers push further with 3D printing method for programmable soft robots
 Researchers at Harvard’s John A.
@@ -51,9 +49,3 @@ The conference will host the world’s ceramic 3D printing experts.
 Reported by TCT Magazine on Feb 09, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/02/AMC24-303-scaled.png
 Read more ? https://www.tctmagazine.com/events/am-ceramics-2026
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
