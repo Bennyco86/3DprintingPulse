@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #35 - 2026-02-11
+## Stories
 
 🦺 3D printed synthetic brain models developed by Mizzou team replicate tissue complexities
 A team at the University of Missouri’s College of Engineering has built 3D printed models of the human brain that mimic the mechanical, thermal, and dielectric properties of real tissue.
@@ -51,9 +49,3 @@ The Sanjay Mortimer RepRap Festival (SMRRF) is back in Manchester on 7–8 March
 Organised by the Sanjay Mortimer Foundation in partnership with PrintCity, SMRRF 2026 will feature a […], reported by 3D Printing Industry on Feb 10, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/1768413440231-150x100.jpeg
 Read more ? https://3dprintingindustry.com/news/the-sanjay-mortimer-reprap-festival-returns-to-manchester-in-2026-248809
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
