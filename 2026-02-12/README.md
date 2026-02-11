@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-12
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #36 - 2026-02-12
+## Stories
 
 🚀 Composite AM startup Perseus Materials backed by defense giant
 Perseus Materials, a young company that is promising to transform large-scale composite part production with its resin-based technology, has just received a strategic investment from American defense and aerospace...
@@ -50,9 +48,3 @@ Predictable motion in soft robotics has traditionally depended on complex molds 
 Researchers at Harvard University have now introduced a multimaterial 3D printing approach that embeds actuation directly into flexible structures during fabrication, allowing soft robotic devices to be produced with, reported by 3D Printing Industry on Feb 11, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/fig_5_rotational_3D_printing-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/harvard-harnesses-multimaterial-3d-printing-to-build-programmable-soft-robots-248843
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
