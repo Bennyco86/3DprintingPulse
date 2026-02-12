@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-13
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #37 - 2026-02-13
+## Stories
 
 🦺 restor3d launches Ossera AFX ankle fusion cage system
 restor3d, a global leader in patient-specific, 3D printed, musculoskeletal implants, has launched its Ossera AFX Ankle Fusion Cage System for full commercial distribution, in an expansion of the platform that … The...
@@ -51,9 +49,3 @@ The conference program at the Ceramitec 2026 trade fair in Munich, from March 24
 Reported by VoxelMatters on Feb 12, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/ceramitec-Konferenzprogramm-150x150.jpg
 Read more ? https://www.voxelmatters.com/ceramitec-puts-additive-manufacturing-of-technical-ceramics-on-center-stage
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
