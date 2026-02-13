@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-14
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #38 - 2026-02-14
+## Stories
 
 🦺 MIT researchers give further insight into 3D bioprinting mixer
 Researchers at MIT who developed a magnetic mixing device that solves a fundamental challenge in 3D bioprinting have spoken about MagMix and its potential future impact on regenerative medicine.
@@ -51,9 +49,3 @@ Thingiverse, one of the oldest and most visited libraries of downloadable 3D-pri
 Romain Kidd, the newly appointed chief executive of Thingiverse and former MMF CEO, said the platform remains large by any consumer internet […], reported by 3D Printing Industry on Feb 13, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/019c4cb5-826f-70bf-9bff-4bd98ac52b36-cover-150x100.png
 Read more ? https://3dprintingindustry.com/news/interview-thingiverse-reboot-targets-creator-pay-tools-and-tighter-ai-controls-after-myminifactory-acquisition-248928
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
