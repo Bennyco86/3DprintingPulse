@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-15
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #39 - 2026-02-15
+## Stories
 
 🦺 Researchers develop degradation-triggered 4D printed actuators for biomedical applications
 Researchers from the Universidad Politécnica de Madrid and the IMDEA Materials Institute, in collaboration with German medical technology company Meotec, have developed a degradation-triggered 4D printing method that...
@@ -50,9 +48,3 @@ The additive manufacturing industry has spent two decades arguing about what’s
 In 2026, the conversation has finally shifted to what’s survivable, reported by 3D Printing Industry on Feb 13, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-1-1-150x100.png
 Read more ? https://3dprintingindustry.com/news/3dpi-executive-survey-2026-the-future-of-3d-printing-and-the-year-of-institutional-filters-248919
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
