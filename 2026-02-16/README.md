@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-16
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #40 - 2026-02-16
+## Stories
 
 🚀 Lululemon SoHo Store Installs Large-Format 3D Printed Benches by Decibel Built
 Shoppers visiting the new Lululemon flagship store in SoHo might notice something new and original when they sit down.
@@ -32,9 +30,3 @@ There are many applications where you have limits on how much you can cram into 
 There are also many applications where you need as much battery as …read more, reported by Hackaday 3D Printing on Feb 14, 2026.
 Image ? https://hackaday.com/wp-content/uploads/2026/02/pdw.png
 Read more ? https://hackaday.com/2026/02/14/theres-always-room-for-3d-printed-batteries
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
