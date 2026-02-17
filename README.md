@@ -2,36 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #40 - 2026-02-16
+### 3D PRINTING PULSE #42 - 2026-02-18
 
-🚀 Lululemon SoHo Store Installs Large-Format 3D Printed Benches by Decibel Built
-Shoppers visiting the new Lululemon flagship store in SoHo might notice something new and original when they sit down.
-The benches inside the space were not carved from wood or, reported by 3DPrint.com on Feb 15, 2026.
-Read more ? https://3dprint.com/323922/3d-printed-benches-bring-sustainable-design-to-lululemons-new-soho-flagship
+🦺 Materialise adds custom PEEK implants to its CMF portfolio
+Materialise NV, a leader in 3D printed medical devices and software, has expanded its cranio-maxillofacial (CMF) portfolio with the addition of custom-made polyetheretherketone (PEEK) implants, giving surgeons across...
+Reported by VoxelMatters on Feb 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/materialise-cmf-solutions-3d-printed-peek-implants-150x150.jpg
+Read more ? https://www.voxelmatters.com/materialise-adds-custom-peek-implants-to-its-cmf-portfolio
 
-♻️ Researchers develop a 3D printing ink that recycles with water
-Researchers at the Helmholtz-Zentrum Hereon’s Institute of Functional Materials for Sustainability in Teltow, Germany, have created a water-based 3D printing ink composed of approximately 70% lignin, a byproduct of...
-Reported by VoxelMatters on Feb 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Recycled-printing-ink-150x150.jpg
-Read more ? https://www.voxelmatters.com/researchers-develop-a-3d-printing-ink-that-recycles-with-water
+🚀 Wohlers Report 2026: Additive manufacturing revenues reach $24.2 billion
+The latest Wohlers Report was launched on February 17, 2026.
+Reported by TCT Magazine on Feb 17, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/02/AR-1098-Wohlers-2026-LI-R3.png
+Read more ? https://www.tctmagazine.com/wohlers-report-2026-additive-manufacturing-revenues-reach-24-2-billion
 
-📰 Fast and precise microdevice production enabled by sound-driven 3D printing
-Researchers at Concordia University have developed a 3D printing technique that uses focused ultrasound to fabricate microscale structures on soft polymers, with a precision up to 10 times finer than … The post Fast...
-Reported by VoxelMatters on Feb 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/41378_2025_1035_Fig1_HTML-150x150.jpg
-Read more ? https://www.voxelmatters.com/fast-and-precise-microdevice-production-enabled-by-sound-driven-3d-printing
+🏠 Oxford University captures historic Divinity School in 3D
+The University of Oxford in England is home to many historic sites, from the Baroque-style Radcliffe Camera library to the 16th century Christ Church College, which counts 13 prime ministers … The post Oxford...
+Reported by VoxelMatters on Feb 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/oxford-divinity-room-2-150x150.jpg
+Read more ? https://www.voxelmatters.com/oxford-university-captures-historic-divinity-school-3d
 
-📰 Make Good leverages 3D printing to offer real-world accessibility
-Modern technologies, often associated with expensive gadgets and industry, are also having a growing social impact.
-One example of this approach is the nonprofit organization Make Good, which uses 3D … The post Make Good leverages 3D printing to offer real-world accessibility appeared first on VoxelMatters - The heart of additive...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/MakeGood-08-150x150.jpg
-Read more ? https://www.voxelmatters.com/make-good-leverages-3d-printing-to-offer-real-world-accessibility
+♻️ 3D printed helicopter bracket made from recycled titanium takes flight
+The flight, which was conducted by QinetiQ’s Flight Test Organisation at MOD Boscombe Down in Wiltshire, is thought to be a world first.
+Reported by TCT Magazine on Feb 17, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/02/titanium-bracket-fitted-on-agusta-a109.jpg
+Read more ? https://www.tctmagazine.com/3d-printed-helicopter-bracket-made-from-recycled-titanium-takes-flight
 
-🚀 There’s Always Room for 3D Printed Batteries
-There are many applications where you have limits on how much you can cram into a particular space.
-There are also many applications where you need as much battery as …read more, reported by Hackaday 3D Printing on Feb 14, 2026.
-Image ? https://hackaday.com/wp-content/uploads/2026/02/pdw.png
-Read more ? https://hackaday.com/2026/02/14/theres-always-room-for-3d-printed-batteries
+📰 IMDEA researchers develop woven nitinol to overcome 3D printing limitations
+Researchers from IMDEA Materials Institute and the Technical University of Madrid (UPM) have developed a design-driven methodology that significantly increases the deformability of 3D printed nickel-titanium – or...
+Reported by VoxelMatters on Feb 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Foto-Carlos-Aguilar-Vega-2-scaled-e1771327947921-150x150.jpg
+Read more ? https://www.voxelmatters.com/imdea-researchers-develop-woven-nitinol-to-overcome-3d-printing-limitations
+
+📰 3D printing enters hotels as 358 3D printed tables are delivered to 180 apartments
+Large-format 3D printing is increasingly boldly entering user industries, not only industrial ones.
+One of the latest examples of such an implementation is a project by IVE LABS and Hyfer … The post 3D printing enters hotels as 358 3D printed tables are delivered to 180 apartments appeared first on VoxelMatters -...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Zrzut-ekranu-2026-02-13-120747-150x150.png
+Read more ? https://www.voxelmatters.com/3d-printing-enters-hotels-as-358-tables-from-3d-printers-are-delivered-to-180-apartments
+
+🖨 Formlabs sets sights on scaling with former Cognex CEO; Carl Bass steps down
+The 3D printing company aims to tap into Rob Willett’s 30-plus years of leadership experience in industrial automation, machine vision, and global operations.
+Reported by TCT Magazine on Feb 17, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/02/Rob-Willett.png
+Read more ? https://www.tctmagazine.com/formlabs-sets-sights-on-scaling-with-former-cognex-ceo-carl-bass-steps-down
+
+🖨 Formlabs IPO Speculation as Public-company Veteran Joins Board
+The 3D printing group appoints former Cognex chief Rob Willett as it quietly reshapes its governance.
+And starts to look a lot like a company getting ready for something, reported by 3D Printing Industry on Feb 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/01/image-2-1-150x100.png
+Read more ? https://3dprintingindustry.com/news/formlabs-ipo-speculation-as-public-company-veteran-joins-board-249104
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.

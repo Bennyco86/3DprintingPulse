@@ -19,6 +19,11 @@ Reported by VoxelMatters on Feb 15, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/41378_2025_1035_Fig1_HTML-150x150.jpg
 Read more ? https://www.voxelmatters.com/fast-and-precise-microdevice-production-enabled-by-sound-driven-3d-printing
 
+💻 Chinese scientists 3D print tiny items in half a second using holographic light fields
+A research team reports a holographic light-field technique that can fabricate complex millimeter-scale objects in under a second, pointing toward much faster microfabrication workflows.
+Reported by Tom's Hardware.
+Read more ? https://www.tomshardware.com/3d-printing/chinese-scientists-3d-print-tiny-items-in-half-a-second-using-holographic-light-fields-scientists-precision-fabricate-complex-millimeter-scale-objects-in-record-time
+
 📰 Make Good leverages 3D printing to offer real-world accessibility
 Modern technologies, often associated with expensive gadgets and industry, are also having a growing social impact.
 One example of this approach is the nonprofit organization Make Good, which uses 3D … The post Make Good leverages 3D printing to offer real-world accessibility appeared first on VoxelMatters - The heart of additive...

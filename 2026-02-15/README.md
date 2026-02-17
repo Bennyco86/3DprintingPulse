@@ -30,6 +30,7 @@ Researchers at Tsinghua University in Beijing have developed a 3D printing metho
 Reported by VoxelMatters on Feb 14, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/DISH-150x150.jpg
 Read more ? https://www.voxelmatters.com/chinese-team-3d-print-millimeter-scale-objects-in-under-one-second
+Read more (Tom's Hardware) ? https://www.tomshardware.com/3d-printing/chinese-scientists-3d-print-tiny-items-in-half-a-second-using-holographic-light-fields-scientists-precision-fabricate-complex-millimeter-scale-objects-in-record-time
 
 🖨 Thingiverse Joins MyMiniFactory in Major 3D Printing Community Consolidation
 MyMiniFactory, a curated 3D printing community where independent designers and brands sell digital models, has completed the full acquisition of Thingiverse from Netherlands-based 3D printer manufacturer Ultimaker.
