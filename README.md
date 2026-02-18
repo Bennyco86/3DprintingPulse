@@ -2,55 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #42 - 2026-02-18
+### 3D PRINTING PULSE #43 - 2026-02-19
 
-🦺 Materialise adds custom PEEK implants to its CMF portfolio
-Materialise NV, a leader in 3D printed medical devices and software, has expanded its cranio-maxillofacial (CMF) portfolio with the addition of custom-made polyetheretherketone (PEEK) implants, giving surgeons across...
-Reported by VoxelMatters on Feb 17, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/materialise-cmf-solutions-3d-printed-peek-implants-150x150.jpg
-Read more ? https://www.voxelmatters.com/materialise-adds-custom-peek-implants-to-its-cmf-portfolio
+🦺 Materialise adds custom-made PEEK implants to cranio-maxillofacial portfolio
+Materialise NV, a Belgium-based 3D printing software and medical device company, has introduced custom-made implants made from polyetheretherketone (PEEK) to its cranio-maxillofacial (CMF) portfolio.
+Surgeons can now select either titanium or the high-performance polymer for patient-specific reconstructions while using the same digital planning and case management system, reported by 3D Printing Industry on Feb 18, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/Materialises-new-personalized-PEEK-CMF-implant-150x100.webp
+Read more ? https://3dprintingindustry.com/news/materialise-adds-custom-made-peek-implants-to-cranio-maxillofacial-portfolio-249144
 
-🚀 Wohlers Report 2026: Additive manufacturing revenues reach $24.2 billion
-The latest Wohlers Report was launched on February 17, 2026.
-Reported by TCT Magazine on Feb 17, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/AR-1098-Wohlers-2026-LI-R3.png
-Read more ? https://www.tctmagazine.com/wohlers-report-2026-additive-manufacturing-revenues-reach-24-2-billion
+🚀 Weaving Flexibility into Nitinol: IMDEA–UPM Advances 3D Printed Superelastic Metamaterials
+Researchers from IMDEA Materials Institute and the Technical University of Madrid (UPM) have reimagined nickel-titanium (Nitinol) alloys as fabric-like, interwoven structures, achieving levels of flexibility and...
+By combining design-focused approaches with advanced 3D printing, the team has created superelastic metamaterials that could transform applications in robotics, aerospace, and healthcare, reported by 3D Printing Industry on Feb 18, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/Carlos-Photos-2-2048x1365-1-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/weaving-flexibility-into-nitinol-imdea-upm-advances-3d-printed-superelastic-metamaterials-249184
 
-🏠 Oxford University captures historic Divinity School in 3D
-The University of Oxford in England is home to many historic sites, from the Baroque-style Radcliffe Camera library to the 16th century Christ Church College, which counts 13 prime ministers … The post Oxford...
-Reported by VoxelMatters on Feb 17, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/oxford-divinity-room-2-150x150.jpg
-Read more ? https://www.voxelmatters.com/oxford-university-captures-historic-divinity-school-3d
+🏠 RWTH Aachen-led AddMamBa project qualifies recycled steel for load-bearing 3D printed facade brackets
+Researchers at RWTH Aachen University are investigating whether steel scrap can be transformed into certified, load-bearing construction components using 3D printing.
+The BMWE-funded AddMamBa project focuses on producing optimized facade brackets from recycled steel powder via laser powder bed fusion (PBF-LB/M), aiming to reduce material consumption and improve circularity in the, reported by 3D Printing Industry on Feb 18, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/image-11-150x100.png
+Read more ? https://3dprintingindustry.com/news/rwth-aachen-led-addmamba-project-qualifies-recycled-steel-for-load-bearing-3d-printed-facade-brackets-249157
 
-♻️ 3D printed helicopter bracket made from recycled titanium takes flight
-The flight, which was conducted by QinetiQ’s Flight Test Organisation at MOD Boscombe Down in Wiltshire, is thought to be a world first.
-Reported by TCT Magazine on Feb 17, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/titanium-bracket-fitted-on-agusta-a109.jpg
-Read more ? https://www.tctmagazine.com/3d-printed-helicopter-bracket-made-from-recycled-titanium-takes-flight
+♻️ UK completes flight of 3D printed aircraft component from recycled titanium
+QinetiQ, a UK defence and security technology company, has completed a flight test of an aircraft fitted with a structural component 3D printed from recycled titanium.
+Flight was conducted by QinetiQ’s Flight Test Organisation at MOD Boscombe Down in Wiltshire using a company-owned Agusta A109S helicopter, reported by 3D Printing Industry on Feb 18, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/agusta-a109-first-flight-titanium-bracket-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/uk-completes-flight-of-3d-printed-aircraft-component-from-recycled-titanium-249148
 
-📰 IMDEA researchers develop woven nitinol to overcome 3D printing limitations
-Researchers from IMDEA Materials Institute and the Technical University of Madrid (UPM) have developed a design-driven methodology that significantly increases the deformability of 3D printed nickel-titanium – or...
-Reported by VoxelMatters on Feb 17, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Foto-Carlos-Aguilar-Vega-2-scaled-e1771327947921-150x150.jpg
-Read more ? https://www.voxelmatters.com/imdea-researchers-develop-woven-nitinol-to-overcome-3d-printing-limitations
+🚀 Plastometrex launches MultiScale capability for thin-wall and high-resolution mechanical property mapping
+Cambridge-based materials testing company Plastometrex has introduced a new MultiScale capability for its PLX-Benchtop system, allowing high-resolution mapping of mechanical properties across thin, welded, and...
+Announced in February 2026, the update allows engineers to test specimens as thin as 0.75 mm and perform property mapping with 1.5 mm indent spacing, expanding access […], reported by 3D Printing Industry on Feb 18, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/image-6-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/plastometrex-launches-multiscale-capability-for-thin-wall-and-high-resolution-mechanical-property-mapping-249162
 
-📰 3D printing enters hotels as 358 3D printed tables are delivered to 180 apartments
-Large-format 3D printing is increasingly boldly entering user industries, not only industrial ones.
-One of the latest examples of such an implementation is a project by IVE LABS and Hyfer … The post 3D printing enters hotels as 358 3D printed tables are delivered to 180 apartments appeared first on VoxelMatters -...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Zrzut-ekranu-2026-02-13-120747-150x150.png
-Read more ? https://www.voxelmatters.com/3d-printing-enters-hotels-as-358-tables-from-3d-printers-are-delivered-to-180-apartments
+🚀 NASA JPL deploys AM manufactured mechanism aboard Proteus Space satellite
+NASA’s Jet Propulsion Laboratory (JPL) has successfully deployed the JPL Additive Compliant Canister (JACC) in orbit, aboard the Proteus Space M1 ESPA class satellite, in a demonstration of additive manufacturing …...
+Reported by VoxelMatters on Feb 18, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Proteus-03-150x150.jpg
+Read more ? https://www.voxelmatters.com/nasa-jpl-deploys-am-manufactured-mechanism-aboard-proteus-space-satellite
 
-🖨 Formlabs sets sights on scaling with former Cognex CEO; Carl Bass steps down
-The 3D printing company aims to tap into Rob Willett’s 30-plus years of leadership experience in industrial automation, machine vision, and global operations.
-Reported by TCT Magazine on Feb 17, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/Rob-Willett.png
-Read more ? https://www.tctmagazine.com/formlabs-sets-sights-on-scaling-with-former-cognex-ceo-carl-bass-steps-down
+💻 Divergent and Mach Industries deliver UAS prototype in 71 days
+Divergent Technologies and Mach Industries have collaborated on the production of a prototype autonomous strike aircraft dubbed Venom, taking the concept to a flight-ready demo in just 71 days.
+The … The post Divergent and Mach Industries deliver UAS prototype in 71 days appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Divergent-Venom-150x150.jpg
+Read more ? https://www.voxelmatters.com/divergent-and-mach-industries-deliver-uas-prototype-in-71-days
 
-🖨 Formlabs IPO Speculation as Public-company Veteran Joins Board
-The 3D printing group appoints former Cognex chief Rob Willett as it quietly reshapes its governance.
-And starts to look a lot like a company getting ready for something, reported by 3D Printing Industry on Feb 17, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/01/image-2-1-150x100.png
-Read more ? https://3dprintingindustry.com/news/formlabs-ipo-speculation-as-public-company-veteran-joins-board-249104
+🚀 Plastometrex launches MultiScale capability top capture high-resolution mechanical property variation
+It has been developed in a bid to address a 'common gap in mechanical testing.'
+Reported by TCT Magazine on Feb 18, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/02/PLX-Benchtop-Thin-Sample.JPG
+Read more ? https://www.tctmagazine.com/plastometrex-launches-multiscale-capability-top-capture-high-resolution-mechanical-property-variation
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
