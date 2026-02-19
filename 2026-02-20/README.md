@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #44 - 2026-02-20
+## Stories
 
 🦺 Stratasys introduces multi-material 3D printed anatomical model preset for dental training
 "We are entering a new segment of digital dental education and clinical simulation."
@@ -51,9 +49,3 @@ The company, believes the material will be "game changing" for building gas turb
 Reported by TCT Magazine on Feb 19, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/02/Alloyed-PR.png
 Read more ? https://www.tctmagazine.com/alloyed-secures-1-million-to-develop-next-gen-nickel-based-superalloy-for-3d-printing-jet-engine-parts
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
