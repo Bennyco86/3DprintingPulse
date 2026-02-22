@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-23
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #47 - 2026-02-23
+## Stories
 
 🏠 MANUFACTURA turns corn waste into 3D printable building material with 70% lower carbon emissions
 Mexico-based design practice MANUFACTURA has developed a bio-based construction material called CORNCRETL, combining limestone aggregates, dried corn residues, and recycled nejayote — the calcium-rich wastewater...
@@ -26,9 +24,3 @@ Read more ? https://www.voxelmatters.com/an-open-source-3d-printed-film-camera-h
 Zack and Berkley Bailey, Co-Owners of ZB Designs, started their business with one 3D printer as a side hustle while still in college.
 On February 13, 2026, in New York, reported by 3DPrint.com on Feb 22, 2026.
 Read more ? https://3dprint.com/324100/from-print-farm-to-toy-of-the-year-zb-designs-plastic-empire-takes-3d-printed-fidgets-mainstream
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
