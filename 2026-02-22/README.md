@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-02-22
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #46 - 2026-02-22
+## Stories
 
 🦺 Stratasys Introduces Dental Anatomical Model Preset for Education and Clinical Training
 3D printer OEM Stratasys has introduced a dental anatomical model preset designed for simulation-based education and clinical training.
@@ -49,9 +47,3 @@ Read more ? https://www.fabbaloo.com/news/boston-scientifics-penumbra-acquisitio
 There’s one trick you should be doing to keep your workspace safer when 3D printing.
 The post This One Trick Makes Your FFF 3D Printer a Bit Safer appeared on Fabbaloo.
 Read more ? https://www.fabbaloo.com/news/this-one-trick-makes-your-fff-3d-printer-a-bit-safer
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

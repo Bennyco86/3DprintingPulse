@@ -50,7 +50,7 @@ $taskXml = @"
     </Principal>
   </Principals>
   <Settings>
-    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>
+    <MultipleInstancesPolicy>StopExisting</MultipleInstancesPolicy>
     <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
     <StopIfGoingOnBatteries>false</StopIfGoingOnBatteries>
     <AllowHardTerminate>true</AllowHardTerminate>
@@ -65,9 +65,13 @@ $taskXml = @"
     <Hidden>false</Hidden>
     <RunOnlyIfIdle>false</RunOnlyIfIdle>
     <WakeToRun>true</WakeToRun>
-    <ExecutionTimeLimit>PT72H</ExecutionTimeLimit>
+    <ExecutionTimeLimit>PT45M</ExecutionTimeLimit>
     <Priority>7</Priority>
     <UseUnifiedSchedulingEngine>true</UseUnifiedSchedulingEngine>
+    <RestartOnFailure>
+      <Interval>PT10M</Interval>
+      <Count>2</Count>
+    </RestartOnFailure>
   </Settings>
   <Actions Context="Author">
     <Exec>
@@ -82,6 +86,10 @@ $taskXml = @"
 $tempXml = Join-Path $env:TEMP "quality3ds_daily_pulse_task.xml"
 Set-Content -Path $tempXml -Value $taskXml -Encoding Unicode
 & schtasks.exe /Create /TN $taskName /XML $tempXml /F | Out-Null
+if ($LASTEXITCODE -ne 0) {
+  Remove-Item -Path $tempXml -Force -ErrorAction SilentlyContinue
+  throw "Failed to register scheduled task '$taskName' (exit code $LASTEXITCODE)."
+}
 Remove-Item -Path $tempXml -Force -ErrorAction SilentlyContinue
 
 Write-Host "Scheduled task updated: $taskName"
