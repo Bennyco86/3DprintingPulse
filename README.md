@@ -2,55 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #48 - 2026-02-24
+### 3D PRINTING PULSE #49 - 2026-02-25
 
-🦺 Scaling AM to high-volume production – join Xometry Europe in our upcoming webinar
-Scaling from the prototype stage of additive manufacturing to a high-volume, end-use production setup is a challenge many companies face.
-Whether it’s medical, electronics and robotics, automotive and aerospace, or … The post Scaling AM to high-volume production – join Xometry Europe in our upcoming webinar appeared first on VoxelMatters - The heart of...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2025/11/Xometry_Launches_New_Workcenter_Experience_Empowering_Manufacturing_Partners_to_Accept_Jobs_and_Man_915745-e1762269801751-150x150.jpg
-Read more ? https://www.voxelmatters.com/scaling-am-to-high-volume-production-join-xometry-europe-in-our-upcoming-webinar
+🦺 Low-cost 3D printed simulators facilitate rural medical training
+Medical simulation devices play an important role in training paramedics and medical students, enabling them to practice and perfect tricky procedures before administering them on a patient.
+In my cases, … The post Low-cost 3D printed simulators facilitate rural medical training appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/sim-chest-tube-1-150x150.jpeg
+Read more ? https://www.voxelmatters.com/low-cost-3d-printed-simulators-rural-medical-training
 
-🚀 From Prototype to Full-Rate Production at RAPID + TCT: Garrett Hawkins on Scaling Additive in Aerospace
-In aerospace additive manufacturing, you expect the story to start with rockets.
-This one starts with an ink cartridge, reported by 3D Natives on Feb 22, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/02/Cover-Photo-From-Prototype-to-Full-Rate-Production-at-RAPID-TCT-Garrett-Hawkins-on-Scaling-Additive-in-Aerospace.jpg
-Read more ? https://www.3dnatives.com/en/rapid-tct-optisys-additive-manufacturing-aerospace-23022026
+🚀 Filamentive launches rPA12 filament made from recycled MJF powder waste
+Filamentive, a UK-based supplier of sustainable 3D printing materials, has launched rPA12, a nylon 12 filament manufactured from 100% recycled Multi Jet Fusion (MJF) powder waste.
+The material is intended for industrial and professional FFF/FDM applications where PA12 is commonly specified, reported by 3D Printing Industry on Feb 24, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/Recycling_PA12_powder_into_nylon_filament-150x100.png
+Read more ? https://3dprintingindustry.com/news/filamentive-launches-rpa12-filament-made-from-recycled-mjf-powder-waste-249314
 
-🏠 Continuum's recycled nickel material shown to significantly reduce global warming potential per Oregon State LCA
-Global warming potential is a measure of how much heat a greenhouse gas traps in the atmosphere compared to carbon dioxide.
-Reported by TCT Magazine on Feb 23, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/Greyhound-M2P-System-1.png
-Read more ? https://www.tctmagazine.com/continuums-recycled-nickel-material-shown-to-significantly-reduce-global-warming-potential-per-oregon-state-lca
+🏠 New Colorado Bill to Ban 3D Printed Firearms Draws Lawsuit Threat
+Colorado lawmakers have introduced legislation that would make it a criminal offense to manufacture firearms using 3D printers or CNC milling machines without a federal license.
+Titled House Bill 26-1144, the new bill prohibits the unlicensed production of completed firearms, unfinished frames or receivers, large-capacity magazines, and rapid-fire devices, reported by 3D Printing Industry on Feb 24, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2024/10/FGC-9-3D-printed-gun.-Photo-via-Dr.-Yannick-Veilleux-Lepage2-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/new-colorado-bill-to-ban-3d-printed-firearms-draws-lawsuit-threat-249336
 
-♻️ Study highlights emission reductions of up to 98.7% using Continuum Powders’ plasma arc atomization technology for nickel powder production
-An independent life cycle assessment (LCA) conducted by Oregon State University’s Industrial Sustainability Laboratory has produced findings that indicate nickel powder produced from recycled feedstock can reduce...
-Reported by VoxelMatters on Feb 23, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Continuum-01-e1771842411839-150x150.jpg
-Read more ? https://www.voxelmatters.com/study-highlights-emission-reductions-of-up-to-98-7-using-continuum-powders-plasma-arc-atomization-technology-for-nickel-powder-production
+📰 AM Solutions introduces compact M4 Basic for 'virtually any additive manufacturing user'
+"Quality, repeatability and efficiency in post-processing are no longer optional."
+Reported by TCT Magazine on Feb 24, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/02/M4-Basic.jpg
+Read more ? https://www.tctmagazine.com/am-solutions-introduces-compact-m4-basic-for-virtually-any-additive-manufacturing-user
 
-📰 IIT Bombay develops predictive models for sintering-induced shrinkage
-Researchers at the Indian Institute of Technology (IIT) Bombay have developed predictive models that are capable of calculating sintering-induced shrinkage and deformation in 3D printed components, before...
-The … The post IIT Bombay develops predictive models for sintering-induced shrinkage appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Shrinkage-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/iit-bombay-develops-predictive-models-for-sintering-induced-shrinkage
+📰 Xometry reports record Q4 and strong FY 2025 results
+Xometry reported strong full-year 2025 results as its manufacturing marketplace continued to outgrow its services segment.
+The company generated about $687 million in total revenue for 2025, including $630 million … The post Xometry reports record Q4 and strong FY 2025 results appeared first on VoxelMatters - The heart of additive...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2021/12/xometry-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/xometry-reports-record-q4-and-strong-fy-2025-results
 
-💻 Automation Alley Expands Industrial 3D Printing Access for SMEs
-Michigan organization supporting advanced manufacturing Automation Alley’s Project DIAMOnD has made its Digital Transformation Center (DTC) available to companies beyond its membership network.
-Businesses can now submit 3D printing orders, gaining access to industrial-grade additive manufacturing equipment and specialized technical support, reported by 3D Printing Industry on Feb 23, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/69724dff2fe8f0ffcb31729d_blog-image-150x100.png
-Read more ? https://3dprintingindustry.com/news/automation-alley-expands-industrial-3d-printing-access-for-smes-249189
+📰 Tekna passes 1 million kilos of titanium power produced
+Global leader in advanced materials and plasma atomization systems Tekna has produced its millionth kilo of spherical Ti-6Al-4V titanium alloy powder, 10 years after it began industrial production of the … The post...
+Reported by VoxelMatters on Feb 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2024/04/Tekna-Materiaux-Avances-2-150x150.jpg
+Read more ? https://www.voxelmatters.com/tekna-passes-1-million-kilos-of-titanium-power-produced
 
-📰 Solving sleep disorders with scalable 3D printing
-Sleep disorders like sleep apnoea are estimated to effect the lives of one billion people globally and can have a significant impact on a person’s mental and physical health if … The post Solving sleep disorders with...
-Reported by VoxelMatters on Feb 23, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/eos-3dsleep-1-150x150.jpeg
-Read more ? https://www.voxelmatters.com/solving-sleep-disorders-scalable-3d-printing
+🖨 Amaero reports 367% first-half revenue growth
+Amaero Ltd, (ASX:3DA) (OTCQX: AMROF), a producer of refractory and titanium alloy spherical powders and manufacturer of near-net-shape components including Powder Metallurgy Hot Isostatic Pressing (PM-HIP) services,...
+Revenue increased 367% from A$1.66 million in the prior corresponding period, reported by 3D Printing Industry on Feb 24, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2025/05/Refractory-Powders-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/amaero-reports-367-first-half-revenue-growth-249323
 
-💻 CMS to show KREAROB robotic LFAM system at JEC World 2026
-CMS Advanced Materials Technology will exhibit at JEC World 2026 to spotlight KREAROB, a robotic LFAM system designed for thermoplastic polymer extrusion aimed at composite tooling and large models.
-For … The post CMS to show KREAROB robotic LFAM system at JEC World 2026 appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/KREAROB-150x150.jpg
-Read more ? https://www.voxelmatters.com/cms-to-show-krearob-robotic-lfam-system-at-jec-world-2026
+💻 NNSA, Sandia and Kansas City National Security Campus open CAMINO facility
+The National Nuclear Security Administration (NNSA), a semi-autonomous agency within the US Department of Energy responsible for managing the nation’s nuclear security enterprise, joined Sandia National Laboratories...
+Located at the Science and […], reported by 3D Printing Industry on Feb 24, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/CAMINO-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/nnsa-sandia-and-kansas-city-national-security-campus-open-camino-facility-249305
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
