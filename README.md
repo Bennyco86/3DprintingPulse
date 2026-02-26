@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #50 - 2026-02-26
+### 3D PRINTING PULSE #51 - 2026-02-27
 
-🚀 General Motors, NASA & MOD among shortlist as TCT Awards finalists revealed
-This year's TCT Awards will be held on the evening of April 14 in Boston, during the week of RAPID + TCT.
+🚀 Prusa Launches Highly Abrasive PETG Ultraglow Green
+Prusa has introduced Prusament PETG Ultraglow Green, a glow filament it claims is the brightest on the market — with a major concern for wear on hardware.
+The post Prusa Launches Highly Abrasive PETG Ultraglow Green appeared on Fabbaloo.
+Read more ? https://www.fabbaloo.com/news/prusa-launches-highly-abrasive-petg-ultraglow-green
+
+🏠 Sunnyday Technologies releases M3-CRETE open-source 3D concrete printer
+Sunnyday Technologies is releasing M3-CRETE, a fully open-source concrete 3D printer built for field deployment and research validation.
+The project sits alongside CEMFORGE, Sunnyday Technologies’ AI-driven concrete formulation platform, which … The post Sunnyday Technologies releases M3-CRETE open-source 3D concrete printer appeared first on, reported by VoxelMatters on Feb 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/M3-CRETE_render-150x150.png
+Read more ? https://www.voxelmatters.com/sunnyday-technologies-releases-m3-crete-open-source-3d-concrete-printer
+
+📰 SYS Systems surpasses $4.7m in hardware sales
+SYS Systems, which is part of the UK-based Carfulan Group, has seen a 20% increase in 3D printing hardware sales and additive manufacturing revenues, to exceed £4 million ($4.7m) for … The post SYS Systems surpasses...
+Reported by VoxelMatters on Feb 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/Carfulan-Group-HQ-2025-150x150.jpeg
+Read more ? https://www.voxelmatters.com/sys-systems-surpasses-4-7m-in-hardware-sales
+
+📰 Additive manufacturing plus CVI produces porous SiC gyroids with higher strength and oxidation resistance
+Researchers from the University of Applied Sciences and Arts of Southern Switzerland (SUPSI) and IHI Bernex AG used two 3D printing methods—binder jetting and powder bed fusion—along with chemical vapor … The post...
+Reported by VoxelMatters on Feb 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/SUPSI_SiC-study_1771915321330-150x150.jpg
+Read more ? https://www.voxelmatters.com/additive-manufacturing-plus-cvi-produces-porous-sic-gyroids-with-higher-strength-and-oxidation-resistance
+
+📰 Porsche 911 reimagined: the SPICA project
+In 2022, a Polish car collector decided to restore a Porsche 911 and convert it to electric drive.
+At first, he had a few minor visual changes in mind, reported by VoxelMatters on Feb 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Zrzut-ekranu-2026-02-24-213104-150x150.png
+Read more ? https://www.voxelmatters.com/porsche-911-reimagined-the-spica-project
+
+📰 Siemens Energy to supply used nickel alloy powder to 6K Additive as long-term agreement reached
+To date, 6K Additive has processed close to 20 tons of nickel superalloy powder from Siemens Energy.
 Reported by TCT Magazine on Feb 25, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/TCT-Awards-2025-print-resolution-0123.webp
-Read more ? https://www.tctmagazine.com/general-motors-nasa-mod-among-shortlist-as-tct-awards-finalists-revealed
+Image ? https://www.tctmagazine.com/content/images/2026/02/UniMelt-high-quality-image_Re-2-780x470.png
+Read more ? https://www.tctmagazine.com/siemens-energy-to-supply-used-nickel-alloy-powder-to-6k-additive-as-long-term-agreement-reached
 
-🏠 Stratasys reports 22% system reliability increase for F900 FDM 3D printing system
-The product enhancement was delivered in conjunction with its Customer Advisory Board.
+💻 AMGTA adds Dean Bartles to board as Manufacturing Technology Deployment Group elevated to Principal Member
+Per AMGTA, Bartles will bring decades of leadership and advanced manufacturing experience to the Board.
 Reported by TCT Magazine on Feb 25, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/F900_with_part_transparent_bkg-1.png
-Read more ? https://www.tctmagazine.com/stratasys-reports-22-system-reliability-increase-for-f900-fdm-3d-printing-system
+Image ? https://www.tctmagazine.com/content/images/2026/02/Dean_Bartles.png
+Read more ? https://www.tctmagazine.com/amgta-adds-dean-bartles-to-board-as-manufacturing-technology-deployment-group-elevated-to-principal-member
 
-♻️ Filamentive’s Recycled MJF Filament Tests the Economics of Circular AM
-I’m super glad that Filamentive is making filament from recycled PA 12.
-We all know that in all polymer powder bed fusion processes, there is waste, reported by 3DPrint.com on Feb 25, 2026.
-Read more ? https://3dprint.com/324110/filamentive-offers-recycled-filament-made-out-of-mjf-powder
-
-📰 UT Austin 3D prints capsule robot for gastrointestinal diagnostics
-Researchers at the MINIMAX lab at the University of Texas (UT) Austin have developed a 3D printable, magnetically steerable capsule robot that’s been designed to diagnose and treat gastrointestinal (GI) … The post UT...
-Reported by VoxelMatters on Feb 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/UT-Austin-gastro-3D-printed-robot-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/ut-austin-3d-prints-capsule-robot-for-gastrointestinal-diagnostics
-
-📰 Multimatic Motorsports goes the distance with Conflux 3D printed oil cooler
-"We’ve shown that our configurable, 3D printed technology can move from design to race car in weeks."
-Reported by TCT Magazine on Feb 25, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/Comment--3-.png
-Read more ? https://www.tctmagazine.com/multimatic-motorsports-goes-the-distance-with-conflux-3d-printed-oil-cooler
-
-📰 Tikkun Olam Makers opens New York innovation center
-Tikkun Olam Makers (TOM), an Israeli-American nonprofit that develops open source assistive technology solutions for people with disabilities, has opened a new innovation center in New York City.
-TOMIC NYC … The post Tikkun Olam Makers opens New York innovation center appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/TOM-main-image-150x150.jpg
-Read more ? https://www.voxelmatters.com/tikkun-olam-makers-opens-new-york-innovation-center
-
-🏠 BYD achieved 30% weight saving with record-breaking AM chassis
-When BYD’s Yangwang U9X set a new world record for production vehicles at the Nurburgring in Germany in October, it was lauded as a significant advancement both in the capabilities … The post BYD achieved 30% weight...
-Reported by VoxelMatters on Feb 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/EuroCarBody2025欧洲车身大会现场图片-scaled-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/byd-achieved-30-weight-saving-with-record-breaking-am-chassis
-
-📰 Melotte implements data-capturing system to support semiconductor component production with Additive Center & amsight
-It represents a shift from ‘reactive, inspection-based quality control’ to ‘proactive, data-driven quality assurance' according to the partners.
-Reported by TCT Magazine on Feb 25, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/02/Figure-1---screenshot-amsight.png
-Read more ? https://www.tctmagazine.com/melotte-implements-data-capturing-system-to-support-semiconductor-component-production-with-additive-center-amsight
+📰 Lithoz brings industrial AM to ceramitec 2026
+This March, leaders and innovators from across the world of ceramics will converge in Munich for ceramitec 2026.
+The annual trade show highlights the latest advances in ceramic technologies, materials, … The post Lithoz brings industrial AM to ceramitec 2026 appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/LITHOZ_ALD-Ring_by-Alumina-Systems-and-Plasway-150x150.jpg
+Read more ? https://www.voxelmatters.com/lithoz-brings-industrial-am-ceramitec-2026
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
