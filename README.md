@@ -2,53 +2,52 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #52 - 2026-02-28
+### 3D PRINTING PULSE #53 - 2026-03-01
 
-🦺 ETH Zurich lab produces 3D printed ear cartilage with properties close to natural tissue
-A team made up of researchers from ETH Zurich, the Friedrich Miescher Institute in Basel, and the Cantonal Hospital of Lucerne has produced elastic ear cartilage from human cells in … The post ETH Zurich lab produces...
+🚀 Hypersonix 3D printed scramjet-powered DART AE completes first hypersonic flight
+Brisbane-based Hypersonix Launch Systems successfully flew its DART AE hypersonic aircraft on February 27, 2026, reaching speeds exceeding Mach 5 after launch from Rocket Lab’s Launch Complex 2 at the … The post...
+Reported by VoxelMatters on Feb 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Hpersonix-main-150x150.jpg
+Read more ? https://www.voxelmatters.com/hypersonix-3d-printed-scramjet-powered-dart-ae-completes-first-hypersonic-flight
+
+💻 MIT’s PhysiOpt system blends AI with physics to produce structurally sound 3D printed objects
+Researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) have developed a system called PhysiOpt, that integrates generative artificial intelligence (genAI) with physics simulations, to...
+Reported by VoxelMatters on Feb 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/PhysiOpt-1-150x150.png
+Read more ? https://www.voxelmatters.com/mits-physiopt-system-blends-ai-with-physics-to-produce-structurally-sound-3d-printed-objects
+
+💻 Caracol and V2 Group collaborate on 6-meter monolithic catamaran 3D print
+Global leader in advanced robotic technologies Caracol has completed what it claims is “the first functional 6-meter-long monolithic catamaran for open waters” built entirely using its LFAM platform, in collaboration...
 Reported by VoxelMatters on Feb 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/image.imageformat.carousel.500290150-150x150.jpg
-Read more ? https://www.voxelmatters.com/eth-zurich-lab-produces-3d-printed-ear-cartilage-with-properties-close-to-natural-tissue
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/1-1200x900-1-e1772149073975-150x150.jpg
+Read more ? https://www.voxelmatters.com/caracol-and-v2-group-collaborate-on-6-meter-monolithic-catamaran-3d-print
 
-🚀 AM I Navigator and Leading Minds Launch AM Alliance at AMS 2026
-At Additive Manufacturing Strategies (AMS) 2026, which just wrapped up in New York City yesterday, AM I Navigator and the Leading Minds consortium announced a new alliance aimed at accelerating...
-Reported by 3DPrint.com on Feb 27, 2026.
-Read more ? https://3dprint.com/324233/am-i-navigator-and-leading-minds-launch-additive-manufacturing-alliance-at-ams-2026
+📰 Application spotlight: Consolidated helicopter intake duct yields 80% cost saving
+The ROBOZE Argo 500 HYPERSPEED solution was used to manufacture the critical component.
+Reported by TCT Magazine on Feb 27, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/02/Carbon-PEEK---Aviation---space---Intake-duct---2K--0.1-.png
+Read more ? https://www.tctmagazine.com/application-spotlight-consolidated-helicopter-intake-duct-yields-80-cost-saving
 
-🏠 Wright-Patterson Air Force Base: Ohio’s Tech Powerhouse Meets 3D Printing Innovation
-Goulding and Preeti Sulibhavi report on how Wright-Patterson Air Force Base is pushing additive manufacturing from the lab to the flight line with real, deployable 3D printed parts.
-The post Wright-Patterson Air Force Base: Ohio’s Tech Powerhouse Meets 3D Printing Innovation appeared on Fabbaloo.
-Read more ? https://www.fabbaloo.com/news/wright-patterson-air-force-base-ohios-tech-powerhouse-meets-3d-printing-innovation
+💻 The Joys of 3D Printing
+Al and I were talking on the podcast today about a sweet 3D printed wide-format camera build, and we got to musing on why we 3D-print.
+For Al, it’s an …read more, reported by Hackaday 3D Printing on Feb 28, 2026.
+Image ? https://hackaday.com/wp-content/uploads/2020/02/3D-Printering-Header-New.jpg
+Read more ? https://hackaday.com/2026/02/28/the-joys-of-3d-printing
 
-♻️ Can Recycled Titanium 3D Printing Secure the UK’s Defense Supply Chain?
-British defense leader QinetiQ has reached a milestone in “circular” defense manufacturing with the successful maiden flight of a 3D-printed structural component made from recycled titanium.
-The test, conducted by QinetiQ’s Flight Test Organisation at MOD Boscombe Down in Wiltshire,…, reported by 3D Natives on Feb 26, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/02/3d-printed-recycled-titanium.jpg
-Read more ? https://www.3dnatives.com/en/recycled-titanium-3d-printing-qinetiq-27022026
+🚀 AMUG 2026 to Feature LEGO, Aerospace Collaboration Keynotes
+AMUG 2026 puts the spotlight on the people and partnerships driving additive manufacturing forward.
+According to AMUG’s pre-conference overview, this year’s agenda reflects cross-industry collaboration, hands-on learning, and tangible business, reported by 3DPrint.com on Feb 27, 2026.
+Read more ? https://3dprint.com/323959/amug-2026-to-feature-lego-aerospace-collaboration-keynotes
 
-📰 Kibu 3D printed headphones for kids get Dragons’ Den backing
-On last night’s episode of Dragons’ Den on the BBC, not everyone was able to woo the dragons with their brands and products.
-One presenter who was a success, however, … The post Kibu 3D printed headphones for kids get Dragons’ Den backing appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/1S5A6986-150x150.jpg
-Read more ? https://www.voxelmatters.com/kibu-3d-printed-headphones-kids-dragons-den-investment
+📷 Melotte Partners with amsight and Additive Center to Reduce CT Scanning for 3D Printed Semicap Parts
+The first report for Additive Manufacturing Research (AMR) that I wrote solo was about the AM market opportunity in semiconductor capital equipment (semicap) components.
+Published in early 2024, the report, reported by 3DPrint.com on Feb 27, 2026.
+Read more ? https://3dprint.com/324216/melotte-partners-with-amsight-and-additive-center-to-reduce-ct-scanning-for-3d-printed-semicap-parts
 
-🖨 VoxelMatters Review: the Prusa Core One L is a high-precision workhorse
-Late last year, I had the chance to test and review the Prusa Pro HT90, Prusa’s most advanced 3D printer, designed for high-temperature polymers.
-That, however, is a very different … The post VoxelMatters Review: the Prusa Core One L is a high-precision workhorse appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Prusa-Core-One-L-feature-150x150.png
-Read more ? https://www.voxelmatters.com/voxelmatters-review-the-prusa-core-one-l-is-a-high-precision-workhorse
-
-💻 3DMem targets global pharma market with nano 3D printed membrane filters
-South Korean startup 3DMem has developed a membrane filter manufacturing process built on nano 3D printing technology, which it claims positions itself as a challenger to the foreign companies that … The post 3DMem...
-Reported by VoxelMatters on Feb 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/3DMem-02-e1772186673115-150x150.jpg
-Read more ? https://www.voxelmatters.com/3dmem-targets-global-pharma-market-with-nano-3d-printed-membrane-filters
-
-💻 Additive manufacturing takes center stage at Guangzhou’s Asiamold Select
-When Guangzhou Industrial Technology and Asiamold Select return to the China Import and Export Fair Complex from March 4 to 6, 2026, 3D printing will be more important than ever, … The post Additive manufacturing...
-Reported by VoxelMatters on Feb 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/微信图片_20210304200228.webp.1920-150x150.jpg
-Read more ? https://www.voxelmatters.com/additive-manufacturing-takes-center-stage-at-guangzhous-asiamold-select
+🚀 Alloyed Develops New 1000°C Alloy for 3D Printed Flight-Ready Jet Engine Parts
+Nickel-based superalloys and music (Bing Crosby and Fred Astaire, for starters) were best in the 1930s.
+Inconel and Hastelloy were invented in that decade, along with Scotch tape, the car, reported by 3DPrint.com on Feb 27, 2026.
+Read more ? https://3dprint.com/324119/alloyed-develops-new-1000c-alloy-for-jet-engines
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
