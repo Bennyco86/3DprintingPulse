@@ -2,41 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #54 - 2026-03-02
+### 3D PRINTING PULSE #55 - 2026-03-03
 
-💻 NC State researchers develop self-healing fiber-reinforced polymer composite
-Researchers at North Carolina State University have developed a fiber-reinforced polymer (FRP) composite that is capable of repairing its own structural damage more than a thousand times.
-FRP composites are … The post NC State researchers develop self-healing fiber-reinforced polymer composite appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Carbon-fiber-weave-close-up-shot-150x150.png
-Read more ? https://www.voxelmatters.com/nc-state-researchers-develop-self-healing-fiber-reinforced-polymer-composite
+🦺 CollPlant targets formulation bottleneck with new DLP bioprinting kit
+Regenerative medicine specialist CollPlant has launched BioFlex, a ready-to-print bioprinting kit built on rh-collagen, aimed at researchers working on tissue engineering and regenerative medicine.
+The kit is designed for Digital Light Processing (DLP) bioprinting and targets two applications: tissue model biofabrication for drug discovery, and the development of engineered tissues and transplantable organs, reported by 3D Printing Industry on Mar 02, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/f6e374c880374b92f6aa0e963d0fd601-150x100.webp
+Read more ? https://3dprintingindustry.com/news/collplant-targets-formulation-bottleneck-with-new-dlp-bioprinting-kit-249501
 
-📰 Designer Iga Weglinska uses 3D printed masks to explore sensory substitution
-The release of designer Iga Węglińska’s “Perfect Sense” has incorporated 3D printing, with the production of a series of six wearable object masks that investigate sensory substitution – the neurological … The post...
-Reported by VoxelMatters on Mar 01, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/perfect-sense-masks-iga-weglinska-sensory-substitution-human-perception-designboom-1800-2-150x150.jpg
-Read more ? https://www.voxelmatters.com/designer-iga-weglinska-uses-3d-printed-masks-to-explore-sensory-substitution
+🚀 Laser 3D printing turns simulated Moon dust into heat-resistant structures
+Researchers at Ohio State University have used a laser 3D printing process to transform simulated lunar soil into durable, heat-resistant structures, as part of a long-term NASA goal to support … The post Laser 3D...
+Reported by VoxelMatters on Mar 02, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Lunar-surface-under-starlit-sky-e1772448148247-150x150.jpg
+Read more ? https://www.voxelmatters.com/laser-3d-printing-turns-simulated-moon-dust-into-heat-resistant-structures
 
-🖨 There is (at least) one factory in China with 5,000 3D printers—soon to be 10,000
-Inside a sprawling workshop in Shenzhen, a major technology hub in south China’s Guangdong Province, 5,000 3D printers hummed around the clock.
-Technicians moved between rows of machines loaded with … The post There is (at least) one factory in China with 5,000 3D printers—soon to be 10,000 appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Huasu-3D-printer-farm-copia-150x150.jpg
-Read more ? https://www.voxelmatters.com/there-is-at-least-one-factory-in-china-with-5000-3d-printers-soon-to-be-10000
+🖨 Australian wildlife carer helping injured turtles with dental resin and 3D printing
+An electrician-by-trade who now dedicates the majority of his time to caring for local wildlife in Victoria, Australia, has been using dental resin combined with 3D scanning and printing to … The post Australian...
+Reported by VoxelMatters on Mar 02, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/4JSG4PF_Turtle8_jpg-150x150.webp
+Read more ? https://www.voxelmatters.com/australian-wildlife-carer-helping-injured-turtles-with-dental-resin-and-3d-printing
 
-📰 Ceramic AM Summit returns to Germany for second edition in Freiburg this June
-The Ceramic AM Summit, an international conference dedicated exclusively to the additive manufacturing (AM) of ceramics, will hold its second edition in Freiburg, Germany, from June 29 to July 1, … The post Ceramic...
-Reported by VoxelMatters on Feb 28, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Ceramic-AM-Summit-150x150.jpg
-Read more ? https://www.voxelmatters.com/ceramic-am-summit-returns-to-germany-for-second-edition-in-freiburg-this-june
+📰 GA-ASI and Divergent, a match made at AMUG
+The partnership between digital manufacturing company Divergent Industries and Unmanned Aerial Systems (UAS) manufacturer General Atomics Aeronautical Systems, Inc.
+(GA-ASI) is well known within the AM industry, as it has … The post GA-ASI and Divergent, a match made at AMUG appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/ga-asi-amug-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/ga-asi-divergent-match-made-at-amug-2026
 
-📰 Fancy a Fidget? Product Designer Sells Her 3D Printed Fidget Clickers at Pop-Up Shops
-The hottest toy in 2017 was undoubtedly the fidget spinner, which initially began as a tool to help students with ADHD and special needs relieve anxiety and refocus their energy....
-Reported by 3DPrint.com on Mar 01, 2026.
-Read more ? https://3dprint.com/324253/product-designer-sells-3d-printed-fidget-clickers-at-pop-up-shops
+💻 VOCUS establishes certified AM process for aircraft exhaust part
+Based in Augsburg, Germany, VOCUS GmbH is an AM parts supplier for the aviation and automotive industries, among others.
+Recently, the company marked a significant milestone, achieving an EASA-certified workflow … The post VOCUS establishes certified AM process for aircraft exhaust part appeared first on VoxelMatters - The heart of...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/vocus-eos-1-150x150.jpeg
+Read more ? https://www.voxelmatters.com/vocus-certified-am-process-aircraft-exhaust-part
 
-💻 From Market Headwinds to Measured Recovery: AM’s 2026 Inflection Point
-Goulding and Preeti Sulibhavi explain how manufacturing fundamentals, AI-driven design, and a renewed focus on reliability and workflow integration are defining the industry’s next phase.
-The post From Market Headwinds to Measured Recovery: AM’s 2026 Inflection Point appeared on Fabbaloo.
-Read more ? https://www.fabbaloo.com/news/from-market-headwinds-to-measured-recovery-ams-2026-inflection-point
+📰 LAMÁQUINA’s 3D printed ceramic tiles complete Sagrada Família’s tallest tower
+On February 20, 2026, the final arm of the cross was lifted onto the Tower of Jesus Christ at the Sagrada Família in Barcelona, marking the completion of the cathedral’s … The post LAMÁQUINA’s 3D printed ceramic...
+Reported by VoxelMatters on Mar 02, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/lamaquina_3dprinted-tiles_sagradafamilia_1772401724603-150x150.jpg
+Read more ? https://www.voxelmatters.com/lamaquinas-3d-printed-ceramic-tiles-complete-sagrada-familias-tallest-tower
+
+📰 Leading Minds & AM I Navigator to pool resources on selected joint activities
+The organisations hope to accelerate the industrial adoption of additive manufacturing.
+Reported by TCT Magazine on Mar 02, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/03/AM_20I_20NAVIGATOR_20-_20Press_20image.png
+Read more ? https://www.tctmagazine.com/leading-minds-am-i-navigator-to-pool-resources-on-selected-joint-activities
+
+🚀 Singapore 3D Printing Centre launches AI platform project to cut PBF parameter development costs
+The Singapore Centre for 3D Printing, in collaboration with Fehrmann MaterialsX APAC, launched a research project to reduce the cost and complexity of parameter development for laser powder bed fusion … The post...
+Reported by VoxelMatters on Mar 02, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Fehrman-150x150.jpg
+Read more ? https://www.voxelmatters.com/singapore-3d-printing-centre-launches-ai-platform-project-to-cut-pbf-parameter-development-costs
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
