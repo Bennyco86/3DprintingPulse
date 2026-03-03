@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-04
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #56 - 2026-03-04
+## Stories
 
 🦺 3D printed prosthetic uses embedded pressure-mapping sensors
 Researchers at Simon Fraser University (SFU) have developed a 3D printed prosthetic limb socket that uses embedded pressure sensors and artificial intelligence to generate custom socket designs, based on individual …...
@@ -50,9 +48,3 @@ The AM service provider aims to deliver faster turnaround times and higher consi
 Reported by TCT Magazine on Mar 03, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/03/IMG_5300.jpeg
 Read more ? https://www.tctmagazine.com/3d-people-deploys-amis-runtime-in-london-production-facility
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
