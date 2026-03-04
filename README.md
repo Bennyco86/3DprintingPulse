@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #56 - 2026-03-04
+### 3D PRINTING PULSE #57 - 2026-03-05
 
-🦺 3D printed prosthetic uses embedded pressure-mapping sensors
-Researchers at Simon Fraser University (SFU) have developed a 3D printed prosthetic limb socket that uses embedded pressure sensors and artificial intelligence to generate custom socket designs, based on individual …...
-Reported by VoxelMatters on Mar 03, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/SFU-prosthetic-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/3d-printed-biomechanics
+🦺 ETH Zurich-Led Study Produces Functional 3D Printed Ear Cartilage, Paving Way for Clinical Reconstruction
+Researchers from ETH Zurich, the Friedrich Miescher Institute, and the Cantonal Hospital of Lucerne have leveraged 3D printing to engineer elastic ear cartilage with mechanical properties closely matching natural tissue.
+Using human ear cartilage cells, the team produced constructs that retained shape and flexibility in animal models for six weeks, marking a significant step toward […], reported by 3D Printing Industry on Mar 04, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/image.imageformat.carousel.500290150-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/eth-zurich-led-study-produces-functional-3d-printed-ear-cartilage-paving-way-for-clinical-reconstruction-249532
 
-🚀 Hypersonix Advances Autonomous Hypersonic Aircraft with Successful DART AE Flight
-Australian aerospace company Hypersonix Launch Systems has completed the inaugural flight of its DART AE hypersonic demonstrator, marking a significant step in Australia’s push to develop next generation high speed...
-The mission, titled That’s Not A Knife, lifted off at 7pm Eastern on February 27 aboard Rocket Lab’s HASTE vehicle from Rocket Lab Launch […], reported by 3D Printing Industry on Mar 03, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/69a25bc0095daf36479ea3ad_d4460579-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/hypersonix-advances-autonomous-hypersonic-aircraft-with-successful-dart-ae-flight-249523
+🚀 Conflux Technology 3D printed oil cooler completes full-distance endurance race on Multimatic-engineered car
+Conflux Technology, an Australian engineering company that develops 3D printed heat exchangers, has completed a full-distance endurance race with a configurable transmission oil cooler installed on a Multimatic...
+Built using its configurable core platform, the transmission cooler was adapted to the programme’s specific boundary conditions and produced in two weeks using metal […], reported by 3D Printing Industry on Mar 04, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/Conflux-oil-cooler-used-in-a-full-distance-endurance-race-on-a-Multimatic-engineered-car.-Photo-via-Conflux-Technology-150x100.png
+Read more ? https://3dprintingindustry.com/news/conflux-technology-3d-printed-oil-cooler-completes-full-distance-endurance-race-on-multimatic-engineered-car-249570
 
-🏠 Detoxified Asbestos Cement Becomes PLA Filler For 3D Printing
-A research team proposes using detoxified asbestos cement as a depolymerization regulating filler in PLA composites for 3D printing.
-The post Detoxified Asbestos Cement Becomes PLA Filler For 3D Printing appeared on Fabbaloo.
-Read more ? https://www.fabbaloo.com/news/detoxified-asbestos-cement-becomes-pla-filler-for-3d-printing
+🏠 Third-Party Software Marks New Phase in 3D Concrete Printing Development
+3DCP technology continues to improve, and it’s not only on the hardware side.
+The post Third-Party Software Marks New Phase in 3D Concrete Printing Development appeared on Fabbaloo.
+Read more ? https://www.fabbaloo.com/news/third-party-software-marks-new-phase-in-3d-concrete-printing-development
 
-💻 Issey Miyake 3D prints multi-lens ceramics inspired glasses
-Issey Miyake Eyes has released UROKO, a pair of 3D printed sunglasses that are built around eight concave lenses, as part of its men’s Spring Summer 2026 collection titled Dancing … The post Issey Miyake 3D prints...
-Reported by VoxelMatters on Mar 03, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/issey-miyake-1-UROKO-150x150.jpg
-Read more ? https://www.voxelmatters.com/issey-miyake-3d-prints-multi-lens-ceramics-inspired-glasses
+💻 AMIS Runtime: no more manual build preparation in industrial 3D printing
+The 3D printing industry has always been obsessed with machines and materials, leaving software quietly in the background.
+For years, everyone pretended the problem didn’t exist, or that it simply … The post AMIS Runtime: no more manual build preparation in industrial 3D printing appeared first on VoxelMatters - The heart of additive...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/AMIS1-150x150.webp
+Read more ? https://www.voxelmatters.com/amis-runtime-no-more-manual-build-preparation-in-industrial-3d-printing
 
-🖨 3D Printed Ghost Guns Are Hard to Trace. Researchers May Have Found a Way In
-A team of researchers in Australia has taken a closer look at a problem that is becoming more visible in forensic casework: how to analyse 3D printed firearms when the usual methods no longer work.
-Led by scientists at Curtin University, the study focuses on the plastics used in consumer-grade 3D printers, reported by 3D Printing Industry on Mar 03, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/1-s2.0-S2468170926000032-gr1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/3d-printed-ghost-guns-are-hard-to-trace-researchers-may-have-found-a-way-in-249509
+💻 adidas drops latest 3D printed CLIMACOOL LACED sneaker
+adidas has released a broader retail drop of its 3D printed CLIMACOOL LACED sneaker, making the model widely available after it had a limited quantity debut in 2024.
+The shoe … The post adidas drops latest 3D printed CLIMACOOL LACED sneaker appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/adidas-CLIMACOOL-LACED-01-e1772621725373-150x150.jpg
+Read more ? https://www.voxelmatters.com/adidas-drops-latest-3d-printed-climacool-laced-sneaker
 
-💻 Sözer speeds jewelry production by 70% with 3D printing and digital automation
-Turkish jewelry brand Sözer has been around for over 40 years and has built a global reputation as a specialist in gold chains and other fine jewelry.
-The company was … The post Sözer speeds jewelry production by 70% with 3D printing and digital automation appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/soezer-gold-chains-jewerly-model-150x150.jpeg
-Read more ? https://www.voxelmatters.com/sozer-speeds-jewelry-production-70-percent-3d-printing-digital-automation
+📰 AM I Navigator and Leading Minds form alliance to support industrial adoption of additive manufacturing
+Two industry initiatives focused on additive manufacturing adoption have announced the creation of the Additive Manufacturing Alliance, a framework intended to coordinate efforts supporting the industrial adoption of...
+The alliance brings together Leading Minds, a consortium of additive manufacturing companies focused on industry awareness and communication, and the AM I Navigator, a maturity […], reported by 3D Printing Industry on Mar 04, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/ams-2026-karsten-heuser-brigitte-de-vet-leading-minds-am-i-navigator-150x100.webp
+Read more ? https://3dprintingindustry.com/news/am-i-navigator-and-leading-minds-form-alliance-to-support-industrial-adoption-of-additive-manufacturing-249557
 
-🖨 California Targets 3D Printers in New Bill as States Diverge on Gun Control
-California policymakers are targeting the intersection of consumer 3D printing and firearm production with a bill requiring 3D printers sold in the state to screen what they are asked to produce.
-Assembly Bill 2047, introduced by Assembly Member Bauer-Kahan, sets out a system built around software rather than hardware alone, reported by 3D Printing Industry on Mar 03, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2019/01/9359528e2eacf3d0712e3dad0a083da6_preview_featured-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/california-targets-3d-printers-in-new-bill-as-states-diverge-on-gun-control-249507
+📰 AMUG announces keynote between General Atomics Aeronautical Systems and Divergent
+The Additive Manufacturing Users Group (AMUG), a nonprofit organization that promotes industrial additive manufacturing education and collaboration, has announced a second keynote presentation for the 2026 AMUG...
+Steve Fournier of General Atomics Aeronautical Systems and Scott Sawyer of Divergent will deliver the keynote on March 17, describing […], reported by 3D Printing Industry on Mar 04, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/Fournier-Sawyer-keynote-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/amug-announces-keynote-between-general-atomics-aeronautical-systems-and-divergent-249563
 
-💻 3D People deploys AMIS Runtime in London production facility
-The AM service provider aims to deliver faster turnaround times and higher consistency.
-Reported by TCT Magazine on Mar 03, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/03/IMG_5300.jpeg
-Read more ? https://www.tctmagazine.com/3d-people-deploys-amis-runtime-in-london-production-facility
+💻 From Download to Deadly: California Sues Operators of 3D Printed Gun Network
+California officials have filed a civil lawsuit against an Orlando-based corporation and its affiliated companies and individuals.
+The state accuses them of running an open internet distribution network for digital blueprints used to manufacture 3D printed ghost guns and prohibited firearm accessories, in violation of state law, reported by 3D Printing Industry on Mar 04, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/2022-hcr-001-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/from-download-to-deadly-california-sues-operators-of-3d-printed-gun-network-249575
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
