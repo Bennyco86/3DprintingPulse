@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-06
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #58 - 2026-03-06
+## Stories
 
 🦺 No room for guesswork: Bambu Lab H2D in service of veterinary orthopedic surgery
 How 3D printing lets Dr.
@@ -51,9 +49,3 @@ The technical ceramic additive manufacturing market reached $186.5 million in 20
 More significantly, the market structure has fundamentally shifted: services revenue ($75.8 million, +22.3% YoY) now nearly … The post Ceramic AM market shifts toward services as production scales appeared first on, reported by VoxelMatters on Mar 05, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/ceram-150x150.jpg
 Read more ? https://www.voxelmatters.com/ceramic-am-market-shifts-toward-services-as-production-scales
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
