@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-08
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #60 - 2026-03-08
+## Stories
 
 🦺 Xi’an Jiaotong University team bioprints aligned skeletal muscle tissue using electric fields
 A research team from Xi’an Jiaotong University has developed a method for bioprinting skeletal muscle tissue whose cells align in directions that mirror the architecture of real human muscle.
@@ -51,9 +49,3 @@ Vast has secured $500 million in funding to advance production of its Haven spac
 Reported by VoxelMatters on Mar 06, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/1772719389245-150x150.jpg
 Read more ? https://www.voxelmatters.com/nikon-participates-in-vasts-latest-500-million-funding-round
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
