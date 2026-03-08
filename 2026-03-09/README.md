@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-09
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #61 - 2026-03-09
+## Stories
 
 🦺 How 3D Printing Innovation in Prosthetics Led from CU Labs to Hanger’s Acquisition of Point Designs
 Goulding and Preeti Sulibhavi examine Hanger’s 2025 acquisition of Point Designs, tracing its University of Colorado origins, its advanced 3D printed prosthetic finger portfolio, and how improving federal...
@@ -30,9 +28,3 @@ Read more ? https://3dprint.com/324417/ocl-architectural-lighting-uses-3d-printi
 Velo3D’s website has been hacked.
 The post Velo3D’s Website Hacked, reported by Fabbaloo on Mar 08, 2026.
 Read more ? https://www.fabbaloo.com/news/velo3ds-website-hacked
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
