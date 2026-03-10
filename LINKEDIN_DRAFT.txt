@@ -1,52 +1,52 @@
-﻿# 3D PRINTING PULSE #62 - 2026-03-10
+﻿# 3D PRINTING PULSE #63 - 2026-03-11
 
-🦺 VoxelMatters Medical AM Focus 2026 eBook
-As one of the biggest adopters of additive manufacturing, the medical sector is always on our radar and our annual eBooks on the segment reflect that.
-This year, we are … The post VoxelMatters Medical AM Focus 2026 eBook appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Medical-AM-2026-eBook-Feature-Image-150x150.png
-🔗 Read more: https://www.voxelmatters.com/voxelmatters-medical-am-focus-2026-ebook
+🦺 WSU researchers develop beating, 3D printed heart model for surgical training
+Researchers at Washington State University (WSU) have developed a 3D printed model of the left side of the heart that contracts and beats, giving surgeons and medical students a reusable, … The post WSU researchers...
+Reported by VoxelMatters on Mar 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/3d-printing-of-heart-model-e1773137957718-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/wsu-researchers-develop-beating-3d-printed-heart-model-for-surgical-training
 
-🚀 Technical Review: Evaluating 3D Fuel Pro PCTG for Engineering FDM Applications
-This article presents a technical evaluation by the 3D Printing Industry engineering team of 3D Fuel’s Pro PCTG, a high-performance thermoplastic filament developed for FDM printing.
-Pro PCTG is a glycol-modified copolyester engineered to deliver improved toughness, dimensional stability, chemical resistance, and lower moisture sensitivity compared to standard PET and PETG, reported by 3D Printing Industry on Mar 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Benchmark-Test-Standard-Print-Speed--150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/technical-review-evaluating-3d-fuel-pro-pctg-for-engineering-fdm-applications-249716
+🚀 Lithoz launching three materials at ceramitec 2026
+Ceramic AM pioneer Lithoz is preparing for a big showcase at the upcoming ceramitec 2026 expo.
+Not only will the Austrian company be bringing a number of demonstrator components—including 46 … The post Lithoz launching three materials at ceramitec 2026 appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/LITHOZ_Zirconia_Chainmail-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lithoz-launching-upgraded-materials-ceramitec-2026
 
-♻️ Airtech to showcase new sustainable composite materials and 3D printed tooling at JEC World 2026
-Airtech will present an expanded portfolio of sustainable materials and large-format additive manufacturing applications at JEC World 2026, demonstrating how 3D printed tooling and recycled composite resins can...
-Reported by VoxelMatters on Mar 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Airtec_JEC2026_-2026-03-05-alle-17.08.11-1-scaled-e1773053964156-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/airtech-to-showcase-new-sustainable-composite-materials-and-3d-printed-tooling-at-jec-world-2026
+♻️ LAMA brings LFAM of recycled plastics to Latin America with robotic extrusion system
+LAMA, a Santiago-based company founded in August 2025, is using industrial robotic arms fitted with specialized polymer extruders from the Italian company REV3RD to produce large-format design objects and urban … The...
+Reported by VoxelMatters on Mar 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/LAMA_3D_Chile_LFAM_IMG_5839-2-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lama-brings-large-scale-recycled-plastic-3d-printing-to-latin-america-with-robotic-extrusion-platform
 
-🖨 INTERVIEW: Will Perseus Materials’ Bet on Self-propagating Chemistry be “world’s fastest” Composite Manufacturing Technology?
-A Stanford-spinout startup is developing a continuous composite manufacturing process it says can produce structural parts larger than the machine making them, using a self-propagating chemical reaction to eliminate...
-The chemistry originated at the California university, where researchers were working on a chemically recyclable resin for composite […], reported by 3D Printing Industry on Mar 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/The-Perseus-Materials-team-at-JEC.-Photo-via-Perseus-Materials-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/interview-will-perseus-materials-bet-on-self-propagating-chemistry-be-worlds-fastest-composite-manufacturing-technology-249731
+📰 rpm and amsight develop 3D printed padding system for EOD helmets
+Additive manufacturing is being extensively deployed in military applications, across a range of equipment, vehicle parts, UAVs, and much more.
+Safety gear is one such area, and rapid product manufacturing … The post rpm and amsight develop 3D printed padding system for EOD helmets appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Safety-critical-helmet-padding-using-3D-printing-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/rpm-and-amsight-develop-3d-printed-padding-system-for-eod-helmets
 
-📰 Lithoz presents three ceramic 3D printing material updates
-The company, which specialises in Lithography-based Ceramic Manufacturing, will present the updates at Ceramitec.
-Reported by TCT Magazine on Mar 09, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/LITHOZ_Alumina-and-ATZ_Heartpump-1.jpg
-🔗 Read more: https://www.tctmagazine.com/lithoz-presents-three-ceramic-3d-printing-material-updates
+🚀 Nikon AM signs U.S. Defense Innovation Unit contract to reduce production bottlenecks with 3D printing
+Department of War (DoW) Defense Innovation Unit (DIU) is aiming to tackle production bottlenecks for its aeronautical systems using Nikon Advanced Manufacturing's metal additive manufacturing (AM) technology.
+The company's Nikon AM Synergy arm, which provides engineering and manufacturing services from its technology centre, reported by TCT Magazine on Mar 10, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Nikon-AM-Synergy-Long-Beach-front.JPEG
+🔗 Read more: https://www.tctmagazine.com/nikon-am-signs-u-s-defense-innovation-unit-contract-to-reduce-production-bottlenecks-with-3d-printing
 
-🚀 Kaneko Optical Launches UROKO, a New 3D Printed Eyewear Collection for ISSEY MIYAKE MEN SS26
-Kaneko Optical, a Japanese eyewear brand, has used 3D printing to translate the surface language of Japanese ceramics into wearable form, releasing UROKO, a new limited eyewear model for Japanese designer ISSEY...
-Eight Lenses, One Ceramic Reference UROKO departs […], reported by 3D Printing Industry on Mar 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Screenshot-2026-03-09-at-15.57.39-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/kaneko-optical-launches-uroko-a-new-3d-printed-eyewear-collection-for-issey-miyake-men-ss26-249704
+🖨 [INTERVIEW] Creality CEO pitches long-term growth story as it prepares for IPO
+Desktop 3D printing has grown quickly, but its place in everyday life remains uncertain.
+As Creality moves towards a public listing, its founder is asking investors to look past product cycles and short-term results to a harder question: whether the market itself can still expand, reported by 3D Printing Industry on Mar 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Creality-at-Formnext-2025.-Photo-by-Michael-Petch-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/interview-creality-ceo-pitches-long-term-growth-story-as-it-prepares-for-ipo-249770
 
-🖨 Stratasys Achieves Major Reliability Milestone with Industrial Partners
-3D printer OEM Stratasys has reported a 22% year-over-year increase in system reliability for its F900 industrial printer, the result of targeted manufacturing upgrades rolled out in 2025 alongside its industrial...
-The improvements tackled production-scale obstacles directly, giving customers a stronger foundation to expand additive manufacturing into end-use parts and real-world […], reported by 3D Printing Industry on Mar 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/STRP050_F900_with_part_transparent_bkg-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/stratasys-achieves-major-reliability-milestone-with-industrial-partners-249699
+📰 3D Printed plug-and-play Packaging Enables low-loss Fiber Coupling for Photonic Chips
+Researchers led by Erik Jung from Heidelberg University, a German research university with programs in photonics and nanotechnology, together with collaborators including Wolfram Pernice from University of Münster, a...
+Reported by 3D Printing Industry on Mar 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Plug-and-play-concept.-Photo-via-Science-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/3d-printed-plug-and-play-packaging-enables-low-loss-fiber-coupling-for-photonic-chips-249763
 
-🖨 Ter Hoek places faith in XJet for expansion into ceramics
-Ter Hoek, a precision manufacturing specialist based in Rijssen, Netherlands, has acquired an XJet Carmel 1400C ceramic 3D printing system, as it expands its production capabilities from metal-based processes into …...
-Reported by VoxelMatters on Mar 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/XJet-1400C-Alumina-system-installed-at-Ter-Hoek-facility-in-Rijssen-The-Netherlands-e1773071474477-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ter-hoek-places-faith-in-xjet-for-expansion-into-ceramics
+🚀 3D People deploys AMIS Runtime to automate additive manufacturing build preparation
+UK additive manufacturing service provider 3D People has deployed AMIS Runtime, a programmable build preparation engine, across its London production facility.
+Announced on March 3, 2026, the deployment integrates automated build preparation into the company’s polymer powder bed fusion production workflows, reported by 3D Printing Industry on Mar 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/02/FrontImage_AMIS_Runtime-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/3d-people-deploys-amis-runtime-to-automate-additive-manufacturing-build-preparation-249738
 
 ---
 *Originally published at: https://www.quality3ds.com/*

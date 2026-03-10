@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #63 - 2026-03-11
+## Stories
 
 🦺 WSU researchers develop beating, 3D printed heart model for surgical training
 Researchers at Washington State University (WSU) have developed a 3D printed model of the left side of the heart that contracts and beats, giving surgeons and medical students a reusable, … The post WSU researchers...
@@ -51,9 +49,3 @@ UK additive manufacturing service provider 3D People has deployed AMIS Runtime, 
 Announced on March 3, 2026, the deployment integrates automated build preparation into the company’s polymer powder bed fusion production workflows, reported by 3D Printing Industry on Mar 10, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/02/FrontImage_AMIS_Runtime-150x100.png
 Read more ? https://3dprintingindustry.com/news/3d-people-deploys-amis-runtime-to-automate-additive-manufacturing-build-preparation-249738
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
