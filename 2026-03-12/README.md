@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-12
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #64 - 2026-03-12
+## Stories
 
 🦺 Leitat advances personalized medical device capabilities through DiMεD network
 Leitat Technological Center strengthened its capabilities in the development of personalized invasive medical devices through the Cervera DiMεD Network of Excellence, a project financed by Spain’s CDTI (Centro para...
@@ -51,9 +49,3 @@ America Makes, the U.S.
 national additive manufacturing innovation institute, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two new project calls totaling more than $35 million in funding, reported by 3D Printing Industry on Mar 11, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/america-makes-launches-two-dod-additive-manufacturing-project-calls-worth-over-35m-249741
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
