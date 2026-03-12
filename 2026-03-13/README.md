@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-13
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #65 - 2026-03-13
+## Stories
 
 🦺 Ter Hoek Installs XJet Carmel 1400C to Enter Technical Ceramic Manufacturing
 Ter Hoek, a precision manufacturing specialist based in Netherlands, has installed the XJet Carmel 1400C ceramic 3D printing system.
@@ -50,9 +48,3 @@ Texas-based ICON opened reservations for Titan, a multi-story robotic constructi
 The program marks … The post ICON launches Titan, its first commercially available multi-story construction 3D printer appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/ICON_s-Titan_Photo-Credit-Casey-Dunn-150x150.jpg
 Read more ? https://www.voxelmatters.com/icon-launches-titan-its-first-commercially-available-multi-story-construction-3d-printer
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

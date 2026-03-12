@@ -1,52 +1,51 @@
-﻿# 3D PRINTING PULSE #64 - 2026-03-12
+﻿# 3D PRINTING PULSE #65 - 2026-03-13
 
-🦺 Leitat advances personalized medical device capabilities through DiMεD network
-Leitat Technological Center strengthened its capabilities in the development of personalized invasive medical devices through the Cervera DiMεD Network of Excellence, a project financed by Spain’s CDTI (Centro para...
-Reported by VoxelMatters on Mar 11, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/DiMεD_Leitat_1772788192626-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/leitat-advances-personalized-medical-device-capabilities-through-dim%ce%b5d-network
+🦺 Ter Hoek Installs XJet Carmel 1400C to Enter Technical Ceramic Manufacturing
+Ter Hoek, a precision manufacturing specialist based in Netherlands, has installed the XJet Carmel 1400C ceramic 3D printing system.
+The move brings NanoParticle Jetting (NPJ) technology, developed by Israeli firm XJet, into one of Europe’s established precision manufacturing environments, with target applications in aerospace, semiconductor, and, reported by 3D Printing Industry on Mar 12, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Image-2-1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/ter-hoek-installs-xjet-carmel-1400c-to-enter-technical-ceramic-manufacturing-249824
 
-🚀 Addiguru enters &amp; expands several partnerships to advance adoption of in-situ monitoring technology
-Renishaw, Apex Additive, MTC, LISI Aerospace &amp; the University of Bolton are all working with Addiguru.
-Reported by TCT Magazine on Mar 11, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Authentise-and-Addiguru.png
-🔗 Read more: https://www.tctmagazine.com/addiguru-enters-expands-several-partnerships-to-advance-adoption-of-in-situ-monitoring-technology
+🚀 New Aibuild OS automates engineering lifecycle from CAD to CAM
+UK-based AM software company Aibuild has introduced Aibuild OS, an advanced AI-based operating system that automates the engineering lifecycle, from CAD to CAM.
+The OS uses agentic AI to deliver … The post New Aibuild OS automates engineering lifecycle from CAD to CAM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Aibuild-OS-3-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/aibuild-os-automates-engineering-lifecycle-cad-cam
 
-🏠 ACMI installs AMCM M 8K metal 3D printing system
-American Center for Manufacturing and Innovation (ACMI), a U.S.
-organization focused on strengthening domestic manufacturing through investments in emerging industrial companies and infrastructure, has acquired an AMCM M 8K metal 3D printing system, reported by 3D Printing Industry on Mar 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/AMCM_M8K-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/acmi-installs-amcm-m-8k-metal-3d-printing-system-249752
+🏠 UK care provider exploring nutrient-rich 3D printed food
+Spellman Care, a company that operates a series of nursing homes for elderly residents in Yorkshire, UK, has teamed up with the University of Leeds to examine the use of … The post UK care provider exploring...
+Reported by VoxelMatters on Mar 12, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Carehome-3D-printed-food_02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/uk-care-provider-exploring-nutrient-rich-3d-printed-food
 
-🚀 Texas A&amp;M and U.S. Army Develop Foam That Absorbs Ten Times More Energy
-Researchers at Texas A&amp;M University and the DEVCOM Army Research Laboratory have engineered a composite that absorbs up to ten times more energy than conventional padding, threading a 3D printed elastomeric skeleton...
-The implications stretch well beyond […], reported by 3D Printing Industry on Mar 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/20251103_Mohammad_Naraghi_Lab_AT_0016-1408x792-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/texas-am-and-u-s-army-develop-foam-that-absorbs-ten-times-more-energy-249780
+♻️ Why Recycling 3D Printed Plastic Remains Difficult Despite Growing Interest
+Everyone wants to recycle their 3D prints, but it is quite difficult to do so.
+The post Why Recycling 3D Printed Plastic Remains Difficult Despite Growing Interest appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/why-recycling-3d-printed-plastic-remains-difficult-despite-growing-interest
 
-📰 EPFL develops 3D printable bone scaffold using enzyme-driven mineralization
-Researchers at the École Polytechnique Fédérale de Lausanne (EPFL) have developed a method to 3D print porous scaffolds made from hydroxyapatite (HA), which is the primary mineral component of bone.
-… The post EPFL develops 3D printable bone scaffold using enzyme-driven mineralization appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Cylindrical-demonstrations-of-the-3D-printed-scaffolds-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/epfl-develops-3d-printable-bone-scaffold-using-enzyme-driven-mineralization
+💻 How additive manufacturing can realise the promise of AI at production scale
+Tyler Bouchard and Tyler Modelski explore the fundamental changes needed to scale industrial artificial intelligence in additive manufacturing.
+Reported by TCT Magazine on Mar 12, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/tct-featured-article.jpg
+🔗 Read more: https://www.tctmagazine.com/how-additive-manufacturing-can-realise-the-promise-of-ai-at-production-scale
 
-🖨 New IP Case Against Bambu Lab Heads to Shanghai Court
-In its latest legal challenge, 3D printer manufacturer Bambu Lab has been sued by Chinese toymaker Pop Mart over copyright infringement claims tied to knockoff Labubu files that were uploaded to Bambu Lab’s...
-The suit was filed at the People’s Court of Pudong New Area in Shanghai, with the trial scheduled for […], reported by 3D Printing Industry on Mar 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/bb8bbb3f-0c66-4e8f-ac6a-d3ac4d7683cd_edd804f5-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/new-ip-case-against-bambu-lab-heads-to-shanghai-court-249801
+🚀 Formlabs officially launches Form Now 3D printing service with two-day US delivery
+Formlabs officially launched Form Now, its previously announced commercial 3D printing service.
+Form Now gives customers direct access to the company’s industrial stereolithography and selective laser sintering machines without requiring … The post Formlabs officially launches Form Now 3D printing service with, reported by VoxelMatters on Mar 12, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Formlabs_Form_Now_-2026-03-12-alle-15-1.19.44-e1773327174726-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/formlabs-officially-launches-form-now-3d-printing-service-with-two-day-domestic-delivery
 
-🦺 GELITA and Black Drop collaborate on GelMA bioinks for 3D bioprinting research
-GELITA, a German manufacturer of collagen proteins and gelatin used in food, pharmaceutical, and biomedical applications, has signed a research and development agreement with Black Drop, a biotechnology company...
-The collaboration will focus on developing bioinks for biomedical uses, including three-dimensional tissue models and implants, reported by 3D Printing Industry on Mar 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/GELITA_BlackDrop_1_med-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/gelita-and-black-drop-collaborate-on-gelma-bioinks-for-3d-bioprinting-research-249746
+🖨 University of Strathclyde researchers 3D print super-resolution microscopy lenses
+Researchers at the University of Strathclyde have produced high-quality optical lenses using consumer-grade 3D printers, which demonstrate performance comparable to commercial optics for super-resolution fluorescence...
+The university reported it … The post University of Strathclyde researchers 3D print super-resolution microscopy lenses appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Uni-Strathclyde-microscopic-lens_02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/university-of-strathclyde-researchers-3d-print-super-resolution-microscopy-lenses
 
-🚀 America Makes launches two DoD additive manufacturing project calls worth over $35M
-America Makes, the U.S.
-national additive manufacturing innovation institute, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two new project calls totaling more than $35 million in funding, reported by 3D Printing Industry on Mar 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/america-makes-launches-two-dod-additive-manufacturing-project-calls-worth-over-35m-249741
+🚀 ICON launches Titan, its first commercially available multi-story construction 3D printer
+Texas-based ICON opened reservations for Titan, a multi-story robotic construction system the Austin company made available for purchase by builders and construction firms for the first time.
+The program marks … The post ICON launches Titan, its first commercially available multi-story construction 3D printer appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/ICON_s-Titan_Photo-Credit-Casey-Dunn-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/icon-launches-titan-its-first-commercially-available-multi-story-construction-3d-printer
 
 ---
 *Originally published at: https://www.quality3ds.com/*
