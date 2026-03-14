@@ -1,52 +1,47 @@
-﻿# 3D PRINTING PULSE #66 - 2026-03-14
+﻿# 3D PRINTING PULSE #67 - 2026-03-15
 
-🦺 Future Form acquires HP Multi Jet Fusion 3D printer
-Future Form, a U.S.
-manufacturer producing precision-engineered components for the data center, medical, defense, nuclear, and aerospace industries, has introduced plastic 3D printing services to its manufacturing portfolio, reported by 3D Printing Industry on Mar 13, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Future_Form_HP_Multi_Jet_Fusion_MJF_3D_printing_system-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/future-form-acquires-hp-multi-jet-fusion-3d-printer-249857
+🚀 Intergalactic Turns to Velo3D to Accelerate Aircraft Heat Exchanger Development
+A new aviation project shows how metal 3D printing can dramatically shorten the time it takes to turn a design into a working aircraft component.
+Velo3D announced that aerospace supplier, reported by 3DPrint.com on Mar 13, 2026.
+🔗 Read more: https://3dprint.com/324538/intergalactic-turns-to-velo3d-to-accelerate-aircraft-heat-exchanger-development
 
-🚀 Prototype Integrates Bitcoin Mining ASICs into 3D Printer Bed
-A mechanical engineer based in North Dakota and known online as PizzAndy has developed a prototype 3D printer that replaces conventional resistive bed heating with Bitcoin mining ASIC chips.
-Showcased on the Home Mining Podcast, the system embeds mining hardware beneath the print surface so that hashing activity generates heat while simultaneously mining Bitcoin, reported by 3D Printing Industry on Mar 13, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/PizzAndy-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/prototype-integrates-bitcoin-mining-asics-into-3d-printer-bed-249862
+🏠 Urban village demolition waste turned into 3D printed street furniture
+A research-driven project called Inorganic Growth has converted construction waste sourced from demolished urban villages into 3D printed street furniture.
+The initiative, from studio Bentu Design, combined material reprocessing with … The post Urban village demolition waste turned into 3D printed street furniture appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/3D-printed-street-furniture_04-e1773481995104-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/urban-village-demolition-waste-turned-into-3d-printed-street-furniture
 
-🏠 3D printed metallic glass alloys aim to reduce EV motor losses
-Researchers at Saarland University have developed iron-rich amorphous alloys for electric motor components, an advancement which could help electric vehicles reduce energy consumption and operate for longer periods.
-The alloys … The post 3D printed metallic glass alloys aim to reduce EV motor losses appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Metallic-glass-in-EVs_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/saarland-university-develops-3d-printed-metallic-glass-alloys-to-reduce-ev-motor-losses
+🖨 Aconity3D releases multi-material welding head for AconityWIRE
+Aconity3D, a German company specializing in metal 3D printing, has released a multi-material welding head for its AconityWIRE directed energy deposition (DED) platform.
+The component makes the processing of up … The post Aconity3D releases multi-material welding head for AconityWIRE appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/AconityWIRE_01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/aconity3d-releases-multi-material-welding-head-for-aconitywire
 
-📰 America Makes announces $1.3M CATACS selection
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected project teams for the Corrosion of Additive – Tested At Component Scale (CATACS) program.
-The $1.3 … The post America Makes announces $1.3M CATACS selection appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/America-Makes-facility-face-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/america-makes-announces-1-3m-catacs-selection
+💻 TCT Asia 2026 Now Returns to Shanghai Bigger Than Ever
+Additive manufacturing has come a long way in a short time, and TCT Asia 2026 is a decent measure of that.
+When the show opens at the National Exhibition and Convention Center in Shanghai on March 17 to 19, it will do so with 550 exhibitors across 55,000 sq, reported by 3D Printing Industry on Mar 14, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/f30be1e730064a1ba9825b3fa7352c8-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/tct-asia-2026-now-returns-to-shanghai-bigger-than-ever-249912
 
-📰 Over 500 exhibitors from around the globe register for Formnext 2026
-While the event is still eight months away, preparations are very much underway for Formnext 2026 in Frankfurt, Germany.
-The major AM trade show, which last year celebrated its 10th … The post Over 500 exhibitors from around the globe register for Formnext 2026 appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/formnext-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/over-500-exhibitors-from-around-the-globe-register-for-formnext-2026
+📰 XTPL Sells First ODRA System to Silicon Valley Semiconductor Packaging Client
+One prerequisite for success in additive manufacturing (AM) is the establishment of a proven system for converting initial sales used as tech validation into future sales of higher-value hardware that’s...
+Reported by 3DPrint.com on Mar 13, 2026.
+🔗 Read more: https://3dprint.com/324544/3d-printed-advanced-packaging-specialist-xtpl-sells-first-odra-system-to-silicon-valley-client
 
-📰 USF using 3D printed clay structures to restore oyster populations
-Students and faculty at the University of South Florida (USF) have installed 3D printed clay structures along the seawall of Bayboro Harbor in St.
-Petersburg, Florida, as part of a … The post USF using 3D printed clay structures to restore oyster populations appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/oyster-restoration-brick-structures_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/usf-using-3d-printed-clay-structures-to-restore-oyster-populations
+📰 Ursa Major, AFRL Show AM’s Role in Future Deterrence Through Draper Test Flight
+The war in Iran is only about two weeks old, but countless lessons — and warnings — have already emerged for militaries across the planet and the economy in general....
+Reported by 3DPrint.com on Mar 13, 2026.
+🔗 Read more: https://3dprint.com/324558/ursa-major-afrl-show-ams-role-in-future-deterrence-through-draper-test-flight
 
-🚀 Addiguru Expands Collaborations to Study In-situ Monitoring and Defect Detection
-Addiguru, a company that develops multi-sensor monitoring systems for metal additive manufacturing, has announced a series of collaborations with manufacturers and research organisations aimed at improving defect...
-Partners include Apex Additive Technologies, Renishaw, Additive Manufacturing Solutions (AMS), LISI AEROSPACE Additive Manufacturing, The Manufacturing Technology Centre (MTC), and the Centre for […], reported by 3D Printing Industry on Mar 13, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/addiguru-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/addiguru-expands-collaborations-to-study-in-situ-monitoring-and-defect-detection-249868
+📰 Dallas, Texas Is a Drone and 3D Printing Place to Be
+Goulding and Preeti Sulibhavi explore how Dallas, Texas, has quietly become a national hotspot where drone manufacturing and 3D printing converge to drive rapid innovation, scalable production, and defense-focused...
+The post Dallas, Texas Is a Drone and 3D Printing Place to Be appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/dallas-texas-is-a-drone-and-3d-printing-place-to-be
 
-🖨 Application spotlight: Lead time of automotive upright reduced from 4 days to 4 hours with metal additive manufacturing
-Cognitive Design Systems software provided a clearer view of the cost implications of using AM.
-Reported by TCT Magazine on Mar 13, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Untitled-design--18--1.png
-🔗 Read more: https://www.tctmagazine.com/application-spotlight-lead-time-of-automotive-upright-reduced-from-4-days-to-4-hours-with-metal-additive-manufacturing
+🖨 Ameralabs Publishes Comprehensive 23-Point Safety Analysis of 3D Printing Resin
+Ameralabs has published a fascinating analysis of the toxicity of 3D printer resin.
+The post Ameralabs Publishes Comprehensive 23-Point Safety Analysis of 3D Printing Resin appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/ameralabs-publishes-comprehensive-23-point-safety-analysis-of-3d-printing-resin
 
 ---
 *Originally published at: https://www.quality3ds.com/*

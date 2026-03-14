@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-15
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #67 - 2026-03-15
+## Stories
 
 🚀 Intergalactic Turns to Velo3D to Accelerate Aircraft Heat Exchanger Development
 A new aviation project shows how metal 3D printing can dramatically shorten the time it takes to turn a design into a working aircraft component.
@@ -46,9 +44,3 @@ Read more ? https://www.fabbaloo.com/news/dallas-texas-is-a-drone-and-3d-printin
 Ameralabs has published a fascinating analysis of the toxicity of 3D printer resin.
 The post Ameralabs Publishes Comprehensive 23-Point Safety Analysis of 3D Printing Resin appeared on Fabbaloo.
 Read more ? https://www.fabbaloo.com/news/ameralabs-publishes-comprehensive-23-point-safety-analysis-of-3d-printing-resin
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
