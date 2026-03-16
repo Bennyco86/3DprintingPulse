@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-17
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #69 - 2026-03-17
+## Stories
 
 🦺 Cairn Surgical submits De Novo 510(k) FDA application for 3D printing-enabled Breast Cancer Locator System
 A medical device can be designated for the De Novo pathway when it offers novel technology with a reasonable assurance of safety and effectiveness.
@@ -51,9 +49,3 @@ Because of my professional background (10 years spent as a trade journalist in t
 Usually, it’s about … The post Nike launches first virtual 3D printed shoe in Fortnite with the Air Max 95000 appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/fortnite-nike-zellerfeld-150x150.jpg
 Read more ? https://www.voxelmatters.com/nike-launches-first-virtual-3d-printed-shoe-in-fortnite-with-the-air-max-95000
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
