@@ -2,50 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #67 - 2026-03-15
+### 3D PRINTING PULSE #68 - 2026-03-16
 
-🚀 Intergalactic Turns to Velo3D to Accelerate Aircraft Heat Exchanger Development
-A new aviation project shows how metal 3D printing can dramatically shorten the time it takes to turn a design into a working aircraft component.
-Velo3D announced that aerospace supplier, reported by 3DPrint.com on Mar 13, 2026.
-Read more ? https://3dprint.com/324538/intergalactic-turns-to-velo3d-to-accelerate-aircraft-heat-exchanger-development
+🦺 #242 Inside XJet's new product & market strategy with CEO Guy Zimmerman
+Amnovis is a manufacturing production service that supplies parts to the medical and industrial sectors.
+Reported by TCT Magazine on Mar 16, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/03/Additive-Insight-Re-Design--17-.png
+Read more ? https://www.tctmagazine.com/podcasts/242-inside-xjets-new-product-market-strategy-with-ceo-guy-zimmerman
 
-🏠 Urban village demolition waste turned into 3D printed street furniture
-A research-driven project called Inorganic Growth has converted construction waste sourced from demolished urban villages into 3D printed street furniture.
-The initiative, from studio Bentu Design, combined material reprocessing with … The post Urban village demolition waste turned into 3D printed street furniture appeared first on VoxelMatters - The heart of additive...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/3D-printed-street-furniture_04-e1773481995104-150x150.jpg
-Read more ? https://www.voxelmatters.com/urban-village-demolition-waste-turned-into-3d-printed-street-furniture
+🚀 Nikon AM Synergy Secures US Department of War Contract to Qualify AM for Aeronautical Systems
+Nikon AM Synergy, the engineering and manufacturing arm of Nikon Advanced Manufacturing, has secured an Other Transition Agreement (OTA) contract with the U.S.
+Department of War’s Defense Innovation Unit (DIU) under the Foundry for Operational Readiness and Global Effects (FORGE) program, reported by 3D Printing Industry on Mar 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/1773147342023-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/nikon-am-synergy-secures-us-department-of-war-contract-to-qualify-am-for-aeronautical-systems-249899
 
-🖨 Aconity3D releases multi-material welding head for AconityWIRE
-Aconity3D, a German company specializing in metal 3D printing, has released a multi-material welding head for its AconityWIRE directed energy deposition (DED) platform.
-The component makes the processing of up … The post Aconity3D releases multi-material welding head for AconityWIRE appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/AconityWIRE_01-150x150.jpg
-Read more ? https://www.voxelmatters.com/aconity3d-releases-multi-material-welding-head-for-aconitywire
+🏠 A Smart Printer Enclosure for the Open Source World
+3D printing has had its time to spread its wings into the everyday home, yet many of those homes lack the proper ventilation to prevent the toxic VOCs from escaping.
+Reported by Hackaday 3D Printing on Mar 15, 2026.
+Image ? https://hackaday.com/wp-content/uploads/2026/03/HeroShot1_49e186.jpg
+Read more ? https://hackaday.com/2026/03/15/a-smart-printer-enclosure-for-the-open-source-world
 
-💻 TCT Asia 2026 Now Returns to Shanghai Bigger Than Ever
-Additive manufacturing has come a long way in a short time, and TCT Asia 2026 is a decent measure of that.
-When the show opens at the National Exhibition and Convention Center in Shanghai on March 17 to 19, it will do so with 550 exhibitors across 55,000 sq, reported by 3D Printing Industry on Mar 14, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/f30be1e730064a1ba9825b3fa7352c8-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/tct-asia-2026-now-returns-to-shanghai-bigger-than-ever-249912
+📰 A large format portal to the future of composite 3D printing
+The biggest show in the world for the composites industry, JEC World, is a great place to see the latest developments in advanced manufacturing for some of the most advanced … The post A large format portal to the...
+Reported by VoxelMatters on Mar 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/JEC-WORLD-2026-entrance-150x150.png
+Read more ? https://www.voxelmatters.com/an-lfam-platform-to-the-future-of-composite-3d-printing
 
-📰 XTPL Sells First ODRA System to Silicon Valley Semiconductor Packaging Client
-One prerequisite for success in additive manufacturing (AM) is the establishment of a proven system for converting initial sales used as tech validation into future sales of higher-value hardware that’s...
-Reported by 3DPrint.com on Mar 13, 2026.
-Read more ? https://3dprint.com/324544/3d-printed-advanced-packaging-specialist-xtpl-sells-first-odra-system-to-silicon-valley-client
+🖨 America Makes and NCDMM Target Metal AM’s Corrosion Testing Problem
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have revealed the recipients of a newly funded initiative backed by the Office of the Under Secretary of Defense, Manufacturing...
+Totaling $1.3 million, the initiative, titled Corrosion of Additive – Tested At Component Scale (CATACS), targets one of additive […], reported by 3D Printing Industry on Mar 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/america-makes-and-ncdmm-target-metal-ams-corrosion-testing-problem-249904
 
-📰 Ursa Major, AFRL Show AM’s Role in Future Deterrence Through Draper Test Flight
-The war in Iran is only about two weeks old, but countless lessons — and warnings — have already emerged for militaries across the planet and the economy in general....
-Reported by 3DPrint.com on Mar 13, 2026.
-Read more ? https://3dprint.com/324558/ursa-major-afrl-show-ams-role-in-future-deterrence-through-draper-test-flight
+🚀 ICON launches Titan program to commercialize robotic 3D printing construction system for builders
+ICON, a Texas-based construction technology company developing large-scale 3D printing systems, has commercially launched its Titan robotic construction platform.
+Announced on March 11, 2026, the new Titan program allows builders and construction companies to acquire ICON’s integrated 3D printing construction system, marking the first time the company has offered its full, reported by 3D Printing Industry on Mar 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/Operating-Titan_Photo-Credit-Casey-Dunn-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/icon-launches-titan-program-to-commercialize-robotic-3d-printing-construction-system-for-builders-249907
 
-📰 Dallas, Texas Is a Drone and 3D Printing Place to Be
-Goulding and Preeti Sulibhavi explore how Dallas, Texas, has quietly become a national hotspot where drone manufacturing and 3D printing converge to drive rapid innovation, scalable production, and defense-focused...
-The post Dallas, Texas Is a Drone and 3D Printing Place to Be appeared on Fabbaloo.
-Read more ? https://www.fabbaloo.com/news/dallas-texas-is-a-drone-and-3d-printing-place-to-be
+💻 How F1 teams are using 3D printed pistons to circumvent compression rules
+Formula 1’s governing body, the FIA, introduced a revised compression ratio ceiling of 16:1 for the 2026 season, down from the previous limit of 18:1, with the aim of reducing … The post How F1 teams are using 3D...
+Reported by VoxelMatters on Mar 15, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/3D-printed-F1-pistons_Mercedes_02-e1773614498464-150x150.jpg
+Read more ? https://www.voxelmatters.com/how-f1-teams-are-using-3d-printed-pistons-to-circumvent-compression-rules
 
-🖨 Ameralabs Publishes Comprehensive 23-Point Safety Analysis of 3D Printing Resin
-Ameralabs has published a fascinating analysis of the toxicity of 3D printer resin.
-The post Ameralabs Publishes Comprehensive 23-Point Safety Analysis of 3D Printing Resin appeared on Fabbaloo.
-Read more ? https://www.fabbaloo.com/news/ameralabs-publishes-comprehensive-23-point-safety-analysis-of-3d-printing-resin
+📷 Affordable custom 3D printed cycling shoes use smartphone foot-scan technology
+Cycling shoes can be a cyclist’s best, or worst, friend.
+A great fit will make any ride a pleasure, but even the slightest of pinches or pressure in the wrong … The post Affordable custom 3D printed cycling shoes use smartphone foot-scan technology appeared first on, reported by VoxelMatters on Mar 15, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Hezo-cycling-shoes_07-150x150.jpg
+Read more ? https://www.voxelmatters.com/affordable-custom-3d-printed-cycling-shoes-use-smartphone-foot-scan-technology
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
