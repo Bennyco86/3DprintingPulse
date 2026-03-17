@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-18
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #70 - 2026-03-18
+## Stories
 
 🦺 Hot-wire Laser Additive Manufacturing Produces Defect-free WC–Co Cemented Carbide
 Researchers led by Keita Marumoto at Hiroshima University together with collaborators from Mitsubishi Materials Hardmetal Corporation, a manufacturer of cemented carbide tooling materials, investigated how laser...
@@ -51,9 +49,3 @@ NIDEC Machine Tool America, a company that supplies gear-making machines and man
 The division includes LAMDA, a laser powder directed energy deposition (LP-DED) metal additive manufacturing system; ABLASER, a laser micromachining platform; and BOND MEISTER, a […], reported by 3D Printing Industry on Mar 16, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/NIDEC_Advanced_Manufacturing_Technologies_Lineup-150x100.png
 Read more ? https://3dprintingindustry.com/news/nidec-machine-tool-america-rebrands-am-division-as-advanced-manufacturing-technologies-249940
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

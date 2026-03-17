@@ -1,52 +1,52 @@
-﻿# 3D PRINTING PULSE #69 - 2026-03-17
+﻿# 3D PRINTING PULSE #70 - 2026-03-18
 
-🦺 Cairn Surgical submits De Novo 510(k) FDA application for 3D printing-enabled Breast Cancer Locator System
-A medical device can be designated for the De Novo pathway when it offers novel technology with a reasonable assurance of safety and effectiveness.
-Reported by TCT Magazine on Mar 16, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/bright-crop-scaled-1-1.png
-🔗 Read more: https://www.tctmagazine.com/cairn-surgical-submits-de-novo-510-k-fda-application-for-3d-printing-enabled-breast-cancer-locator-system
+🦺 Hot-wire Laser Additive Manufacturing Produces Defect-free WC–Co Cemented Carbide
+Researchers led by Keita Marumoto at Hiroshima University together with collaborators from Mitsubishi Materials Hardmetal Corporation, a manufacturer of cemented carbide tooling materials, investigated how laser...
+The results published in the International Journal of Refractory Metals and Hard Materials show that combining […], reported by 3D Printing Industry on Mar 16, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/SEM-image-of-cemented-carbide-molded-with-the-rod‑leading-method.-Image-via-ScienceDirect-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/hot-wire-laser-additive-manufacturing-produces-defect-free-wc-co-cemented-carbide-249946
 
-🚀 Mechnano expands CNT tech to three flexible elastomers for pellet-based additive manufacturing
-"By enabling consistent CNT functionality across multiple material types and additive processes, they give engineers the flexibility to prototype functional components without being tied to a single hardware system.”
-Reported by TCT Magazine on Mar 16, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Mechnano-Pellet-Elastomers.png
-🔗 Read more: https://www.tctmagazine.com/mechnano-expands-cnt-tech-to-three-flexible-elastomers-for-pellet-based-additive-manufacturing
+🚀 PrintPal Launches Browser-based Tool Suite
+PrintPal, a 3D printing technology platform headquartered in Chicago, Illinois, has launched PrintPal Tools, a suite of more than 15 browser-based tools for hobbyists, professional makers, and online sellers.
+All tools run entirely in a browser and can be accessed without installing software or creating an account, reported by 3D Printing Industry on Mar 16, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/flelele-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/printpal-launches-browser-based-tool-suite-249934
 
-🏠 How I 3D Printed My Own Lego-Compatible Train Bridges
-Lego train sets have been available for decades, now.
-The Danish manufacturer long ago realized the magic of combining its building block sets with motors and plastic rails to create …read more, reported by Hackaday 3D Printing on Mar 16, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2026/03/HAD-concept-2.jpg
-🔗 Read more: https://hackaday.com/2026/03/16/how-i-3d-printed-my-own-lego-compatible-train-bridges
+🖨 Hanin debuts elastomer 3D printer at TCT Asia
+The LCD-L298 promises 'high precision and high efficiency for dual-component elastomer printing' and highlights potential applications across footwear, consumer electronics and more.
+Reported by TCT Magazine on Mar 17, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Hanin-3D-printer.png
+🔗 Read more: https://www.tctmagazine.com/hanin-debuts-elastomer-3d-printer-at-tct-asia
 
-📰 Pete Pharma and Atrium24 partner to bring 3D printing to independents
-Pete Pharma, a pharmaceutical innovation and intellectual property development company focused on advanced 3D printing and proprietary drug delivery systems, has formed a strategic partnership with Atrium24...
-Reported by VoxelMatters on Mar 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Pete-Pharma-Atrium24-partnership-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/pete-pharma-and-atrium24-partner-to-bring-3d-printing-to-independents
+📰 NIDEC Machine Tool America rebrands AM division and consolidates three tech platforms
+NIDEC Machine Tool America has rebranded its Additive Manufacturing division as Advanced Manufacturing Technologies, consolidating three distinct precision manufacturing platforms under a single organizational unit.
+The restructured division brings together … The post NIDEC Machine Tool America rebrands AM division and consolidates three tech platforms appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/NIDEC-MACHINE-TOOL-AMERICA-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nidec-machine-tool-america-rebrands-am-division-and-consolidates-three-tech-platforms
 
-📰 Korean researchers turn petroleum refining waste into 4D printed soft robotics
-The crude oil refining process generates substantial waste and by-products such as elemental sulfur, which is typically converted into sulfuric acid and used as a fertilizer.
-However, we are at … The post Korean researchers turn petroleum refining waste into 4D printed soft robotics appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/krict-4d-printing-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/korean-researchers-turn-petroleum-refining-waste-into-4d-printed-soft-robotics
+💻 B9Creations and Würth Additive Group Target the Quality Gap in Distributed Spare Parts Production
+B9Creations, a U.S.-based precision 3D printing manufacturer, and Würth Additive Group, the additive arm of Würth Group, have partnered to address one of industrial manufacturing’s most persistent headaches: keeping...
+The two companies announced a strategic partnership that combines B9Creations’ validated 3D printing technology, […], reported by 3D Printing Industry on Mar 17, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/B9Creations-Lab-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/b9creations-and-wurth-additive-group-target-the-quality-gap-in-distributed-spare-parts-production-249989
 
-🚀 ROBOZE launches ARGO 500 HYPERSPEED MISSION READY additive manufacturing platform
-ROBOZE says it has released the new product in response to increasingly complex supply chains and operations.
-Reported by TCT Magazine on Mar 16, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/argo-500-hyperspeed-mr-1-1.png
-🔗 Read more: https://www.tctmagazine.com/roboze-launches-argo-500-hyperspeed-mission-ready-additive-manufacturing-platform
+🖨 Metallic Glass Motor Components 3D Printed in Breakthrough for Energy-Efficient Electric Motors
+Electric motors are among the most widespread energy-converting devices on the planet, and among the least efficient at small scales.
+A measurable share of the electricity they consume is lost as heat, a consequence of how conventional metal alloys respond to alternating magnetic fields, reported by 3D Printing Industry on Mar 17, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/PM_Ralf_Busch_links_Amirhossein_Ghavimi_rechts-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/metallic-glass-motor-components-3d-printed-in-breakthrough-for-energy-efficient-electric-motors-249978
 
-📰 UCSF researchers develop composite to standardize organoid development
-Scientists at the University of California, San Francisco have developed a new biomaterial that enables 3D printing of stem cells into precise configurations within petri dishes.
-The development addresses a … The post UCSF researchers develop composite to standardize organoid development appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/UCSF-cells_01-e1773618396369-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ucsf-researchers-develop-composite-to-standardize-organoid-development
+🚀 Raven Series by 3DMakerPro Makes Professional-Grade LiDAR Scanning Accessible
+3D scanner manufacturer 3DMakerPro is introducing the Raven series, a new line of LiDAR-based 3D scanners that deliver professional-grade accuracy in a portable, creator-friendly format.
+Featuring integrated LiDAR sensors and advanced imaging technology, the Raven is engineered to quickly and accurately capture rooms, scenes, and objects, generating high-quality 3D point cloud data ideal for, reported by 3D Printing Industry on Mar 16, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/image-7-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/raven-series-by-3dmakerpro-makes-professional-grade-lidar-scanning-accessible-249965
 
-🚀 Nike launches first virtual 3D printed shoe in Fortnite with the Air Max 95000
-Because of my professional background (10 years spent as a trade journalist in the video game industry), I love it when video games and 3D printing intersect.
-Usually, it’s about … The post Nike launches first virtual 3D printed shoe in Fortnite with the Air Max 95000 appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/fortnite-nike-zellerfeld-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nike-launches-first-virtual-3d-printed-shoe-in-fortnite-with-the-air-max-95000
+🖨 NIDEC Machine Tool America Rebrands AM Division as Advanced Manufacturing Technologies
+NIDEC Machine Tool America, a company that supplies gear-making machines and manufacturing equipment, has rebranded its Additive Manufacturing division as Advanced Manufacturing Technologies, bringing several...
+The division includes LAMDA, a laser powder directed energy deposition (LP-DED) metal additive manufacturing system; ABLASER, a laser micromachining platform; and BOND MEISTER, a […], reported by 3D Printing Industry on Mar 16, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/NIDEC_Advanced_Manufacturing_Technologies_Lineup-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/nidec-machine-tool-america-rebrands-am-division-as-advanced-manufacturing-technologies-249940
 
 ---
 *Originally published at: https://www.quality3ds.com/*
