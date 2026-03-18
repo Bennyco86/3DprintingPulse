@@ -14,8 +14,11 @@ SOURCES_FILE = "sources.json"
 MIN_STORIES = 4
 MAX_STORIES = 8
 MAX_ITEM_AGE_HOURS = 36
-REQUIRED_CATEGORIES = ["medical", "aerospace", "construction"]
-PREFERRED_CATEGORIES = ["recycling"]
+REQUIRED_CATEGORIES = ["viral_controversial"]
+PREFERRED_CATEGORY_TARGETS = {
+    "viral_controversial": 2,
+    "recycling": 2,
+}
 BLOCKLIST_TITLE_PHRASES = ["news briefs"]
 MIN_SOURCE_SCORE = 1
 NON_ENGLISH_HINT_WORDS = {
@@ -46,7 +49,14 @@ CATEGORY_KEYWORDS = {
         "regrind", "grind", "shredder", "shredding", "pellet", "pelletize",
         "pelletizer", "filament recycling", "filament recycler",
         "filament maker", "filament manufacturing", "filament extruder",
-        "pellet extruder", "waste plastic", "plastic waste"
+        "pellet extruder", "waste plastic", "plastic waste", "creality m1"
+    ],
+    "viral_controversial": [
+        "viral", "controversy", "controversial", "backlash", "outrage",
+        "debate", "lawsuit", "ban", "banned", "boycott", "scandal",
+        "warning", "drama", "community reaction", "leak", "exposed",
+        "firestorm", "criticized", "unsafe", "fails", "defect", "recall",
+        "voc", "hepa14"
     ],
     "printers": [
         "printer", "fdm", "resin", "sla", "sls", "slm", "metal",
@@ -67,10 +77,16 @@ CATEGORY_EMOJI = {
     "aerospace": "\U0001F680",
     "construction": "\U0001F3E0",
     "recycling": "\u267B\ufe0f",
+    "viral_controversial": "\U0001F525",
     "printers": "\U0001F5A8",
     "scanners": "\U0001F4F7",
     "software": "\U0001F4BB",
     "general": "\U0001F4F0"
+}
+
+CATEGORY_PRIORITY = {
+    "viral_controversial": 2,
+    "recycling": 1,
 }
 
 SOURCE_SCORES = {
@@ -83,10 +99,11 @@ SOURCE_SCORES = {
     "prusa": 2,
     "bambu": 2,
     "fabbaloo": 1,
-    "all3dp": 1,
+    "all3dp": 2,
     "3d printing media network": 1,
     "3printr": 0,
-    "google news": 0,
+    "google news": 1,
+    "ynet": 1,
 }
 
 DEFAULT_SOURCES = [
@@ -553,7 +570,14 @@ def select_stories(items, seen_urls):
         return []
 
     recent = list(candidates)
-    recent.sort(key=lambda item: (item.get("source_score", 0), item.get("published")), reverse=True)
+    recent.sort(
+        key=lambda item: (
+            item.get("source_score", 0) + CATEGORY_PRIORITY.get(item.get("category", ""), 0),
+            item.get("source_score", 0),
+            item.get("published")
+        ),
+        reverse=True
+    )
 
     selected = []
     used_urls = set()
@@ -571,8 +595,11 @@ def select_stories(items, seen_urls):
                     used_signatures.add(item["title_signature"])
                 break
 
-    for category in PREFERRED_CATEGORIES:
+    for category, target_count in PREFERRED_CATEGORY_TARGETS.items():
+        picked = 0
         for item in recent:
+            if picked >= target_count:
+                break
             if (
                 item["category"] == category
                 and item["url"] not in used_urls
@@ -582,7 +609,7 @@ def select_stories(items, seen_urls):
                 used_urls.add(item["url"])
                 if item.get("title_signature"):
                     used_signatures.add(item["title_signature"])
-                break
+                picked += 1
 
     for item in recent:
         if len(selected) >= MAX_STORIES:

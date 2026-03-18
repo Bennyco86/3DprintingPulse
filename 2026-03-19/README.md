@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-19
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #71 - 2026-03-19
+## Stories
 
 🔥 DUT team develops microwave-laser hybrid method for 3D printed ceramics
 Researchers at Dalian University of Technology have developed a hybrid additive manufacturing technique that integrates a microwave field with laser-based 3D printing to address a persistent defect problem in ceramic...
@@ -48,9 +46,3 @@ Read more ? https://www.tctmagazine.com/eplus3d-teases-new-metal-additive-manufa
 Reported by TCT Magazine on Mar 18, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/03/Sintavia_Press_Release_Image_31726.jpg
 Read more ? https://www.tctmagazine.com/sintavia-validates-lightweight-3d-printed-heat-exchanger-in-two-weeks-with-nvidia-gpus
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

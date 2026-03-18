@@ -1,7 +1,12 @@
-# Quality3Ds Daily 3D Printing News - 2026-03-18
+﻿# Quality3Ds Daily 3D Printing News - 2026-03-18
 
 ## Stories
 
+🔥 Viral Watch: "$100 3D-printed MANPADS launcher" video sparks global backlash
+A viral English-language video shows a low-cost launcher prototype and has triggered intense debate about safety, platform moderation, and responsible publishing of weapon-adjacent content.
+Watch source: https://www.youtube.com/watch?v=DDO2EvXyncE
+Project repository: https://github.com/novatic14/Distributed-Camera-Node-Tracking-System
+Read more ? https://www.youtube.com/watch?v=DDO2EvXyncE
 🦺 Hot-wire Laser Additive Manufacturing Produces Defect-free WC–Co Cemented Carbide
 Researchers led by Keita Marumoto at Hiroshima University together with collaborators from Mitsubishi Materials Hardmetal Corporation, a manufacturer of cemented carbide tooling materials, investigated how laser...
 The results published in the International Journal of Refractory Metals and Hard Materials show that combining […], reported by 3D Printing Industry on Mar 16, 2026.
@@ -49,3 +54,7 @@ NIDEC Machine Tool America, a company that supplies gear-making machines and man
 The division includes LAMDA, a laser powder directed energy deposition (LP-DED) metal additive manufacturing system; ABLASER, a laser micromachining platform; and BOND MEISTER, a […], reported by 3D Printing Industry on Mar 16, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/NIDEC_Advanced_Manufacturing_Technologies_Lineup-150x100.png
 Read more ? https://3dprintingindustry.com/news/nidec-machine-tool-america-rebrands-am-division-as-advanced-manufacturing-technologies-249940
+
+
+
+

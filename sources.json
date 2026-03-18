@@ -3,6 +3,7 @@
   { "name": "3DPrint.com", "url": "https://3dprint.com/feed/" },
   { "name": "VoxelMatters", "url": "https://www.voxelmatters.com/feed/" },
   { "name": "Fabbaloo", "url": "https://www.fabbaloo.com/feed" },
+  { "name": "All3DP", "url": "https://all3dp.com/feed/" },
   { "name": "3D Natives", "url": "https://www.3dnatives.com/en/feed/" },
   { "name": "3D Printing Media Network", "url": "https://www.3dprintingmedia.network/feed/" },
   { "name": "TCT Magazine", "url": "https://www.tctmagazine.com/rss/" },
@@ -12,5 +13,8 @@
   { "name": "Bambu Lab", "url": "https://blog.bambulab.com/feed/" },
   { "name": "BCN3D", "url": "https://www.bcn3d.com/feed/" },
   { "name": "3Printr", "url": "https://www.3printr.com/feed/" },
-  { "name": "Google News - 3D Printing", "url": "https://news.google.com/rss/search?q=3d%20printing&hl=en-US&gl=US&ceid=US:en" }
+  { "name": "Google News - 3D Printing", "url": "https://news.google.com/rss/search?q=3d%20printing&hl=en-US&gl=US&ceid=US:en" },
+  { "name": "Google News - 3D Printing Viral", "url": "https://news.google.com/rss/search?q=3d%20printing%20viral%20OR%20controversy%20OR%20backlash%20OR%20ban&hl=en-US&gl=US&ceid=US:en" },
+  { "name": "Google News - Filament Recycling", "url": "https://news.google.com/rss/search?q=3d%20printing%20filament%20recycling%20OR%20filament%20recycler%20OR%20creality%20m1&hl=en-US&gl=US&ceid=US:en" },
+  { "name": "Google News - Ynet 3D Printing", "url": "https://news.google.com/rss/search?q=3d%20printing%20site:ynet.co.il&hl=en-US&gl=US&ceid=US:en" }
 ]

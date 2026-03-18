@@ -1,52 +1,50 @@
-﻿# 3D PRINTING PULSE #70 - 2026-03-18
+﻿# 3D PRINTING PULSE #71 - 2026-03-19
 
-🦺 Hot-wire Laser Additive Manufacturing Produces Defect-free WC–Co Cemented Carbide
-Researchers led by Keita Marumoto at Hiroshima University together with collaborators from Mitsubishi Materials Hardmetal Corporation, a manufacturer of cemented carbide tooling materials, investigated how laser...
-The results published in the International Journal of Refractory Metals and Hard Materials show that combining […], reported by 3D Printing Industry on Mar 16, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/SEM-image-of-cemented-carbide-molded-with-the-rod‑leading-method.-Image-via-ScienceDirect-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/hot-wire-laser-additive-manufacturing-produces-defect-free-wc-co-cemented-carbide-249946
+🔥 DUT team develops microwave-laser hybrid method for 3D printed ceramics
+Researchers at Dalian University of Technology have developed a hybrid additive manufacturing technique that integrates a microwave field with laser-based 3D printing to address a persistent defect problem in ceramic...
+Reported by VoxelMatters on Mar 17, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/DUT-hybrid-3D-print-method-ceramics_01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/dut-team-develops-microwave-laser-hybrid-method-for-3d-printed-ceramics
 
-🚀 PrintPal Launches Browser-based Tool Suite
-PrintPal, a 3D printing technology platform headquartered in Chicago, Illinois, has launched PrintPal Tools, a suite of more than 15 browser-based tools for hobbyists, professional makers, and online sellers.
-All tools run entirely in a browser and can be accessed without installing software or creating an account, reported by 3D Printing Industry on Mar 16, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/flelele-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/printpal-launches-browser-based-tool-suite-249934
+🔥 Vision Transformers Boost Real Time FFF Quality Monitoring
+Researchers propose a Vision Transformer approach that detects FFF surface defects in real time with on-demand explainability.
+The post Vision Transformers Boost Real Time FFF Quality Monitoring appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/vision-transformers-boost-real-time-fff-quality-monitoring
 
-🖨 Hanin debuts elastomer 3D printer at TCT Asia
-The LCD-L298 promises 'high precision and high efficiency for dual-component elastomer printing' and highlights potential applications across footwear, consumer electronics and more.
-Reported by TCT Magazine on Mar 17, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Hanin-3D-printer.png
-🔗 Read more: https://www.tctmagazine.com/hanin-debuts-elastomer-3d-printer-at-tct-asia
+🔥 Minnesota lawmakers target ‘ghost guns’ with new ban - Valley News Live
+Minnesota lawmakers target ‘ghost guns’ with new ban Valley News Live
+Reported by Google News - 3D Printing Viral on Mar 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMimAFBVV95cUxNd183NmZVQ29zWExWOVNUVWl0TUhBeUxZRl9pdWJsTld6eWxtWlJyRW1oc3lnSHVhUU9KekNHdXFKcWlsOFpXcDZicGpLZHQyek8wTkh4S0dWQ1BUbmoyTHRSWEwwQ1N4U051ZUNSaUVWRHNjVW9OOHljT3FpNGJZRzhKaXhIVGo5ZkJvYzZYLXdfSDBRWW1hR9IBrAFBVV95cUxPQ25WT0VLQjFuV1V3OTJlZjJoUWg0a0c0OVliaGJYMVAzc0ZOMDFTMExVSWd0cXJRRnkwdzlBZHdZZXdJMUtNZms0SXlRQTd6dWVlOHNJbENTd3QzVXoyUkZESWZtM1l6NWFPZ09Bd1ZwLXBpbmZPVUxtSTZ1dzFjTWl5ZXc3T19YSjluOWthdFFycVg0bTdXNHdFME96NDRULXhqQmMxWXhMTGlw?oc=5
 
-📰 NIDEC Machine Tool America rebrands AM division and consolidates three tech platforms
-NIDEC Machine Tool America has rebranded its Additive Manufacturing division as Advanced Manufacturing Technologies, consolidating three distinct precision manufacturing platforms under a single organizational unit.
-The restructured division brings together … The post NIDEC Machine Tool America rebrands AM division and consolidates three tech platforms appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/NIDEC-MACHINE-TOOL-AMERICA-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nidec-machine-tool-america-rebrands-am-division-and-consolidates-three-tech-platforms
+♻️ Thermwood Gear Pump Patent Optimizes Large Format Extrusions
+A patent proposal by Thermwood could solve one of large area extrusion’s oldest challenges: keeping bead size consistent when a pellet fed printhead speeds up, slows down, and corners.
+The post Thermwood Gear Pump Patent Optimizes Large Format Extrusions appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/thermwood-gear-pump-patent-optimizes-large-format-extrusions
 
-💻 B9Creations and Würth Additive Group Target the Quality Gap in Distributed Spare Parts Production
-B9Creations, a U.S.-based precision 3D printing manufacturer, and Würth Additive Group, the additive arm of Würth Group, have partnered to address one of industrial manufacturing’s most persistent headaches: keeping...
-The two companies announced a strategic partnership that combines B9Creations’ validated 3D printing technology, […], reported by 3D Printing Industry on Mar 17, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/B9Creations-Lab-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/b9creations-and-wurth-additive-group-target-the-quality-gap-in-distributed-spare-parts-production-249989
+🖨 EX3D Prints: your neighbor’s printer as a node in a global manufacturing network
+Millions of 3D printers around the world sit idle for most of the day.
+Charged, connected, and ready to go, reported by VoxelMatters on Mar 18, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/ex3d01-150x150.png
+🔗 Read more: https://www.voxelmatters.com/ex3d-prints-your-neighbors-printer-as-a-node-in-a-global-manufacturing-network
 
-🖨 Metallic Glass Motor Components 3D Printed in Breakthrough for Energy-Efficient Electric Motors
-Electric motors are among the most widespread energy-converting devices on the planet, and among the least efficient at small scales.
-A measurable share of the electricity they consume is lost as heat, a consequence of how conventional metal alloys respond to alternating magnetic fields, reported by 3D Printing Industry on Mar 17, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/PM_Ralf_Busch_links_Amirhossein_Ghavimi_rechts-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/metallic-glass-motor-components-3d-printed-in-breakthrough-for-energy-efficient-electric-motors-249978
+🚀 GE Aerospace commits €110 million to European expansion
+GE Aerospace has outlined plans to invest more than €110 million ($126.6m) across its European manufacturing sites in 2026, targeting production capacity expansion, advanced manufacturing acceleration, and stronger...
+Reported by VoxelMatters on Mar 18, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/GE-Aerospace-March-2026_02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ge-aerospace-commits-e110-million-to-european-expansion
 
-🚀 Raven Series by 3DMakerPro Makes Professional-Grade LiDAR Scanning Accessible
-3D scanner manufacturer 3DMakerPro is introducing the Raven series, a new line of LiDAR-based 3D scanners that deliver professional-grade accuracy in a portable, creator-friendly format.
-Featuring integrated LiDAR sensors and advanced imaging technology, the Raven is engineered to quickly and accurately capture rooms, scenes, and objects, generating high-quality 3D point cloud data ideal for, reported by 3D Printing Industry on Mar 16, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/image-7-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/raven-series-by-3dmakerpro-makes-professional-grade-lidar-scanning-accessible-249965
+🖨 Eplus3D teases new metal additive manufacturing system with 256 lasers
+Has the multi-laser additive manufacturing race reached its peak?
+Reported by TCT Magazine on Mar 18, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/1773814876431.jpeg
+🔗 Read more: https://www.tctmagazine.com/eplus3d-teases-new-metal-additive-manufacturing-system-with-256-lasers
 
-🖨 NIDEC Machine Tool America Rebrands AM Division as Advanced Manufacturing Technologies
-NIDEC Machine Tool America, a company that supplies gear-making machines and manufacturing equipment, has rebranded its Additive Manufacturing division as Advanced Manufacturing Technologies, bringing several...
-The division includes LAMDA, a laser powder directed energy deposition (LP-DED) metal additive manufacturing system; ABLASER, a laser micromachining platform; and BOND MEISTER, a […], reported by 3D Printing Industry on Mar 16, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/NIDEC_Advanced_Manufacturing_Technologies_Lineup-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/nidec-machine-tool-america-rebrands-am-division-as-advanced-manufacturing-technologies-249940
+📰 Sintavia validates lightweight 3D printed heat exchanger in two weeks with NVIDIA GPUs
+"Because we operate in a fully digital environment, we are always looking at faster and more efficient solutions to reduce span time at each step."
+Reported by TCT Magazine on Mar 18, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Sintavia_Press_Release_Image_31726.jpg
+🔗 Read more: https://www.tctmagazine.com/sintavia-validates-lightweight-3d-printed-heat-exchanger-in-two-weeks-with-nvidia-gpus
 
 ---
 *Originally published at: https://www.quality3ds.com/*
+The story setting the tone today is "Minnesota lawmakers target ‘ghost guns’ with new ban - Valley News Live" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://www.voxelmatters.com/dut-team-develops-microwave-laser-hybrid-method-for-3d-printed-ceramics | Full pulse: https://www.quality3ds.com/
