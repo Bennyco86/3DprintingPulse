@@ -1,50 +1,51 @@
-﻿# 3D PRINTING PULSE #71 - 2026-03-19
+﻿# 3D PRINTING PULSE #72 - 2026-03-20
 
-🔥 DUT team develops microwave-laser hybrid method for 3D printed ceramics
-Researchers at Dalian University of Technology have developed a hybrid additive manufacturing technique that integrates a microwave field with laser-based 3D printing to address a persistent defect problem in ceramic...
-Reported by VoxelMatters on Mar 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/DUT-hybrid-3D-print-method-ceramics_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/dut-team-develops-microwave-laser-hybrid-method-for-3d-printed-ceramics
+🔥 UK Dental Lab's 3D Printing Success for Custom Dentures &amp; Guides | Bant Dental - News and Statistics - IndexBox
+UK Dental Lab's 3D Printing Success for Custom Dentures &amp; Guides | Bant Dental - News and Statistics IndexBox
+Reported by Google News - 3D Printing on Mar 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0M5R1FVVUJMXzBXbnRfbldNcTh0WHJhbF9JZDhnTzdwSU9SNG1jZFBMeEo5QkM1ckVmNmFUbGlTd0V4UDFRY1UzYkNHMDA4VWhydVBtQ1gzYTBIbGJEUkZzRXNwYkM3bG5JNGhsOFkyMjhHYVotbVNOYmw1V2ZQc2syTXJoaFZRbTB1SzlOVklXYzRDZDIxaGJkWjVwVWl2ZUpPTUh3?oc=5
 
-🔥 Vision Transformers Boost Real Time FFF Quality Monitoring
-Researchers propose a Vision Transformer approach that detects FFF surface defects in real time with on-demand explainability.
-The post Vision Transformers Boost Real Time FFF Quality Monitoring appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/vision-transformers-boost-real-time-fff-quality-monitoring
+🔥 ‘Kyu?’ is the only question internet has as man 3D prints a ‘milk packet holder’ | Viral - MSN
+‘Kyu?’ is the only question internet has as man 3D prints a ‘milk packet holder’ | Viral MSN
+Reported by Google News - 3D Printing Viral on Mar 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUtsNVpURUNhMGlEc2k4UmNKX3FEa3FOekYzMTlmVEJHeVROX2EzUk43VEhva2wwVndqZjgtd09GRmM4QVFQZ2hfZHpLMEljVWVydzhSRmtOaW5COF83a0pOc2YyZUg1c3Rra3FnbGRaZ1ZSdTl5b2RseGtRbGZPT1VITTl5eG5taDQ4c2ROZDcyak94STRNd0s5eXVXaGVuSE1jREF0ank4QW5YY1RKRnNjdzg1RGtySXltbS1PcmZIVEpzb3ZWbmZB?oc=5
 
-🔥 Minnesota lawmakers target ‘ghost guns’ with new ban - Valley News Live
-Minnesota lawmakers target ‘ghost guns’ with new ban Valley News Live
-Reported by Google News - 3D Printing Viral on Mar 17, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimAFBVV95cUxNd183NmZVQ29zWExWOVNUVWl0TUhBeUxZRl9pdWJsTld6eWxtWlJyRW1oc3lnSHVhUU9KekNHdXFKcWlsOFpXcDZicGpLZHQyek8wTkh4S0dWQ1BUbmoyTHRSWEwwQ1N4U051ZUNSaUVWRHNjVW9OOHljT3FpNGJZRzhKaXhIVGo5ZkJvYzZYLXdfSDBRWW1hR9IBrAFBVV95cUxPQ25WT0VLQjFuV1V3OTJlZjJoUWg0a0c0OVliaGJYMVAzc0ZOMDFTMExVSWd0cXJRRnkwdzlBZHdZZXdJMUtNZms0SXlRQTd6dWVlOHNJbENTd3QzVXoyUkZESWZtM1l6NWFPZ09Bd1ZwLXBpbmZPVUxtSTZ1dzFjTWl5ZXc3T19YSjluOWthdFFycVg0bTdXNHdFME96NDRULXhqQmMxWXhMTGlw?oc=5
+🦺 Stratasys Achieves European Certification for Its TrueDent Resin Portfolio
+3D printer OEM Stratasys has secured CE Class IIa medical device certification for its TrueDent resin portfolio, making it the first high-aesthetic, single-material 3D printed denture system to earn the designation...
+The upgrade from its initial Class I status, granted in early 2025, expands approved applications beyond basic removables to include removable partial […], reported by 3D Printing Industry on Mar 19, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/TrueDent_Class_IIa_Certification_Image_1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/stratasys-achieves-european-certification-for-its-truedent-resin-portfolio-250066
 
-♻️ Thermwood Gear Pump Patent Optimizes Large Format Extrusions
-A patent proposal by Thermwood could solve one of large area extrusion’s oldest challenges: keeping bead size consistent when a pellet fed printhead speeds up, slows down, and corners.
-The post Thermwood Gear Pump Patent Optimizes Large Format Extrusions appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/thermwood-gear-pump-patent-optimizes-large-format-extrusions
+🏠 HEZO Debuts Scan-to-Print Cycling Shoes with Custom, Modular Fit
+German startup HEZO has developed a made-to-order cycling shoe system that replaces standardised sizing with individual foot scans, on-demand 3D printing, and modular construction, positioning the company at the...
+Founded in February 2022 by Helen Wiehr, Carsten Kaldenhoff, and Dr, reported by 3D Printing Industry on Mar 19, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/hezo-14-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/hezo-debuts-scan-to-print-cycling-shoes-with-custom-modular-fit-250074
 
-🖨 EX3D Prints: your neighbor’s printer as a node in a global manufacturing network
-Millions of 3D printers around the world sit idle for most of the day.
-Charged, connected, and ready to go, reported by VoxelMatters on Mar 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/ex3d01-150x150.png
-🔗 Read more: https://www.voxelmatters.com/ex3d-prints-your-neighbors-printer-as-a-node-in-a-global-manufacturing-network
+🚀 Additive manufacturing benchmarked against injection molding in mass customization study
+Additive manufacturing can compete economically with injection molding in low-volume, high-mix production, according to a peer-reviewed study published in the International Journal of Precision Engineering and...
+The research evaluates whether 3D printing technologies can bridge mass production and mass customization through measurable gains in […], reported by 3D Printing Industry on Mar 19, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/40684_2026_856_Fig5_HTML-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/additive-manufacturing-benchmarked-against-injection-molding-in-mass-customization-study-250041
 
-🚀 GE Aerospace commits €110 million to European expansion
-GE Aerospace has outlined plans to invest more than €110 million ($126.6m) across its European manufacturing sites in 2026, targeting production capacity expansion, advanced manufacturing acceleration, and stronger...
-Reported by VoxelMatters on Mar 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/GE-Aerospace-March-2026_02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ge-aerospace-commits-e110-million-to-european-expansion
+🦺 Spinal Elements gets FDA clearance for Ventana A anterior lumbar fusion system
+Spinal Elements, a US company focusing on products and technologies for spine surgery procedures, has received 510(k) clearance from the US Food and Drug Administration (FDA) for its Ventana A … The post Spinal...
+Reported by VoxelMatters on Mar 19, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Spinal-Elenents-FDA-clearance_02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/spinal-elements-gets-fda-clearance-for-ventana-a-anterior-lumbar-fusion-system
 
-🖨 Eplus3D teases new metal additive manufacturing system with 256 lasers
-Has the multi-laser additive manufacturing race reached its peak?
-Reported by TCT Magazine on Mar 18, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/1773814876431.jpeg
-🔗 Read more: https://www.tctmagazine.com/eplus3d-teases-new-metal-additive-manufacturing-system-with-256-lasers
+📰 Keep your eyes open for Hoet Couture’s new 3D printed frames
+Belgian eyewear brand Hoet is a veteran in the 3D printed eyewear market, having first used the technology to make frames back in 2011.
+Today, the company boasts an extensive … The post Keep your eyes open for Hoet Couture’s new 3D printed frames appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/hoet-couture-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/hoet-couture-new-3d-printed-eyewear-frames
 
-📰 Sintavia validates lightweight 3D printed heat exchanger in two weeks with NVIDIA GPUs
-"Because we operate in a fully digital environment, we are always looking at faster and more efficient solutions to reduce span time at each step."
-Reported by TCT Magazine on Mar 18, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Sintavia_Press_Release_Image_31726.jpg
-🔗 Read more: https://www.tctmagazine.com/sintavia-validates-lightweight-3d-printed-heat-exchanger-in-two-weeks-with-nvidia-gpus
+🚀 Researchers map in-space 3D printing possibilities using moon dust
+A team of researchers from the University of Nebraska–Lincoln and Purdue University has outlined the key technical barriers to using powder-based additive manufacturing in space environments, with a focus on … The...
+Reported by VoxelMatters on Mar 19, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Space-3D-printing_02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/researchers-map-in-space-3d-printing-possibilities-using-moon-dust
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Minnesota lawmakers target ‘ghost guns’ with new ban - Valley News Live" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://www.voxelmatters.com/dut-team-develops-microwave-laser-hybrid-method-for-3d-printed-ceramics | Full pulse: https://www.quality3ds.com/
+Big conversation driver today: "UK Dental Lab's 3D Printing Success for Custom Dentures &amp; Guides | Bant Dental - News and Statistics - IndexBox" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0M5R1FVVUJMXzBXbnRfbldNcTh0WHJhbF9JZDhnTzdwSU9SNG1jZFBMeEo5QkM1ckVmNmFUbGlTd0V4UDFRY1UzYkNHMDA4VWhydVBtQ1gzYTBIbGJEUkZzRXNwYkM3bG5JNGhsOFkyMjhHYVotbVNOYmw1V2ZQc2syTXJoaFZRbTB1SzlOVklXYzRDZDIxaGJkWjVwVWl2ZUpPTUh3?oc=5 | Complete rundown: https://www.quality3ds.com/

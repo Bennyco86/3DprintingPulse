@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #72 - 2026-03-20
+## Stories
 
 🔥 UK Dental Lab's 3D Printing Success for Custom Dentures & Guides | Bant Dental - News and Statistics - IndexBox
 UK Dental Lab's 3D Printing Success for Custom Dentures & Guides | Bant Dental - News and Statistics IndexBox
@@ -49,9 +47,3 @@ A team of researchers from the University of Nebraska–Lincoln and Purdue Unive
 Reported by VoxelMatters on Mar 19, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Space-3D-printing_02-150x150.jpg
 Read more ? https://www.voxelmatters.com/researchers-map-in-space-3d-printing-possibilities-using-moon-dust
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
