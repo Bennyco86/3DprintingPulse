@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-21
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #73 - 2026-03-21
+## Stories
 
 🚀 AFRL and Ursa Major complete flight demonstration of Draper liquid rocket engine
 The Air Force Research Laboratory (AFRL) and Ursa Major, an advanced propulsion manufacturer and additive manufacturing adopter, have completed a flight of the Affordable Rapid Missile Demonstrator (ARMD), powered by...
@@ -51,9 +49,3 @@ AM has facilitated a 'major surge' in business for the family-run dental lab.
 Reported by TCT Magazine on Mar 19, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/03/Bant-Dental--3D-Printer--1.jpeg
 Read more ? https://www.tctmagazine.com/bant-dental-installs-stratasys-j5-dentajet-to-produce-dentures-surgical-guides-and-models
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
