@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-22
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #74 - 2026-03-22
+## Stories
 
 🔥 Colorado lawmakers considering legislation that would ban 3D gun printing - KKTV
 Colorado lawmakers considering legislation that would ban 3D gun printing KKTV
@@ -49,9 +47,3 @@ Just 45 km northeast of Milan is the Milan Bergamo Airport, which serves over 17
 As … The post Milan’s Bergamo Airport opens 3D printed service building appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/3D_printed_utility_building_Bergamo_Airport-150x150.jpg
 Read more ? https://www.voxelmatters.com/milans-bergamo-airport-opens-3d-printed-service-building
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
