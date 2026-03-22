@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-23
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #75 - 2026-03-23
+## Stories
 
 📰 Oppo Find N6 uses 3D liquid printing to eliminate foldable display crease
 Oppo has deployed a per-unit 3D liquid printing process on its Find N6 foldable smartphone to reduce the visible crease that has persisted as a structural limitation of folding displays … The post Oppo Find N6 uses...
@@ -46,9 +44,3 @@ Read more ? https://news.google.com/rss/articles/CBMixAJBVV95cUxPbGt2RlM1YU9TckV
 3D printing lets this tinkerer build a quadruped robot smaller than my hand, and you can too XDA
 Reported by Google News - 3D Printing on Mar 22, 2026.
 Read more ? https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzZYdDVlWVdsc2luZmlIXzgyU0NjY2poUWppS3U0b1BGc1RYZmN1WFpfNmNSc0M4VTV3QmdEU2lDZ1RFb3FQTHZqRkZRZ3Y5cFdsaHpHTGR0OUFMRDlGZkJOX2JqNENqbFp3aHJNV0luNkZocHBNeXdFM0VuVnRnZ1psaU9YU1o1TkNyczhrTzFlRTR0ZUs0Nk11SzF0U19ndWYtYUlhSk5UMW11N1RCRDFpbjdlNVNUcXpmSVctZw?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

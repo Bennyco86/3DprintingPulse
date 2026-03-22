@@ -1,51 +1,48 @@
-﻿# 3D PRINTING PULSE #74 - 2026-03-22
+﻿# 3D PRINTING PULSE #75 - 2026-03-23
 
-🔥 Colorado lawmakers considering legislation that would ban 3D gun printing - KKTV
-Colorado lawmakers considering legislation that would ban 3D gun printing KKTV
-Reported by Google News - 3D Printing on Mar 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlI4bjRmWTIwNHg2bjRLSkttVktfWE9LcXNxaEVjcUQxY0xlLUF4V28yWW55M1NIeWEyLUJjd2M3VkxwSTFEVjF2OGZFcWJ1YVUxb0RqSHN3U0FYc2hMN0lnX0wzSlJfbU16eTMweFZEQ3RLdWQ3ZmVoMWVCaGJqMnhrNUNnTnE5UWEzQ3hQQjJ1anU5ZnpWZk9IcFpQZTQtTkJmUktyS2REUdIBvgFBVV95cUxPRnRRUWVTNTBKaFBwZlFnXzA5RTlkTkpxb0E1VXIwVFNsQXpLMUtBdHFDLTJGRHJMT1dIdllDUXhUY1p0TGQ4ai01NWRhc3NXYm9SQ1ZSeE80SzhvZC1lZzAwWlk2OF9fYmRldmFVMFJidTdZVDl4SHluM0xsS3R0MEFCMlVyZjlUUG5uaV9SM0lVMWp4RGpSZ0gyd3ZTc3poVk5RSGFrYjQzVnA4dzdodWtvZXM2MlV6VG52Q1Zn?oc=5
+📰 Oppo Find N6 uses 3D liquid printing to eliminate foldable display crease
+Oppo has deployed a per-unit 3D liquid printing process on its Find N6 foldable smartphone to reduce the visible crease that has persisted as a structural limitation of folding displays … The post Oppo Find N6 uses...
+Reported by VoxelMatters on Mar 22, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/OPPO-Find-N6_01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/oppo-find-n6-uses-3d-liquid-printing-to-eliminate-foldable-display-crease
 
-🔥 New VOC Calculator Estimates Air Quality in FFF Printing Environments
-Heatforge 3D has put together a VOC calculator for 3D printing.
-The post New VOC Calculator Estimates Air Quality in FFF Printing Environments appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/new-voc-calculator-estimates-air-quality-in-fff-printing-environments
+🦺 Tenerife hospital using 3D printing to cut rehab equipment costs by up to 97.6%
+La Candelaria University Hospital in Tenerife has started producing custom mechanotherapy tools using a 3D printer, in a bid to cut costs while delivering personalized therapy solutions to patients.
+In … The post Tenerife hospital using 3D printing to cut rehab equipment costs by up to 97.6% appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Tenerife-hospital-3D-printing_01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/tenerife-hospital-using-3d-printing-to-cut-rehab-equipment-costs-by-up-to-97-6
 
-🚀 Rutgers engineers develop cyberattack defense for AM manufacturers
-Researchers at Rutgers University have developed a digital twin-based framework designed to keep additive manufacturing operations running continuously during cyberattacks, rather than shutting down production while...
-… The post Rutgers engineers develop cyberattack defense for AM manufacturers appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/AM-cyberattacks_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/rutgers-engineers-develop-cyberattack-defense-for-am-manufacturers
+🚀 SAE AMS committee to convene at GKN Aerospace in Sweden this May
+The SAE International Aerospace Materials Specifications Additive Manufacturing Metals Committee is holding its next face-to-face meeting on May 5–7, 2026, hosted by GKN Aerospace at its facility in Trollhättan, Sweden.
+… The post SAE AMS committee to convene at GKN Aerospace in Sweden this May appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/signage-trollha-ttan-maingate-150x150.webp
+🔗 Read more: https://www.voxelmatters.com/sae-ams-committee-to-convene-at-gkn-aerospace-in-sweden-this-may
 
-💻 BASF starts up world’s first industrial plant for 3D printed catalysts
-Industrial chemical company BASF has started up what it claims is the world’s first industrial-scale production plant for catalysts based on its X3D technology at its Ludwigshafen, Germany site.
-The … The post BASF starts up world’s first industrial plant for 3D printed catalysts appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/BASF-plant_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/basf-starts-up-worlds-first-industrial-plant-for-3d-printed-catalysts
+🦺 TV’s Scarpetta Suggests We Can 3D Print Full Human Organs. Reality Is… Not Yet
+Having spent a good part of my journalistic career covering crime stories, it’s hard for me to stay away from any crime or medical forensic drama.
+So when Scarpetta premiered, reported by 3DPrint.com on Mar 22, 2026.
+🔗 Read more: https://3dprint.com/324697/tvs-scarpetta-suggests-we-can-3d-print-full-human-organs-reality-is-not-yet
 
-📰 Tethon 3D acquires Fortify IP portfolio to strengthen ceramics and RF materials platform
-Omaha-based ceramic specialist Tethon 3D acquired a portfolio of intellectual property assets from the now-dissolved 3DFortify, a venture-backed materials company previously known for its work in high-performance...
-Reported by VoxelMatters on Mar 21, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Tethon-3D-Bison-on-Fortify-Build-Plate-scaled-e1774094748265-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/tethon-3d-acquires-fortify-ip-portfolio-to-strengthen-ceramics-and-rf-materials-platform
+🏠 Is 3D Printing Unlocking Unexpected Futures in Home Design? - parametric-architecture.com
+Is 3D Printing Unlocking Unexpected Futures in Home Design?
+parametric-architecture.com, reported by Google News - 3D Printing on Mar 22, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMicEFVX3lxTE9PM1pvamlyOGpHUEVNRnpEaFJQX2NZYWU3Q1AwM0F4LTI1X0t2MXRxMzU1X3pwRjNtUzJSRGsyUG1hSTVlbEVrSjUtNnNtYUVkRnpYTUxfc21YV0RUMmFzbWh0cFMzT2R2QlhLT3BCcXk?oc=5
 
-💻 Ghana Eyes 3D Printing for Its Next Fleet of Vessels
-When Nigerian company RusselSmith sat down with Ghana’s maritime authority recently, the pitch was straightforward: replace the country’s aging wooden boat fleet with 3D printed vessels.
-Held in Accra, the meeting brought the asset management and advanced manufacturing company’s officials face to face with Dr, reported by 3D Printing Industry on Mar 20, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/1770223481179-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/ghana-eyes-3d-printing-for-its-next-fleet-of-vessels-250124
+🚀 BMF Launches microArch® S150 Series for Micro-Precision 3D Printing - Manufactur3D
+BMF Launches microArch® S150 Series for Micro-Precision 3D Printing Manufactur3D
+Reported by Google News - 3D Printing on Mar 22, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMigAFBVV95cUxQN0UxZ2tuUlRPUzVVWnhKZHlIQ3dUeVY3X1NQOHNfTm5pU0tqSldSMUlmWHh6WTF5N1pBQllaTVc1Wm85OTF0MFprWXRZYTZrVmRlUTJFdUs4QWFaOTJPQnVmTkJ6RlNadHNoU3NaZlJJdEVlTXBCZEZIWWlQV3AzMg?oc=5
 
-📷 MIT and MFA Boston 3D print playable replicas of ancient instruments
-A research team across the Massachusetts Institute of Technology (MIT) and the Museum of Fine Arts, Boston (MFA), has used CT scanning, vibration measurement, and 3D printing to produce playable … The post MIT and...
-Reported by VoxelMatters on Mar 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/MIT-instruments_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/mit-and-mfa-boston-3d-print-playable-replicas-of-ancient-instruments
+📰 Two brothers convicted of running ghost gun factory for 3D printed firearms - Tom's Hardware
+Two brothers convicted of running ghost gun factory for 3D printed firearms Tom's Hardware
+Reported by Google News - 3D Printing on Mar 22, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMixAJBVV95cUxPbGt2RlM1YU9TckVzbndDSi1FWDRCaG4xMlJlT3hzVlFUZ3NUSEJiZ1ZzY2NFME9jTnBCWmJ1NlhnREpMSVRBcmgyTnlPb3E4SVpRR0VHWnFFekdORGpwZU4xOFh2T0dXT1dDUmJveGpKeXN0ZEd3di1vQVE2NjlVTlJDVlVpODJGRk1vY2hJcVduS01nVjRPaU94ZGt4NUxuemhhTW1RQWhKdXlYTGg4R0UxWjRaclp2azMyS1QwRW9vYTR4NmZxWXdtR2xiS1ZycXcwUzRBVEU0N25tWE91TC1vMEtIRUhVZlhvYU1oSW9sRFBuZnpUY3FZTVNZZ3ZUVEt0eGRlRjVWU0NCcklqbFVHQ3AxYjNaU1BMUExDTFNmNWlzRkpNZTQwU2lmLU5NQm1wNVdqbzR2a0ZVTkdRdGcydWI?oc=5
 
-🏠 Milan’s Bergamo Airport opens 3D printed service building
-Just 45 km northeast of Milan is the Milan Bergamo Airport, which serves over 17 million passengers a year and is Italy’s third busiest airport (after Rome-Fiumicino and Milan-Malpensa).
-As … The post Milan’s Bergamo Airport opens 3D printed service building appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/3D_printed_utility_building_Bergamo_Airport-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/milans-bergamo-airport-opens-3d-printed-service-building
+📰 3D printing lets this tinkerer build a quadruped robot smaller than my hand, and you can too - XDA
+3D printing lets this tinkerer build a quadruped robot smaller than my hand, and you can too XDA
+Reported by Google News - 3D Printing on Mar 22, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMivwFBVV95cUxQZzZYdDVlWVdsc2luZmlIXzgyU0NjY2poUWppS3U0b1BGc1RYZmN1WFpfNmNSc0M4VTV3QmdEU2lDZ1RFb3FQTHZqRkZRZ3Y5cFdsaHpHTGR0OUFMRDlGZkJOX2JqNENqbFp3aHJNV0luNkZocHBNeXdFM0VuVnRnZ1psaU9YU1o1TkNyczhrTzFlRTR0ZUs0Nk11SzF0U19ndWYtYUlhSk5UMW11N1RCRDFpbjdlNVNUcXpmSVctZw?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Colorado lawmakers considering legislation that would ban 3D gun printing - KKTV" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUlI4bjRmWTIwNHg2bjRLSkttVktfWE9LcXNxaEVjcUQxY0xlLUF4V28yWW55M1NIeWEyLUJjd2M3VkxwSTFEVjF2OGZFcWJ1YVUxb0RqSHN3U0FYc2hMN0lnX0wzSlJfbU16eTMweFZEQ3RLdWQ3ZmVoMWVCaGJqMnhrNUNnTnE5UWEzQ3hQQjJ1anU5ZnpWZk9IcFpQZTQtTkJmUktyS2REUdIBvgFBVV95cUxPRnRRUWVTNTBKaFBwZlFnXzA5RTlkTkpxb0E1VXIwVFNsQXpLMUtBdHFDLTJGRHJMT1dIdllDUXhUY1p0TGQ4ai01NWRhc3NXYm9SQ1ZSeE80SzhvZC1lZzAwWlk2OF9fYmRldmFVMFJidTdZVDl4SHluM0xsS3R0MEFCMlVyZjlUUG5uaV9SM0lVMWp4RGpSZ0gyd3ZTc3poVk5RSGFrYjQzVnA4dzdodWtvZXM2MlV6VG52Q1Zn?oc=5 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Oppo Find N6 uses 3D liquid printing to eliminate foldable display crease" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.voxelmatters.com/oppo-find-n6-uses-3d-liquid-printing-to-eliminate-foldable-display-crease | Full pulse: https://www.quality3ds.com/
