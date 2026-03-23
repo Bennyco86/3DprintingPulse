@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-24
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #76 - 2026-03-24
+## Stories
 
 🔥 DEEP Manufacturing accelerates Wire Arc Additive Manufacturing expansion in U.S.
 "We can dramatically reduce lead times for large, high-integrity components while strengthening supply-chain resilience for critical industries.”
@@ -49,9 +47,3 @@ The contract is expected to be fulfilled within the current financial year.
 Reported by TCT Magazine on Mar 23, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/03/IMG_1753_mods-1024x683-1.png
 Read more ? https://www.tctmagazine.com/metal-powder-works-to-support-ams-in-delivery-of-3d-printed-part-via-project-tampa
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
