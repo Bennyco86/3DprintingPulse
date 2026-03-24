@@ -2,53 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #76 - 2026-03-24
+### 3D PRINTING PULSE #77 - 2026-03-25
 
-🔥 DEEP Manufacturing accelerates Wire Arc Additive Manufacturing expansion in U.S.
-"We can dramatically reduce lead times for large, high-integrity components while strengthening supply-chain resilience for critical industries.”
-Reported by TCT Magazine on Mar 23, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/03/New-DEEP-Manufacturing-facility-1.jpg
-Read more ? https://www.tctmagazine.com/deep-manufacturing-accelerates-wire-arc-additive-manufacturing-expansion-in-u-s
+🔥 A watch strap proves yet again that metal 3D printing has finally grown up
+On December 25, 2025, Xiaomi released a watch band for the Watch 5 made from TC4 titanium, produced using LPBF technology.
+The result is metal with properties comparable to forged … The post A watch strap proves yet again that metal 3D printing has finally grown up appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Zrzut-ekranu-2026-03-23-175743-150x150.png
+Read more ? https://www.voxelmatters.com/a-watch-strap-that-proves-that-metal-3d-printing-has-finally-grown-up
 
-🔥 Renaming of César Chávez Day, 3D-printed gun ban, data center regs in the Colorado legislature this week - The Denver Post
-Renaming of César Chávez Day, 3D-printed gun ban, data center regs in the Colorado legislature this week The Denver Post
+🔥 Hochul pushes ban on 3D technology used to make guns - Times Union
+Hochul pushes ban on 3D technology used to make guns Times Union
+Reported by Google News - 3D Printing on Mar 24, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGsxcGtCenZpcWozNmVZOXQzUUtkU3BTcjRia0s3OFpwR3UxV3Fxc0I1ZzJaTjllTzlPdG9zS1ZQXy1Yb18tMzhFbDVRdjRiUVNoUXJ2b0ZvVGJZQlJtYlBEYWRXTjg5Z0RVcTJtS2t5TjNZU3VfUDFsR1d6REVIeG5xUy1TbExFSmVtUE5aZjVKLXZoTkF4Y3kyc2dpM2JiWUE?oc=5
+
+🔥 Renaming of César Chávez Day, 3D-printed gun ban, data center regs in the Colorado legislature this week - Boulder Daily Camera
+Renaming of César Chávez Day, 3D-printed gun ban, data center regs in the Colorado legislature this week Boulder Daily Camera
 Reported by Google News - 3D Printing on Mar 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMinAFBVV95cUxPam5JZ3Jjd09hbC1tblhKRUd5eU9kd1RCV0Jmbzc5UnhjX0l4NklmNE8xcE5RUkN5UUFKS1BWQkpBRm5ZVzJ1UkJfQ0t6Y2EtZGNmWW1tM1VNTi1COWtfRzkyTGJuSkpLUS15MDlzZHp4eFMxRF9xRVRPeVRNVTZCdkljeVBfZ3BvUDlZR3RPZzNYSTZaS0xOUG1seWc?oc=5
+Read more ? https://news.google.com/rss/articles/CBMingFBVV95cUxPSFU2aXZnZDZZLWFVY3lxaEdjeGxxQ04wdkxsX1JLQktWbHI5MzFzWEpKSUFReWRyRndTWlFKTXVUbG5wNktqVzdmOGZDVTcwQlpkTHY4bExhMUU4TVQzRlUxRmQ3OFZWbXRwWHFQaFFTX2tEY2JUdTlyYktmWUpiSi1oREUwNkpBckpHek82Smo3eHhMSHBNR1dfM2U3QQ?oc=5
 
-🔥 Glass 3D Printing Goes Viral as Labs Break Temperature Barriers - Gadget Review
-Glass 3D Printing Goes Viral as Labs Break Temperature Barriers Gadget Review
-Reported by Google News - 3D Printing on Mar 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMilwFBVV95cUxPMGJ6TklIMU5tU2kyNUozQW1jLTdxNHFkZTVHNjBESVd5U1ZRZW9qSXNEbkUyNGZSZWttdE90UkcyUUdiZ2VaZUdXN3V5NDFidmg2bFlSOENnQjRfM2pDNDJmT3RXZEM4OFhsV1l3VzJKQnEwLWpNN1lOM01oSmFZZFBpdUFQYVpjLVdLYXZpTmtVVUNvYW9N?oc=5
+📰 Therme Manchester deploying 3D printing to keep materials in circulation
+A water park and wellness resort currently under development in the UK at a cost of £450 million ($603m) is deploying large-scale 3D printing technology as part of a broader … The post Therme Manchester deploying 3D...
+Reported by VoxelMatters on Mar 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Therme-Manchester_01-150x150.jpg
+Read more ? https://www.voxelmatters.com/therme-manchester-deploying-3d-printing-to-keep-materials-in-circulation
 
-🚀 DEEP Manufacturing a year ahead of schedule with Houston WAAM facility
-Large-scale AM specialist DEEP Manufacturing has moved up the official launch date of its new Houston, Texas facility to May of this year, a full 12 months ahead of its … The post DEEP Manufacturing a year ahead of...
-Reported by VoxelMatters on Mar 23, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/DEEP-Manufacturing_03-150x150.jpg
-Read more ? https://www.voxelmatters.com/deep-manufacturing-a-year-ahead-of-schedule-with-houston-waam-facility
+💻 Polymaker direct-to-consumer expands webshop to six European countries
+Customers in the UK, France, Germany, Poland, Czechia, and Spain will now be able to access Polymaker products via its official webshop.
+Reported by TCT Magazine on Mar 24, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/03/FM02002_Isometric_Packaging.png
+Read more ? https://www.tctmagazine.com/polymaker-direct-to-consumer-expands-webshop-to-six-european-countries
 
-📰 How Oscar-winning animation ‘The Girl Who Cried Pearls’ used 3D printing
-When I sat down to watch The Girl Who Cried Pearls (2025) this weekend, I was prepared to be moved.
-Not only because the animated film is made and set … The post How Oscar-winning animation ‘The Girl Who Cried Pearls’ used 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/girl-who-cried-pearls-2-150x150.jpg
-Read more ? https://www.voxelmatters.com/how-oscar-winning-animation-the-girl-who-cried-pearls-used-3d-printing
+📰 BLT reaches 100,000 part milestone with copper additive manufacturing capability
+BLT says it is accelerating production cycles, enhancing material efficiency, and offering greater design freedom for complex parts.
+Reported by TCT Magazine on Mar 24, 2026.
+Image ? https://www.tctmagazine.com/content/images/2026/03/Picture-2-1-1.jpg
+Read more ? https://www.tctmagazine.com/blt-reaches-100-000-part-milestone-with-copper-additive-manufacturing-capability
 
-🏠 First Sperra full-scale 3D concrete printed gravity anchor deployed
-The pilot was completed in close collaboration with Fred.
-Olsen 1848 and Vertico, reported by TCT Magazine on Mar 23, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/03/image--16--1.png
-Read more ? https://www.tctmagazine.com/first-sperra-full-scale-3d-concrete-printed-gravity-anchor-deployed
+📰 adidas unveils bespoke 3D printed basketball shoes for athletes
+Mere weeks after officially dropping its 3D printed CLIMACOOL LACED sneaker for the consumer market, sportswear giant adidas has teased its use of 3D printing for performance footwear.
+As revealed … The post adidas unveils bespoke 3D printed basketball shoes for athletes appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/adidas-basketball-1-150x150.jpeg
+Read more ? https://www.voxelmatters.com/adidas-unveils-bespoke-3d-printed-basketball-shoes-for-athletes
 
-💻 Rapid Fusion signs Italian partnership with Aivox
-UK-based large format additive manufacturing specialist Rapid Fusion has signed an exclusive partnership agreement with Italian innovation consultancy Aivox, setting a €1m ($1.16m) target in revenue from the Italian...
-Reported by VoxelMatters on Mar 23, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Rapid-Fusion-Aivox_01-150x150.jpg
-Read more ? https://www.voxelmatters.com/rapid-fusion-signs-italian-partnership-with-aivox
-
-🖨 Metal Powder Works to support AMS in delivery of 3D printed part via Project TAMPA
-The contract is expected to be fulfilled within the current financial year.
-Reported by TCT Magazine on Mar 23, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/03/IMG_1753_mods-1024x683-1.png
-Read more ? https://www.tctmagazine.com/metal-powder-works-to-support-ams-in-delivery-of-3d-printed-part-via-project-tampa
+🚀 University of Oklahoma and ORNL launch Phase II of Air Force AM program
+The University of Oklahoma and Oak Ridge National Laboratory (ORNL), in partnership with the Air Force Sustainment Center (AFSC), Air Force Research Laboratory (AFRL), and the Oklahoma City Air Logistics … The post...
+Reported by VoxelMatters on Mar 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/OU-ORNL-metal-AM-initiative-150x150.jpg
+Read more ? https://www.voxelmatters.com/university-of-oklahoma-and-ornl-launch-phase-ii-of-air-force-am-program
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
