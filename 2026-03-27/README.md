@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-27
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #79 - 2026-03-27
+## Stories
 
 🔥 Hochul pushes to ban 3D printed guns, parts - Press-Republican
 Hochul pushes to ban 3D printed guns, parts Press-Republican
@@ -50,9 +48,3 @@ Collagen biomaterials specialist Rousselot, a company with a global presence and
 Reported by VoxelMatters on Mar 26, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/X-Pure-GelMA-vial-photo-150x150.jpg
 Read more ? https://www.voxelmatters.com/rousselot-new-bioprinting-possibilities-enlight-project
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

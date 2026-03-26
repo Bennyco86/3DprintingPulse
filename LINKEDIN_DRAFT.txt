@@ -1,52 +1,52 @@
-﻿# 3D PRINTING PULSE #78 - 2026-03-26
+﻿# 3D PRINTING PULSE #79 - 2026-03-27
 
-🔥 Hochul pushes ban on 3D technology used to make guns - MSN
-Hochul pushes ban on 3D technology used to make guns MSN
-Reported by Google News - 3D Printing on Mar 24, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk43bFZEZGxOaUpJY0FCdDhXSmpoQWxOVmVMV1BZT1ZiRzlOU3VwLTQ0N0FUNEt3LTdINjM5eFFfb2Juek5HbTNUNVdqX3VHcjdnNnVkc1Q4Q0dzTlRiME0yUW55bFdpTzBuaThQRkxIWkgzdUpSUlhJTF91ajNPcjhHSTZwMU5uWnlvbTY3RGNIVUFZYVJRZ0xSTWFrNjQ?oc=5
+🔥 Hochul pushes to ban 3D printed guns, parts - Press-Republican
+Hochul pushes to ban 3D printed guns, parts Press-Republican
+Reported by Google News - 3D Printing Viral on Mar 25, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTJsaUZnUUNJQUdBYldER2VQUE80WXEzb0dLdHFERlBjWmRQd3ZUcGZlS2o4WkUyb3A4ak1wYktiR2t2SmNLNGFHN0NvWFdoYldtQmVzMEowNnRNbjlsY21ubjVUQUEzRVdUcTNWSS1KeHlWUzFYUmVUdnRPLTV3ZFJ0UWI0TkdqQTdoVzVHcG16a0RfU3JHZXFCejVnZjI1OG5NUnZDLXlOQnFQQlBrdzF4b1lLd3l2NTFoTjgyLXFEY1ZISFNmNw?oc=5
 
-📰 Industrial additive manufacturing sector records renewed growth of 5.6% - AMPOWER Report 2026
-The German-based strategy consultancy reported a period of stagnation in 2024.
-Reported by TCT Magazine on Mar 25, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/20211020_copper-samples-lb-pbf-1.png
-🔗 Read more: https://www.tctmagazine.com/industrial-additive-manufacturing-sector-records-renewed-growth-of-5-6-ampower-report-2026
+📰 UCL researchers develop aluminum alloy purpose-built for DED printing
+Researchers at University College London (UCL), working with colleagues at Brunel University London, have developed a bespoke aluminum alloy specifically for use in Directed Energy Deposition (DED) additive...
+The … The post UCL researchers develop aluminum alloy purpose-built for DED printing appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Aluminium-alloy-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ucl-researchers-develop-aluminum-alloy-purpose-built-for-ded-printing
 
-📰 Würth Additive Group and B9Creations partner to standardize quality in distributed AM
-Würth Additive Group (WAG) and B9Creations have formed a strategic partnership, announced at the Additive Manufacturing Users Group (AMUG) 2026 conference.
-The companies will bring together “B9Creations’ production-grade additive manufacturing … The post Würth Additive Group and B9Creations partner to standardize quality in distributed AM appeared first on VoxelMatters...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Wurth-B9-partnership_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/wurth-additive-group-and-b9creations-partner-to-standardize-quality-in-distributed-am
+💻 Voxelcare steps up with end-to-end custom 3D printed orthotics solution
+Based out of Spain and The Netherlands, Voxelcare has been on a mission to transform how orthotics are made within the foot care sector.
+The company has developed a cloud-based, … The post Voxelcare steps up with end-to-end custom 3D printed orthotics solution appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/voxelcare-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/voxelcare-steps-up-with-end-to-end-custom-3d-printed-orthotics-solution
 
-🚀 Rocket Lab targets 1,000th Rutherford engine launch as AM scales from Electron to Neutron
-Rocket Lab disclosed that more than 800 Rutherford engines have flown to space aboard its Electron small launch vehicle, with the company targeting a total of 1,000 launches before the … The post Rocket Lab targets...
-Reported by VoxelMatters on Mar 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/rocketlab_1000_1774313747455-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/rocket-lab-targets-1000th-rutherford-engine-launch-as-am-scales-from-electron-to-neutron
+🚀 Big metal 3D printing and lots of laser power: TCT Asia 2026 in pictures
+Rocket engines, 256-laser machines and AI infrastructure.
+Reported by TCT Magazine on Mar 26, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/YONG0762-opq4440186234.jpg
+🔗 Read more: https://www.tctmagazine.com/big-metal-3d-printing-and-lots-of-laser-power-tct-asia-2026-in-pictures
 
-🖨 MOVA unveils AtomForm Palette 300 3D printer at San Jose event
-MOVA, a smart living hardware brand, introduced the AtomForm Palette 300 at a San Jose event, presenting a fused deposition modeling (FDM) desktop printer built around an automatic 12-nozzle-swapping system … The...
-Reported by VoxelMatters on Mar 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/atomform-2-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/mova-unveils-atomform-palette-300-3d-printer-at-san-jose-event
+🏠 AML3D secures $1.8 million contract to 3D print replacement parts for US Navy submarines
+AML3D has received a AU$2.61 million ($1.8m) contract to manufacture five replacement components for in-service trials aboard US Navy submarines, with the order signed through BlueForge Alliance, a US nonprofit … The...
+Reported by VoxelMatters on Mar 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-28-at-15.12.18-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/aml3d-secures-1-8-million-contract-to-3d-print-replacement-parts-for-us-navy-submarines
 
-📰 BLT surpasses 100,000 copper alloy parts produced on its 8-laser BLT-S400
-Bright Laser Technologies disclosed that cumulative production of copper alloy components on its BLT-S400 laser powder bed fusion (PBF-LB/M) system crossed 100,000 units as of March 2026, marking what the … The post...
-Reported by VoxelMatters on Mar 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Copper-parts-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/blt-surpasses-100000-copper-alloy-parts-produced-on-its-8-laser-blt-s400
+🚀 Sculpteo launches professional 3D scanning service
+The company will support reverse engineering, 3D printing, injection moulding, and replacement part projects.
+Reported by TCT Magazine on Mar 26, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/3DScan-service--2--1.jpg
+🔗 Read more: https://www.tctmagazine.com/sculpteo-launches-professional-3d-scanning-service
 
-🚀 The Exploration Company licenses LEAP 71's Noyron RP technology for rocket engine design
-The two companies have signed a five-year agreement.
-Reported by TCT Magazine on Mar 24, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/leap71-1.png
-🔗 Read more: https://www.tctmagazine.com/the-exploration-company-licenses-leap-71s-noyron-rp-technology-for-rocket-engine-design
+🦺 3D Systems granted full-scope certification under EU Medical Device Regulation 2017/745
+The company expects it to enable the European launch of its NextDent Jetted Denture Solution this summer.
+Reported by TCT Magazine on Mar 26, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/3D_20Systems_20jetted_20dentures.png
+🔗 Read more: https://www.tctmagazine.com/3d-systems-granted-full-scope-certification-under-eu-medical-device-regulation-2017-745
 
-🦺 How Far Has AM in Healthcare Really Come? Find out at RAPID + TCT 2026
-Something has matured in how the AM industry thinks about healthcare, and the conversation is sharper for it.
-Where the industry once debated potential, practitioners are now deep in the specifics: how to manufacture custom medical products at scale, how to satisfy regulators who were not built with AM in mind, and how to, reported by 3D Printing Industry on Mar 24, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/SME-RapidTCT-2025_0518-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/how-far-has-am-in-healthcare-really-come-find-out-at-rapid-tct-2026-250193
+🦺 Rousselot enables new bioprinting possibilities through ENLIGHT project
+Collagen biomaterials specialist Rousselot, a company with a global presence and more than 130 years of expertise, is continuing to provide gelatin-based biomaterials used by experts in 3D bioprinting, regenerative …...
+Reported by VoxelMatters on Mar 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/X-Pure-GelMA-vial-photo-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/rousselot-new-bioprinting-possibilities-enlight-project
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Hochul pushes ban on 3D technology used to make guns - MSN" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNYk43bFZEZGxOaUpJY0FCdDhXSmpoQWxOVmVMV1BZT1ZiRzlOU3VwLTQ0N0FUNEt3LTdINjM5eFFfb2Juek5HbTNUNVdqX3VHcjdnNnVkc1Q4Q0dzTlRiME0yUW55bFdpTzBuaThQRkxIWkgzdUpSUlhJTF91ajNPcjhHSTZwMU5uWnlvbTY3RGNIVUFZYVJRZ0xSTWFrNjQ?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Hochul pushes to ban 3D printed guns, parts - Press-Republican" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTJsaUZnUUNJQUdBYldER2VQUE80WXEzb0dLdHFERlBjWmRQd3ZUcGZlS2o4WkUyb3A4ak1wYktiR2t2SmNLNGFHN0NvWFdoYldtQmVzMEowNnRNbjlsY21ubjVUQUEzRVdUcTNWSS1KeHlWUzFYUmVUdnRPLTV3ZFJ0UWI0TkdqQTdoVzVHcG16a0RfU3JHZXFCejVnZjI1OG5NUnZDLXlOQnFQQlBrdzF4b1lLd3l2NTFoTjgyLXFEY1ZISFNmNw?oc=5 | Full coverage: https://www.quality3ds.com/
