@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-28
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #80 - 2026-03-28
+## Stories
 
 🔥 Democrats abandon effort to ban distribution of 3D gun instructions to avoid Jared Polis veto - The Colorado Sun
 Democrats abandon effort to ban distribution of 3D gun instructions to avoid Jared Polis veto The Colorado Sun
@@ -49,9 +47,3 @@ Bambu Lab‘s MakerWorld has integrated Meshy, a generative AI platform for 3D m
 Alongside the integration, Meshy has updated its Multi-Color Printing feature, which handles texture-to-filament assignment automatically, removing the need […], reported by 3D Printing Industry on Mar 27, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/1773135955443-150x100.jpeg
 Read more ? https://3dprintingindustry.com/news/meshy-and-makerworld-team-up-to-put-ai-3d-model-generation-in-bambu-lab-users-hands-250281
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
