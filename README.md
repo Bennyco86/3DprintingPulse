@@ -2,53 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #80 - 2026-03-28
+### 3D PRINTING PULSE #81 - 2026-03-29
 
-🔥 Democrats abandon effort to ban distribution of 3D gun instructions to avoid Jared Polis veto - The Colorado Sun
-Democrats abandon effort to ban distribution of 3D gun instructions to avoid Jared Polis veto The Colorado Sun
-Reported by Google News - 3D Printing Viral on Mar 27, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQTlraU0wdmt3VGJ0UWNEaVRFeVZWMDd5bDJveXNJaWRic09TcVBlZEVtMXQyd0NfQzdCRjBBYzhGeGlmVFNRd01CQ1o0WE5sejh3ZUpaX3lvZkJ3MDhlMmpmQkZ6OEkybWFMbTlybVcyNnVYLWNydk1Pd3pwME9DbEp3elJ0dm9k?oc=5
-
-🔥 Hochul pushing to ban 3D printed guns, gun parts - TheDailyNewsOnline.com
-Hochul pushing to ban 3D printed guns, gun parts TheDailyNewsOnline.com
+🔥 To avoid governor’s veto, Colorado Democrats drop key provision from bill banning 3-D printed guns - summitdaily.com
+To avoid governor’s veto, Colorado Democrats drop key provision from bill banning 3-D printed guns summitdaily.com
 Reported by Google News - 3D Printing on Mar 27, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1RuS0VUdVlZdC1YS0UtTGVkM3U3OXhTZWlZR2YxRWl4UXN2ejVmeXNuUXRVSElWanpKNzRaV1NLR0ZqYXNjUVZrTDMtVkF2QzNfMy10bDFvMGZjM1ZydTFDdnBfYVpGazE3bmRWcnpCRVh4djRHc0dlWVpKVDRPOXAtRS1lWTVTWWJfbU44XzhILUE0YzBrRVpOZXd1MDFzNzdrUU9USm9rZ2tFdGJrRFF5OFhydERramw5dVdvTzRiTGFLaERyZDVTZUswMElTeFhj?oc=5
+Read more ? https://news.google.com/rss/articles/CBMigAFBVV95cUxOcWROaDhnWVlweDNTa0Q0ZnE2U2pHUXJrUmVCVkxZNGh0TUtZSkxhWS02VHVELUx5aVBiZEVlajBoekRwMnBTVUlhSUJxaHdYUUFNWVNyZzMtcXB0WUFSQ2xNT0xlSDFzdzRpSW0yXzBZamZWZkg5TENRSFM0TkpWeA?oc=5
 
-🚀 Rapid Fusion targets €1M Italian expansion through exclusive Aivox partnership
-Rapid Fusion, an Exeter-based large-format additive manufacturing company, is targeting a €1 million expansion after signing an exclusive agreement with Aivox, an Italian engineering and innovation consultancy, to...
-The deal focuses on customers in architecture, fashion, medtech, and Northern Italy’s naval sector, reported by 3D Printing Industry on Mar 27, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/Aivox_Lab-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/rapid-fusion-targets-e1m-italian-expansion-through-exclusive-aivox-partnership-250270
+🖨 Continuum Powders to exhibit reclaimed metal AM powders for defense at DMC 2026
+Continuum Powders will exhibit at the Defense Manufacturing Conference (DMC) in Orlando, Florida, from March 30 to April 2, 2026, where the company will present its portfolio of reclaimed and … The post Continuum...
+Reported by VoxelMatters on Mar 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Continuum_1774532092425-150x150.jpg
+Read more ? https://www.voxelmatters.com/continuum-powders-to-exhibit-reclaimed-metal-am-powders-for-defense-at-dmc-2026
 
-🏠 US Army breaks ground on substantial Fort Bliss 3D printed barracks extension
-ICON, an Austin, Texas-based 3D printed construction company, has started work on 10 barracks buildings at Fort Bliss, Texas, that will house 560 soldiers in open bays by August.
-The … The post US Army breaks ground on substantial Fort Bliss 3D printed barracks extension appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/BarracksPhoto07-150x150.jpeg
-Read more ? https://www.voxelmatters.com/us-army-breaks-ground-on-substantial-fort-bliss-3d-printed-barracks-extension
+🚀 Sculpteo launches 3D scanning service for European clients
+France-based 3D printing service Sculpteo has introduced a professional 3D scanning service based at its factory near Paris, extending access to customers across Europe.
+The service enables companies to convert … The post Sculpteo launches 3D scanning service for European clients appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Facade-Sculpteo-150x150.jpg
+Read more ? https://www.voxelmatters.com/sculpteo-launches-3d-scanning-service-for-european-clients
 
-📰 Industrial AM market returns to growth as desktop polymer segment expands
-German consultancy AMPOWER has published its AMPOWER Report 2026 reporting that the industrial AM market returned to growth in 2025 after stagnating in 2024, reaching a volume of over €11 billion (approx.
-Its latest annual market study puts sector growth at 5.6% last year, driven by stronger demand for part production and higher […], reported by 3D Printing Industry on Mar 27, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/Over-80-of-industrial-AM-machines-come-from-USA-China-and-Germany-150x100.png
-Read more ? https://3dprintingindustry.com/news/industrial-am-market-returns-to-growth-as-desktop-polymer-segment-expands-250262
+📰 Applied Rapid Technologies wins prime contract in DLA’s JAMA AM program
+Applied Rapid Technologies, a division of Obsidian Solutions Group, has received a prime contractor position under the Defense Logistics Agency’s Joint Additive Manufacturing Acceptance Indefinite Delivery/Indefinite...
+Reported by VoxelMatters on Mar 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/ART-Obsidian-logos-150x150.jpg
+Read more ? https://www.voxelmatters.com/applied-rapid-technologies-wins-prime-contract-in-dlas-jama-am-program
 
-🚀 Nike invites eight designers to 3D print limited-run Air Max sneakers
-When Nike’s first Air Max sneakers launched in 1987, they were something of an event.
-Not only among the first sneakers to integrate air cushioning technology, they were the first … The post Nike invites eight designers to 3D print limited-run Air Max sneakers appeared first on VoxelMatters - The...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/nike-air-works-3-150x150.jpeg
-Read more ? https://www.voxelmatters.com/nike-invites-eight-designers-to-3d-print-limited-run-air-max-sneakers
+🚀 ARIS completes PEGASUS Gen1 rotating detonation engine with AM components
+ARIS (Academic Space Initiative Switzerland), a student rocketry organization previously covered by VoxelMatters for its HEPHAESTUS bi-liquid propulsion work, completed development of its first rotating detonation...
+Reported by VoxelMatters on Mar 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/ARIS-Gen11774444669731-150x150.jpg
+Read more ? https://www.voxelmatters.com/aris-completes-pegasus-gen1-rotating-detonation-engine-with-copper-nickel-silicon-am-components
 
-🖨 DEEP Manufacturing expands into Houston with new large-scale WAAM facility
-DEEP Manufacturing, a company specializing in Wire Arc Additive Manufacturing and hybrid manufacturing, is expanding its U.S.
-operations with a 50,000 sq ft facility in Houston, Texas, reported by 3D Printing Industry on Mar 27, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/New_DEEP_Manufacturing_facility_4-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/deep-manufacturing-expands-into-houston-with-new-large-scale-waam-facility-250257
+🖨 Legacy Effects Used 3D Printing to Enhance Effects on Superman 2025
+Legacy Effects, US visual effects studio, transformed how physical production assets are built during the making of Superman 2025 by integrating Bambu Lab‘s X1C 3D printing systems mid-production into nearly every...
+The result was a faster iteration, lighter stunt suits, and camera-ready parts that once required slower, costlier processes, all […], reported by 3D Printing Industry on Mar 28, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/Bambu-Lab-Legacy-Effects-13-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/legacy-effects-used-3d-printing-to-enhance-effects-on-superman-2025-250357
 
-🖨 Meshy and MakerWorld Team Up to Put AI 3D Model Generation in Bambu Lab Users’ Hands
-Bambu Lab‘s MakerWorld has integrated Meshy, a generative AI platform for 3D model creation, into its MakerLab hub, letting users turn any photo into a print-ready 3D model in minutes, no design software or technical...
-Alongside the integration, Meshy has updated its Multi-Color Printing feature, which handles texture-to-filament assignment automatically, removing the need […], reported by 3D Printing Industry on Mar 27, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/1773135955443-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/meshy-and-makerworld-team-up-to-put-ai-3d-model-generation-in-bambu-lab-users-hands-250281
+🖨 Scrap Labs debuts Scrap 1 LPBF metal 3D printer at $9,600 entry-level price
+Scrap Labs will debut its first product, the Scrap 1 laser powder bed fusion metal 3D printer, at the Rocky Mountain RepRap Festival (RMRRF) in Loveland, Colorado, on April 18–19, … The post Scrap Labs debuts Scrap 1...
+Reported by VoxelMatters on Mar 27, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/nanobanana-cube-hero-cropped-e1774545707483-150x150.webp
+Read more ? https://www.voxelmatters.com/scrap-labs-debuts-scrap-1-lpbf-metal-3d-printer-at-9600-entry-level-price
+
+📰 ART Wins DLA JAMA Contract for 3D Printed Defense Parts
+Virginia-based company Applied Rapid Technologies (ART), operating as a division of Obsidian Solutions Group, has been awarded a prime contractor designation by the Defense Logistics Agency under the Joint Additive...
+The JAMA initiative represents a deliberate effort by the US Department of Defense (DoD) to modernize […], reported by 3D Printing Industry on Mar 27, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-10.50.58-150x100.png
+Read more ? https://3dprintingindustry.com/news/art-wins-dla-jama-contract-for-3d-printed-defense-parts-250285
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
