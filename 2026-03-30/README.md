@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-30
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #82 - 2026-03-30
+## Stories
 
 ♻️ Creality plans Filament Maker M1 and Shredder R1: Produce your own filament from print waste - 3Druck.com
 Creality plans Filament Maker M1 and Shredder R1: Produce your own filament from print waste 3Druck.com
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMicEFVX3lxTFByUlFEd3h4MkdHeDR
 12-Nozzle 3D printer unveiled — MOVA AtomForm Unveils Palette 300 Tom's Hardware
 Reported by Google News - 3D Printing on Mar 29, 2026.
 Read more ? https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkdKOTQ1bjBmR08ycHVQN2t0X1RwVVphcWFnQ1hMUm1WX3dMQnRfVExkQzcyQTNPcjdoblRlYmJReVB1XzlWaWNnRjZZMkZhR0Z0Q3FlWXNQVFVwZl95bVJTM2VvamZkc2hSMXBQZU1GUUo1Q3M0aGgtMlo4cmxHTkxEbVE4cUE4ZjNfeE5BU01KWkt4LVExRU4wVUVobnNfMnd6Q3pwNA?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
