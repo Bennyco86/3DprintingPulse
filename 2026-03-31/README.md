@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-03-31
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #83 - 2026-03-31
+## Stories
 
 🔥 Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments - The Denver Post
 Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments The Denver Post
@@ -49,9 +47,3 @@ Autodesk, a leading provider of design software, has added Wonder 3D to its Flow
 Reported by VoxelMatters on Mar 30, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/AutoDesk-Wonder3D-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/autodesk-adds-wonder-3d-generative-model-to-flow-studio
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

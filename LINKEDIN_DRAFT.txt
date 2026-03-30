@@ -1,47 +1,51 @@
-﻿# 3D PRINTING PULSE #82 - 2026-03-30
+﻿# 3D PRINTING PULSE #83 - 2026-03-31
 
-♻️ Creality plans Filament Maker M1 and Shredder R1: Produce your own filament from print waste - 3Druck.com
-Creality plans Filament Maker M1 and Shredder R1: Produce your own filament from print waste 3Druck.com
-Reported by Google News - Filament Recycling on Mar 28, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMixgFBVV95cUxOOW9zUDJKb1pmdzJUS0hseXJ5YkFLb2VSMkpTeDNXakxJaFMwTXdraE5UaS1TQjVQNkpkWnd3eG5ac2NxVFJxeDRLb0UxYk1YRnJsUDcyNVdOT3R3enFHSkhYc3VqRnlOMGE1a3ZKUW83WDFnTGVJRWJMTEdfRUpBb0ZLRWZoMHFrWkxadDZOT2lhZV9qdlo0OFJtX1kxWl9XTnQ1RGwzdXhJXzN0SzZpVUtMTlFjTF9GT2VPdHBDemN2ZVdpTXc?oc=5
+🔥 Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments - The Denver Post
+Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments The Denver Post
+Reported by Google News - 3D Printing on Mar 30, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGdrRlo5T0ZKZUktOXpCNFV0bnFiZ1F0V09qdE1xMlFPS2dTRjFhR0RKczlXajdWWURBNTA1ZXhhNURUa0ZHYU1FZHlPV3ktUGVxaGVsRnZWby0tWExKQTZhOHA1Z1BGVEJLY3hHaE45RjhxZ1VHOHB5M0c2RDNBQQ?oc=5
 
-💻 UCF researcher developing AI-based model aimed at reducing destructive AM testing
-A University of Central Florida researcher has received a Young Faculty Award from the Defense Advanced Research Projects Agency (DARPA) to develop a machine learning model that’s capable of predicting … The post UCF...
-Reported by VoxelMatters on Mar 29, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/UCF-Associate-Professor-Dazhong-Wu-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ucf-researcher-developing-ai-based-model-aimed-at-reducing-destructive-am-testing
+🔥 Rheinmetall CEO faces backlash for belittling Ukrainian drone innovation - Euractiv
+Rheinmetall CEO faces backlash for belittling Ukrainian drone innovation Euractiv
+Reported by Google News - 3D Printing Viral on Mar 30, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipgFBVV95cUxObXJlWlo3aEpOMk9oMjRyV2E3NXFxTTdHVUFFSU5oSEllVUMwSEMwdTBtNkRPbGI5d29xeXM4N2ZKR3JtYUpSNGxyX29sQnRmLVk2WHBnZ2RTbUdmMEZ2aTAzZ0F3ekt2Rm40S1FCRUVGX2tzLTBORmtEMDdzY1FnQW42bV9MT3VyMjRhMExCNzNDRnVWdV9FSF9pWG5icDA4Vi1xQl9n?oc=5
 
-🚀 Fraunhofer develops multi-metal 3D printing process for rocket components
-Researchers at the Fraunhofer Institute for Casting, Composite and Processing Technology have developed a 3D printing process capable of using multiple metals simultaneously to produce rocket components in a single …...
-Reported by VoxelMatters on Mar 29, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Fraunhofer-develops-multi-metal-3D-printing-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/fraunhofer-develops-multi-metal-3d-printing-process-for-rocket-components
+💻 UK blockchain platform addresses IP protection in additive manufacturing
+A blockchain-based platform designed to protect intellectual property in additive manufacturing has been validated by the UK’s National Composites Centre (NCC).
+The validation paves the way toward a broader adoption … The post UK blockchain platform addresses IP protection in additive manufacturing appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Autentica-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/uk-blockchain-platform-addresses-ip-protection-in-additive-manufacturing
 
-💻 Superman, One Year Later, and the 3D Printing You Didn’t Notice
-Last year’s Superman film had a lot going for it.
-A new director, James Gunn, who came over from Marvel after the success of his Guardians of the Galaxy trilogy,, reported by 3DPrint.com on Mar 29, 2026.
-🔗 Read more: https://3dprint.com/324893/superman-one-year-later-and-the-3d-printing-you-didnt-notice
+📰 Stratasys to support qualifcation &amp; deployment of 3D printed parts across military platforms via US DOW contract
+"Stratasys Direct already ships over 100,000 parts annually to the defence industry, and programs like JAMA will accelerate the qualification of parts so organisations can deploy them faster across operational...
+Reported by TCT Magazine on Mar 30, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Airbus_A400M-1.png
+🔗 Read more: https://www.tctmagazine.com/stratasys-to-support-qualifcation-deployment-of-3d-printed-parts-across-military-platforms-via-us-dow-contract
 
-📰 Clean Enclosures, No Printing Necessary - Hackaday
-Clean Enclosures, No Printing Necessary Hackaday
-Reported by Google News - 3D Printing on Mar 29, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE5VWldNZGQ4cHN2VUxlS1QwdHdWbkhWRjJqNTFEalJ3X0ZGUFl4ZlJiSHJINGQ1VDZzTzJIMElTYTEwSjVxdllWVkozVU81aDBmUDNmQ3hpa2xpR250TWIzSzliZUlWVHZVdzY3RTdacndlY2lKYzY5UHRXMA?oc=5
+🏠 Velo3D secures $9.8m Department of War contract to support additive manufacture of spare &amp; replacement parts
+A 'flexible acquisition pathway' that enables the Defense Logistics Agency to procure qualified additively manufactured components will be established.
+Reported by TCT Magazine on Mar 30, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Velo-3D-Sapphire-C_Original-1024x683-1.png
+🔗 Read more: https://www.tctmagazine.com/velo3d-secures-9-8m-department-of-war-contract-to-support-additive-manufacture-of-spare-replacement-parts
 
-🖨 Hardened Steel Feed Gear Kit For AD5M &amp; AD5M Pro 3D Printer Extruder – Nano Coating, Integrated Shaft, High Temp - ruhrkanal.news
-Hardened Steel Feed Gear Kit For AD5M &amp; AD5M Pro 3D Printer Extruder – Nano Coating, Integrated Shaft, High Temp ruhrkanal.news
-Reported by Google News - 3D Printing on Mar 29, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVU5YTVJbmdtMHVrcTBZSFlpX096Wk9jdGRHNGZKdV9FdUZISHJzazMtYXFDTmxOVXZId1ZuNVQ0cXFndHc1SERPTGZYdVFsUUtZU192bWpwbEotcFd2RWt1QWN4eWhwWnB2ZTQ1RzBXMWRfdmNSSGJWUEZnM1lPc0FOYkZ5dFNoS2pBdmlhNlotZw?oc=5
+🚀 Post-processing specialist Spengler launches SLS 3D printing service
+French company Spengler, which specializes in post-processing systems for powder bed fusion, has expanded into the services realm, launching an in-house selective laser sintering (SLS) production line.
+In offering this … The post Post-processing specialist Spengler launches SLS 3D printing service appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/spengler-service-2-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/post-processing-specialist-spengler-launches-sls-3d-printing-service
 
-🚀 Going to Watch Project Hail Mary This Weekend? Take This Little 3D Printed Spaceman With You - CNET
-Going to Watch Project Hail Mary This Weekend?
-Take This Little 3D Printed Spaceman With You CNET, reported by Google News - 3D Printing on Mar 29, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMicEFVX3lxTFByUlFEd3h4MkdHeDRsdkdBLWhHTmQ4a0dwUHZadFJEdm9QLVA5NF9NRVF5NjRjUmRveU15MDA5TVFrM1dKbTI1V0VvOFMyWGJ1VkJOTk94RjM1eWhETHBBcmFuSFVNdWhYS0l1OWNuaFM?oc=5
+🚀 74 Seconds: an engineer aims to break the 3D printing speed ​​barrier
+Jan Roetz, an independent engineer and YouTube creator, has just set a new record in 3D printing.
+His self-built printer, with a name that is anything but accidental, printed a … The post 74 Seconds: an engineer aims to break the 3D printing speed ​​barrier appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Zrzut-ekranu-2026-03-29-220849-150x150.png
+🔗 Read more: https://www.voxelmatters.com/74-seconds-an-engineer-aims-to-break-the-3d-printing-speed-barrier
 
-🖨 12-Nozzle 3D printer unveiled — MOVA AtomForm Unveils Palette 300 - Tom's Hardware
-12-Nozzle 3D printer unveiled — MOVA AtomForm Unveils Palette 300 Tom's Hardware
-Reported by Google News - 3D Printing on Mar 29, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkdKOTQ1bjBmR08ycHVQN2t0X1RwVVphcWFnQ1hMUm1WX3dMQnRfVExkQzcyQTNPcjdoblRlYmJReVB1XzlWaWNnRjZZMkZhR0Z0Q3FlWXNQVFVwZl95bVJTM2VvamZkc2hSMXBQZU1GUUo1Q3M0aGgtMlo4cmxHTkxEbVE4cUE4ZjNfeE5BU01KWkt4LVExRU4wVUVobnNfMnd6Q3pwNA?oc=5
+💻 Autodesk adds Wonder 3D generative model to Flow Studio
+Autodesk, a leading provider of design software, has added Wonder 3D to its Flow Studio platform, bringing to market a generative model for producing three-dimensional assets from text prompts or … The post Autodesk...
+Reported by VoxelMatters on Mar 30, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/AutoDesk-Wonder3D-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/autodesk-adds-wonder-3d-generative-model-to-flow-studio
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Creality plans Filament Maker M1 and Shredder R1: Produce your own filament from print waste - 3Druck.com" because it highlights where practical 3D printing innovation is moving next. Story link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOOW9zUDJKb1pmdzJUS0hseXJ5YkFLb2VSMkpTeDNXakxJaFMwTXdraE5UaS1TQjVQNkpkWnd3eG5ac2NxVFJxeDRLb0UxYk1YRnJsUDcyNVdOT3R3enFHSkhYc3VqRnlOMGE1a3ZKUW83WDFnTGVJRWJMTEdfRUpBb0ZLRWZoMHFrWkxadDZOT2lhZV9qdlo0OFJtX1kxWl9XTnQ1RGwzdXhJXzN0SzZpVUtMTlFjTF9GT2VPdHBDemN2ZVdpTXc?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments - The Denver Post" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGdrRlo5T0ZKZUktOXpCNFV0bnFiZ1F0V09qdE1xMlFPS2dTRjFhR0RKczlXajdWWURBNTA1ZXhhNURUa0ZHYU1FZHlPV3ktUGVxaGVsRnZWby0tWExKQTZhOHA1Z1BGVEJLY3hHaE45RjhxZ1VHOHB5M0c2RDNBQQ?oc=5 | Full coverage: https://www.quality3ds.com/
