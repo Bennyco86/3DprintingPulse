@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-01
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #84 - 2026-04-01
+## Stories
 
 🔥 Bambu Lab and Pop Mart Lawsuit Settled Out of Court
 Chinese 3D printer manufacturer Bambu Lab has reached a settlement with toymaker Pop Mart over copyright infringement claims tied to unauthorised Labubu character files uploaded to its file-sharing platform, MakerWorld.
@@ -49,9 +47,3 @@ The new solutions are said to be designed for demanding industrial environments 
 Reported by TCT Magazine on Mar 31, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/03/OPTCTi_side6_2.png
 Read more ? https://www.tctmagazine.com/optris-launches-new-cti-pyrometer-models
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

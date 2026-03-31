@@ -1,51 +1,51 @@
-﻿# 3D PRINTING PULSE #83 - 2026-03-31
+﻿# 3D PRINTING PULSE #84 - 2026-04-01
 
-🔥 Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments - The Denver Post
-Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments The Denver Post
+🔥 Bambu Lab and Pop Mart Lawsuit Settled Out of Court
+Chinese 3D printer manufacturer Bambu Lab has reached a settlement with toymaker Pop Mart over copyright infringement claims tied to unauthorised Labubu character files uploaded to its file-sharing platform, MakerWorld.
+The deal was struck ahead of what would have been a closely watched trial scheduled for April 2, 2026, at the People’s Court of Pudong […], reported by 3D Printing Industry on Mar 31, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Screenshot-printables-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/bambu-lab-and-pop-mart-lawsuit-settled-out-of-court-250455
+
+🔥 In 3D printing debate, Republicans apply Bruen, Founding documents in failed plea to kill bill - canoncitydailyrecord.com
+In 3D printing debate, Republicans apply Bruen, Founding documents in failed plea to kill bill canoncitydailyrecord.com
+Reported by Google News - 3D Printing on Mar 31, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2RNZHRDRmVhRVI0b2ZOOFFvbHJJVkZqWGNBYmoyZ0FyYXNSU2RuYlJ0TFlpakV6ZVRKcUI2UVlHS2I3cjNGLTZfT3docmVDaTc2eDloZ3NzUHNCSmZ0b282SHRNb3BfYnpTWjVXQjlSOU9FNnlZR3VZc3ZxaXpKRC1La0p3VlN3MlcwWkhYaDlCMnVVMDBsT194emplRWN5cjZHekREZmdvX3BCcEZmMGt1LTJ6WnlLTEl0eTdNa3FyNzZ2Mzc4blhkUzFLUVJjVTlCXzMxQ0c?oc=5
+
+🔥 Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments - The Daily Gazette
+Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments The Daily Gazette
 Reported by Google News - 3D Printing on Mar 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGdrRlo5T0ZKZUktOXpCNFV0bnFiZ1F0V09qdE1xMlFPS2dTRjFhR0RKczlXajdWWURBNTA1ZXhhNURUa0ZHYU1FZHlPV3ktUGVxaGVsRnZWby0tWExKQTZhOHA1Z1BGVEJLY3hHaE45RjhxZ1VHOHB5M0c2RDNBQQ?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMiigJBVV95cUxNeHdkUm4zclZtY0FUaHFCMmlWaWJKNnQxNVJ6d0dOQXg4eURZYmFWczZWc0RmYmJMUG5MQnNMTV9kcnRoVG9ha01TQXVoLXE5WUdPeFdic3dSUUNZd1hyWDhlUUZELTV3TEVyajlGZHZQUU40RG9yTXBaUVFNWDhJTDJKbmEtMlFNZW9tTDJyOWcxa2ZmRGRIXzE3ZUJQeUlORGdEUWtWeFJ1TzdESWRpYXFXTWxMQjk2WVlCMWZ5dE94b0Z5QUllSW5VTVlhdXBGUjhYemFFQ0ZVaUI0anUwbE0zajNXWFJwS2c0dWNueklZbnNVeXU4Y0lqUUlHNmVPZGVVMXlLS3BLZw?oc=5
 
-🔥 Rheinmetall CEO faces backlash for belittling Ukrainian drone innovation - Euractiv
-Rheinmetall CEO faces backlash for belittling Ukrainian drone innovation Euractiv
-Reported by Google News - 3D Printing Viral on Mar 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMipgFBVV95cUxObXJlWlo3aEpOMk9oMjRyV2E3NXFxTTdHVUFFSU5oSEllVUMwSEMwdTBtNkRPbGI5d29xeXM4N2ZKR3JtYUpSNGxyX29sQnRmLVk2WHBnZ2RTbUdmMEZ2aTAzZ0F3ekt2Rm40S1FCRUVGX2tzLTBORmtEMDdzY1FnQW42bV9MT3VyMjRhMExCNzNDRnVWdV9FSF9pWG5icDA4Vi1xQl9n?oc=5
+🦺 Polysaccharide microneedles and 3D printing explored for cancer immunotherapy applications
+Researchers have reviewed the use of polysaccharide-based microneedles (PMNs) for cancer immunotherapy, examining how additive manufacturing methods, including 3D printing, can support the development of transdermal...
+The study, published in Glycoscience &amp; Therapy, focuses on the role of natural polymer materials in enabling minimally invasive treatment approaches that combine drug delivery with […], reported by 3D Printing Industry on Mar 31, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/image-17-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/polysaccharide-microneedles-and-3d-printing-explored-for-cancer-immunotherapy-applications-250399
 
-💻 UK blockchain platform addresses IP protection in additive manufacturing
-A blockchain-based platform designed to protect intellectual property in additive manufacturing has been validated by the UK’s National Composites Centre (NCC).
-The validation paves the way toward a broader adoption … The post UK blockchain platform addresses IP protection in additive manufacturing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Autentica-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/uk-blockchain-platform-addresses-ip-protection-in-additive-manufacturing
+💻 Materialise to spin off RapidFit business in management-led transfer
+Materialise, the Belgian AM software and service provider that trades on the NASDAQ, is transferring its RapidFit business to the unit’s existing management team, with the transaction expected to close … The post...
+Reported by VoxelMatters on Mar 31, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Materialise-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/materialise-to-spin-off-rapidfit-business-in-management-led-transfer
 
-📰 Stratasys to support qualifcation &amp; deployment of 3D printed parts across military platforms via US DOW contract
-"Stratasys Direct already ships over 100,000 parts annually to the defence industry, and programs like JAMA will accelerate the qualification of parts so organisations can deploy them faster across operational...
-Reported by TCT Magazine on Mar 30, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Airbus_A400M-1.png
-🔗 Read more: https://www.tctmagazine.com/stratasys-to-support-qualifcation-deployment-of-3d-printed-parts-across-military-platforms-via-us-dow-contract
+🏠 3D printing unlocks innovation for McGill’s Formula Electric team
+Every year, student teams from around the world put their efforts towards building the fastest electric race cars and test their designs at the Formula SAE Electric competition.
+The tradition, … The post 3D printing unlocks innovation for McGill’s Formula Electric team appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/mcgill-formula-electric-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/3d-printing-unlocks-innovation-for-mcgills-formula-electric-team
 
-🏠 Velo3D secures $9.8m Department of War contract to support additive manufacture of spare &amp; replacement parts
-A 'flexible acquisition pathway' that enables the Defense Logistics Agency to procure qualified additively manufactured components will be established.
-Reported by TCT Magazine on Mar 30, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Velo-3D-Sapphire-C_Original-1024x683-1.png
-🔗 Read more: https://www.tctmagazine.com/velo3d-secures-9-8m-department-of-war-contract-to-support-additive-manufacture-of-spare-replacement-parts
+🚀 Astrobase Space Technologies receives India’s largest 3D printer for FFSC rocket engine production
+Astrobase Space Technologies, a space travel startup in India, has received what it claims is the country’s largest 3D printer at its Bengaluru facility.
+Requiring four trucks to transport it, … The post Astrobase Space Technologies receives India’s largest 3D printer for FFSC rocket engine production appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Astrobase-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/astrobase-space-technologies-receives-indias-largest-3d-printer-for-ffsc-rocket-engine-production
 
-🚀 Post-processing specialist Spengler launches SLS 3D printing service
-French company Spengler, which specializes in post-processing systems for powder bed fusion, has expanded into the services realm, launching an in-house selective laser sintering (SLS) production line.
-In offering this … The post Post-processing specialist Spengler launches SLS 3D printing service appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/spengler-service-2-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/post-processing-specialist-spengler-launches-sls-3d-printing-service
-
-🚀 74 Seconds: an engineer aims to break the 3D printing speed ​​barrier
-Jan Roetz, an independent engineer and YouTube creator, has just set a new record in 3D printing.
-His self-built printer, with a name that is anything but accidental, printed a … The post 74 Seconds: an engineer aims to break the 3D printing speed ​​barrier appeared first on VoxelMatters - The heart of additive...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Zrzut-ekranu-2026-03-29-220849-150x150.png
-🔗 Read more: https://www.voxelmatters.com/74-seconds-an-engineer-aims-to-break-the-3d-printing-speed-barrier
-
-💻 Autodesk adds Wonder 3D generative model to Flow Studio
-Autodesk, a leading provider of design software, has added Wonder 3D to its Flow Studio platform, bringing to market a generative model for producing three-dimensional assets from text prompts or … The post Autodesk...
-Reported by VoxelMatters on Mar 30, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/AutoDesk-Wonder3D-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/autodesk-adds-wonder-3d-generative-model-to-flow-studio
+🚀 Optris launches new CTi pyrometer models
+The new solutions are said to be designed for demanding industrial environments and utilise infrared sensors to provide highly accurate non-contact temperature measurement for metals and high-temperature applications.
+Reported by TCT Magazine on Mar 31, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/OPTCTi_side6_2.png
+🔗 Read more: https://www.tctmagazine.com/optris-launches-new-cti-pyrometer-models
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments - The Denver Post" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOcGdrRlo5T0ZKZUktOXpCNFV0bnFiZ1F0V09qdE1xMlFPS2dTRjFhR0RKczlXajdWWURBNTA1ZXhhNURUa0ZHYU1FZHlPV3ktUGVxaGVsRnZWby0tWExKQTZhOHA1Z1BGVEJLY3hHaE45RjhxZ1VHOHB5M0c2RDNBQQ?oc=5 | Full coverage: https://www.quality3ds.com/
+Big conversation driver today: "Bambu Lab and Pop Mart Lawsuit Settled Out of Court" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://3dprintingindustry.com/news/bambu-lab-and-pop-mart-lawsuit-settled-out-of-court-250455 | Complete rundown: https://www.quality3ds.com/
