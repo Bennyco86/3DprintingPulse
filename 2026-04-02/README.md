@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-02
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #85 - 2026-04-02
+## Stories
 
 🔥 Bambu Lab and Pop Mart Lawsuit Settled Out of Court - 3D Printing Industry
 Bambu Lab and Pop Mart Lawsuit Settled Out of Court 3D Printing Industry
@@ -49,9 +47,3 @@ With 2025 revenues of $187 million and projected 2030 revenues of $635 million, 
 For this to happen, a complex … The post Ceramic AM applications (and services) take the spotlight at Ceramitec 2026 appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/Ceramitec_2026_IMG_2533-150x150.jpg
 Read more ? https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

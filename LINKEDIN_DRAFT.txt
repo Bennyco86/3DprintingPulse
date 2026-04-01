@@ -1,51 +1,51 @@
-﻿# 3D PRINTING PULSE #84 - 2026-04-01
+﻿# 3D PRINTING PULSE #85 - 2026-04-02
 
-🔥 Bambu Lab and Pop Mart Lawsuit Settled Out of Court
-Chinese 3D printer manufacturer Bambu Lab has reached a settlement with toymaker Pop Mart over copyright infringement claims tied to unauthorised Labubu character files uploaded to its file-sharing platform, MakerWorld.
-The deal was struck ahead of what would have been a closely watched trial scheduled for April 2, 2026, at the People’s Court of Pudong […], reported by 3D Printing Industry on Mar 31, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/Screenshot-printables-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/bambu-lab-and-pop-mart-lawsuit-settled-out-of-court-250455
-
-🔥 In 3D printing debate, Republicans apply Bruen, Founding documents in failed plea to kill bill - canoncitydailyrecord.com
-In 3D printing debate, Republicans apply Bruen, Founding documents in failed plea to kill bill canoncitydailyrecord.com
+🔥 Bambu Lab and Pop Mart Lawsuit Settled Out of Court - 3D Printing Industry
+Bambu Lab and Pop Mart Lawsuit Settled Out of Court 3D Printing Industry
 Reported by Google News - 3D Printing on Mar 31, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV2RNZHRDRmVhRVI0b2ZOOFFvbHJJVkZqWGNBYmoyZ0FyYXNSU2RuYlJ0TFlpakV6ZVRKcUI2UVlHS2I3cjNGLTZfT3docmVDaTc2eDloZ3NzUHNCSmZ0b282SHRNb3BfYnpTWjVXQjlSOU9FNnlZR3VZc3ZxaXpKRC1La0p3VlN3MlcwWkhYaDlCMnVVMDBsT194emplRWN5cjZHekREZmdvX3BCcEZmMGt1LTJ6WnlLTEl0eTdNa3FyNzZ2Mzc4blhkUzFLUVJjVTlCXzMxQ0c?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2hYcFhXS2xJSG0xU2RqSHpXaHYtaVFPckxIc2NDa2FTV2IyNGVzb2wwcVVhX21TS3hxbDZRZkZSSDlPcVBZdnByUHp1TmdSWWxtTVkyWmplSTljaWpiQnBJY3VOMDQ5bHBsXzh1eEVBZ1hpdko2RGRnUVV3Y2Y4aFlWQ0hlUDFJTmZUWGlzMEFQTm0wdEdDMndHNA?oc=5
 
-🔥 Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments - The Daily Gazette
-Colorado lawmakers pass bill to ban 3D printing of guns after veto threat forces amendments The Daily Gazette
-Reported by Google News - 3D Printing on Mar 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiigJBVV95cUxNeHdkUm4zclZtY0FUaHFCMmlWaWJKNnQxNVJ6d0dOQXg4eURZYmFWczZWc0RmYmJMUG5MQnNMTV9kcnRoVG9ha01TQXVoLXE5WUdPeFdic3dSUUNZd1hyWDhlUUZELTV3TEVyajlGZHZQUU40RG9yTXBaUVFNWDhJTDJKbmEtMlFNZW9tTDJyOWcxa2ZmRGRIXzE3ZUJQeUlORGdEUWtWeFJ1TzdESWRpYXFXTWxMQjk2WVlCMWZ5dE94b0Z5QUllSW5VTVlhdXBGUjhYemFFQ0ZVaUI0anUwbE0zajNXWFJwS2c0dWNueklZbnNVeXU4Y0lqUUlHNmVPZGVVMXlLS3BLZw?oc=5
+♻️ From Scrap to Spool: Creality’s M1 and R1 Bring Filament Recycling to the Desktop
+Shenzhen-based 3D printer manufacturer Creality has introduced the Filament Maker M1 and the Shredder R1, a paired desktop system that lets users shred 3D printing waste and extrude it back into usable filament on...
+Anyone who has spent serious time around a 3D printer knows the guilt that comes with it, reported by 3D Printing Industry on Apr 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/image2-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/from-scrap-to-spool-crealitys-m1-and-r1-bring-filament-recycling-to-the-desktop-250487
 
-🦺 Polysaccharide microneedles and 3D printing explored for cancer immunotherapy applications
-Researchers have reviewed the use of polysaccharide-based microneedles (PMNs) for cancer immunotherapy, examining how additive manufacturing methods, including 3D printing, can support the development of transdermal...
-The study, published in Glycoscience &amp; Therapy, focuses on the role of natural polymer materials in enabling minimally invasive treatment approaches that combine drug delivery with […], reported by 3D Printing Industry on Mar 31, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/image-17-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/polysaccharide-microneedles-and-3d-printing-explored-for-cancer-immunotherapy-applications-250399
+♻️ Stop Trashing Your Failed Prints: Creality’s Filament Maker M1 and Shredder R1 Are Live - All3DP
+Stop Trashing Your Failed Prints: Creality’s Filament Maker M1 and Shredder R1 Are Live All3DP
+Reported by Google News - 3D Printing on Apr 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlpJVzljZEttb2hfSXRKN2d6d19reUVOM0xkWUR1LVZxWjRha1VIWnUyLXhKMUpmc0p0dnR1RVVlS0ZicUt0YVJLdTM5TmhoMzJHUHN5d3huQ1hDUW56YlRzRU9zZGFwak11X1BXWEpGVjFrd3YwMHhIS1d5TzJmakt0aEhiMHFGQmEyYll3VEFOQWk4MHJUTkxMWklfYlV3WDRHdkpPX2Q1a3c?oc=5
 
-💻 Materialise to spin off RapidFit business in management-led transfer
-Materialise, the Belgian AM software and service provider that trades on the NASDAQ, is transferring its RapidFit business to the unit’s existing management team, with the transaction expected to close … The post...
-Reported by VoxelMatters on Mar 31, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Materialise-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/materialise-to-spin-off-rapidfit-business-in-management-led-transfer
+🦺 Georgetown researcher develops natural 3D printed bone grafts
+A Georgetown University researcher is developing 3D printed bone grafts made from natural materials that could reduce the complications associated with conventional metal and synthetic implants.
+It’s an issue that … The post Georgetown researcher develops natural 3D printed bone grafts appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Georgetown-bone-grafts-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/georgetown-researcher-develops-natural-3d-printed-bone-grafts
 
-🏠 3D printing unlocks innovation for McGill’s Formula Electric team
-Every year, student teams from around the world put their efforts towards building the fastest electric race cars and test their designs at the Formula SAE Electric competition.
-The tradition, … The post 3D printing unlocks innovation for McGill’s Formula Electric team appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/mcgill-formula-electric-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/3d-printing-unlocks-innovation-for-mcgills-formula-electric-team
+🚀 America Makes launches two project calls totaling $14.5m
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have launched two project calls worth a combined $14.5 million in funding, both backed by the Office of … The post America Makes...
+Reported by VoxelMatters on Apr 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/America-Makes-facility-face-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/america-makes-launches-two-project-calls-totaling-14-5m
 
-🚀 Astrobase Space Technologies receives India’s largest 3D printer for FFSC rocket engine production
-Astrobase Space Technologies, a space travel startup in India, has received what it claims is the country’s largest 3D printer at its Bengaluru facility.
-Requiring four trucks to transport it, … The post Astrobase Space Technologies receives India’s largest 3D printer for FFSC rocket engine production appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Astrobase-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/astrobase-space-technologies-receives-indias-largest-3d-printer-for-ffsc-rocket-engine-production
+🚀 Eurobearings deploys Meltio Engine Robot Integration to support marine, defence &amp; energy customers
+Eurobearings has paired the capability with a KUKA industrial robot at its Italian production facility.
+Reported by TCT Magazine on Apr 01, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/04/Eurobearings-12.jpg
+🔗 Read more: https://www.tctmagazine.com/eurobearings-deploys-meltio-engine-robot-integration-to-support-marine-defence-energy-customers
 
-🚀 Optris launches new CTi pyrometer models
-The new solutions are said to be designed for demanding industrial environments and utilise infrared sensors to provide highly accurate non-contact temperature measurement for metals and high-temperature applications.
-Reported by TCT Magazine on Mar 31, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/OPTCTi_side6_2.png
-🔗 Read more: https://www.tctmagazine.com/optris-launches-new-cti-pyrometer-models
+💻 Argonne’s ASME Submission Aims to Open a Formal Pathway for LPBF in Nuclear Reactor Manufacturing
+Argonne National Laboratory, a research center operated by UChicago Argonne, for the U.S.
+Department of Energy (DOE), has submitted the first draft of an ASME Code Case proposing Laser Powder Bed Fusion as a permitted manufacturing process for high-temperature nuclear reactor components, reported by 3D Printing Industry on Apr 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/AMMT-image-2-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/argonnes-asme-submission-aims-to-open-a-formal-pathway-for-lpbf-in-nuclear-reactor-manufacturing-250479
+
+📰 Ceramic AM applications (and services) take the spotlight at Ceramitec 2026
+With 2025 revenues of $187 million and projected 2030 revenues of $635 million, the ceramic AM market is maturing into a solid business opportunity.
+For this to happen, a complex … The post Ceramic AM applications (and services) take the spotlight at Ceramitec 2026 appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Ceramitec_2026_IMG_2533-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Bambu Lab and Pop Mart Lawsuit Settled Out of Court" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://3dprintingindustry.com/news/bambu-lab-and-pop-mart-lawsuit-settled-out-of-court-250455 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Bambu Lab and Pop Mart Lawsuit Settled Out of Court - 3D Printing Industry" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2hYcFhXS2xJSG0xU2RqSHpXaHYtaVFPckxIc2NDa2FTV2IyNGVzb2wwcVVhX21TS3hxbDZRZkZSSDlPcVBZdnByUHp1TmdSWWxtTVkyWmplSTljaWpiQnBJY3VOMDQ5bHBsXzh1eEVBZ1hpdko2RGRnUVV3Y2Y4aFlWQ0hlUDFJTmZUWGlzMEFQTm0wdEdDMndHNA?oc=5 | Full pulse: https://www.quality3ds.com/
