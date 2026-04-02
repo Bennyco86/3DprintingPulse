@@ -1,51 +1,50 @@
-﻿# 3D PRINTING PULSE #85 - 2026-04-02
+﻿# 3D PRINTING PULSE #86 - 2026-04-03
 
-🔥 Bambu Lab and Pop Mart Lawsuit Settled Out of Court - 3D Printing Industry
-Bambu Lab and Pop Mart Lawsuit Settled Out of Court 3D Printing Industry
-Reported by Google News - 3D Printing on Mar 31, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2hYcFhXS2xJSG0xU2RqSHpXaHYtaVFPckxIc2NDa2FTV2IyNGVzb2wwcVVhX21TS3hxbDZRZkZSSDlPcVBZdnByUHp1TmdSWWxtTVkyWmplSTljaWpiQnBJY3VOMDQ5bHBsXzh1eEVBZ1hpdko2RGRnUVV3Y2Y4aFlWQ0hlUDFJTmZUWGlzMEFQTm0wdEdDMndHNA?oc=5
+🔥 From Machines to Mindsets: Why Additive Manufacturing Education Must Start With Teaching, Not Tools
+Additive manufacturing (AM) has reached a turning point in education.
+The question is no longer whether students should be exposed to 3D printing, but whether that exposure actually prepares students, reported by 3DPrint.com on Apr 02, 2026.
+🔗 Read more: https://3dprint.com/324875/from-machines-to-mindsets-why-additive-manufacturing-education-must-start-with-teaching-not-tools
 
-♻️ From Scrap to Spool: Creality’s M1 and R1 Bring Filament Recycling to the Desktop
-Shenzhen-based 3D printer manufacturer Creality has introduced the Filament Maker M1 and the Shredder R1, a paired desktop system that lets users shred 3D printing waste and extrude it back into usable filament on...
-Anyone who has spent serious time around a 3D printer knows the guilt that comes with it, reported by 3D Printing Industry on Apr 01, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/image2-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/from-scrap-to-spool-crealitys-m1-and-r1-bring-filament-recycling-to-the-desktop-250487
+♻️ Ford Adopts AIM3D Pellet-based 3D Printing - plasticstoday.com
+Ford Adopts AIM3D Pellet-based 3D Printing plasticstoday.com
+Reported by Google News - 3D Printing on Apr 02, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFVfZ19mc3hVblVsZWJWb28xcFNaVzNobjREOTgtNVQxZDN6MGdQZkxBRDlScmpOalZTNUk5SnZNZkpMV0dOZVNrRGJwdmEwMnh2UEJhcTF4bXBCVmJFcFMtOHJidTdkZmlhX3g0X2dwQ0JsdEFIWTRHS2xxT3pyZFFnYTdUUnZoS1VnOExuRkJqNU9CV1FnTHV0cVdVcTg?oc=5
 
-♻️ Stop Trashing Your Failed Prints: Creality’s Filament Maker M1 and Shredder R1 Are Live - All3DP
-Stop Trashing Your Failed Prints: Creality’s Filament Maker M1 and Shredder R1 Are Live All3DP
-Reported by Google News - 3D Printing on Apr 01, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlpJVzljZEttb2hfSXRKN2d6d19reUVOM0xkWUR1LVZxWjRha1VIWnUyLXhKMUpmc0p0dnR1RVVlS0ZicUt0YVJLdTM5TmhoMzJHUHN5d3huQ1hDUW56YlRzRU9zZGFwak11X1BXWEpGVjFrd3YwMHhIS1d5TzJmakt0aEhiMHFGQmEyYll3VEFOQWk4MHJUTkxMWklfYlV3WDRHdkpPX2Q1a3c?oc=5
+♻️ Mobile AM Robots to Roam Factory Floors
+Researchers unveiled a closed loop, obstacle aware control framework that lets mobile additive manufacturing (AM) robots print while navigating dynamic factory floors.
+The post Mobile AM Robots to Roam Factory Floors appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/mobile-am-robots-gain-obstacle-aware-closed-loop-control
 
-🦺 Georgetown researcher develops natural 3D printed bone grafts
-A Georgetown University researcher is developing 3D printed bone grafts made from natural materials that could reduce the complications associated with conventional metal and synthetic implants.
-It’s an issue that … The post Georgetown researcher develops natural 3D printed bone grafts appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Georgetown-bone-grafts-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/georgetown-researcher-develops-natural-3d-printed-bone-grafts
+🦺 Western University’s ALLEars project uses AI and 3D printing to produce predictive custom earmolds for children
+Western University has launched the ALLEars project, a collaboration with Boys Town National Research Hospital in Nebraska, using artificial intelligence and 3D printing to produce custom earmolds for children who …...
+Reported by VoxelMatters on Apr 02, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/3D-printed-hearing-aids-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/western-universitys-allears-project-uses-ai-and-3d-printing-to-produce-predictive-custom-earmolds-for-children
 
-🚀 America Makes launches two project calls totaling $14.5m
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have launched two project calls worth a combined $14.5 million in funding, both backed by the Office of … The post America Makes...
-Reported by VoxelMatters on Apr 01, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/America-Makes-facility-face-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/america-makes-launches-two-project-calls-totaling-14-5m
+🏠 Studio RAP to 3D print columns for student housing in Utrecht
+Known for its canals and picturesque medieval landmarks, the Dutch city of Utrecht also has another claim to fame: its Botanical Gardens house what is believed to be the first … The post Studio RAP to 3D print...
+Reported by VoxelMatters on Apr 02, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/studio-rap-1-e1775135543145-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/studio-rap-to-3d-print-columns-for-student-housing-in-utrecht
 
-🚀 Eurobearings deploys Meltio Engine Robot Integration to support marine, defence &amp; energy customers
-Eurobearings has paired the capability with a KUKA industrial robot at its Italian production facility.
-Reported by TCT Magazine on Apr 01, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/04/Eurobearings-12.jpg
-🔗 Read more: https://www.tctmagazine.com/eurobearings-deploys-meltio-engine-robot-integration-to-support-marine-defence-energy-customers
+🖨 Stylox
+Stylox Ltd is the British based inventor of the Dry-Store multi, a bespoke solution for filament storage designed specifically for 4x1KG or 5x750g reels of 3D printer filament.
+Reported by TCT Magazine on Apr 02, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/04/Screenshot-2026-04-02-at-13.54.45-1.png
+🔗 Read more: https://www.tctmagazine.com/stylox
 
-💻 Argonne’s ASME Submission Aims to Open a Formal Pathway for LPBF in Nuclear Reactor Manufacturing
-Argonne National Laboratory, a research center operated by UChicago Argonne, for the U.S.
-Department of Energy (DOE), has submitted the first draft of an ASME Code Case proposing Laser Powder Bed Fusion as a permitted manufacturing process for high-temperature nuclear reactor components, reported by 3D Printing Industry on Apr 01, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/AMMT-image-2-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/argonnes-asme-submission-aims-to-open-a-formal-pathway-for-lpbf-in-nuclear-reactor-manufacturing-250479
+🖨 Axtra3D enters French market with Multistation partnership
+Leading High-Speed SLA 3D printing hardware and software provider Axtra3D has added French distributor Multistation to its reseller network, extending commercial availability of its Lumia X1 printer into the French …...
+Reported by VoxelMatters on Apr 02, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Axtra3D-Multistation-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/axtra3d-enters-french-market-with-multistation-partnership
 
-📰 Ceramic AM applications (and services) take the spotlight at Ceramitec 2026
-With 2025 revenues of $187 million and projected 2030 revenues of $635 million, the ceramic AM market is maturing into a solid business opportunity.
-For this to happen, a complex … The post Ceramic AM applications (and services) take the spotlight at Ceramitec 2026 appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/Ceramitec_2026_IMG_2533-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ceramic-am-applications-and-services-take-the-spotlight-at-ceramitec-2026
+🚀 US Army opens AM facility with more than 50 3D printers
+The US Army has officially opened an Additive Makerspace at Picatinny Arsenal, New Jersey, to expand its AM and rapid prototyping capacity for engineers at the US Army Combat Capabilities … The post US Army opens AM...
+Reported by VoxelMatters on Apr 02, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/US-Army-AM-facility_01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/us-army-opens-am-facility-with-more-than-50-3d-printers
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Bambu Lab and Pop Mart Lawsuit Settled Out of Court - 3D Printing Industry" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2hYcFhXS2xJSG0xU2RqSHpXaHYtaVFPckxIc2NDa2FTV2IyNGVzb2wwcVVhX21TS3hxbDZRZkZSSDlPcVBZdnByUHp1TmdSWWxtTVkyWmplSTljaWpiQnBJY3VOMDQ5bHBsXzh1eEVBZ1hpdko2RGRnUVV3Y2Y4aFlWQ0hlUDFJTmZUWGlzMEFQTm0wdEdDMndHNA?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "From Machines to Mindsets: Why Additive Manufacturing Education Must Start With Teaching, Not Tools" because it highlights where practical 3D printing innovation is moving next. Direct link: https://3dprint.com/324875/from-machines-to-mindsets-why-additive-manufacturing-education-must-start-with-teaching-not-tools | Full coverage: https://www.quality3ds.com/

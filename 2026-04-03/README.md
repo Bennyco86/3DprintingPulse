@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-03
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #86 - 2026-04-03
+## Stories
 
 🔥 From Machines to Mindsets: Why Additive Manufacturing Education Must Start With Teaching, Not Tools
 Additive manufacturing (AM) has reached a turning point in education.
@@ -48,9 +46,3 @@ The US Army has officially opened an Additive Makerspace at Picatinny Arsenal, N
 Reported by VoxelMatters on Apr 02, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/US-Army-AM-facility_01-150x150.jpg
 Read more ? https://www.voxelmatters.com/us-army-opens-am-facility-with-more-than-50-3d-printers
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
