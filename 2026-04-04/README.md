@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-04
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #87 - 2026-04-04
+## Stories
 
 🔥 iPhone 18 Leak Suggests Apple's Next Upgrade Is A Total Snooze Fest - HotHardware
 iPhone 18 Leak Suggests Apple's Next Upgrade Is A Total Snooze Fest HotHardware
@@ -50,9 +48,3 @@ CEO Marie Niehaus-Langer talks to TCT for the cover story of the Spring 2026 iss
 Reported by TCT Magazine on Apr 03, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/03/EOS_Langer_Marie_HighRes--1--1-1.jpg
 Read more ? https://www.tctmagazine.com/taking-responsibility-how-eos-positions-innovation-at-the-heart-of-responsible-manufacturing
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

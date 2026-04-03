@@ -1,50 +1,52 @@
-﻿# 3D PRINTING PULSE #86 - 2026-04-03
+﻿# 3D PRINTING PULSE #87 - 2026-04-04
 
-🔥 From Machines to Mindsets: Why Additive Manufacturing Education Must Start With Teaching, Not Tools
-Additive manufacturing (AM) has reached a turning point in education.
-The question is no longer whether students should be exposed to 3D printing, but whether that exposure actually prepares students, reported by 3DPrint.com on Apr 02, 2026.
-🔗 Read more: https://3dprint.com/324875/from-machines-to-mindsets-why-additive-manufacturing-education-must-start-with-teaching-not-tools
+🔥 iPhone 18 Leak Suggests Apple's Next Upgrade Is A Total Snooze Fest - HotHardware
+iPhone 18 Leak Suggests Apple's Next Upgrade Is A Total Snooze Fest HotHardware
+Reported by Google News - 3D Printing on Apr 03, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMidkFVX3lxTE5GSXV2cmFubDBiaGRwWTd4TGkxNVlndXVjNWxUSXRaaEZ4WFJpN1RnNS1zYno2S0lZTndzRmpYQnUzLWFTaTJCbnkwRlNRWXFQQnY5cnRrLUpub242c0NWeEllajVRZ0RhY243Q0pWdVVJVmEwMXc?oc=5
 
-♻️ Ford Adopts AIM3D Pellet-based 3D Printing - plasticstoday.com
-Ford Adopts AIM3D Pellet-based 3D Printing plasticstoday.com
-Reported by Google News - 3D Printing on Apr 02, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFVfZ19mc3hVblVsZWJWb28xcFNaVzNobjREOTgtNVQxZDN6MGdQZkxBRDlScmpOalZTNUk5SnZNZkpMV0dOZVNrRGJwdmEwMnh2UEJhcTF4bXBCVmJFcFMtOHJidTdkZmlhX3g0X2dwQ0JsdEFIWTRHS2xxT3pyZFFnYTdUUnZoS1VnOExuRkJqNU9CV1FnTHV0cVdVcTg?oc=5
+♻️ Between the chains: RHEON Labs brings its energy dampening expertise to pellet 3D printing
+RHEON Labs hosts TCT in London, UK, as it brings the world’s first highly strain rate sensitive thermoplastic polymer to 3D printing.
+Reported by TCT Magazine on Apr 03, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/RHEON-asset-TCT_Protection_Comfortable-High-Res-2-1-1.png
+🔗 Read more: https://www.tctmagazine.com/between-the-chains-rheon-labs-brings-its-energy-dampening-expertise-to-pellet-3d-printing
 
-♻️ Mobile AM Robots to Roam Factory Floors
-Researchers unveiled a closed loop, obstacle aware control framework that lets mobile additive manufacturing (AM) robots print while navigating dynamic factory floors.
-The post Mobile AM Robots to Roam Factory Floors appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/mobile-am-robots-gain-obstacle-aware-closed-loop-control
+💻 University of Melbourne researcher builds mushroom-based 3D printed bird nests
+Researchers at the University of Melbourne have developed a specialized bird nest that is 3D printed from mushroom-based materials, in an effort to address the declining habitat available to species … The post...
+Reported by VoxelMatters on Apr 03, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Bird-nests-3D-printed-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/university-of-melbourne-researcher-builds-mushroom-based-3d-printed-bird-nests
 
-🦺 Western University’s ALLEars project uses AI and 3D printing to produce predictive custom earmolds for children
-Western University has launched the ALLEars project, a collaboration with Boys Town National Research Hospital in Nebraska, using artificial intelligence and 3D printing to produce custom earmolds for children who …...
-Reported by VoxelMatters on Apr 02, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/3D-printed-hearing-aids-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/western-universitys-allears-project-uses-ai-and-3d-printing-to-produce-predictive-custom-earmolds-for-children
+💻 Designer uses AI to turn clothing patterns into 3D printable wearables
+In her continued exploration of 3D printed fashion, designer Danit Peleg is leveraging artificial intelligence to automatically convert conventional clothing patterns into 3D printable models.
+While still in an experimental … The post Designer uses AI to turn clothing patterns into 3D printable wearables appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/peleg-tool-1-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/designer-uses-ai-to-turn-clothing-patterns-into-3d-printable-wearables
 
-🏠 Studio RAP to 3D print columns for student housing in Utrecht
-Known for its canals and picturesque medieval landmarks, the Dutch city of Utrecht also has another claim to fame: its Botanical Gardens house what is believed to be the first … The post Studio RAP to 3D print...
-Reported by VoxelMatters on Apr 02, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/studio-rap-1-e1775135543145-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/studio-rap-to-3d-print-columns-for-student-housing-in-utrecht
+📰 MIT VisiPrint tool gives 3D printing users accurate visualization before production
+Researchers at the Massachusetts Institute of Technology (MIT) and collaborating institutions have developed a preview tool for 3D printing that generates appearance-first renderings of objects before fabrication, in...
+Reported by VoxelMatters on Apr 03, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/MIT-VisiPrint-Preview-01-press-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/mit-visiprint-tool-gives-3d-printing-users-accurate-visualization-before-production
 
-🖨 Stylox
-Stylox Ltd is the British based inventor of the Dry-Store multi, a bespoke solution for filament storage designed specifically for 4x1KG or 5x750g reels of 3D printer filament.
-Reported by TCT Magazine on Apr 02, 2026.
-🖼️ Image: https://www.tctmagazine.com/content/images/2026/04/Screenshot-2026-04-02-at-13.54.45-1.png
-🔗 Read more: https://www.tctmagazine.com/stylox
+🚀 The additive differential: Learnings from the additive manufacture of a safety-critical part via Project TAMPA
+NP Aerospace &amp; Digital Manufacturing Centre provide insights into the production of a 90kg suspension &amp; differential carrier.
+Reported by TCT Magazine on Apr 03, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Mastiff-2-group.jpg
+🔗 Read more: https://www.tctmagazine.com/the-additive-differential-learnings-from-the-additive-manufacture-of-a-safety-critical-part-via-project-tampa
 
-🖨 Axtra3D enters French market with Multistation partnership
-Leading High-Speed SLA 3D printing hardware and software provider Axtra3D has added French distributor Multistation to its reseller network, extending commercial availability of its Lumia X1 printer into the French …...
-Reported by VoxelMatters on Apr 02, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Axtra3D-Multistation-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/axtra3d-enters-french-market-with-multistation-partnership
+🦺 NTU researchers develop glucose-responsive hydrogel for 3D bioprinting
+Researchers at National Taiwan University (NTU) have developed a chitosan-based hydrogel that is capable of responding to chemical signals and provides the potential for a new material approach for 3D … The post NTU...
+Reported by VoxelMatters on Apr 03, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/NTU-hydrogel-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ntu-researchers-develop-glucose-responsive-hydrogel-for-3d-bioprinting
 
-🚀 US Army opens AM facility with more than 50 3D printers
-The US Army has officially opened an Additive Makerspace at Picatinny Arsenal, New Jersey, to expand its AM and rapid prototyping capacity for engineers at the US Army Combat Capabilities … The post US Army opens AM...
-Reported by VoxelMatters on Apr 02, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/US-Army-AM-facility_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/us-army-opens-am-facility-with-more-than-50-3d-printers
+📰 Taking Responsibility: How EOS positions innovation at the heart of Responsible Manufacturing
+CEO Marie Niehaus-Langer talks to TCT for the cover story of the Spring 2026 issue of TCT Magazine.
+Reported by TCT Magazine on Apr 03, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/EOS_Langer_Marie_HighRes--1--1-1.jpg
+🔗 Read more: https://www.tctmagazine.com/taking-responsibility-how-eos-positions-innovation-at-the-heart-of-responsible-manufacturing
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "From Machines to Mindsets: Why Additive Manufacturing Education Must Start With Teaching, Not Tools" because it highlights where practical 3D printing innovation is moving next. Direct link: https://3dprint.com/324875/from-machines-to-mindsets-why-additive-manufacturing-education-must-start-with-teaching-not-tools | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "iPhone 18 Leak Suggests Apple's Next Upgrade Is A Total Snooze Fest - HotHardware" because it highlights where practical 3D printing innovation is moving next. Read it here: https://news.google.com/rss/articles/CBMidkFVX3lxTE5GSXV2cmFubDBiaGRwWTd4TGkxNVlndXVjNWxUSXRaaEZ4WFJpN1RnNS1zYno2S0lZTndzRmpYQnUzLWFTaTJCbnkwRlNRWXFQQnY5cnRrLUpub242c0NWeEllajVRZ0RhY243Q0pWdVVJVmEwMXc?oc=5 | Full pulse: https://www.quality3ds.com/
