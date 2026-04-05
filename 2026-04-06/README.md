@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-06
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #89 - 2026-04-06
+## Stories
 
 📰 Robotic 3D printing meets automotive design in Škoda’s light wall
 Fungamental, a Czech studio specializing in robotic 3D printing, designed and produced a lighting installation for the Škoda Auto headquarters.
@@ -47,9 +45,3 @@ Read more ? https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1JHdlJ2NDQ2cHQ
 Poseable Skeleton Fridge Magnet - 3D Printed, Movable Joints, Blue, Halloween Decor & Funny Gift ruhrkanal.news
 Reported by Google News - 3D Printing on Apr 05, 2026.
 Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxPdENQbTZ5T2lQOXZzLUpnSHE0ZlZ6YWVaNW1pN1hBd05YeFNPQ1RDUndCQS1SX05sSzNrbktEZjFfVHdsRG9QZEhNZGlZMlhDU3JTWkx1V1Vycy1Oalh5NDdBdVFKbWJGakZYU2dhWUdXQVVwUTd0VEZUQ0dxcGpkR0dzOGt2cGJKQUtreHB3?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
