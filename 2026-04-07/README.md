@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-07
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #90 - 2026-04-07
+## Stories
 
 🔥 How AI Will Dramatically Transform Medtech 3D Printing - PlasticsToday
 How AI Will Dramatically Transform Medtech 3D Printing PlasticsToday
@@ -48,9 +46,3 @@ Gravity Pull Systems is offering a cost-optimisation solution 'free of charge fo
 Reported by TCT Magazine on Apr 06, 2026.
 Image ? https://www.tctmagazine.com/content/images/2026/03/Building-the-Manufacturing-Workforce-Pipeline-Through-Research-and-Industry-Collaboration--4-.png
 Read more ? https://www.tctmagazine.com/rapid-tct-conference-q-a-huba-horompoly-gravity-pull-systems-maximising-profit-in-am
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

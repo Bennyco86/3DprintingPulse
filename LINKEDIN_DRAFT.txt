@@ -1,49 +1,50 @@
-﻿# 3D PRINTING PULSE #89 - 2026-04-06
+﻿# 3D PRINTING PULSE #90 - 2026-04-07
 
-📰 Robotic 3D printing meets automotive design in Škoda’s light wall
-Fungamental, a Czech studio specializing in robotic 3D printing, designed and produced a lighting installation for the Škoda Auto headquarters.
-The wall, composed of fifty front headlights from the Škoda … The post Robotic 3D printing meets automotive design in Škoda’s light wall appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Zrzut-ekranu-2026-04-04-173748-150x150.png
-🔗 Read more: https://www.voxelmatters.com/robotic-3d-printing-meets-automotive-design-in-skodas-light-wall
+🔥 How AI Will Dramatically Transform Medtech 3D Printing - PlasticsToday
+How AI Will Dramatically Transform Medtech 3D Printing PlasticsToday
+Reported by Google News - 3D Printing on Apr 06, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVo0N3ZxenFwU3Uxa3BobkIyWG53N0phbUVrNmFWQ3p2cWZKSjZaQk5CZjlpTk03bUNkUUlNTDBIY0RPeVNKWFFwWXdmRzNoZHdSbVBSUnRCVFJZalVEdE1qRU1WbFJvek5hNkEzTXRwTENfOXdRTUM4Z2Yybk5VT2I0QjkzaU5KcHZwYUdhR1lCUWRxdUhQbUVIeXBRZGtldXVLUWV6WUtHODcxWmMzSVRYenpTUHdpRXVoTFoxcmVJN3FFdmk2V1hkSzhIeUc4Z2dMQzBaOXVqTS1uRUowUXhVbXNqaTdhdlVrYXYtMUk?oc=5
 
-🏠 IIT Guwahati and Canadian researchers develop framework for seismic-resistant 3D printed concrete housing
-Researchers at the Indian Institute of Technology (IIT) Guwahati, working within a broader Canada-India research program, have developed a framework for designing earthquake-resistant 3D printed concrete (3DPC)...
-Reported by VoxelMatters on Apr 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/IIT-Guwahati-earthquake-concrete-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/iit-guwahati-and-canadian-researchers-develop-framework-for-seismic-resistant-3d-printed-concrete-housing
+🔥 New iPhone Fold Leak Points to a 3D Printed Hinge Design - The Mac Observer
+New iPhone Fold Leak Points to a 3D Printed Hinge Design The Mac Observer
+Reported by Google News - 3D Printing on Apr 06, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUM5OXNaREs4Yzl2dE00eXQtdVpBTkRKWU1iaktMZk9qbkxGLUR6ZHZUQWxFWU1jb1ljMXpfNjNjLVhDSEdRT2Z3RDAtWjBjTndVZGlHTzdpT1ZnWElUZkJUZ3pJRUVMZENVZUF5cXVLb0U2NDBxb1lMNlYyeTh6TVk2Y1JmWmlKV1d6T1RyQUtFY21R?oc=5
 
-📰 Stratasys Direct selected for U.S. Department of War’s JAMA IV pilot program
-Stratasys Direct, the parts-on-demand contract manufacturing division of the Israeli-American company Stratasys Ltd.
-(NASDAQ: SSYS), was selected to participate in the U.S, reported by VoxelMatters on Apr 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Airbus_A400M-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/stratasys-direct-selected-for-u-s-department-of-wars-jama-iv-pilot-program
+♻️ 6K Wins $1.95M DLA Award to Recycle Defense Metals
+6K will receive $1.95 million from the Defense Logistics Agency under the Recovering Strategic Value project.
+The Phase II award aims to reduce the US’ dependence on Nickel, Titanium, Tungsten,, reported by 3DPrint.com on Apr 06, 2026.
+🔗 Read more: https://3dprint.com/325011/6k-wins-1-95m-dla-award-to-recycle-defense-metals
 
-💻 Charles Darwin University leads on $1.2 million robotic road repair system
-Charles Darwin University (CDU), Civiltech Solutions, and the Additive Manufacturing Cooperative Research Centre (AMCRC) have formed a AUD $1.2 million (US $0.83m) industry-research partnership, to develop a robotic...
-Reported by VoxelMatters on Apr 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/CDU-robotic-road-repairs-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/charles-darwin-university-leads-on-1-2-million-robotic-road-repair-system
+📰 Caracol produces mold-free robotic LFAM sports car roof
+Caracol, a global leader in advanced robotic technologies, has produced a full-size sports car roof using its Heron additive manufacturing robotic platform, eliminating the need for traditional molds and cutting …...
+Reported by VoxelMatters on Apr 06, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Caracol-LFAM-Sports-Car-Roof-05-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/caracol-produces-mold-free-robotic-lfam-sports-car-roof
 
-🦺 3D Printing Prosthetic Nests to Help Endangered Birds Stretch Their Wings
-On the grounds of Blenheim Palace, a UNESCO World Heritage Site near Oxford, England surrounded by roughly 12,000 acres of forest and gardens, researchers from Australia and the UK are...
-Reported by 3DPrint.com on Apr 05, 2026.
-🔗 Read more: https://3dprint.com/325034/3d-printing-prosthetic-nests-to-help-endangered-birds-stretch-their-wings
+📰 Machine learning model designs rust-resistant, ultra-high strength steel for 3D printing
+A research team from the University of South China and Purdue University has developed a new class of ultra-high strength, high-ductility steel for 3D printing using an interpretable machine learning … The post...
+Reported by VoxelMatters on Apr 06, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/High-strength-3D-printing-steel-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/machine-learning-model-designs-rust-resistant-ultra-high-strength-steel-for-3d-printing
 
-📰 MIT experts come up with solution for a well-known 3D-printing fumble - Digital Trends
-MIT experts come up with solution for a well-known 3D-printing fumble Digital Trends
-Reported by Google News - 3D Printing on Apr 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3dLS3hsLUZmN1ZHaXQySFBNUFgtZXF3ck5GdGRZRTNRVTU5Sk84cGRwcWVFSWNZSF9JQURBX0cyQ0o5N2JOVDQ2d1lCRE96VkhoLVhEcDBuclV0QkVtNWkwTHllZUszejkyOGdSYUtJdmRtZy0tYkZjSVJiOUZTTHFzM3ZTejRCMWJna1dERkdacng2Q2lCNVQyTjlpY2ZUZHE5czRoWXhMMjZaWmhv?oc=5
+🖨 6K Additive to convert domestic scrap into metal 3D printing powders via Defense Logistics Agency contract
+The contract will run for an 18-month term and focus on Nickel, Titanium, Tungsten, and Niobium materials.
+Reported by TCT Magazine on Apr 06, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/04/6K---UniMelt-high-quality-image_Re-1.jpg
+🔗 Read more: https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract
 
-🖨 NOVA3D Water Washable ABS-Like Resin 1000g | Tough, Low Odor 405nm UV Resin For 3D Printing - ruhrkanal.news
-NOVA3D Water Washable ABS-Like Resin 1000g | Tough, Low Odor 405nm UV Resin For 3D Printing ruhrkanal.news
-Reported by Google News - 3D Printing on Apr 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1JHdlJ2NDQ2cHQ2Um42T252cjNsbEN3cWRHbmF2M1hGNjVMYm1nVkJjZzh4US1meS1KOFJPckxZeGRfdkdPaHNKa0dEQ1ZQbDROZjd2QzlVcVJOS2lqaGlvMGhndlZ1MWpMYlhxOGMzeEdQY2p5MlJ0RnlHaTFvLWtZOVBDQU9kWXBRUXNHaWF4WmZBbXJv?oc=5
+🦺 How a collaboration between KLS Martin and Lithoz led to hundreds of patient-specific ceramic implants
+The origin story of KLS Martin’s ceramic additive manufacturing program begins in a Viennese pizzeria.
+It was there, over 12 years ago, that Frank Reinauer, Mechanical Engineer at KLS Martin, … The post How a collaboration between KLS Martin and Lithoz led to hundreds of patient-specific ceramic implants appeared, reported by VoxelMatters on Apr 06, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/03/HA480_TLIF_zygomatic_implant_DSC00077-2-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/how-a-collaboration-between-kls-martin-and-lithoz-led-to-hundreds-of-patient-specific-ceramic-implants
 
-📰 Poseable Skeleton Fridge Magnet - 3D Printed, Movable Joints, Blue, Halloween Decor &amp; Funny Gift - ruhrkanal.news
-Poseable Skeleton Fridge Magnet - 3D Printed, Movable Joints, Blue, Halloween Decor &amp; Funny Gift ruhrkanal.news
-Reported by Google News - 3D Printing on Apr 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMijgFBVV95cUxPdENQbTZ5T2lQOXZzLUpnSHE0ZlZ6YWVaNW1pN1hBd05YeFNPQ1RDUndCQS1SX05sSzNrbktEZjFfVHdsRG9QZEhNZGlZMlhDU3JTWkx1V1Vycy1Oalh5NDdBdVFKbWJGakZYU2dhWUdXQVVwUTd0VEZUQ0dxcGpkR0dzOGt2cGJKQUtreHB3?oc=5
+📰 RAPID + TCT Conference Q&amp;A: Huba Horompoly | Gravity Pull Systems | Maximising profit in AM
+Gravity Pull Systems is offering a cost-optimisation solution 'free of charge for anyone who wants to explore it.'
+Reported by TCT Magazine on Apr 06, 2026.
+🖼️ Image: https://www.tctmagazine.com/content/images/2026/03/Building-the-Manufacturing-Workforce-Pipeline-Through-Research-and-Industry-Collaboration--4-.png
+🔗 Read more: https://www.tctmagazine.com/rapid-tct-conference-q-a-huba-horompoly-gravity-pull-systems-maximising-profit-in-am
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Robotic 3D printing meets automotive design in Škoda’s light wall" because it highlights where practical 3D printing innovation is moving next. Source: https://www.voxelmatters.com/robotic-3d-printing-meets-automotive-design-in-skodas-light-wall | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "6K Wins $1.95M DLA Award to Recycle Defense Metals" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Story link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVo0N3ZxenFwU3Uxa3BobkIyWG53N0phbUVrNmFWQ3p2cWZKSjZaQk5CZjlpTk03bUNkUUlNTDBIY0RPeVNKWFFwWXdmRzNoZHdSbVBSUnRCVFJZalVEdE1qRU1WbFJvek5hNkEzTXRwTENfOXdRTUM4Z2Yybk5VT2I0QjkzaU5KcHZwYUdhR1lCUWRxdUhQbUVIeXBRZGtldXVLUWV6WUtHODcxWmMzSVRYenpTUHdpRXVoTFoxcmVJN3FFdmk2V1hkSzhIeUc4Z2dMQzBaOXVqTS1uRUowUXhVbXNqaTdhdlVrYXYtMUk?oc=5 | Full pulse: https://www.quality3ds.com/
