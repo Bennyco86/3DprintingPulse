@@ -2,52 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #90 - 2026-04-07
+### 3D PRINTING PULSE #91 - 2026-04-08
 
-🔥 How AI Will Dramatically Transform Medtech 3D Printing - PlasticsToday
-How AI Will Dramatically Transform Medtech 3D Printing PlasticsToday
-Reported by Google News - 3D Printing on Apr 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcVo0N3ZxenFwU3Uxa3BobkIyWG53N0phbUVrNmFWQ3p2cWZKSjZaQk5CZjlpTk03bUNkUUlNTDBIY0RPeVNKWFFwWXdmRzNoZHdSbVBSUnRCVFJZalVEdE1qRU1WbFJvek5hNkEzTXRwTENfOXdRTUM4Z2Yybk5VT2I0QjkzaU5KcHZwYUdhR1lCUWRxdUhQbUVIeXBRZGtldXVLUWV6WUtHODcxWmMzSVRYenpTUHdpRXVoTFoxcmVJN3FFdmk2V1hkSzhIeUc4Z2dMQzBaOXVqTS1uRUowUXhVbXNqaTdhdlVrYXYtMUk?oc=5
+♻️ Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments
+You may soon be 3D printing thermoset filament.
+The post Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments appeared on Fabbaloo.
+Read more ? https://www.fabbaloo.com/news/patent-proposes-recycling-thermoset-polymers-into-3d-printing-filaments
 
-🔥 New iPhone Fold Leak Points to a 3D Printed Hinge Design - The Mac Observer
-New iPhone Fold Leak Points to a 3D Printed Hinge Design The Mac Observer
-Reported by Google News - 3D Printing on Apr 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMilAFBVV95cUxPTUM5OXNaREs4Yzl2dE00eXQtdVpBTkRKWU1iaktMZk9qbkxGLUR6ZHZUQWxFWU1jb1ljMXpfNjNjLVhDSEdRT2Z3RDAtWjBjTndVZGlHTzdpT1ZnWElUZkJUZ3pJRUVMZENVZUF5cXVLb0U2NDBxb1lMNlYyeTh6TVk2Y1JmWmlKV1d6T1RyQUtFY21R?oc=5
+🖨 Artec Jet LiDAR scanner can digitize entire sites via drone or handheld
+Artec 3D, a 3D scanning technology company based in Luxembourg, has released Artec Jet, a Simultaneous Localization and Mapping (SLAM)-based LiDAR scanner designed for large-scale 3D data capture across demanding …...
+Reported by VoxelMatters on Apr 07, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Artec-3D-Jet-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/artec-jet-lidar-scanner-can-digitize-entire-sites-via-drone-or-handheld
 
-♻️ 6K Wins $1.95M DLA Award to Recycle Defense Metals
-6K will receive $1.95 million from the Defense Logistics Agency under the Recovering Strategic Value project.
-The Phase II award aims to reduce the US’ dependence on Nickel, Titanium, Tungsten,, reported by 3DPrint.com on Apr 06, 2026.
-Read more ? https://3dprint.com/325011/6k-wins-1-95m-dla-award-to-recycle-defense-metals
+🖨 Otsuka Chemical introduces Poticon potassium titanate fiber reinforced filament
+Otsuka Chemical, a Japanese specialty chemicals manufacturer, developed Poticon—a filament for material extrusion 3D printing based on a composite of thermoplastic resin reinforced with ultra-fine potassium titanate...
+The material … The post Otsuka Chemical introduces Poticon potassium titanate fiber reinforced filament appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/POTICON_filament2-150x150.jpg
+Read more ? https://www.voxelmatters.com/otsuka-chemicals-poticon-filament-brings-potassium-titanate-fiber-reinforcement-to-mex-3d-printing
 
-📰 Caracol produces mold-free robotic LFAM sports car roof
-Caracol, a global leader in advanced robotic technologies, has produced a full-size sports car roof using its Heron additive manufacturing robotic platform, eliminating the need for traditional molds and cutting …...
-Reported by VoxelMatters on Apr 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Caracol-LFAM-Sports-Car-Roof-05-150x150.jpg
-Read more ? https://www.voxelmatters.com/caracol-produces-mold-free-robotic-lfam-sports-car-roof
+🚀 MX3D completes EU-backed PIONEER project for hybrid steel AM
+PIONEER, a project funded by the EU’s Horizon Europe program and spearheaded by a 17-partner consortium, has successfully concluded.
+The project launched in 2023 with the broad goal of building … The post MX3D completes EU-backed PIONEER project for hybrid steel AM appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/mx3d-pioneer-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/mx3d-completes-eu-backed-pioneer-project-for-hybrid-steel-am
 
-📰 Machine learning model designs rust-resistant, ultra-high strength steel for 3D printing
-A research team from the University of South China and Purdue University has developed a new class of ultra-high strength, high-ductility steel for 3D printing using an interpretable machine learning … The post...
-Reported by VoxelMatters on Apr 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/High-strength-3D-printing-steel-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/machine-learning-model-designs-rust-resistant-ultra-high-strength-steel-for-3d-printing
+🚀 BMF introduces BMF Clear transparent photopolymer resin
+The material has been engineered for applications requiring exceptional light transmission and micron-level accuracy.
+Reported by TCT Magazine on Apr 07, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Image-1-1.jpg
+Read more ? https://www.tctmagazine.com/bmf-introduces-bmf-clear-transparent-photopolymer-resin
 
-🖨 6K Additive to convert domestic scrap into metal 3D printing powders via Defense Logistics Agency contract
-The contract will run for an 18-month term and focus on Nickel, Titanium, Tungsten, and Niobium materials.
-Reported by TCT Magazine on Apr 06, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/04/6K---UniMelt-high-quality-image_Re-1.jpg
-Read more ? https://www.tctmagazine.com/6k-additive-to-convert-domestic-scrap-into-metal-3d-printing-powders-via-defense-logistics-agency-contract
+📰 Nano Dimension sells Additively Manufactured Electronics & Fabrica product lines
+Inspira Technologies will acquire both product lines for $12.5 million.
+Reported by TCT Magazine on Apr 07, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/DragonFly-IV-Inside-View-1.png
+Read more ? https://www.tctmagazine.com/nano-dimension-sells-additively-manufactured-electronics-fabrica-product-lines
 
-🦺 How a collaboration between KLS Martin and Lithoz led to hundreds of patient-specific ceramic implants
-The origin story of KLS Martin’s ceramic additive manufacturing program begins in a Viennese pizzeria.
-It was there, over 12 years ago, that Frank Reinauer, Mechanical Engineer at KLS Martin, … The post How a collaboration between KLS Martin and Lithoz led to hundreds of patient-specific ceramic implants appeared, reported by VoxelMatters on Apr 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/03/HA480_TLIF_zygomatic_implant_DSC00077-2-150x150.jpg
-Read more ? https://www.voxelmatters.com/how-a-collaboration-between-kls-martin-and-lithoz-led-to-hundreds-of-patient-specific-ceramic-implants
+🖨 BLT metal 3D printing tech again leveraged for OPPO's latest foldable smartphone
+BLT is able to additively manufacture the hinge system as a single structure.
+Reported by TCT Magazine on Apr 07, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/OPPO-BLT-1-1.jpg
+Read more ? https://www.tctmagazine.com/blt-metal-3d-printing-tech-again-leveraged-for-oppos-latest-foldable-smartphone
 
-📰 RAPID + TCT Conference Q&A: Huba Horompoly | Gravity Pull Systems | Maximising profit in AM
-Gravity Pull Systems is offering a cost-optimisation solution 'free of charge for anyone who wants to explore it.'
-Reported by TCT Magazine on Apr 06, 2026.
-Image ? https://www.tctmagazine.com/content/images/2026/03/Building-the-Manufacturing-Workforce-Pipeline-Through-Research-and-Industry-Collaboration--4-.png
-Read more ? https://www.tctmagazine.com/rapid-tct-conference-q-a-huba-horompoly-gravity-pull-systems-maximising-profit-in-am
+🦺 Lincotek names Gianluca Fioravanti as Global General Manager of Medical Division
+Lincotek, a global additive manufacturing solutions provider, has named Gianluca Fioravanti as Global General Manager of its Medical Division.
+Fioravanti will report directly to Group CEO Andrea Colombo, and will … The post Lincotek names Gianluca Fioravanti as Global General Manager of Medical Division appeared first on VoxelMatters - The heart of additive...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Lincotek-Gianluca-Fioravanti-150x150.jpg
+Read more ? https://www.voxelmatters.com/lincotek-names-gianluca-fioravanti-as-global-general-manager-of-its-medical-division
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
