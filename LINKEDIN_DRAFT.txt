@@ -1,52 +1,52 @@
-﻿# 3D PRINTING PULSE #91 - 2026-04-08
+﻿# 3D PRINTING PULSE #92 - 2026-04-09
 
-♻️ Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments
-You may soon be 3D printing thermoset filament.
-The post Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/patent-proposes-recycling-thermoset-polymers-into-3d-printing-filaments
+🔥 New Site Warns Of Sweeping 3D Printer Laws
+A new advocacy site argues proposed “anti gun” bills could unintentionally criminalize everyday 3D printers and software.
+The post New Site Warns Of Sweeping 3D Printer Laws appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/new-site-warns-of-sweeping-3d-printer-laws
 
-🖨 Artec Jet LiDAR scanner can digitize entire sites via drone or handheld
-Artec 3D, a 3D scanning technology company based in Luxembourg, has released Artec Jet, a Simultaneous Localization and Mapping (SLAM)-based LiDAR scanner designed for large-scale 3D data capture across demanding …...
-Reported by VoxelMatters on Apr 07, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Artec-3D-Jet-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/artec-jet-lidar-scanner-can-digitize-entire-sites-via-drone-or-handheld
+🖨 Elmet Technologies receives US patent for refractory metal additive manufacturing process
+Elmet Technologies, a fully integrated, US-owned and operated tungsten and molybdenum manufacturer, has received US Patent (no.
+12,571,080) for the “Fabrication of Metallic Parts by Additive Manufacturing”, reported by VoxelMatters on Apr 08, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Elmet-Technologies-refractory-metals-patent-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/elmet-technologies-receives-us-patent-for-refractory-metal-additive-manufacturing-process
 
-🖨 Otsuka Chemical introduces Poticon potassium titanate fiber reinforced filament
-Otsuka Chemical, a Japanese specialty chemicals manufacturer, developed Poticon—a filament for material extrusion 3D printing based on a composite of thermoplastic resin reinforced with ultra-fine potassium titanate...
-The material … The post Otsuka Chemical introduces Poticon potassium titanate fiber reinforced filament appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/POTICON_filament2-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/otsuka-chemicals-poticon-filament-brings-potassium-titanate-fiber-reinforcement-to-mex-3d-printing
+💻 Stratasys announces new polymer 3D printing materials ahead of RAPID + TCT
+The company has also introduced a new Measurement-Based Warped Modeling software to GrabCAD Print Pro.
+Reported by TCT Magazine on Apr 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Untitled-design--32-.png
+🔗 Read more: https://www.tctmagazine.com/stratasys-announces-new-polymer-3d-printing-materials-ahead-of-rapid-tct
 
-🚀 MX3D completes EU-backed PIONEER project for hybrid steel AM
-PIONEER, a project funded by the EU’s Horizon Europe program and spearheaded by a 17-partner consortium, has successfully concluded.
-The project launched in 2023 with the broad goal of building … The post MX3D completes EU-backed PIONEER project for hybrid steel AM appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/mx3d-pioneer-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/mx3d-completes-eu-backed-pioneer-project-for-hybrid-steel-am
+💻 FABULOUS and AMT validate workflow for 3D printing food-safe parts
+In the food industry, regulatory compliance is essential and any lapses can have real consequences when it comes to food-borne illnesses.
+A central part of this compliance is related to … The post FABULOUS and AMT validate workflow for 3D printing food-safe parts appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Ice-extruder-Detect-vapor-smoothed-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/fabulous-and-amt-validate-workflow-for-3d-printing-food-safe-parts
 
-🚀 BMF introduces BMF Clear transparent photopolymer resin
-The material has been engineered for applications requiring exceptional light transmission and micron-level accuracy.
-Reported by TCT Magazine on Apr 07, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Image-1-1.jpg
-🔗 Read more: https://www.tctmagazine.com/bmf-introduces-bmf-clear-transparent-photopolymer-resin
+🖨 Elmet Technologies granted US patent for 'Fabrication of Metallic parts by Additive Manufacturing' technology
+The patent further strengthens Elmet Technologies’ growing portfolio of IP in powders and processes for AM and powder metallurgy applications.
+Reported by TCT Magazine on Apr 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Untitled-design--31-.png
+🔗 Read more: https://www.tctmagazine.com/elmet-technologies-granted-us-patent-for-fabrication-of-metallic-parts-by-additive-manufacturing-technology
 
-📰 Nano Dimension sells Additively Manufactured Electronics &amp; Fabrica product lines
-Inspira Technologies will acquire both product lines for $12.5 million.
-Reported by TCT Magazine on Apr 07, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/DragonFly-IV-Inside-View-1.png
-🔗 Read more: https://www.tctmagazine.com/nano-dimension-sells-additively-manufactured-electronics-fabrica-product-lines
+🖨 LPE installs EOS P396 3D printer in response to 'surging demand' for 3D printed parts
+The new EOS P396 represents LPE's fourth industrial SLS system.
+Reported by TCT Magazine on Apr 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/System_EOS_P_396_Front_noBg_shadow.png
+🔗 Read more: https://www.tctmagazine.com/lpe-installs-eos-p396-3d-printer-in-response-to-surging-demand-for-3d-printed-parts
 
-🖨 BLT metal 3D printing tech again leveraged for OPPO's latest foldable smartphone
-BLT is able to additively manufacture the hinge system as a single structure.
-Reported by TCT Magazine on Apr 07, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/OPPO-BLT-1-1.jpg
-🔗 Read more: https://www.tctmagazine.com/blt-metal-3d-printing-tech-again-leveraged-for-oppos-latest-foldable-smartphone
+🖨 Poly Precision Technology joins ROBOZE Advanced Manufacturing network
+PPT is set to use ROBOZE's additive manufacturing technologies to deliver high-performance components designed to replace metal in demanding applications.
+Reported by TCT Magazine on Apr 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/112245692.png
+🔗 Read more: https://www.tctmagazine.com/poly-precision-technology-joins-roboze-advanced-manufacturing-network
 
-🦺 Lincotek names Gianluca Fioravanti as Global General Manager of Medical Division
-Lincotek, a global additive manufacturing solutions provider, has named Gianluca Fioravanti as Global General Manager of its Medical Division.
-Fioravanti will report directly to Group CEO Andrea Colombo, and will … The post Lincotek names Gianluca Fioravanti as Global General Manager of Medical Division appeared first on VoxelMatters - The heart of additive...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Lincotek-Gianluca-Fioravanti-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lincotek-names-gianluca-fioravanti-as-global-general-manager-of-its-medical-division
+🏠 6K Additive breaks ground on HQ and manufacturing campus expansion
+6K is adding alloy warehousing, ingot production, and pre- and post-processing production capacity.
+Reported by TCT Magazine on Apr 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Groundbreaking.jpg
+🔗 Read more: https://www.tctmagazine.com/6k-additive-breaks-ground-on-hq-and-manufacturing-campus-expansion
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Patent Proposes Recycling Thermoset Polymers Into 3D Printing Filaments" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Direct link: https://www.fabbaloo.com/news/patent-proposes-recycling-thermoset-polymers-into-3d-printing-filaments | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "New Site Warns Of Sweeping 3D Printer Laws" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.fabbaloo.com/news/new-site-warns-of-sweeping-3d-printer-laws | Full pulse: https://www.quality3ds.com/

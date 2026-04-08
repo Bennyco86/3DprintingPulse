@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-09
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #92 - 2026-04-09
+## Stories
 
 🔥 New Site Warns Of Sweeping 3D Printer Laws
 A new advocacy site argues proposed “anti gun” bills could unintentionally criminalize everyday 3D printers and software.
@@ -50,9 +48,3 @@ Read more ? https://www.tctmagazine.com/poly-precision-technology-joins-roboze-a
 Reported by TCT Magazine on Apr 08, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Groundbreaking.jpg
 Read more ? https://www.tctmagazine.com/6k-additive-breaks-ground-on-hq-and-manufacturing-campus-expansion
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
