@@ -1,52 +1,51 @@
-﻿# 3D PRINTING PULSE #92 - 2026-04-09
+﻿# 3D PRINTING PULSE #93 - 2026-04-10
 
-🔥 New Site Warns Of Sweeping 3D Printer Laws
-A new advocacy site argues proposed “anti gun” bills could unintentionally criminalize everyday 3D printers and software.
-The post New Site Warns Of Sweeping 3D Printer Laws appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/new-site-warns-of-sweeping-3d-printer-laws
+🔥 „Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers - 3Druck.com
+„Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers 3Druck.com
+Reported by Google News - 3D Printing Viral on Apr 08, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlViVDZiWHZPdDZWbzlDVWRtZ1NxVlhwTzcxdllCa1BReng2cWFWZkFIWGlTTDBtVk8zaGRXOU9UUFg0ZF85eWY1UGFpcExxQnZNMlFmcTM4ZGo1cmlGVF80THExanFQbk5KbG1PMjJhcWdmdjNiOHhMaUxITDZJMVBhUV8yQnNEc2d1YUxYTEQwMUF4elJyV3hKWUtReVl4ajBISFMway1DM2hlZ01oeHJtbGxpa2ZyQnhzdDR3bnFpU0t2N05BcVpfS08ta1luNTJhb2Vn?oc=5
 
-🖨 Elmet Technologies receives US patent for refractory metal additive manufacturing process
-Elmet Technologies, a fully integrated, US-owned and operated tungsten and molybdenum manufacturer, has received US Patent (no.
-12,571,080) for the “Fabrication of Metallic Parts by Additive Manufacturing”, reported by VoxelMatters on Apr 08, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Elmet-Technologies-refractory-metals-patent-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/elmet-technologies-receives-us-patent-for-refractory-metal-additive-manufacturing-process
+♻️ BigRep’s New One.5X Makes Big Parts Faster &amp; Easier, Plus Introduces Pellet Extrusion - All3DP
+BigRep’s New One.5X Makes Big Parts Faster &amp; Easier, Plus Introduces Pellet Extrusion All3DP
+Reported by Google News - 3D Printing on Apr 09, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipgFBVV95cUxQd21yUDd4V2tCQlVVcFEzMUdNRjRvelRUdjJTZU1nNG5xemhmRldBMGVDVTJNT0h5by1ybDNLalphSXJxallxZEZ6Z2paVUVVcFNaRDBhcEdNUmtBRlNiRmxIQ1JVelZnU2lOa2V5OVg1TUpFYWJJVnh0UlpUcTd5QldDWFFoZGloWHlJOXNLeUdzVUpsR1RXUk8tRzVZTjFOMU9Wbk9B?oc=5
 
-💻 Stratasys announces new polymer 3D printing materials ahead of RAPID + TCT
-The company has also introduced a new Measurement-Based Warped Modeling software to GrabCAD Print Pro.
-Reported by TCT Magazine on Apr 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Untitled-design--32-.png
-🔗 Read more: https://www.tctmagazine.com/stratasys-announces-new-polymer-3d-printing-materials-ahead-of-rapid-tct
+🚀 INNOSPACE becomes first in South Korea to commercialize support-free titanium 3D printing
+INNOSPACE, a South Korean satellite launch service company, has become the first in the country to commercialize a metal additive manufacturing process that produces high-precision titanium components without support...
+Reported by VoxelMatters on Apr 09, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/INNOSPACE-Support-Free-Titanium-AM-Tech-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/innospace-becomes-first-in-south-korea-to-commercialize-support-free-titanium-3d-printing
 
-💻 FABULOUS and AMT validate workflow for 3D printing food-safe parts
-In the food industry, regulatory compliance is essential and any lapses can have real consequences when it comes to food-borne illnesses.
-A central part of this compliance is related to … The post FABULOUS and AMT validate workflow for 3D printing food-safe parts appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Ice-extruder-Detect-vapor-smoothed-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/fabulous-and-amt-validate-workflow-for-3d-printing-food-safe-parts
+💻 ValCUN’s 3D printed catalytic air purifier reduces emissions and costs
+Poor air quality from industrial emissions has a significant impact on public health, leading to problems like strokes, heart disease, and respiratory conditions.
+For this reason, efforts are being made … The post ValCUN’s 3D printed catalytic air purifier reduces emissions and costs appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Air-purification-ValCUN-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/valcuns-3d-printed-catalytic-air-purifier-reduces-emissions-and-costs
 
-🖨 Elmet Technologies granted US patent for 'Fabrication of Metallic parts by Additive Manufacturing' technology
-The patent further strengthens Elmet Technologies’ growing portfolio of IP in powders and processes for AM and powder metallurgy applications.
-Reported by TCT Magazine on Apr 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Untitled-design--31-.png
-🔗 Read more: https://www.tctmagazine.com/elmet-technologies-granted-us-patent-for-fabrication-of-metallic-parts-by-additive-manufacturing-technology
+🚀 GEFERTEC launches arc10X WAAM system for research &amp; series production
+The system’s maximum printable build volume has an edge length of 1.2 meters and supports component weights of up to 750 kilograms.
+Reported by TCT Magazine on Apr 09, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/01-Heroshot-mit-Fugen_Alpha_gruen--1-.png
+🔗 Read more: https://www.tctmagazine.com/gefertec-launches-arc10x-waam-system-for-research-series-production
 
-🖨 LPE installs EOS P396 3D printer in response to 'surging demand' for 3D printed parts
-The new EOS P396 represents LPE's fourth industrial SLS system.
-Reported by TCT Magazine on Apr 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/System_EOS_P_396_Front_noBg_shadow.png
-🔗 Read more: https://www.tctmagazine.com/lpe-installs-eos-p396-3d-printer-in-response-to-surging-demand-for-3d-printed-parts
+🚀 AMT &amp; GreatAmerica launch all-inclusive payment program for PostPro SFX Vapor Smoothing system
+The system can now be purchased in North America for a single monthly payment of 999 USD.
+Reported by TCT Magazine on Apr 09, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/AMTSFX.jpeg
+🔗 Read more: https://www.tctmagazine.com/amt-greatamerica-launch-all-inclusive-payment-program-for-postpro-sfx-vapor-smoothing-system
 
-🖨 Poly Precision Technology joins ROBOZE Advanced Manufacturing network
-PPT is set to use ROBOZE's additive manufacturing technologies to deliver high-performance components designed to replace metal in demanding applications.
-Reported by TCT Magazine on Apr 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/112245692.png
-🔗 Read more: https://www.tctmagazine.com/poly-precision-technology-joins-roboze-advanced-manufacturing-network
+🚀 BigRep launches ONE.5X 1-metre-cubed 3D printing system ahead of RAPID + TCT
+The company has also established a co-development partnership with Massive Dimension that brings pellet-based extrusion to the BigRep platform for the first time.
+Reported by TCT Magazine on Apr 09, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/ONE5x_Wide_PrintingTPU-Mixer_1-1.jpg
+🔗 Read more: https://www.tctmagazine.com/bigrep-launches-one-5x-1-metre-cubed-3d-printing-system-ahead-of-rapid-tct
 
-🏠 6K Additive breaks ground on HQ and manufacturing campus expansion
-6K is adding alloy warehousing, ingot production, and pre- and post-processing production capacity.
-Reported by TCT Magazine on Apr 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Groundbreaking.jpg
-🔗 Read more: https://www.tctmagazine.com/6k-additive-breaks-ground-on-hq-and-manufacturing-campus-expansion
+🚀 SHINING 3D expands all-in-one scanning series with EinScan Rigil Lite launch
+SHINING 3D, a leading developer of 3D scanning and metrology technology, has launched the EinScan Rigil Lite as a cost-effective addition to its Rigil Series of all-in-one 3D scanners.
+Designed … The post SHINING 3D expands all-in-one scanning series with EinScan Rigil Lite launch appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Shining-3D-Rigil-Lite-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/shining-3d-expands-all-in-one-scanning-series-with-einscan-rigil-lite-launch
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "New Site Warns Of Sweeping 3D Printer Laws" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.fabbaloo.com/news/new-site-warns-of-sweeping-3d-printer-laws | Full pulse: https://www.quality3ds.com/
+Big conversation driver today: "Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers - 3Druck.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlViVDZiWHZPdDZWbzlDVWRtZ1NxVlhwTzcxdllCa1BReng2cWFWZkFIWGlTTDBtVk8zaGRXOU9UUFg0ZF85eWY1UGFpcExxQnZNMlFmcTM4ZGo1cmlGVF80THExanFQbk5KbG1PMjJhcWdmdjNiOHhMaUxITDZJMVBhUV8yQnNEc2d1YUxYTEQwMUF4elJyV3hKWUtReVl4ajBISFMway1DM2hlZ01oeHJtbGxpa2ZyQnhzdDR3bnFpU0t2N05BcVpfS08ta1luNTJhb2Vn?oc=5 | Complete rundown: https://www.quality3ds.com/

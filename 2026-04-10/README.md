@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-10
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #93 - 2026-04-10
+## Stories
 
 🔥 „Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers - 3Druck.com
 „Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers 3Druck.com
@@ -49,9 +47,3 @@ SHINING 3D, a leading developer of 3D scanning and metrology technology, has lau
 Designed … The post SHINING 3D expands all-in-one scanning series with EinScan Rigil Lite launch appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Shining-3D-Rigil-Lite-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/shining-3d-expands-all-in-one-scanning-series-with-einscan-rigil-lite-launch
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
