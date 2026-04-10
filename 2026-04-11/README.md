@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #94 - 2026-04-11
+## Stories
 
 🚀 Beehive Industries secures $29.7m US Air Force contract for Frenzy engine family
 Beehive Industries, a Denver-based manufacturer of additively manufactured jet engines for uncrewed aerial defense systems, has received a $29.7 million contract from the US Air Force to complete vehicle integration,...
@@ -51,9 +49,3 @@ A US Marine Corps Lance Corporal redesigns MUOS antenna mast with FDM 3D printin
 Reported by TCT Magazine on Apr 09, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/260212-M-UE056-1083-1.png
 Read more ? https://www.tctmagazine.com/3d-printed-replacement-antenna-masts-save-decades-of-combined-supply-wait-time
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

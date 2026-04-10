@@ -1,51 +1,53 @@
-﻿# 3D PRINTING PULSE #93 - 2026-04-10
+﻿# 3D PRINTING PULSE #94 - 2026-04-11
 
-🔥 „Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers - 3Druck.com
-„Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers 3Druck.com
-Reported by Google News - 3D Printing Viral on Apr 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlViVDZiWHZPdDZWbzlDVWRtZ1NxVlhwTzcxdllCa1BReng2cWFWZkFIWGlTTDBtVk8zaGRXOU9UUFg0ZF85eWY1UGFpcExxQnZNMlFmcTM4ZGo1cmlGVF80THExanFQbk5KbG1PMjJhcWdmdjNiOHhMaUxITDZJMVBhUV8yQnNEc2d1YUxYTEQwMUF4elJyV3hKWUtReVl4ajBISFMway1DM2hlZ01oeHJtbGxpa2ZyQnhzdDR3bnFpU0t2N05BcVpfS08ta1luNTJhb2Vn?oc=5
+🚀 Beehive Industries secures $29.7m US Air Force contract for Frenzy engine family
+Beehive Industries, a Denver-based manufacturer of additively manufactured jet engines for uncrewed aerial defense systems, has received a $29.7 million contract from the US Air Force to complete vehicle integration,...
+Reported by VoxelMatters on Apr 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Beehive-USAF-contract-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/beehive-industries-secures-29-7m-us-air-force-contract-for-frenzy-engine-family
 
-♻️ BigRep’s New One.5X Makes Big Parts Faster &amp; Easier, Plus Introduces Pellet Extrusion - All3DP
-BigRep’s New One.5X Makes Big Parts Faster &amp; Easier, Plus Introduces Pellet Extrusion All3DP
-Reported by Google News - 3D Printing on Apr 09, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMipgFBVV95cUxQd21yUDd4V2tCQlVVcFEzMUdNRjRvelRUdjJTZU1nNG5xemhmRldBMGVDVTJNT0h5by1ybDNLalphSXJxallxZEZ6Z2paVUVVcFNaRDBhcEdNUmtBRlNiRmxIQ1JVelZnU2lOa2V5OVg1TUpFYWJJVnh0UlpUcTd5QldDWFFoZGloWHlJOXNLeUdzVUpsR1RXUk8tRzVZTjFOMU9Wbk9B?oc=5
+📰 adidas’ 3D printed soccer cleats have arrived
+Well, our hunch was correct: sportswear giant adidas has indeed designed a 3D printed soccer cleat (or football boot, depending on where you are in the world).
+The sports world … The post adidas’ 3D printed soccer cleats have arrived appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/adidas-football-cleat-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/adidas-3d-printed-soccer-cleats-have-arrived
 
-🚀 INNOSPACE becomes first in South Korea to commercialize support-free titanium 3D printing
-INNOSPACE, a South Korean satellite launch service company, has become the first in the country to commercialize a metal additive manufacturing process that produces high-precision titanium components without support...
+💻 Reinforce3D and 3Dees Industries partner to expand CFIP adoption
+Reinforce3D, a Spain-based company specializing in Continuous Fiber Injection Process (CFIP) technology, and 3Dees Industries, a Czech provider of additive manufacturing solutions, have entered into a partnership...
+Reported by VoxelMatters on Apr 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Reinforce3D-and-3Dees-partnership-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/reinforce3d-and-3dees-industries-partner-to-expand-cfip-adoption
+
+🖨 MetalWorm takes WAAM to Brazil and Malaysia, one university at a time
+MetalWorm, a Turkish manufacturer of robotic Wire Arc Additive Manufacturing systems, has successfully deployed two of its machines at academic institutions on opposite sides of the world: the Federal Institute … The...
+Reported by VoxelMatters on Apr 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Zrzut-ekranu-2026-04-09-205245-150x150.png
+🔗 Read more: https://www.voxelmatters.com/metalworm-takes-waam-to-brazil-and-malaysia-one-university-at-a-time
+
+🖨 LPE expands polymer AM capacity to meet growing demand
+Laser Prototypes Europe (LPE), a Belfast-based additive manufacturing service provider, has installed a new EOS P396 SLS system to bring its total number of industrial SLS platforms to four.
+The … The post LPE expands polymer AM capacity to meet growing demand appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/LPE-new-SLS-system-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lpe-expands-polymer-am-capacity-to-meet-growing-demand
+
+🚀 BigRep to launch ONE.5X and pellet extrusion partnership with Massive Dimension
+BigRep is bringing two product developments to RAPID + TCT 2026 in Boston: the BigRep ONE.5X, an updated version of its 1-cubic-meter large-format 3D printer, and a co-development partnership with … The post BigRep...
 Reported by VoxelMatters on Apr 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/INNOSPACE-Support-Free-Titanium-AM-Tech-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/innospace-becomes-first-in-south-korea-to-commercialize-support-free-titanium-3d-printing
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ONE-with-MDXPelletExtruder-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/bigrep-to-launch-one-5x-and-pellet-extrusion-partnership-with-massive-dimension
 
-💻 ValCUN’s 3D printed catalytic air purifier reduces emissions and costs
-Poor air quality from industrial emissions has a significant impact on public health, leading to problems like strokes, heart disease, and respiratory conditions.
-For this reason, efforts are being made … The post ValCUN’s 3D printed catalytic air purifier reduces emissions and costs appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Air-purification-ValCUN-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/valcuns-3d-printed-catalytic-air-purifier-reduces-emissions-and-costs
-
-🚀 GEFERTEC launches arc10X WAAM system for research &amp; series production
-The system’s maximum printable build volume has an edge length of 1.2 meters and supports component weights of up to 750 kilograms.
+🚀 Pushing the limits
+How metal additive manufacturing is enabling Stoke Space to unlock the new space economy.
 Reported by TCT Magazine on Apr 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/01-Heroshot-mit-Fugen_Alpha_gruen--1-.png
-🔗 Read more: https://www.tctmagazine.com/gefertec-launches-arc10x-waam-system-for-research-series-production
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/4.jpg
+🔗 Read more: https://www.tctmagazine.com/pushing-the-limits
 
-🚀 AMT &amp; GreatAmerica launch all-inclusive payment program for PostPro SFX Vapor Smoothing system
-The system can now be purchased in North America for a single monthly payment of 999 USD.
+🏠 Application spotlight: 3D printed replacement antenna masts save decades of combined supply wait time
+A US Marine Corps Lance Corporal redesigns MUOS antenna mast with FDM 3D printing.
 Reported by TCT Magazine on Apr 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/AMTSFX.jpeg
-🔗 Read more: https://www.tctmagazine.com/amt-greatamerica-launch-all-inclusive-payment-program-for-postpro-sfx-vapor-smoothing-system
-
-🚀 BigRep launches ONE.5X 1-metre-cubed 3D printing system ahead of RAPID + TCT
-The company has also established a co-development partnership with Massive Dimension that brings pellet-based extrusion to the BigRep platform for the first time.
-Reported by TCT Magazine on Apr 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/ONE5x_Wide_PrintingTPU-Mixer_1-1.jpg
-🔗 Read more: https://www.tctmagazine.com/bigrep-launches-one-5x-1-metre-cubed-3d-printing-system-ahead-of-rapid-tct
-
-🚀 SHINING 3D expands all-in-one scanning series with EinScan Rigil Lite launch
-SHINING 3D, a leading developer of 3D scanning and metrology technology, has launched the EinScan Rigil Lite as a cost-effective addition to its Rigil Series of all-in-one 3D scanners.
-Designed … The post SHINING 3D expands all-in-one scanning series with EinScan Rigil Lite launch appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Shining-3D-Rigil-Lite-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/shining-3d-expands-all-in-one-scanning-series-with-einscan-rigil-lite-launch
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/260212-M-UE056-1083-1.png
+🔗 Read more: https://www.tctmagazine.com/3d-printed-replacement-antenna-masts-save-decades-of-combined-supply-wait-time
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Don't Ban 3D Printers": Initiative aims to mobilize against US regulation of 3D printers - 3Druck.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVlViVDZiWHZPdDZWbzlDVWRtZ1NxVlhwTzcxdllCa1BReng2cWFWZkFIWGlTTDBtVk8zaGRXOU9UUFg0ZF85eWY1UGFpcExxQnZNMlFmcTM4ZGo1cmlGVF80THExanFQbk5KbG1PMjJhcWdmdjNiOHhMaUxITDZJMVBhUV8yQnNEc2d1YUxYTEQwMUF4elJyV3hKWUtReVl4ajBISFMway1DM2hlZ01oeHJtbGxpa2ZyQnhzdDR3bnFpU0t2N05BcVpfS08ta1luNTJhb2Vn?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Beehive Industries secures $29.7m US Air Force contract for Frenzy engine family" because it highlights where practical 3D printing innovation is moving next. Story link: https://www.voxelmatters.com/beehive-industries-secures-29-7m-us-air-force-contract-for-frenzy-engine-family | Full pulse: https://www.quality3ds.com/
