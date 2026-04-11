@@ -1,53 +1,50 @@
-﻿# 3D PRINTING PULSE #94 - 2026-04-11
+﻿# 3D PRINTING PULSE #95 - 2026-04-12
 
-🚀 Beehive Industries secures $29.7m US Air Force contract for Frenzy engine family
-Beehive Industries, a Denver-based manufacturer of additively manufactured jet engines for uncrewed aerial defense systems, has received a $29.7 million contract from the US Air Force to complete vehicle integration,...
-Reported by VoxelMatters on Apr 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Beehive-USAF-contract-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/beehive-industries-secures-29-7m-us-air-force-contract-for-frenzy-engine-family
+🖨 Purple Platypus confirmed as national reseller for Formlabs 3D printing systems
+Purple Platypus, a California-based additive manufacturing distributor founded in 2007, has taken on a national reseller agreement with Formlabs, adding the company’s full range of stereolithography (SLA) and...
+Reported by VoxelMatters on Apr 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Purple-Platypus-Formlabs-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/purple-platypus-confirmed-as-national-reseller-for-formlabs-3d-printing-systems
 
-📰 adidas’ 3D printed soccer cleats have arrived
-Well, our hunch was correct: sportswear giant adidas has indeed designed a 3D printed soccer cleat (or football boot, depending on where you are in the world).
-The sports world … The post adidas’ 3D printed soccer cleats have arrived appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/adidas-football-cleat-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/adidas-3d-printed-soccer-cleats-have-arrived
+📰 Orano and UNC Charlotte study additive manufacturing for nuclear transport cask impact limiters
+Orano Federal Services and the University of North Carolina at Charlotte have completed an updated investigation into using additive manufacturing to produce impact limiters for transportation casks used to ship …...
+Reported by VoxelMatters on Apr 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Orano-transport-casks-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/orano-and-unc-charlotte-study-additive-manufacturing-for-nuclear-transport-cask-impact-limiters
 
-💻 Reinforce3D and 3Dees Industries partner to expand CFIP adoption
-Reinforce3D, a Spain-based company specializing in Continuous Fiber Injection Process (CFIP) technology, and 3Dees Industries, a Czech provider of additive manufacturing solutions, have entered into a partnership...
-Reported by VoxelMatters on Apr 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Reinforce3D-and-3Dees-partnership-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/reinforce3d-and-3dees-industries-partner-to-expand-cfip-adoption
+📰 Skyphos Technologies introduces additive lithography platform for microneedle fabrication
+Skyphos Technologies, a Blacksburg, Virginia–based advanced manufacturing company, has introduced a fabrication platform it calls “additive lithography” — a volumetric approach to producing microscale structures for...
+Reported by VoxelMatters on Apr 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Untitled1-e1775843608210-150x150.webp
+🔗 Read more: https://www.voxelmatters.com/skyphos-technologies-introduces-additive-lithography-platform-for-microneedle-fabrication
 
-🖨 MetalWorm takes WAAM to Brazil and Malaysia, one university at a time
-MetalWorm, a Turkish manufacturer of robotic Wire Arc Additive Manufacturing systems, has successfully deployed two of its machines at academic institutions on opposite sides of the world: the Federal Institute … The...
-Reported by VoxelMatters on Apr 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Zrzut-ekranu-2026-04-09-205245-150x150.png
-🔗 Read more: https://www.voxelmatters.com/metalworm-takes-waam-to-brazil-and-malaysia-one-university-at-a-time
+💻 This Week in Security: Flatpak Fixes, Android Malware, and SCADA was IOT Before IOT was Cool
+Rowhammer attacks have been around since 2014, and mitigations are in place in most modern systems, but the team at gddr6.fail has found ways to apply the attack to current-generation GPUs.
+Reported by Hackaday 3D Printing on Apr 10, 2026.
+🖼️ Image: https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg
+🔗 Read more: https://hackaday.com/2026/04/10/this-week-in-security-flatpak-fixes-android-malware-and-scada-was-iot-before-iot-was-cool
 
-🖨 LPE expands polymer AM capacity to meet growing demand
-Laser Prototypes Europe (LPE), a Belfast-based additive manufacturing service provider, has installed a new EOS P396 SLS system to bring its total number of industrial SLS platforms to four.
-The … The post LPE expands polymer AM capacity to meet growing demand appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/LPE-new-SLS-system-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lpe-expands-polymer-am-capacity-to-meet-growing-demand
+🏠 Benelli Looks to 3D Printing for Gun Chassis
+There’s a lot happening in the world of 3D printing guns.
+There is the ever-present danger of some people trying to print guns at home, reported by 3DPrint.com on Apr 10, 2026.
+🔗 Read more: https://3dprint.com/325111/benelli-looks-to-3d-printing-for-gun-chassis
 
-🚀 BigRep to launch ONE.5X and pellet extrusion partnership with Massive Dimension
-BigRep is bringing two product developments to RAPID + TCT 2026 in Boston: the BigRep ONE.5X, an updated version of its 1-cubic-meter large-format 3D printer, and a co-development partnership with … The post BigRep...
-Reported by VoxelMatters on Apr 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ONE-with-MDXPelletExtruder-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/bigrep-to-launch-one-5x-and-pellet-extrusion-partnership-with-massive-dimension
+📰 ExOne + voxeljet Are Trying to Do the One Thing Customers Need Right Now: Keep Machines Running, and Rebuild Confidence
+For years, ExOne and voxeljet were two of the best-known names in binder jet 3D printing, especially in sand printing for foundries.
+But in recent years, ExOne “got buried” inside, reported by 3DPrint.com on Apr 10, 2026.
+🔗 Read more: https://3dprint.com/323562/exone-voxeljet-are-trying-to-do-the-one-thing-customers-need-right-now-keep-machines-running-and-rebuild-confidence
 
-🚀 Pushing the limits
-How metal additive manufacturing is enabling Stoke Space to unlock the new space economy.
-Reported by TCT Magazine on Apr 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/4.jpg
-🔗 Read more: https://www.tctmagazine.com/pushing-the-limits
+🚀 Was the Artemis II Toilet 3D-Printed in Titanium? What We Really Know
+The Artemis II mission launched on April 1, carrying four astronauts on the first crewed flight around the Moon in more than half a century.
+On board was the Universal Waste Management System (UWMS), the first functional toilet to travel…, reported by 3D Natives on Apr 10, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/04/artemis-toilet-cover.jpg
+🔗 Read more: https://www.3dnatives.com/en/artemis-ii-toilet-10042026
 
-🏠 Application spotlight: 3D printed replacement antenna masts save decades of combined supply wait time
-A US Marine Corps Lance Corporal redesigns MUOS antenna mast with FDM 3D printing.
-Reported by TCT Magazine on Apr 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/260212-M-UE056-1083-1.png
-🔗 Read more: https://www.tctmagazine.com/3d-printed-replacement-antenna-masts-save-decades-of-combined-supply-wait-time
+💻 CNC Kitchen Vibe-Coded a Texture Tool, then Gave It Away for Free
+Stefan Hermann, the creator behind the popular CNC Kitchen YouTube channel, wanted a better way to add custom textures to his 3D models.
+Although fluent in CAD, he found Blender,, reported by 3DPrint.com on Apr 10, 2026.
+🔗 Read more: https://3dprint.com/325083/cnc-kitchen-vibe-coded-texture-tool-gave-it-away-for-free
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Beehive Industries secures $29.7m US Air Force contract for Frenzy engine family" because it highlights where practical 3D printing innovation is moving next. Story link: https://www.voxelmatters.com/beehive-industries-secures-29-7m-us-air-force-contract-for-frenzy-engine-family | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Purple Platypus confirmed as national reseller for Formlabs 3D printing systems" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/purple-platypus-confirmed-as-national-reseller-for-formlabs-3d-printing-systems | Full coverage: https://www.quality3ds.com/

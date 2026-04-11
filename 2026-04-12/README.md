@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-12
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #95 - 2026-04-12
+## Stories
 
 🖨 Purple Platypus confirmed as national reseller for Formlabs 3D printing systems
 Purple Platypus, a California-based additive manufacturing distributor founded in 2007, has taken on a national reseller agreement with Formlabs, adding the company’s full range of stereolithography (SLA) and...
@@ -48,9 +46,3 @@ Read more ? https://www.3dnatives.com/en/artemis-ii-toilet-10042026
 Stefan Hermann, the creator behind the popular CNC Kitchen YouTube channel, wanted a better way to add custom textures to his 3D models.
 Although fluent in CAD, he found Blender,, reported by 3DPrint.com on Apr 10, 2026.
 Read more ? https://3dprint.com/325083/cnc-kitchen-vibe-coded-texture-tool-gave-it-away-for-free
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
