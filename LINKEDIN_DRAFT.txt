@@ -1,50 +1,49 @@
-﻿# 3D PRINTING PULSE #95 - 2026-04-12
+﻿# 3D PRINTING PULSE #96 - 2026-04-13
 
-🖨 Purple Platypus confirmed as national reseller for Formlabs 3D printing systems
-Purple Platypus, a California-based additive manufacturing distributor founded in 2007, has taken on a national reseller agreement with Formlabs, adding the company’s full range of stereolithography (SLA) and...
-Reported by VoxelMatters on Apr 11, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Purple-Platypus-Formlabs-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/purple-platypus-confirmed-as-national-reseller-for-formlabs-3d-printing-systems
+🖨 The Snapmaker U1 is here and it’s something else
+Snapmaker is very excited about the new U1 and rightly so.
+According to Chikai Eto’s report for TCT Asia, the U1 was the most-funded 3D printer on Kickstarter, raising $20.61 million, reported by VoxelMatters on Apr 12, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/SnapmakerU1_IMG_2754-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else
 
-📰 Orano and UNC Charlotte study additive manufacturing for nuclear transport cask impact limiters
-Orano Federal Services and the University of North Carolina at Charlotte have completed an updated investigation into using additive manufacturing to produce impact limiters for transportation casks used to ship …...
-Reported by VoxelMatters on Apr 11, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Orano-transport-casks-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/orano-and-unc-charlotte-study-additive-manufacturing-for-nuclear-transport-cask-impact-limiters
+📰 IMDEA Materials study maps crystallization behaviour in LPBF-processed Finemet alloys
+Researchers at IMDEA Materials have published a study examining how crystallization occurs in Finemet alloys produced via laser powder bed fusion (LPBF), offering new insight into how process parameters shape … The...
+Reported by VoxelMatters on Apr 12, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/IMDEA-Finemet-alloys-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/imdea-materials-study-maps-crystallization-behaviour-in-lpbf-processed-finemet-alloys
 
-📰 Skyphos Technologies introduces additive lithography platform for microneedle fabrication
-Skyphos Technologies, a Blacksburg, Virginia–based advanced manufacturing company, has introduced a fabrication platform it calls “additive lithography” — a volumetric approach to producing microscale structures for...
-Reported by VoxelMatters on Apr 11, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Untitled1-e1775843608210-150x150.webp
-🔗 Read more: https://www.voxelmatters.com/skyphos-technologies-introduces-additive-lithography-platform-for-microneedle-fabrication
+🚀 Bambu Lab is launching a new 3D printer on April 14th
+Bambu Lab is set to reveal its next flagship desktop 3D printer series on April 14, 2026, with its teaser page featuring the tagline “Xcellence made simple” and a confirmed … The post Bambu Lab is launching a new 3D...
+Reported by VoxelMatters on Apr 12, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/new-new-bambu-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/bambu-lab-is-launching-a-new-3d-printer-on-april-14th
 
-💻 This Week in Security: Flatpak Fixes, Android Malware, and SCADA was IOT Before IOT was Cool
-Rowhammer attacks have been around since 2014, and mitigations are in place in most modern systems, but the team at gddr6.fail has found ways to apply the attack to current-generation GPUs.
-Reported by Hackaday 3D Printing on Apr 10, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2016/01/darkarts.jpg
-🔗 Read more: https://hackaday.com/2026/04/10/this-week-in-security-flatpak-fixes-android-malware-and-scada-was-iot-before-iot-was-cool
+🏠 Serendix and JR West build Japan’s first 3D printed railway station overnight
+Japanese construction technology firm Serendix completed what it described as the world’s first 3D printed railway station, replacing a wooden shelter that had stood at Hatsushima Station in Arida, Wakayama … The...
+Reported by VoxelMatters on Apr 12, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ABB-IRB-6700-robot-arm-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/serendix-and-jr-west-build-japans-first-3d-printed-railway-station-overnight
 
-🏠 Benelli Looks to 3D Printing for Gun Chassis
-There’s a lot happening in the world of 3D printing guns.
-There is the ever-present danger of some people trying to print guns at home, reported by 3DPrint.com on Apr 10, 2026.
-🔗 Read more: https://3dprint.com/325111/benelli-looks-to-3d-printing-for-gun-chassis
+🚀 Harvard Engineering Students 3D Print VTOL Drone to Improve Marine Biology Research
+With all the current focus on the boom in drones used for national security, it’s easy to forget that the civilian drone market is growing, too.
+In addition to the, reported by 3DPrint.com on Apr 12, 2026.
+🔗 Read more: https://3dprint.com/325127/harvard-engineering-students-3d-print-vtol-drone-to-improve-marine-biology-research
 
-📰 ExOne + voxeljet Are Trying to Do the One Thing Customers Need Right Now: Keep Machines Running, and Rebuild Confidence
-For years, ExOne and voxeljet were two of the best-known names in binder jet 3D printing, especially in sand printing for foundries.
-But in recent years, ExOne “got buried” inside, reported by 3DPrint.com on Apr 10, 2026.
-🔗 Read more: https://3dprint.com/323562/exone-voxeljet-are-trying-to-do-the-one-thing-customers-need-right-now-keep-machines-running-and-rebuild-confidence
+📰 5 Useful Travel Gadgets You Can Actually 3D Print - bgr.com
+5 Useful Travel Gadgets You Can Actually 3D Print bgr.com
+Reported by Google News - 3D Printing on Apr 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU09INUR1MWxmZUQwODlOaU1ieU1HbzN3MTJpUUlZdmE3V2tnbnR1MkFuVW5LcV9fS0FxVUFQWmtrWEtuRVR4d0FfUkwwYkJwczN5WUc2Q0VhRkdYUmdPRHA3OFZ0bXVmQ2NJ?oc=5
 
-🚀 Was the Artemis II Toilet 3D-Printed in Titanium? What We Really Know
-The Artemis II mission launched on April 1, carrying four astronauts on the first crewed flight around the Moon in more than half a century.
-On board was the Universal Waste Management System (UWMS), the first functional toilet to travel…, reported by 3D Natives on Apr 10, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/04/artemis-toilet-cover.jpg
-🔗 Read more: https://www.3dnatives.com/en/artemis-ii-toilet-10042026
+📰 6 everyday items I no longer have to buy thanks to 3D printing - How-To Geek
+6 everyday items I no longer have to buy thanks to 3D printing How-To Geek
+Reported by Google News - 3D Printing on Apr 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxQX045NV9rcVdlV0ZaeGZ3WXZlRkpDWDBSNjRBUS1wSFhldWlvX3dmd1hWV0RYc1pqVjBYY3VBVGV1c2M3azAxUUUtR3ZxdW16bHRLRjQwZUM3YUVzcDk5bFREMFVIeE05SjhWc01fc1VDTmZPV3JTUTNNX1paNVJST2ZXa0N4eXVlRk54YkI2MlU?oc=5
 
-💻 CNC Kitchen Vibe-Coded a Texture Tool, then Gave It Away for Free
-Stefan Hermann, the creator behind the popular CNC Kitchen YouTube channel, wanted a better way to add custom textures to his 3D models.
-Although fluent in CAD, he found Blender,, reported by 3DPrint.com on Apr 10, 2026.
-🔗 Read more: https://3dprint.com/325083/cnc-kitchen-vibe-coded-texture-tool-gave-it-away-for-free
+📰 Food 3D Printing Market Analysis By Application, Type, - openPR.com
+Food 3D Printing Market Analysis By Application, Type, openPR.com
+Reported by Google News - 3D Printing on Apr 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNGMFQtZFdZMlFja1liMDhrS2ZEOHp2T0E3ZkR2MFNGekVBTVRjS2E4OVZvRzZvVk5FcFZXTDh4N0hIUGwtUVNodkNzeU1maW9sSFAyQmVaZTY2a295VUs0eFR4cjM4OFVFRk56ckFZVnE2d1M5aE1qVml5SC00SzJtbWNRajlyNWFOMEhRZXJBQQ?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Purple Platypus confirmed as national reseller for Formlabs 3D printing systems" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/purple-platypus-confirmed-as-national-reseller-for-formlabs-3d-printing-systems | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Bambu Lab is launching a new 3D printer on April 14th" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else | Full pulse: https://www.quality3ds.com/

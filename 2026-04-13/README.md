@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-13
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #96 - 2026-04-13
+## Stories
 
 🖨 The Snapmaker U1 is here and it’s something else
 Snapmaker is very excited about the new U1 and rightly so.
@@ -47,9 +45,3 @@ Read more ? https://news.google.com/rss/articles/CBMikAFBVV95cUxQX045NV9rcVdlV0Z
 Food 3D Printing Market Analysis By Application, Type, openPR.com
 Reported by Google News - 3D Printing on Apr 12, 2026.
 Read more ? https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNGMFQtZFdZMlFja1liMDhrS2ZEOHp2T0E3ZkR2MFNGekVBTVRjS2E4OVZvRzZvVk5FcFZXTDh4N0hIUGwtUVNodkNzeU1maW9sSFAyQmVaZTY2a295VUs0eFR4cjM4OFVFRk56ckFZVnE2d1M5aE1qVml5SC00SzJtbWNRajlyNWFOMEhRZXJBQQ?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
