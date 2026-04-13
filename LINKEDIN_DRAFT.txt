@@ -1,49 +1,50 @@
-﻿# 3D PRINTING PULSE #96 - 2026-04-13
+﻿# 3D PRINTING PULSE #97 - 2026-04-14
 
-🖨 The Snapmaker U1 is here and it’s something else
-Snapmaker is very excited about the new U1 and rightly so.
-According to Chikai Eto’s report for TCT Asia, the U1 was the most-funded 3D printer on Kickstarter, raising $20.61 million, reported by VoxelMatters on Apr 12, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/SnapmakerU1_IMG_2754-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else
+🦺 Ohio State researchers find 3D printed surgical models significantly improve tumor removal rates in head and neck cancer
+Researchers at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital and Solove Research Institute (OSUCCC – James) have used patient-specific 3D printed anatomical models to significantly...
+Reported by VoxelMatters on Apr 13, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/OSU-cancer-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ohio-state-researchers-find-3d-printed-surgical-models-significantly-improve-tumor-removal-rates-in-head-and-neck-cancer
 
-📰 IMDEA Materials study maps crystallization behaviour in LPBF-processed Finemet alloys
-Researchers at IMDEA Materials have published a study examining how crystallization occurs in Finemet alloys produced via laser powder bed fusion (LPBF), offering new insight into how process parameters shape … The...
-Reported by VoxelMatters on Apr 12, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/IMDEA-Finemet-alloys-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/imdea-materials-study-maps-crystallization-behaviour-in-lpbf-processed-finemet-alloys
+📰 #244 TCT Hall of Fame: Joe Allison on a life in 3D printing
+From parts maker to the movies.
+Reported by TCT Magazine on Apr 13, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Additive-Insight-Re-Design.png
+🔗 Read more: https://www.tctmagazine.com/podcasts/244-tct-hall-of-fame-joe-allison-on-a-life-in-3d-printing
 
-🚀 Bambu Lab is launching a new 3D printer on April 14th
-Bambu Lab is set to reveal its next flagship desktop 3D printer series on April 14, 2026, with its teaser page featuring the tagline “Xcellence made simple” and a confirmed … The post Bambu Lab is launching a new 3D...
-Reported by VoxelMatters on Apr 12, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/new-new-bambu-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/bambu-lab-is-launching-a-new-3d-printer-on-april-14th
+💻 Designer Anika Greyling’s 3D prints embrace irregularity
+Anika Greyling is part of a growing cohort of young designers that are using 3D printing as a medium for art and design objects.
+A graduate of the Design Academy … The post Designer Anika Greyling’s 3D prints embrace irregularity appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/anika_greyling-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/designer-anika-greylings-3d-prints-embrace-irregularity
 
-🏠 Serendix and JR West build Japan’s first 3D printed railway station overnight
-Japanese construction technology firm Serendix completed what it described as the world’s first 3D printed railway station, replacing a wooden shelter that had stood at Hatsushima Station in Arida, Wakayama … The...
-Reported by VoxelMatters on Apr 12, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ABB-IRB-6700-robot-arm-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/serendix-and-jr-west-build-japans-first-3d-printed-railway-station-overnight
+🚀 L3Harris uses additive manufacturing to cut satellite thruster lead times by up to 12 months
+L3Harris Technologies has been shifting production of in-space satellite thrusters from conventional machining to additive manufacturing in a bid to reduce delivery times for US national security space programs.
+Thrusters … The post L3Harris uses additive manufacturing to cut satellite thruster lead times by up to 12 months appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/L3Harris-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/l3harris-uses-additive-manufacturing-to-cut-satellite-thruster-lead-times-by-up-to-12-months
 
-🚀 Harvard Engineering Students 3D Print VTOL Drone to Improve Marine Biology Research
-With all the current focus on the boom in drones used for national security, it’s easy to forget that the civilian drone market is growing, too.
-In addition to the, reported by 3DPrint.com on Apr 12, 2026.
-🔗 Read more: https://3dprint.com/325127/harvard-engineering-students-3d-print-vtol-drone-to-improve-marine-biology-research
+📰 Sherpa Design combines Carbon DLS printing and CNC machining for MBARI underwater vehicle component
+The Monterey Bay Aquarium Research Institute (MBARI) has made significant progress in refining the integration of a unique biological sampling system in an autonomous underwater vehicle (AUV).
+MBARI required a … The post Sherpa Design combines Carbon DLS printing and CNC machining for MBARI underwater vehicle component appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Sherpa-Design-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/sherpa-design-combines-carbon-dls-printing-and-cnc-machining-for-mbari-underwater-vehicle-component
 
-📰 5 Useful Travel Gadgets You Can Actually 3D Print - bgr.com
-5 Useful Travel Gadgets You Can Actually 3D Print bgr.com
-Reported by Google News - 3D Printing on Apr 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMia0FVX3lxTE1aU09INUR1MWxmZUQwODlOaU1ieU1HbzN3MTJpUUlZdmE3V2tnbnR1MkFuVW5LcV9fS0FxVUFQWmtrWEtuRVR4d0FfUkwwYkJwczN5WUc2Q0VhRkdYUmdPRHA3OFZ0bXVmQ2NJ?oc=5
+💻 Our Industry’s Shipping Container Moment
+The additive manufacturing industry likes to think of itself as disruptive, fast-moving, and future-oriented.
+In many ways, that is true, reported by 3DPrint.com on Apr 13, 2026.
+🔗 Read more: https://3dprint.com/325135/our-industrys-shipping-container-moment
 
-📰 6 everyday items I no longer have to buy thanks to 3D printing - How-To Geek
-6 everyday items I no longer have to buy thanks to 3D printing How-To Geek
-Reported by Google News - 3D Printing on Apr 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxQX045NV9rcVdlV0ZaeGZ3WXZlRkpDWDBSNjRBUS1wSFhldWlvX3dmd1hWV0RYc1pqVjBYY3VBVGV1c2M3azAxUUUtR3ZxdW16bHRLRjQwZUM3YUVzcDk5bFREMFVIeE05SjhWc01fc1VDTmZPV3JTUTNNX1paNVJST2ZXa0N4eXVlRk54YkI2MlU?oc=5
+📰 Beehive Gets $29.7 Million Contract
+The US military is pivoting from a world where it fields a few exquisite craft to one where it can manufacture swarms of vehicles.
+Additive manufacturing at scale, along with, reported by 3DPrint.com on Apr 13, 2026.
+🔗 Read more: https://3dprint.com/325122/beehive-gets-29-7-million-contract
 
-📰 Food 3D Printing Market Analysis By Application, Type, - openPR.com
-Food 3D Printing Market Analysis By Application, Type, openPR.com
-Reported by Google News - 3D Printing on Apr 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikgFBVV95cUxQRFNGMFQtZFdZMlFja1liMDhrS2ZEOHp2T0E3ZkR2MFNGekVBTVRjS2E4OVZvRzZvVk5FcFZXTDh4N0hIUGwtUVNodkNzeU1maW9sSFAyQmVaZTY2a295VUs0eFR4cjM4OFVFRk56ckFZVnE2d1M5aE1qVml5SC00SzJtbWNRajlyNWFOMEhRZXJBQQ?oc=5
+📰 How Decibel Landed the Brands Everyone Wants
+The first thing Adam Hecht will tell you is that 3D printing already has the technology.
+The harder part has been finding applications people actually want, reported by 3DPrint.com on Apr 13, 2026.
+🔗 Read more: https://3dprint.com/325079/how-decibel-landed-the-brands-everyone-wants
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Bambu Lab is launching a new 3D printer on April 14th" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.voxelmatters.com/the-snapmaker-u1-is-here-and-its-something-else | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Ohio State researchers find 3D printed surgical models significantly improve tumor removal rates in head and neck cancer" because it highlights where practical 3D printing innovation is moving next. Story: https://www.voxelmatters.com/ohio-state-researchers-find-3d-printed-surgical-models-significantly-improve-tumor-removal-rates-in-head-and-neck-cancer | Explore more: https://www.quality3ds.com/

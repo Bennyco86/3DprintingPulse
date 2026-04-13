@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-14
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #97 - 2026-04-14
+## Stories
 
 🦺 Ohio State researchers find 3D printed surgical models significantly improve tumor removal rates in head and neck cancer
 Researchers at The Ohio State University Comprehensive Cancer Center – James Cancer Hospital and Solove Research Institute (OSUCCC – James) have used patient-specific 3D printed anatomical models to significantly...
@@ -48,9 +46,3 @@ Read more ? https://3dprint.com/325122/beehive-gets-29-7-million-contract
 The first thing Adam Hecht will tell you is that 3D printing already has the technology.
 The harder part has been finding applications people actually want, reported by 3DPrint.com on Apr 13, 2026.
 Read more ? https://3dprint.com/325079/how-decibel-landed-the-brands-everyone-wants
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
