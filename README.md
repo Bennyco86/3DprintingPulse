@@ -2,55 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #99 - 2026-04-16
+### 3D PRINTING PULSE #100 - 2026-04-17
 
-🔥 Euler releases real-time build viewer for metal additive manufacturing operators
-Euler, an Icelandic software startup focused on AI-driven defect detection in 3D printing, has released Euler Viewer, a free real-time build viewer for metal additive manufacturing operators, which the company … The...
-Reported by VoxelMatters on Apr 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Euler-Viewer-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/euler-releases-real-time-build-viewer-for-metal-additive-manufacturing-operators
+📰 Pete Pharma and Fagron form exclusive North American distribution deal for pharmaceutical 3D printing
+US-based pharmaceutical innovator Pete Pharma has formed a distribution and commercialization partnership with Fagron Inc., a global pharmaceutical compounding firm, to extend the reach of pharmaceutical 3D printing...
+Reported by VoxelMatters on Apr 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/1775593118797-150x150.jpg
+Read more ? https://www.voxelmatters.com/pete-pharma-and-fagron-form-exclusive-north-american-distribution-deal-for-pharmaceutical-3d-printing
 
-🖨 A closer look at HP's new Multi Jet Fusion 1200 3D printer
-"We always had the idea that we wanted to make that technology more affordable to the masses with democratising to a broader customer base."
-Reported by TCT Magazine on Apr 15, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/09cc8099-93d4-491f-82a3-573107093c73.jpeg
-Read more ? https://www.tctmagazine.com/a-closer-look-at-hps-new-multi-jet-fusion-1200-3d-printer
+📰 TCT and SME Celebrate Additive Manufacturing Achievement at Awards Gala
+First combined event recognises innovators and leaders in additive manufacturing.
+Reported by TCT Magazine on Apr 16, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/TrinityWheelerPhotography-8725_cropped.png
+Read more ? https://www.tctmagazine.com/tct-and-sme-celebrate-additive-manufacturing-achievement-at-awards-gala
 
-🚀 Authentise launches AI platform that captures & acts on engineering intent
-The launch of the software comes as Authentise picked up the TCT Software Award.
-Reported by TCT Magazine on Apr 15, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Whisper-Compliance-Dashboard-Screenshot.png
-Read more ? https://www.tctmagazine.com/authentise-launches-ai-platform-to-capture-act-on-engineering-intent
+📰 AMGTA report outlines how AM’s true resource efficiency can be evaluated
+The Additive Manufacturer Green Trade Association (AMGTA) has released its latest report, entitled Additive Manufacturing in Resource-Efficient Manufacturing Systems.
+The resource, presented at the organization’s 2026 Annual Member Summit this past Monday, … The post AMGTA report outlines how AM’s true resource efficiency can be evaluated appeared first on VoxelMatters - The heart...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/amgta-logo-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/amgta-report-outlines-how-ams-true-resource-efficiency-can-be-evaluated
 
-🚀 Nikon AM Synergy awarded JAMA IV DLA IDIQ contract for metal AM pilot parts program
-Nikon Advanced Manufacturing’s engineering and manufacturing services unit, Nikon AM Synergy, was awarded the JAMA IV IDIQ Pilot Parts Program contract by the Defense Logistics Agency (DLA), the U.S.
-logistics … The post Nikon AM Synergy awarded JAMA IV DLA IDIQ contract for metal AM pilot parts program appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/nikon-am-synergy-150x150.jpg
-Read more ? https://www.voxelmatters.com/nikon-am-synergy-awarded-jama-iv-dla-idiq-contract-for-metal-am-pilot-parts-program
+🏠 Azure Printed Homes opens 25,000 sq. ft. Denver facility to expand 3D printed housing
+Azure Printed Homes, a California-based 3D printed housing solutions provider, has opened a 25,000 sq.
+manufacturing facility in Denver, reported by VoxelMatters on Apr 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Azure-Printed-Homes-Denver-facility-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/azure-printed-homes-opens-25000-sq-ft-denver-facility-to-expand-3d-printed-housing
 
-🖨 Loughborough University Targets the UK’s Critical Materials Sovereignty Gap
-Tungsten, niobium, and tantalum, the metals that will define the next generation of energy and defence technology, share a common challenge: they are notoriously difficult to process and largely sourced from...
-As the UK moves to reduce its dependence on foreign supply chains for strategic materials, Loughborough University is tackling both problems…, reported by 3D Printing Industry on Apr 15, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/Professor-Moataz-Attallah-left-and-Mohamed-Said-service-technician-at-Freemelt-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/loughborough-university-targets-the-uks-critical-materials-sovereignty-gap-250494
+🖨 AmPd Labs publishes first third-party validated mechanical data for binder jetted MAR-M 247LC superalloy
+AmPd Labs released a white paper presenting room-temperature tensile, impact, and microstructural data for MAR-M 247LC nickel-base superalloy produced via metal binder jetting, marking the first publicly available...
+Reported by VoxelMatters on Apr 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/ampd-hq720-150x150.jpg
+Read more ? https://www.voxelmatters.com/ampd-labs-publishes-first-third-party-validated-mechanical-data-for-binder-jetted-mar-m-247lc-superalloy
 
-🚀 3D Printing Industry Preparing Website Upgrade Following Reader Feedback
-3D Printing Industry is preparing a significant upgrade to its website, with a redesigned platform set to launch in the coming weeks.
-The update follows our earlier reader survey, which gathered feedback on how audiences use the site and where improvements are most needed, reported by 3D Printing Industry on Apr 15, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-10-150x100.png
-Read more ? https://3dprintingindustry.com/news/3d-printing-industry-preparing-website-upgrade-following-reader-feedback-250539
+🚀 America Makes and NCDMM Launch $14.5M Defense AM Qualification Push
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have unveiled two new project calls totaling $14.5 million, both backed by the Office of the Under Secretary of Defense...
+The funding targets a persistent bottleneck in defense additive manufacturing: qualification, the rigorous, often slow process of certifying…, reported by 3D Printing Industry on Apr 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2025/04/videoStill-150x100.png
+Read more ? https://3dprintingindustry.com/news/america-makes-and-ncdmm-launch-14-5m-defense-am-qualification-push-250570
 
-📰 DEEP Manufacturing prints WAAM marine propeller blade in NAB
-DEEP Manufacturing Ltd has completed the printing of a Nickel Aluminum Bronze (NAB) marine propeller blade as part of the Digitally Enabled Efficient Propeller (D.E.E.P.) project, a consortium effort backed … The...
-Reported by VoxelMatters on Apr 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/DEEP-WAAM-propellor-blade-05-150x150.jpg
-Read more ? https://www.voxelmatters.com/deep-manufacturing-prints-waam-marine-propeller-blade-in-nab
+🖨 EOS Takes Full Ownership of Metal Powder Specialist Metalpine
+Industrial 3D printing firm EOS has completed the acquisition of Austrian metal powder manufacturer Metalpine GmbH, moving from partial shareholder to sole owner after a multi-year investment relationship.
+The deal deepens EOS’s strategic commitment to materials, with particular emphasis on titanium, a segment where customer demand continues to outpace supply chain capacity, reported by 3D Printing Industry on Apr 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/Metalalpine-43-Quad-150x100.webp
+Read more ? https://3dprintingindustry.com/news/eos-takes-full-ownership-of-metal-powder-specialist-metalpine-250591
 
-🚀 AtomForm introduces Palette 300 multi-material 3D printer with 12-nozzle system and 36-color capability
-AtomForm, a MOVA Group consumer and professional 3D printing hardware company, has introduced the Palette 300, an FDM 3D printer designed to enable multi-color and multi-material printing through a 12-nozzle...
-3DPI travelled to the launch event in San Jose to learn more about how the system targets reduced material waste and simplified workflows, with…, reported by 3D Printing Industry on Apr 15, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/image-8-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/atomform-introduces-palette-300-multi-material-3d-printer-with-12-nozzle-system-and-36-color-capability-250438
+🏠 Eurobearings Integrates Meltio’s Wire Laser Technology to Cut Bearing Production Lead Times by Up to 50%
+Heavy industry runs on rotating equipment, turbines, cement mills, rolling machinery, and when those systems stop, the financial impact is immediate.
+Bearings are the components that keep them turning, and for nearly three decades Italian manufacturer Eurobearings has been building them for original equipment manufacturers (OEMs) across energy, oil and gas,, reported by 3D Printing Industry on Apr 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/Eurobearings-18-2048x1639-1-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/eurobearings-integrates-meltios-wire-laser-technology-to-cut-bearing-production-lead-times-by-up-to-50-250575
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
