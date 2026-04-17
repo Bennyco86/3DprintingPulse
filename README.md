@@ -2,55 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #100 - 2026-04-17
+### 3D PRINTING PULSE #101 - 2026-04-18
 
-📰 Pete Pharma and Fagron form exclusive North American distribution deal for pharmaceutical 3D printing
-US-based pharmaceutical innovator Pete Pharma has formed a distribution and commercialization partnership with Fagron Inc., a global pharmaceutical compounding firm, to extend the reach of pharmaceutical 3D printing...
-Reported by VoxelMatters on Apr 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/1775593118797-150x150.jpg
-Read more ? https://www.voxelmatters.com/pete-pharma-and-fagron-form-exclusive-north-american-distribution-deal-for-pharmaceutical-3d-printing
+🚀 £5 million FENDER program to advance electromagnetic inspection of 3D printed metals and critical infrastructure
+A five-university UK research consortium has launched a £5 million ($6.7m) program to develop electromagnetic non-destructive evaluation (NDE) technologies capable of detecting hidden defects in aircraft components,...
+Reported by VoxelMatters on Apr 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/FENDER-program-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/5-million-fender-program-to-advance-electromagnetic-inspection-of-3d-printed-metals-and-critical-infrastructure
 
-📰 TCT and SME Celebrate Additive Manufacturing Achievement at Awards Gala
-First combined event recognises innovators and leaders in additive manufacturing.
-Reported by TCT Magazine on Apr 16, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/TrinityWheelerPhotography-8725_cropped.png
-Read more ? https://www.tctmagazine.com/tct-and-sme-celebrate-additive-manufacturing-achievement-at-awards-gala
+💻 Eyewear brand NEUBAU embraces 3D printing in latest collection
+Austrian eyewear brand NEUBAU, part of the Silhouette Group, has been producing stylish and sustainable frames for a decade now.
+Its latest collection, I AM CHAOS / I AM ORDER, … The post Eyewear brand NEUBAU embraces 3D printing in latest collection appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/neubau-3-150x150.jpeg
+Read more ? https://www.voxelmatters.com/eyewear-brand-neubau-embraces-3d-printing-in-latest-collection
 
-📰 AMGTA report outlines how AM’s true resource efficiency can be evaluated
-The Additive Manufacturer Green Trade Association (AMGTA) has released its latest report, entitled Additive Manufacturing in Resource-Efficient Manufacturing Systems.
-The resource, presented at the organization’s 2026 Annual Member Summit this past Monday, … The post AMGTA report outlines how AM’s true resource efficiency can be evaluated appeared first on VoxelMatters - The heart...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/amgta-logo-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/amgta-report-outlines-how-ams-true-resource-efficiency-can-be-evaluated
+🖨 Creality presents multi-tool creation ecosystem and new hardware range at RAPID + TCT 2026
+Creality took full advantage of its appearance at RAPID + TCT 2026 in Boston this week to present its broad hardware and software portfolio spanning 3D printing, 3D scanning, laser … The post Creality presents...
+Reported by VoxelMatters on Apr 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Creality-Rapid-TCT-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/creality-presents-multi-tool-creation-ecosystem-and-new-hardware-range-at-rapid-tct-2026
 
-🏠 Azure Printed Homes opens 25,000 sq. ft. Denver facility to expand 3D printed housing
-Azure Printed Homes, a California-based 3D printed housing solutions provider, has opened a 25,000 sq.
-manufacturing facility in Denver, reported by VoxelMatters on Apr 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Azure-Printed-Homes-Denver-facility-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/azure-printed-homes-opens-25000-sq-ft-denver-facility-to-expand-3d-printed-housing
+🏠 Heidelberg Materials brings 3D printed concrete to Milan Design Week 2026
+Heidelberg Materials Italia will present a large-scale 3D printed concrete installation at Milan Design Week 2026, running April 20–26, as part of the “Città delle Idee” project commissioned by Corriere … The post...
+Reported by VoxelMatters on Apr 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/stampa-3d-cemento-installazione-heidelberg-materials-milano-design-week-4.jpg-150x150.webp
+Read more ? https://www.voxelmatters.com/heidelberg-materials-brings-3d-printed-concrete-to-milan-design-week-2026
 
-🖨 AmPd Labs publishes first third-party validated mechanical data for binder jetted MAR-M 247LC superalloy
-AmPd Labs released a white paper presenting room-temperature tensile, impact, and microstructural data for MAR-M 247LC nickel-base superalloy produced via metal binder jetting, marking the first publicly available...
-Reported by VoxelMatters on Apr 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/ampd-hq720-150x150.jpg
-Read more ? https://www.voxelmatters.com/ampd-labs-publishes-first-third-party-validated-mechanical-data-for-binder-jetted-mar-m-247lc-superalloy
+🦺 New Bioengineered Patch Makes Its Own Oxygen to Heal Wounds and Grow Tissue
+Researchers from UC Riverside, and Rowan University have developed a bioengineered patch that generates its own oxygen supply, tackling one of tissue engineering’s oldest unsolved problems.
+The study also saw contributions from UC Berkeley, Tarleton State University in Texas, the Terasaki Institute for Biomedical Innovation in Los Angeles, reported by 3D Printing Industry on Apr 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/43246_2025_947_Fig1_HTML-150x100.png
+Read more ? https://3dprintingindustry.com/news/new-bioengineered-patch-makes-its-own-oxygen-to-heal-wounds-and-grow-tissue-250671
 
-🚀 America Makes and NCDMM Launch $14.5M Defense AM Qualification Push
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have unveiled two new project calls totaling $14.5 million, both backed by the Office of the Under Secretary of Defense...
-The funding targets a persistent bottleneck in defense additive manufacturing: qualification, the rigorous, often slow process of certifying…, reported by 3D Printing Industry on Apr 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2025/04/videoStill-150x100.png
-Read more ? https://3dprintingindustry.com/news/america-makes-and-ncdmm-launch-14-5m-defense-am-qualification-push-250570
+🚀 NASA STTR Award Backs Cold Spray Research for GRX-810
+A NASA-funded collaboration between the University of Utah, the Pennsylvania State University (PSU), and Colorado-based Elementum 3D is working to unlock reliable manufacturing and repair pathways for GRX-810, a...
+The project is supported through NASA’s Small Business Technology Transfer (STTR) Phase I…, reported by 3D Printing Industry on Apr 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2025/08/672516046c5be-image-150x100.webp
+Read more ? https://3dprintingindustry.com/news/nasa-sttr-award-backs-cold-spray-research-for-grx-810-250645
 
-🖨 EOS Takes Full Ownership of Metal Powder Specialist Metalpine
-Industrial 3D printing firm EOS has completed the acquisition of Austrian metal powder manufacturer Metalpine GmbH, moving from partial shareholder to sole owner after a multi-year investment relationship.
-The deal deepens EOS’s strategic commitment to materials, with particular emphasis on titanium, a segment where customer demand continues to outpace supply chain capacity, reported by 3D Printing Industry on Apr 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/Metalalpine-43-Quad-150x100.webp
-Read more ? https://3dprintingindustry.com/news/eos-takes-full-ownership-of-metal-powder-specialist-metalpine-250591
+💻 3D printed gelatin targets suppress shock instabilities that threaten fusion experiments
+Researchers from Lawrence Livermore National Laboratory (LLNL), Imperial College London, and collaborators have built and tested AI-optimized targets that suppress the Richtmyer-Meshkov instability (RMI) — a...
+Reported by VoxelMatters on Apr 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/LLNL-Richtmyer-Meshkov-instability-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/3d-printed-gelatin-targets-suppress-shock-instabilities-that-threaten-fusion-experiments
 
-🏠 Eurobearings Integrates Meltio’s Wire Laser Technology to Cut Bearing Production Lead Times by Up to 50%
-Heavy industry runs on rotating equipment, turbines, cement mills, rolling machinery, and when those systems stop, the financial impact is immediate.
-Bearings are the components that keep them turning, and for nearly three decades Italian manufacturer Eurobearings has been building them for original equipment manufacturers (OEMs) across energy, oil and gas,, reported by 3D Printing Industry on Apr 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/Eurobearings-18-2048x1639-1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/eurobearings-integrates-meltios-wire-laser-technology-to-cut-bearing-production-lead-times-by-up-to-50-250575
+🏠 Stratasys Broadens Its Additive Manufacturing Portfolio with New Materials and Software
+At RAPID + TCT 2026, 3D printer OEM Stratasys showcased a series of new materials and software capabilities aimed at widening the scope of its additive manufacturing solutions across key industries.
+The announcements target both practical usability improvements and application-specific performance, helping manufacturers more readily adopt or scale 3D printing within their production workflows, reported by 3D Printing Industry on Apr 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/STRP054_Software-Accuracy-Center-MWAM-150x100.png
+Read more ? https://3dprintingindustry.com/news/stratasys-broadens-its-additive-manufacturing-portfolio-with-new-materials-and-software-250639
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
