@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-19
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #102 - 2026-04-19
+## Stories
 
 🚀 3D printed supercapacitor plane flies for 45 seconds off a four second long charge
 British engineer Tom Stanton has built a 3D printed fixed-wing aircraft weighing 15.6 grams, and which is powered by a single 10 farad supercapacitor charged via a hand crank generator.
@@ -50,9 +48,3 @@ Read more ? https://www.3dnatives.com/en/mastrex-lpbf-systems-rapid-tct-17042026
 RAPID + TCT 2026 wrapped up yesterday, but the show floor proved there’s a lot happening across the additive manufacturing (AM) space, especially when it comes to new hardware and...
 Reported by 3DPrint.com on Apr 17, 2026.
 Read more ? https://3dprint.com/325364/rapid-roundup-2026-new-machines-and-market-moves
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
