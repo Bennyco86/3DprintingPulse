@@ -1,52 +1,50 @@
-﻿# 3D PRINTING PULSE #102 - 2026-04-19
+﻿# 3D PRINTING PULSE #103 - 2026-04-20
 
-🚀 3D printed supercapacitor plane flies for 45 seconds off a four second long charge
-British engineer Tom Stanton has built a 3D printed fixed-wing aircraft weighing 15.6 grams, and which is powered by a single 10 farad supercapacitor charged via a hand crank generator.
-… The post 3D printed supercapacitor plane flies for 45 seconds off a four second long charge appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Tom-Stanton-drone-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/3d-printed-supercapacitor-plane-flies-for-45-seconds-off-a-four-second-long-charge
+🖨 UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio
+UltiMaker, a provider of professional desktop and industrial 3D printing platforms, has been named the exclusive distributor for Tectonic-3D across North and South America.
+The deal builds on a pre-existing … The post UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Ultimaker-Tectonic-3D-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ultimaker-takes-on-exclusive-americas-distribution-of-tectonic-3ds-filament-portfolio
 
-📰 Barilla’s ARTISIA brings 3D printed pasta to Milan Design Week with Edible Reveries
-ARTISIA, Barilla’s 3D printed pasta brand, will present Edible Reveries at via Melzo 34 in Milan’s Porta Venezia Design District from April 21 to 26, staging its first solo exhibition at … The post Barilla’s ARTISIA...
-Reported by VoxelMatters on Apr 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/01.-EDIBLE-REVERIES-Studio-Yellowdot-x-ARTISIA-Horizontal-LOW-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/barillas-artisia-brings-3d-printed-pasta-to-milan-design-week-with-edible-reveries
+🏠 Singapore’s LTA to build country’s first 3D printed concrete pedestrian bridge
+Singapore’s Land Transport Authority (LTA) is building the country’s first 3D printed concrete pedestrian bridge, with completion targeted for 2028.
+The structure will span the Jurong River, connecting residents from … The post Singapore’s LTA to build country’s first 3D printed concrete pedestrian bridge appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Singapore-LTA-concrete-bridge-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/singapores-lta-to-build-countrys-first-3d-printed-concrete-pedestrian-bridge
 
-📰 CUPRA brings “Beyond the Known” to Milan Design Week 2026 with an exploration of parametric design
-For the past few years, CUPRA has made Milan Design Week one of the biggest events on its calendar to present the latest design innovations.
-In 2025, VoxelMatters had the … The post CUPRA brings “Beyond the Known” to Milan Design Week 2026 with an exploration of parametric design appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/cover-cupra-brera_f8b6d736b13de5adc354aaaae65ded88-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/cupra-brings-beyond-the-known-to-milan-design-week-2026-with-an-exploration-of-parametric-design
+🏠 Hyperion Robotics Opens New Factory to Scale UK Infrastructure
+Finnish concrete 3D printing specialist Hyperion Robotics has chosen Flixborough, near Scunthorpe, as the location for its first UK concrete manufacturing facility.
+The specialist has signed an agreement with Swedish company LKAB Minerals to set up a prefabricated concrete production plant on LKAB’s industrial site in North Lincolnshire, reported by 3D Printing Industry on Apr 19, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/New-Factory-2-2048x1374-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/hyperion-robotics-opens-new-factory-to-scale-uk-infrastructure-250697
 
-💻 Penn State researchers develop 3D printed bioelectrodes tailored to individual brain geometry
-Researchers at Penn State University have developed a method for 3D printing soft brain electrodes shaped to match the unique surface geometry of individual patients, with the goal of improving … The post Penn State...
-Reported by VoxelMatters on Apr 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Penn-State-Brain-Study-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/penn-state-researchers-develop-3d-printed-bioelectrodes-tailored-to-individual-brain-geometry
+💻 Don’t miss the best 3D printing installations at Milan Design Week 2026
+Milan Design Week 2026, running April 20–26 alongside the Salone del Mobile fair, features a notable concentration of 3D printing applications across architecture, product design, and material experimentation —...
+Reported by VoxelMatters on Apr 19, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/AURA-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/dont-miss-the-best-3d-printing-installations-at-milan-design-week-2026
 
-🚀 Australia Turns to 3D Printing to Rebuild Its Sovereign Supply of a Critical Naval Alloy
-A consortium of Australian universities, research institutions, and an advanced manufacturing firm has launched a collaborative initiative to tackle a pressing challenge in naval defense: the domestic production of...
-The project, backed by funding from the Queensland Defence Sciences Alliance (QDSA), brings together…, reported by 3D Printing Industry on Apr 18, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/NAB-1-small.jpg-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/australia-turns-to-3d-printing-to-rebuild-its-sovereign-supply-of-a-critical-naval-alloy-250680
+🚀 HOOPS AI reaches general availability with new features to tackle the CAD-ML gap
+Introduced as a technology preview in late 2025, Tech Soft 3D has officially launched HOOPS AI framework purpose-built to integrate CAD data into machine learning (ML) pipelines.
+The product is now generally available, building on a successful beta program with over 30 companies, reported by 3D Printing Industry on Apr 19, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/11/demo-hv-mockup-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/hoops-ai-reaches-general-availability-with-new-features-to-tackle-the-cad-ml-gap-250695
 
-🖨 FABULOUS and AMT Certify a Complete SLS Workflow for Food-Contact 3D Printed Parts
-French materials developer FABULOUS and UK-based post-processing specialist Additive Manufacturing Technologies (AMT) have jointly validated a complete workflow for producing food-contact-compliant parts using SLS 3D...
-The process pairs FABULOUS’s DETECT PA11 bio-based polyamide material with AMT’s PostPro Pure vapor smoothing consumable, and has been confirmed by an accredited independent laboratory against both U.S, reported by 3D Printing Industry on Apr 18, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/Detect-montage-BQVF-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/fabulous-and-amt-certify-a-complete-sls-workflow-for-food-contact-3d-printed-parts-250683
+💻 RAPID 2026 in Pictures: The Coolest &amp; Craziest Things on the Show Floor
+Last week, North America’s premier 3D printing trade show, RAPID+TCT 2026, came to Boston.
+I spent two days trekking the show floor, trying to see as much as I could,, reported by 3DPrint.com on Apr 19, 2026.
+🔗 Read more: https://3dprint.com/325414/coolest-craziest-things-at-rapid-2026
 
-🖨 Mastrex Is Making Metal 3D Printing More Accessible at RAPID + TCT 2026
-At RAPID + TCT 2026 this year, Mastrex is tackling one of the biggest barriers in metal additive manufacturing: cost.
-While laser powder bed fusion has long delivered high-performance parts in materials like titanium and Inconel, the price of entry…, reported by 3D Natives on Apr 17, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/04/Mastrex_cover.jpg
-🔗 Read more: https://www.3dnatives.com/en/mastrex-lpbf-systems-rapid-tct-17042026
+🖨 2pcs HTD3M Rubber Timing Belt 300mm Perimeter X 10mm Width – For 3D Printers, Conveyors &amp; Machinery - RuhrkanalNEWS
+2pcs HTD3M Rubber Timing Belt 300mm Perimeter X 10mm Width – For 3D Printers, Conveyors &amp; Machinery RuhrkanalNEWS
+Reported by Google News - 3D Printing on Apr 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxONmRkZlZkS0t2eDJxN3JnSjR3R0pvVGRGX0VQQ1RyclBDTXhuX2t0N2c1cENwM3lDQ19RV2hTU3Y1eXdSQmo2aFJ3ZmV0X3hCeUs5NEdmVVNySDBncVR2RVFBemV6bzJZZVZmdXRyNFI1cjhCakpuWUxfVENhaW1lbm5NVUVWbEJSZlpXUUk0TXE?oc=5
 
-🚀 RAPID Roundup 2026: New Machines and Market Moves
-RAPID + TCT 2026 wrapped up yesterday, but the show floor proved there’s a lot happening across the additive manufacturing (AM) space, especially when it comes to new hardware and...
-Reported by 3DPrint.com on Apr 17, 2026.
-🔗 Read more: https://3dprint.com/325364/rapid-roundup-2026-new-machines-and-market-moves
+📰 Heat Transfer Tape Heat Resistant (12mm X 33m) – No Residue, For Soldering, 3D Printing &amp; DIY Crafts Kapton Tape - RuhrkanalNEWS
+Heat Transfer Tape Heat Resistant (12mm X 33m) – No Residue, For Soldering, 3D Printing &amp; DIY Crafts Kapton Tape RuhrkanalNEWS
+Reported by Google News - 3D Printing on Apr 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEZWblVSQkduVnJqRC1EZFc1VVhpT0d6TnpJWkR6MFlfMTZRcWM2ZXRHUDRUYWNVS2tNUHctcURTVVRHTmRPczFCTWhBenFSS2dpVzRYWjV1YktNR3dSTTQxQXlIZXprNEhqQnlVdHVTUTZxZ1RWY090R2JJSmVlTHBxSFd4aU9BMXA0?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "3D printed supercapacitor plane flies for 45 seconds off a four second long charge" because it highlights where practical 3D printing innovation is moving next. Story: https://www.voxelmatters.com/3d-printed-supercapacitor-plane-flies-for-45-seconds-off-a-four-second-long-charge | Explore more: https://www.quality3ds.com/
+Today's pulse highlight is "UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio" because it highlights where practical 3D printing innovation is moving next. Story link: https://www.voxelmatters.com/ultimaker-takes-on-exclusive-americas-distribution-of-tectonic-3ds-filament-portfolio | Full pulse: https://www.quality3ds.com/

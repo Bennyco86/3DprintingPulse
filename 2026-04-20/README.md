@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #103 - 2026-04-20
+## Stories
 
 🖨 UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio
 UltiMaker, a provider of professional desktop and industrial 3D printing platforms, has been named the exclusive distributor for Tectonic-3D across North and South America.
@@ -48,9 +46,3 @@ Read more ? https://news.google.com/rss/articles/CBMikAFBVV95cUxONmRkZlZkS0t2eDJ
 Heat Transfer Tape Heat Resistant (12mm X 33m) – No Residue, For Soldering, 3D Printing & DIY Crafts Kapton Tape RuhrkanalNEWS
 Reported by Google News - 3D Printing on Apr 19, 2026.
 Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEZWblVSQkduVnJqRC1EZFc1VVhpT0d6TnpJWkR6MFlfMTZRcWM2ZXRHUDRUYWNVS2tNUHctcURTVVRHTmRPczFCTWhBenFSS2dpVzRYWjV1YktNR3dSTTQxQXlIZXprNEhqQnlVdHVTUTZxZ1RWY090R2JJSmVlTHBxSFd4aU9BMXA0?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
