@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-21
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #104 - 2026-04-21
+## Stories
 
 🚨 Bambu Lab launches X2D dual-extrusion 3D printer - Engineering.com
 Bambu Lab launches X2D dual-extrusion 3D printer Engineering.com
@@ -49,9 +47,3 @@ Polish 3D printer manufacturer Sinterit has launched its free online 3D Printing
 For all the noise around 3D printing, genuinely useful knowledge about specific technologies is surprisingly hard to come by, reported by 3D Printing Industry on Apr 20, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/3D-Printing-Academy-1-3DPI-1-150x100.png
 Read more ? https://3dprintingindustry.com/news/sinterits-3d-printing-academy-makes-serious-manufacturing-education-free-and-accessible-250629
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

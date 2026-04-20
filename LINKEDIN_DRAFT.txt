@@ -1,50 +1,51 @@
-﻿# 3D PRINTING PULSE #103 - 2026-04-20
+﻿# 3D PRINTING PULSE #104 - 2026-04-21
 
-🖨 UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio
-UltiMaker, a provider of professional desktop and industrial 3D printing platforms, has been named the exclusive distributor for Tectonic-3D across North and South America.
-The deal builds on a pre-existing … The post UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Ultimaker-Tectonic-3D-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ultimaker-takes-on-exclusive-americas-distribution-of-tectonic-3ds-filament-portfolio
+🚨 Bambu Lab launches X2D dual-extrusion 3D printer - Engineering.com
+Bambu Lab launches X2D dual-extrusion 3D printer Engineering.com
+Reported by Google News - 3D Printing on Apr 20, 2026.
+Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system.
+🔗 Read more: https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjZWMjNaSjl0MkwzSmtxSDNBQmxyTy1XWlE3bFVfWUtqWnk4R1BxeU1rNEtCSEpkN1NHeElDeDBIZlRVVmNXejZSR3pOZklEYm0yZWpvNFpjRWtWeV9kZlZSaTRnY2d1NFRhTVd5OVFuNWxFV1AyLW5nV1UzZFBvSks0NA?oc=5
 
-🏠 Singapore’s LTA to build country’s first 3D printed concrete pedestrian bridge
-Singapore’s Land Transport Authority (LTA) is building the country’s first 3D printed concrete pedestrian bridge, with completion targeted for 2028.
-The structure will span the Jurong River, connecting residents from … The post Singapore’s LTA to build country’s first 3D printed concrete pedestrian bridge appeared first on VoxelMatters - The heart of additive...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Singapore-LTA-concrete-bridge-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/singapores-lta-to-build-countrys-first-3d-printed-concrete-pedestrian-bridge
+♻️ Turn Waste into Wonder: Creality M1 &amp; R1 Desktop Filament Maker is Taking Indiegogo by Storm - MacSources
+Turn Waste into Wonder: Creality M1 &amp; R1 Desktop Filament Maker is Taking Indiegogo by Storm MacSources
+Reported by Google News - Filament Recycling on Apr 20, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMidkFVX3lxTE1wU3NtZGlBMkU2ZGdBR0t1T3RsNHp6azg3b0YwdFI5cE1rWXkxMFhOMHpoOXQtRW9VWjRYM3RlWUp5LUdIdExmakdKanV6UUkxa0tVd3oyOXFJUkd3UkQzSHA1OGJBMFlBbUE3blMwSGhJdU5nblHSAXZBVV95cUxNcFNzbWRpQTJFNmRnQUdLdU90bDR6ems4N29GMHRSOXBNa1l5MTBYTjB6aDl0LUVvVVo0WDN0ZVlKeS1HSHRMZmpHSmp1elFJMWtLVXd6MjlxSVJHd1JEM0hwNThiQTBZQW1BN25TMEhoSXVOZ25R?oc=5
 
-🏠 Hyperion Robotics Opens New Factory to Scale UK Infrastructure
-Finnish concrete 3D printing specialist Hyperion Robotics has chosen Flixborough, near Scunthorpe, as the location for its first UK concrete manufacturing facility.
-The specialist has signed an agreement with Swedish company LKAB Minerals to set up a prefabricated concrete production plant on LKAB’s industrial site in North Lincolnshire, reported by 3D Printing Industry on Apr 19, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/New-Factory-2-2048x1374-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/hyperion-robotics-opens-new-factory-to-scale-uk-infrastructure-250697
+🚨 Elegoo Announces Jupiter 2 Featuring Massive Build Size
+Elegoo announced the massive Jupiter 2 resin 3D printer.
+The post Elegoo Announces Jupiter 2 Featuring Massive Build Size appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/elegoo-announces-jupiter-2-featuring-massive-build-size
 
-💻 Don’t miss the best 3D printing installations at Milan Design Week 2026
-Milan Design Week 2026, running April 20–26 alongside the Salone del Mobile fair, features a notable concentration of 3D printing applications across architecture, product design, and material experimentation —...
-Reported by VoxelMatters on Apr 19, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/AURA-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/dont-miss-the-best-3d-printing-installations-at-milan-design-week-2026
+🦺 Lincotek receives FDA clearance for SportLinc syndesmosis device
+Lincotek has obtained 510(k) clearance (K252081) from the US Food and Drug Administration (FDA) for its SportLinc Syndesmosis Device, a sterile, single-use implant developed to stabilize syndesmotic trauma of the …...
+Reported by VoxelMatters on Apr 20, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Lincotek-SportLinc-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lincotek-receives-fda-clearance-for-sportlinc-syndesmosis-device
 
-🚀 HOOPS AI reaches general availability with new features to tackle the CAD-ML gap
-Introduced as a technology preview in late 2025, Tech Soft 3D has officially launched HOOPS AI framework purpose-built to integrate CAD data into machine learning (ML) pipelines.
-The product is now generally available, building on a successful beta program with over 30 companies, reported by 3D Printing Industry on Apr 19, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/11/demo-hv-mockup-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/hoops-ai-reaches-general-availability-with-new-features-to-tackle-the-cad-ml-gap-250695
+💻 AMA: Energy 2026: Additive Manufacturing in Energy Is Moving Beyond Pilots Here’s What’s Actually Being Deployed
+Additive manufacturing in the energy sector has spent the past decade in pilot mode.
+There is no shortage of case studies, proofs of concept, or conference presentations, reported by 3D Printing Industry on Apr 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/ama-energy-2026-additive-manufacturing-in-energy-is-moving-beyond-pilots-heres-whats-actually-being-deployed-250737
 
-💻 RAPID 2026 in Pictures: The Coolest &amp; Craziest Things on the Show Floor
-Last week, North America’s premier 3D printing trade show, RAPID+TCT 2026, came to Boston.
-I spent two days trekking the show floor, trying to see as much as I could,, reported by 3DPrint.com on Apr 19, 2026.
-🔗 Read more: https://3dprint.com/325414/coolest-craziest-things-at-rapid-2026
+📰 WHASER, a 3D printed device for capturing whale data in the field
+While the Atlantic humpback whale has recovered from being on the brink of extinction in the mid 20th century, the species is still threatened by humans and fishing operations.
+Entanglement … The post WHASER, a 3D printed device for capturing whale data in the field appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/WHASER_Whale_Wise-4-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/whaser-a-3d-printed-device-for-capturing-whale-data-in-the-field
 
-🖨 2pcs HTD3M Rubber Timing Belt 300mm Perimeter X 10mm Width – For 3D Printers, Conveyors &amp; Machinery - RuhrkanalNEWS
-2pcs HTD3M Rubber Timing Belt 300mm Perimeter X 10mm Width – For 3D Printers, Conveyors &amp; Machinery RuhrkanalNEWS
-Reported by Google News - 3D Printing on Apr 19, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxONmRkZlZkS0t2eDJxN3JnSjR3R0pvVGRGX0VQQ1RyclBDTXhuX2t0N2c1cENwM3lDQ19RV2hTU3Y1eXdSQmo2aFJ3ZmV0X3hCeUs5NEdmVVNySDBncVR2RVFBemV6bzJZZVZmdXRyNFI1cjhCakpuWUxfVENhaW1lbm5NVUVWbEJSZlpXUUk0TXE?oc=5
+🏠 LUYTEN 3D and University of Wollongong develop Australia’s first submerged concrete 3D printing system
+LUYTEN 3D, in collaboration with researchers from the University of Wollongong (UOW), has unveiled what the partners described as Australia’s first submerged 3D concrete printing system, along with a world-first …...
+Reported by VoxelMatters on Apr 20, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/LUYTEN3D-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/luyten-3d-and-university-of-wollongong-develop-australias-first-submerged-concrete-3d-printing-system
 
-📰 Heat Transfer Tape Heat Resistant (12mm X 33m) – No Residue, For Soldering, 3D Printing &amp; DIY Crafts Kapton Tape - RuhrkanalNEWS
-Heat Transfer Tape Heat Resistant (12mm X 33m) – No Residue, For Soldering, 3D Printing &amp; DIY Crafts Kapton Tape RuhrkanalNEWS
-Reported by Google News - 3D Printing on Apr 19, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEZWblVSQkduVnJqRC1EZFc1VVhpT0d6TnpJWkR6MFlfMTZRcWM2ZXRHUDRUYWNVS2tNUHctcURTVVRHTmRPczFCTWhBenFSS2dpVzRYWjV1YktNR3dSTTQxQXlIZXprNEhqQnlVdHVTUTZxZ1RWY090R2JJSmVlTHBxSFd4aU9BMXA0?oc=5
+🚀 Sinterit’s 3D Printing Academy Makes Serious Manufacturing Education Free and Accessible
+Polish 3D printer manufacturer Sinterit has launched its free online 3D Printing Academy, and the premise will be familiar to anyone who has spent time in the AM industry.
+For all the noise around 3D printing, genuinely useful knowledge about specific technologies is surprisingly hard to come by, reported by 3D Printing Industry on Apr 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/3D-Printing-Academy-1-3DPI-1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/sinterits-3d-printing-academy-makes-serious-manufacturing-education-free-and-accessible-250629
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio" because it highlights where practical 3D printing innovation is moving next. Story link: https://www.voxelmatters.com/ultimaker-takes-on-exclusive-americas-distribution-of-tectonic-3ds-filament-portfolio | Full pulse: https://www.quality3ds.com/
+Today's pulse focus is Bambu Lab's X2D launch: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system that raises capability for advanced materials. Story link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjZWMjNaSjl0MkwzSmtxSDNBQmxyTy1XWlE3bFVfWUtqWnk4R1BxeU1rNEtCSEpkN1NHeElDeDBIZlRVVmNXejZSR3pOZklEYm0yZWpvNFpjRWtWeV9kZlZSaTRnY2d1NFRhTVd5OVFuNWxFV1AyLW5nV1UzZFBvSks0NA?oc=5 | Full pulse: https://www.quality3ds.com/

@@ -14,8 +14,10 @@ SOURCES_FILE = "sources.json"
 MIN_STORIES = 4
 MAX_STORIES = 8
 MAX_ITEM_AGE_HOURS = 36
+MAJOR_RELEASE_MAX_ITEM_AGE_HOURS = 240
 REQUIRED_CATEGORIES = ["viral_controversial"]
 PREFERRED_CATEGORY_TARGETS = {
+    "major_printer_release": 1,
     "viral_controversial": 2,
     "recycling": 2,
 }
@@ -29,6 +31,22 @@ NON_ENGLISH_HINT_WORDS = {
 NON_ENGLISH_URL_PATH_HINTS = (
     "/es/", "/de/", "/fr/", "/it/", "/pt/", "/jp/", "/kr/", "/cn/"
 )
+MAJOR_RELEASE_BRANDS = {
+    "bambu", "prusa", "creality", "elegoo", "ultimaker", "formlabs",
+    "snapmaker", "qidi", "raise3d", "anycubic", "ankermake"
+}
+MAJOR_RELEASE_TERMS = {
+    "launch", "launches", "launched", "reveal", "reveals", "revealed",
+    "announce", "announces", "announced", "introduce", "introduces",
+    "introduced", "unveil", "unveils", "unveiled", "new printer",
+    "next-gen", "next generation", "flagship"
+}
+MAJOR_RELEASE_MODEL_HINTS = {
+    "x2d", "h2d", "u1", "x1e", "x1 carbon", "p2s"
+}
+MAJOR_RELEASE_SPEC_NOTES = {
+    "x2d": "Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system."
+}
 
 CATEGORY_KEYWORDS = {
     "medical": [
@@ -73,6 +91,7 @@ CATEGORY_KEYWORDS = {
 }
 
 CATEGORY_EMOJI = {
+    "major_printer_release": "\U0001F6A8",
     "medical": "\U0001F9BA",
     "aerospace": "\U0001F680",
     "construction": "\U0001F3E0",
@@ -85,6 +104,7 @@ CATEGORY_EMOJI = {
 }
 
 CATEGORY_PRIORITY = {
+    "major_printer_release": 5,
     "viral_controversial": 2,
     "recycling": 1,
 }
@@ -419,12 +439,59 @@ def fetch_feed(source):
 
 
 def classify_item(item):
+    if is_major_printer_release(item):
+        return "major_printer_release"
     text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
     for category, keywords in CATEGORY_KEYWORDS.items():
         for keyword in keywords:
             if keyword in text:
                 return category
     return "general"
+
+
+def is_major_printer_release(item):
+    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+    has_brand = any(brand in text for brand in MAJOR_RELEASE_BRANDS)
+    has_release_term = any(term in text for term in MAJOR_RELEASE_TERMS)
+    has_model_hint = any(model in text for model in MAJOR_RELEASE_MODEL_HINTS)
+    has_printer_context = (
+        "printer" in text
+        or "3d printer" in text
+        or "dual-extrusion" in text
+        or "dual nozzle" in text
+        or "hotend" in text
+        or "heated chamber" in text
+    )
+    return has_brand and ((has_release_term and has_printer_context) or has_model_hint)
+
+
+def major_release_signature(item):
+    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+    brand = ""
+    for candidate in sorted(MAJOR_RELEASE_BRANDS, key=len, reverse=True):
+        if candidate in text:
+            brand = candidate
+            break
+
+    model = ""
+    for hint in sorted(MAJOR_RELEASE_MODEL_HINTS, key=len, reverse=True):
+        if hint in text:
+            model = hint
+            break
+
+    if brand and model:
+        return f"{brand}:{model}"
+    if brand:
+        return f"{brand}:generic-launch"
+    return ""
+
+
+def major_release_spec_note(item):
+    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+    for model, note in MAJOR_RELEASE_SPEC_NOTES.items():
+        if model in text:
+            return note
+    return ""
 
 
 def normalize_url(url):
@@ -532,12 +599,14 @@ def load_seen_urls(project_root, exclude_date=None):
 def select_stories(items, seen_urls):
     now = datetime.datetime.now(datetime.timezone.utc)
     cutoff = now - datetime.timedelta(hours=MAX_ITEM_AGE_HOURS)
+    major_release_cutoff = now - datetime.timedelta(hours=MAJOR_RELEASE_MAX_ITEM_AGE_HOURS)
     candidates = []
     for item in items:
         url = normalize_url(item.get("url", "").strip())
         title = item.get("title", "").strip()
         title_lower = title.lower()
         published = item.get("published")
+        is_major_release = is_major_printer_release(item)
         if not is_valid_story_url(url) or not title:
             continue
         if any(phrase in title_lower for phrase in BLOCKLIST_TITLE_PHRASES):
@@ -557,7 +626,9 @@ def select_stories(items, seen_urls):
             continue
         if url in seen_urls:
             continue
-        if not published or published < cutoff:
+        if not published:
+            continue
+        if published < cutoff and not (is_major_release and published >= major_release_cutoff):
             continue
         item["summary"] = strip_html(item.get("summary", ""))
         item["category"] = classify_item(item)
@@ -582,17 +653,33 @@ def select_stories(items, seen_urls):
     selected = []
     used_urls = set()
     used_signatures = set()
+    used_major_signatures = set()
+
+    def can_select(item):
+        if item["url"] in used_urls:
+            return False
+        if item.get("title_signature", "") in used_signatures:
+            return False
+        if item.get("category") == "major_printer_release":
+            signature = major_release_signature(item)
+            if signature and signature in used_major_signatures:
+                return False
+        return True
+
+    def mark_selected(item):
+        used_urls.add(item["url"])
+        if item.get("title_signature"):
+            used_signatures.add(item["title_signature"])
+        if item.get("category") == "major_printer_release":
+            signature = major_release_signature(item)
+            if signature:
+                used_major_signatures.add(signature)
+
     for category in REQUIRED_CATEGORIES:
         for item in recent:
-            if (
-                item["category"] == category
-                and item["url"] not in used_urls
-                and item.get("title_signature", "") not in used_signatures
-            ):
+            if item["category"] == category and can_select(item):
                 selected.append(item)
-                used_urls.add(item["url"])
-                if item.get("title_signature"):
-                    used_signatures.add(item["title_signature"])
+                mark_selected(item)
                 break
 
     for category, target_count in PREFERRED_CATEGORY_TARGETS.items():
@@ -600,28 +687,18 @@ def select_stories(items, seen_urls):
         for item in recent:
             if picked >= target_count:
                 break
-            if (
-                item["category"] == category
-                and item["url"] not in used_urls
-                and item.get("title_signature", "") not in used_signatures
-            ):
+            if item["category"] == category and can_select(item):
                 selected.append(item)
-                used_urls.add(item["url"])
-                if item.get("title_signature"):
-                    used_signatures.add(item["title_signature"])
+                mark_selected(item)
                 picked += 1
 
     for item in recent:
         if len(selected) >= MAX_STORIES:
             break
-        if item["url"] in used_urls:
-            continue
-        if item.get("title_signature", "") in used_signatures:
+        if not can_select(item):
             continue
         selected.append(item)
-        used_urls.add(item["url"])
-        if item.get("title_signature"):
-            used_signatures.add(item["title_signature"])
+        mark_selected(item)
 
     return selected
 
@@ -661,6 +738,9 @@ def build_story_lines(item):
         hook,
         detail,
     ]
+    spec_note = major_release_spec_note(item)
+    if spec_note:
+        lines.append(spec_note)
     if image:
         lines.append(f"Image ? {image}")
     lines.extend([

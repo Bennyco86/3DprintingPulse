@@ -2,6 +2,18 @@
 
 ## Stories
 
+🚨 Xcellence made simple - Bambu Lab presents the X2D
+No more compromises with supports
+Reported by Bambu Lab on Apr 14, 2026.
+Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system.
+Image ? https://storage.ghost.io/c/8d/d9/8dd9f85b-21c3-4782-bba8-8778cd8f2f93/content/images/2026/04/X2D-00-1.jpg
+Read more ? https://blog.bambulab.com/xcellence-made-simple-bambu-lab-presents-the-x2d
+
+🚨 Elegoo announces the Jupiter 2 resin 3D printer for $949, early bird price of $849 — new model offers massive print volume but is still physically smaller than previous models - Tom's Hardware
+Elegoo announces the Jupiter 2 resin 3D printer for $949, early bird price of $849 — new model offers massive print volume but is still physically smaller than previous models Tom's Hardware
+Reported by Google News - 3D Printing on Apr 16, 2026.
+Read more ? https://news.google.com/rss/articles/CBMivgJBVV95cUxQcnpBSE9Xc2JJRVItQ3VONzNETExWT3NYYlRNNlZVdlducFRnSXFBc2JnbDAzYzBEVUJZdTBxZ0R5SThfaGFTanhXYm5HV0wwLUpMekV6VUYzMTJWNFIxVjd6YmJKX0JnVVJ6QzBJRTNFMWVEcU5obXEzcWJQdjJMX3N0NlIzU0JMV3FJRk9RZUlHc2hRWjVTdDJTbF9UMXluZWxmdWpCRmtBdmpCcW5ya09TZnluMEtaWEFNYlVleU9Fc1h1cVlKVFc3TkVvMGFwaWduMW1qNHY5SmUxNlZzLWNqMklPMFVWSWd5Zm1sXzZ3N0s5Nm1OejhPT05mbzI5UGczZlV5YWtLTU9kTEpnclp4Slc3dXBfUDZfUFZoT0ZpYzFrWDFKSWtkVDJXOUJBcjIzY1pJalhWYlJkdmc?oc=5
+
 🖨 UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio
 UltiMaker, a provider of professional desktop and industrial 3D printing platforms, has been named the exclusive distributor for Tectonic-3D across North and South America.
 The deal builds on a pre-existing … The post UltiMaker takes on exclusive Americas distribution of Tectonic-3D’s filament portfolio appeared first on VoxelMatters - The heart of additive manufacturing.
@@ -32,17 +44,8 @@ The product is now generally available, building on a successful beta program wi
 Image ? https://3dprintingindustry.com/wp-content/uploads/2025/11/demo-hv-mockup-150x100.webp
 Read more ? https://3dprintingindustry.com/news/hoops-ai-reaches-general-availability-with-new-features-to-tackle-the-cad-ml-gap-250695
 
-💻 RAPID 2026 in Pictures: The Coolest & Craziest Things on the Show Floor
-Last week, North America’s premier 3D printing trade show, RAPID+TCT 2026, came to Boston.
-I spent two days trekking the show floor, trying to see as much as I could,, reported by 3DPrint.com on Apr 19, 2026.
-Read more ? https://3dprint.com/325414/coolest-craziest-things-at-rapid-2026
-
-🖨 2pcs HTD3M Rubber Timing Belt 300mm Perimeter X 10mm Width – For 3D Printers, Conveyors & Machinery - RuhrkanalNEWS
-2pcs HTD3M Rubber Timing Belt 300mm Perimeter X 10mm Width – For 3D Printers, Conveyors & Machinery RuhrkanalNEWS
-Reported by Google News - 3D Printing on Apr 19, 2026.
-Read more ? https://news.google.com/rss/articles/CBMikAFBVV95cUxONmRkZlZkS0t2eDJxN3JnSjR3R0pvVGRGX0VQQ1RyclBDTXhuX2t0N2c1cENwM3lDQ19RV2hTU3Y1eXdSQmo2aFJ3ZmV0X3hCeUs5NEdmVVNySDBncVR2RVFBemV6bzJZZVZmdXRyNFI1cjhCakpuWUxfVENhaW1lbm5NVUVWbEJSZlpXUUk0TXE?oc=5
-
-📰 Heat Transfer Tape Heat Resistant (12mm X 33m) – No Residue, For Soldering, 3D Printing & DIY Crafts Kapton Tape - RuhrkanalNEWS
-Heat Transfer Tape Heat Resistant (12mm X 33m) – No Residue, For Soldering, 3D Printing & DIY Crafts Kapton Tape RuhrkanalNEWS
-Reported by Google News - 3D Printing on Apr 19, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcEZWblVSQkduVnJqRC1EZFc1VVhpT0d6TnpJWkR6MFlfMTZRcWM2ZXRHUDRUYWNVS2tNUHctcURTVVRHTmRPczFCTWhBenFSS2dpVzRYWjV1YktNR3dSTTQxQXlIZXprNEhqQnlVdHVTUTZxZ1RWY090R2JJSmVlTHBxSFd4aU9BMXA0?oc=5
+💻 SPARTA: The 3D-Printed Drone Designed by Soldiers for the Battlefield
+Drones have become indispensable to modern warfare.
+From frontline reconnaissance to target acquisition, unmanned aerial systems are now as critical to ground operations as any weapon in a soldier’s arsenal, reported by 3D Natives on Apr 19, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/04/SPARTA-Drone-Cover.jpg
+Read more ? https://www.3dnatives.com/en/sparta-us-army-3d-printed-drone-16042026
