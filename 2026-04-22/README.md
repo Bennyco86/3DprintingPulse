@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-22
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #105 - 2026-04-22
+## Stories
 
 🔥 Stop trusting viral 3D printer hacks—they're hiding the real problems with your machine - How-To Geek
 Stop trusting viral 3D printer hacks—they're hiding the real problems with your machine How-To Geek
@@ -49,9 +47,3 @@ Read more ? https://www.tctmagazine.com/additive-manufacturing-users-group-award
 Reported by TCT Magazine on Apr 21, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/VX_Facility_VX-Detroit_-S-Max-and-VX4000-machine-1.png
 Read more ? https://www.tctmagazine.com/local-parts-inventory-refreshed-maintenance-program-among-several-customer-focused-updates-at-exone
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

@@ -1,51 +1,51 @@
-﻿# 3D PRINTING PULSE #104 - 2026-04-21
+﻿# 3D PRINTING PULSE #105 - 2026-04-22
 
-🚨 Bambu Lab launches X2D dual-extrusion 3D printer - Engineering.com
-Bambu Lab launches X2D dual-extrusion 3D printer Engineering.com
-Reported by Google News - 3D Printing on Apr 20, 2026.
+🔥 Stop trusting viral 3D printer hacks—they're hiding the real problems with your machine - How-To Geek
+Stop trusting viral 3D printer hacks—they're hiding the real problems with your machine How-To Geek
+Reported by Google News - 3D Printing on Apr 21, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMingFBVV95cUxNR1Y1Qnc0cVRlNmhTNmMzSUhmUW9VYzVKUHJUdlBGbXlNYjFULUNBZmZ3dnNLQTZNQ1lkSnBXc0tVaTFUYTBLX21RZ3VJS0JOTzZOUU9TU1dQZDFMT0VBYi1tNjVNVjVpR09BWEpaWnFNMGRwQkozczMxS2VjWF84NXpWUHVFa1JJbVgyTUhiaE1RbmNHaE5Oa3JNRXlsZw?oc=5
+
+🚨 Never Mind the X2D, New Bambu Studio Update Adds Filament Color Mixing Feature - All3DP
+Never Mind the X2D, New Bambu Studio Update Adds Filament Color Mixing Feature All3DP
+Reported by Google News - 3D Printing on Apr 21, 2026.
 Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system.
-🔗 Read more: https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjZWMjNaSjl0MkwzSmtxSDNBQmxyTy1XWlE3bFVfWUtqWnk4R1BxeU1rNEtCSEpkN1NHeElDeDBIZlRVVmNXejZSR3pOZklEYm0yZWpvNFpjRWtWeV9kZlZSaTRnY2d1NFRhTVd5OVFuNWxFV1AyLW5nV1UzZFBvSks0NA?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMioAFBVV95cUxNdEJ2VU5nclRZS0xDNXZWTlFOUldKWkpKUDhnNy14RVUxeE9oSTVDZFhDZTY2NHJSckFabUJORW9wTklfSUkyN2Utbk9jRFAyMS01MEN4bEQ3dkNLUERqbHBNTFNkZ1V2TTlkR3VmQmMwcmhFeHR2YnJvWFlWTU5teFJoNFhuYm1oY0UxaHRCbWdBd0NtMFU2LVdnRTd3YzFu?oc=5
 
 ♻️ Turn Waste into Wonder: Creality M1 &amp; R1 Desktop Filament Maker is Taking Indiegogo by Storm - MacSources
 Turn Waste into Wonder: Creality M1 &amp; R1 Desktop Filament Maker is Taking Indiegogo by Storm MacSources
 Reported by Google News - Filament Recycling on Apr 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMidkFVX3lxTE1wU3NtZGlBMkU2ZGdBR0t1T3RsNHp6azg3b0YwdFI5cE1rWXkxMFhOMHpoOXQtRW9VWjRYM3RlWUp5LUdIdExmakdKanV6UUkxa0tVd3oyOXFJUkd3UkQzSHA1OGJBMFlBbUE3blMwSGhJdU5nblHSAXZBVV95cUxNcFNzbWRpQTJFNmRnQUdLdU90bDR6ems4N29GMHRSOXBNa1l5MTBYTjB6aDl0LUVvVVo0WDN0ZVlKeS1HSHRMZmpHSmp1elFJMWtLVXd6MjlxSVJHd1JEM0hwNThiQTBZQW1BN25TMEhoSXVOZ25R?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMibkFVX3lxTE5xa0xQMjlaY1ZZQ0tDX0xINGM3OUR3NmI4d21GODBMVzh6NUZsNENXMkJUT3BYcUVGTHdIak5ObXRickxjaWQxR2E3OVpTMi1qTGdMeFZqejZaaDcxZHR1SnRaT2hzd1ViRmxxYmt30gF2QVVfeXFMTXBTc21kaUEyRTZkZ0FHS3VPdGw0enprODdvRjB0UjlwTWtZeTEwWE4wemg5dC1Fb1VaNFgzdGVZSnktR0h0TGZqR0pqdXpRSTFrS1V3ejI5cUlSR3dSRDNIcDU4YkEwWUFtQTduUzBIaEl1TmduUQ?oc=5
 
-🚨 Elegoo Announces Jupiter 2 Featuring Massive Build Size
-Elegoo announced the massive Jupiter 2 resin 3D printer.
-The post Elegoo Announces Jupiter 2 Featuring Massive Build Size appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/elegoo-announces-jupiter-2-featuring-massive-build-size
+💻 Did Industry Misjudge AM’s Value? Findings from AMGTA Explain The Bias
+The 2026 edition of our AMA: Energy online conference returns on April 30th.
+The Additive Manufacturing Green Trade Association (AMGTA) has published its 2026 Vision Paper laying out an evaluative framework for assessing AM’s resource efficiency across entire production systems, reported by 3D Printing Industry on Apr 21, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/amgta-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/did-industry-misjudge-ams-value-findings-from-amgta-explain-the-bias-250781
 
-🦺 Lincotek receives FDA clearance for SportLinc syndesmosis device
-Lincotek has obtained 510(k) clearance (K252081) from the US Food and Drug Administration (FDA) for its SportLinc Syndesmosis Device, a sterile, single-use implant developed to stabilize syndesmotic trauma of the …...
-Reported by VoxelMatters on Apr 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Lincotek-SportLinc-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lincotek-receives-fda-clearance-for-sportlinc-syndesmosis-device
+💻 Deportivo de La Coruña opens 3D printed retail store
+Spanish soccer club Real Club Deportivo de La Coruña has utilized a combination of large-scale 3D printing, artificial intelligence and architectural design to undertake a major overhaul of its official … The post...
+Reported by VoxelMatters on Apr 21, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Noumena-Deportivo-store-05-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/deportivo-de-la-coruna-opens-3d-printed-retail-store
 
-💻 AMA: Energy 2026: Additive Manufacturing in Energy Is Moving Beyond Pilots Here’s What’s Actually Being Deployed
-Additive manufacturing in the energy sector has spent the past decade in pilot mode.
-There is no shortage of case studies, proofs of concept, or conference presentations, reported by 3D Printing Industry on Apr 20, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/ama-energy-2026-additive-manufacturing-in-energy-is-moving-beyond-pilots-heres-whats-actually-being-deployed-250737
+🖨 EOS acquires 100% stake in Metalpine
+With this acquisition, EOS says it further strengthens its strategic focus on materials, particularly in response to the growing demand for titanium additive manufacturing.
+Reported by TCT Magazine on Apr 21, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Metalpine_Graz-Austria.jpg
+🔗 Read more: https://www.tctmagazine.com/eos-acquires-100-stake-in-metalpine
 
-📰 WHASER, a 3D printed device for capturing whale data in the field
-While the Atlantic humpback whale has recovered from being on the brink of extinction in the mid 20th century, the species is still threatened by humans and fishing operations.
-Entanglement … The post WHASER, a 3D printed device for capturing whale data in the field appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/WHASER_Whale_Wise-4-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/whaser-a-3d-printed-device-for-capturing-whale-data-in-the-field
+📰 Additive Manufacturing Users Group awards six DINOs
+"They each share a high regard for AMUG and the overall AM industry, and they are willing to share their knowledge with others."
+Reported by TCT Magazine on Apr 21, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/AMUG_2026_DINOs.jpg
+🔗 Read more: https://www.tctmagazine.com/additive-manufacturing-users-group-awards-six-dinos
 
-🏠 LUYTEN 3D and University of Wollongong develop Australia’s first submerged concrete 3D printing system
-LUYTEN 3D, in collaboration with researchers from the University of Wollongong (UOW), has unveiled what the partners described as Australia’s first submerged 3D concrete printing system, along with a world-first …...
-Reported by VoxelMatters on Apr 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/LUYTEN3D-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/luyten-3d-and-university-of-wollongong-develop-australias-first-submerged-concrete-3d-printing-system
-
-🚀 Sinterit’s 3D Printing Academy Makes Serious Manufacturing Education Free and Accessible
-Polish 3D printer manufacturer Sinterit has launched its free online 3D Printing Academy, and the premise will be familiar to anyone who has spent time in the AM industry.
-For all the noise around 3D printing, genuinely useful knowledge about specific technologies is surprisingly hard to come by, reported by 3D Printing Industry on Apr 20, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/3D-Printing-Academy-1-3DPI-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/sinterits-3d-printing-academy-makes-serious-manufacturing-education-free-and-accessible-250629
+💻 Local parts inventory &amp; refreshed maintenance program among several customer-focused updates at ExOne
+“These updates are a direct response to recent customer feedback around domestic supply, expedited parts access, predictable pricing, and support they can count on.”
+Reported by TCT Magazine on Apr 21, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/VX_Facility_VX-Detroit_-S-Max-and-VX4000-machine-1.png
+🔗 Read more: https://www.tctmagazine.com/local-parts-inventory-refreshed-maintenance-program-among-several-customer-focused-updates-at-exone
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse focus is Bambu Lab's X2D launch: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system that raises capability for advanced materials. Story link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNNjZWMjNaSjl0MkwzSmtxSDNBQmxyTy1XWlE3bFVfWUtqWnk4R1BxeU1rNEtCSEpkN1NHeElDeDBIZlRVVmNXejZSR3pOZklEYm0yZWpvNFpjRWtWeV9kZlZSaTRnY2d1NFRhTVd5OVFuNWxFV1AyLW5nV1UzZFBvSks0NA?oc=5 | Full pulse: https://www.quality3ds.com/
+Today's pulse focus is Bambu Lab's X2D launch: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system that raises capability for advanced materials. Story link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNdEJ2VU5nclRZS0xDNXZWTlFOUldKWkpKUDhnNy14RVUxeE9oSTVDZFhDZTY2NHJSckFabUJORW9wTklfSUkyN2Utbk9jRFAyMS01MEN4bEQ3dkNLUERqbHBNTFNkZ1V2TTlkR3VmQmMwcmhFeHR2YnJvWFlWTU5teFJoNFhuYm1oY0UxaHRCbWdBd0NtMFU2LVdnRTd3YzFu?oc=5 | Full pulse: https://www.quality3ds.com/
