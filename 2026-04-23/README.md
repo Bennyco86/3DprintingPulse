@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-23
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #106 - 2026-04-23
+## Stories
 
 🔥 3D Printing Reinvented? The Rise of Liquid Printing - vocal.media
 3D Printing Reinvented?
@@ -49,9 +47,3 @@ CONTEXT has published its latest AM machine shipment report for Q4 and Full Year
 Reported by TCT Magazine on Apr 22, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/0-1.png
 Read more ? https://www.tctmagazine.com/industrial-entry-level-printer-shipments-both-up-in-q4-25-but-professional-midrange-shipments-contract-context
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
