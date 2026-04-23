@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-24
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #107 - 2026-04-24
+## Stories
 
 📰 Toyota and Wipro 3D partner to build AM Center of Excellence in India
 India’s bid to become an additive manufacturing pioneer continues with the signing of a Memorandum of Understanding between Toyota Kirloskar Motor (TKM) and Wipro 3D to establish a Center of … The post Toyota and...
@@ -51,9 +49,3 @@ The AMGTA says it is designed for use in investor presentations, policy discussi
 Reported by TCT Magazine on Apr 23, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Binder_Jet_-_P-50_2.png
 Read more ? https://www.tctmagazine.com/amgta-releases-independent-report-establishing-how-am-should-be-evaluated-across-part-system-enterprise-levels
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

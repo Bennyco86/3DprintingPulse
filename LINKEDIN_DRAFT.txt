@@ -1,51 +1,53 @@
-﻿# 3D PRINTING PULSE #106 - 2026-04-23
+﻿# 3D PRINTING PULSE #107 - 2026-04-24
 
-🔥 3D Printing Reinvented? The Rise of Liquid Printing - vocal.media
-3D Printing Reinvented?
-The Rise of Liquid Printing vocal.media, reported by Google News - 3D Printing on Apr 22, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVZySHNqUm11eVJKQ1NCMFNfVnpVOFFfRm5pcjBsVUJsamo3YWZ2MVI1UUdRLVFMSVpwT2ZPWG1QRVhKNXYwOWhaSndvc0tVUS01cUNMejBvMXc0TG9NaWt5Mmo1S2Y1UW01ZVdqOHhvLWNRbzF1SktKVzQ2TTVkTlBhZEJBUQ?oc=5
+📰 Toyota and Wipro 3D partner to build AM Center of Excellence in India
+India’s bid to become an additive manufacturing pioneer continues with the signing of a Memorandum of Understanding between Toyota Kirloskar Motor (TKM) and Wipro 3D to establish a Center of … The post Toyota and...
+Reported by VoxelMatters on Apr 23, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Toyota-AM-Centre-of-Excellence-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/toyota-and-wipro-3d-partner-to-build-am-center-of-excellence-in-india
 
-🚨 Bambu Lab Discontinues the X1 Series After Four Years on the Market
-As of March 31, 2026, the Bambu Lab X1, X1 Carbon, and X1E have officially ceased production.
-The company confirmed that while manufacturing and active sales have ended, support will continue through March 2031, covering spare parts, technical assistance, and firmware security patches, reported by 3D Printing Industry on Apr 22, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/X1-hero-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/bambu-lab-discontinues-the-x1-series-after-four-years-on-the-market-250791
+📰 Designers take eyewear styles to the next level with Visages 3D printing
+Go into any eyewear shop and you’ll be greeted with a plethora of choices, from round rimless glasses, to cat-eye frames, to the classic browline style.
+Despite the choice, many … The post Designers take eyewear styles to the next level with Visages 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/visages-2-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/designers-take-eyewear-styles-to-the-next-level-with-visages-3d-printing
 
-🔥 Stop trusting viral 3D printer hacks—they're hiding the real problems with your machine - How-To Geek
-Stop trusting viral 3D printer hacks—they're hiding the real problems with your machine How-To Geek
-Reported by Google News - 3D Printing on Apr 21, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMingFBVV95cUxNR1Y1Qnc0cVRlNmhTNmMzSUhmUW9VYzVKUHJUdlBGbXlNYjFULUNBZmZ3dnNLQTZNQ1lkSnBXc0tVaTFUYTBLX21RZ3VJS0JOTzZOUU9TU1dQZDFMT0VBYi1tNjVNVjVpR09BWEpaWnFNMGRwQkozczMxS2VjWF84NXpWUHVFa1JJbVgyTUhiaE1RbmNHaE5Oa3JNRXlsZw?oc=5
+🖨 Mintion releases external filtration unit for enclosed 3D printers
+Mintion, a young Chinese company specializing in 3D printer accessories, has released the 3D Printer Filtration System V1, an external air filtration unit designed to reduce particle and volatile organic … The post...
+Reported by VoxelMatters on Apr 23, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/3D_Printer_filter_V1_3d_print_farm_1800x1800-1-e1776951482571-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/mintion-releases-external-filtration-unit-for-enclosed-3d-printers
 
-🦺 Swiss researchers develop 3D printed and polymer-coated implant prototypes for infant mitral valve repair
-Researchers at HEPIA, part of the University of Applied Sciences and Arts Western Switzerland (HES-SO) in Geneva, have developed and characterized a series of leaflet and valve implant prototypes aimed … The post...
-Reported by VoxelMatters on Apr 22, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/HEPIA-heart-valves-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/swiss-researchers-develop-3d-printed-and-polymer-coated-implant-prototypes-for-infant-mitral-valve-repair
+🚀 MX3D Completes PIONEER Project, Proving Hybrid WAAM Ready for Civil Engineering at Scale
+MX3D, a Dutch company specializing in robotic Wire Arc Additive Manufacturing (WAAM), has announced the conclusion of the PIONEER project, an EU Horizon-funded initiative in which the company served as a pilot line...
+The effort centered on industrializing automated design, fabrication, and certification workflows for structurally optimized, load-bearing hybrid…, reported by 3D Printing Industry on Apr 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-15.08.29-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/mx3d-completes-pioneer-project-proving-hybrid-waam-ready-for-civil-engineering-at-scale-250753
 
-💻 Colibrium Additive secures $31 million NAVAIR contract
-The contract covers a series of deliverables that are designed to bolster US Navy operational readiness.
-Reported by TCT Magazine on Apr 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/COADPR001b-1.jpg
-🔗 Read more: https://www.tctmagazine.com/colibrium-additive-secures-31-million-navair-contract
+🦺 Fraunhofer IAP and NMI develop 3D printed biomimetic tissue substitute for medical implant applications
+Researchers at the Fraunhofer Institute for Applied Polymer Research (IAP) and the NMI Natural and Medical Sciences Institute have developed a multilayer biomimetic tissue substitute designed to replicate the...
+Reported by VoxelMatters on Apr 23, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Fraunhofer-IAP-biomimetic-tissue-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/fraunhofer-iap-and-nmi-develop-3d-printed-biomimetic-tissue-substitute-for-medical-implant-applications
 
-🖨 Farsoon introduces Fine Laser Spot metal additive manufacturing capability
-The feature is said to achieve dimensional accuracy down to 0.03 mm.
-Reported by TCT Magazine on Apr 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Fine-Laser-Spot-Printing_Figure03.jpg
-🔗 Read more: https://www.tctmagazine.com/farsoon-introduces-fine-laser-spot-metal-additive-manufacturing-capability
+📰 Rapid 2026 shows pragmatic &amp; practical side of AM industry
+Walking into the Rapid + TCT exhibition halls in Boston felt like a shock of energy, the hum of conversation, the clack of demos, and the unmistakable jolt you only … The post Rapid 2026 shows pragmatic &amp; practical...
+Reported by VoxelMatters on Apr 23, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Rapid2026_Seaport-Boston-MA-Home-of-Rapid-TCT-2026-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/rapid-2026-shows-pragmatic-practical-side-of-am-industry
 
-🖨 Velo3D partners with Andretti Performance for 2026 IMSA Michelin Pilot Challenge
-Velo3D, the company specializing in advanced metal additive mission-critical parts, has entered into an agreement with racing team Andretti Performance.
-The deal, in which Velo3D becomes an official sponsor and … The post Velo3D partners with Andretti Performance for 2026 IMSA Michelin Pilot Challenge appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Andretti-Velo3D-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/velo3d-partners-with-andretti-performance-for-2026-imsa-michelin-pilot-challenge
+🏠 ROBOZE announced as lead of Italian Armed Forces R&amp;D project
+The DIgitales partes Ad Necessitatem Armatorum (DIANA) project is designed to develop new technological infrastructures to support the Italian Armed Forces and the Navy.
+Reported by TCT Magazine on Apr 23, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/ARGO-500-1.png
+🔗 Read more: https://www.tctmagazine.com/roboze-announced-as-lead-of-italian-armed-forces-r-d-project
 
-🖨 Industrial &amp; entry-level printer shipments both up in Q4 25, but professional &amp; midrange shipments contract - CONTEXT
-CONTEXT has published its latest AM machine shipment report for Q4 and Full Year 2025.
-Reported by TCT Magazine on Apr 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/0-1.png
-🔗 Read more: https://www.tctmagazine.com/industrial-entry-level-printer-shipments-both-up-in-q4-25-but-professional-midrange-shipments-contract-context
+📰 AMGTA releases independent report establishing how AM should be evaluated across part, system &amp; enterprise levels
+The AMGTA says it is designed for use in investor presentations, policy discussions, procurement conversations, and organisational decision-making.
+Reported by TCT Magazine on Apr 23, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Binder_Jet_-_P-50_2.png
+🔗 Read more: https://www.tctmagazine.com/amgta-releases-independent-report-establishing-how-am-should-be-evaluated-across-part-system-enterprise-levels
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "3D Printing Reinvented? The Rise of Liquid Printing - vocal.media" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVZySHNqUm11eVJKQ1NCMFNfVnpVOFFfRm5pcjBsVUJsamo3YWZ2MVI1UUdRLVFMSVpwT2ZPWG1QRVhKNXYwOWhaSndvc0tVUS01cUNMejBvMXc0TG9NaWt5Mmo1S2Y1UW01ZVdqOHhvLWNRbzF1SktKVzQ2TTVkTlBhZEJBUQ?oc=5 | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "Toyota and Wipro 3D partner to build AM Center of Excellence in India" because it highlights where practical 3D printing innovation is moving next. Source: https://www.voxelmatters.com/toyota-and-wipro-3d-partner-to-build-am-center-of-excellence-in-india | Complete rundown: https://www.quality3ds.com/
