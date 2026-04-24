@@ -1,53 +1,50 @@
-﻿# 3D PRINTING PULSE #107 - 2026-04-24
+﻿# 3D PRINTING PULSE #108 - 2026-04-25
 
-📰 Toyota and Wipro 3D partner to build AM Center of Excellence in India
-India’s bid to become an additive manufacturing pioneer continues with the signing of a Memorandum of Understanding between Toyota Kirloskar Motor (TKM) and Wipro 3D to establish a Center of … The post Toyota and...
-Reported by VoxelMatters on Apr 23, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Toyota-AM-Centre-of-Excellence-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/toyota-and-wipro-3d-partner-to-build-am-center-of-excellence-in-india
+🔥 ARC &amp; ORNL Form Partnership to Accelerate AI-Enabled Manufacturing for Defense
+Last year, Autonomous Resource Corporation (ARC) became the surprising owner of Desktop Metal’s (DM’s) assets following the bankruptcy of the one-time additive manufacturing (AM) unicorn, an acquisition that cost ARC...
+Reported by 3DPrint.com on Apr 24, 2026.
+🔗 Read more: https://3dprint.com/325604/arc-ornl-partner-to-accelerate-ai-enabled-manufacturing-for-defense
 
-📰 Designers take eyewear styles to the next level with Visages 3D printing
-Go into any eyewear shop and you’ll be greeted with a plethora of choices, from round rimless glasses, to cat-eye frames, to the classic browline style.
-Despite the choice, many … The post Designers take eyewear styles to the next level with Visages 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/visages-2-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/designers-take-eyewear-styles-to-the-next-level-with-visages-3d-printing
+🔥 Japan 3D Printing Market Forecast: AI Design, Scalable Manufacturing &amp; Forecast to 2034 - vocal.media
+Japan 3D Printing Market Forecast: AI Design, Scalable Manufacturing &amp; Forecast to 2034 vocal.media
+Reported by Google News - 3D Printing on Apr 24, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTR3LVhTenVqN0dzcHp3Mjl6Z3F6c0xUemhuSDVuTy1sZ2s3dm0xcUlqd2ZUSl8zcnJGSmJXQ2I5X0JIUFRwbF8tT3phaGFaZXNqUGJ0U3daNnl4NUs5MkItaTd2RFpqQUV2a2tRZHhMckwzUU5IWG9INGVVd0VBOE8wR2cyNXA0YmxndzgwWUxnZWpBVV85ekxqQnpXbEg5Q193LTd1d0JFb0ZORDJLb0FMdXVfQ244?oc=5
 
-🖨 Mintion releases external filtration unit for enclosed 3D printers
-Mintion, a young Chinese company specializing in 3D printer accessories, has released the 3D Printer Filtration System V1, an external air filtration unit designed to reduce particle and volatile organic … The post...
-Reported by VoxelMatters on Apr 23, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/3D_Printer_filter_V1_3d_print_farm_1800x1800-1-e1776951482571-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/mintion-releases-external-filtration-unit-for-enclosed-3d-printers
+♻️ Creality Filament Maker M1/Shredder R1: Desktop solution for recycling 3D printing waste - Notebookcheck
+Creality Filament Maker M1/Shredder R1: Desktop solution for recycling 3D printing waste Notebookcheck
+Reported by Google News - 3D Printing on Apr 24, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMizAFBVV95cUxNNW9IRlE4aHZ2eXV1SDRqZy02aEZiTURFSXpGVmRrNmFFb09IdTRsYjkyMnVmZ2VYM0luY0QzZDZqZlByUHhtTDg5RkxEcUNrckpGZk1NUmx3S2puYjhqVW15a3lFR2tLZUdEOUR0X2JGNkJqc3ZQTDVZQTNpY0NFSHQwejhDelhFUFVVUTdFdGNvUXZET3hKbmdiZFdkLS1OMHZIbTNrN1JOVFY2YTUzTFFiRWt6UWhIVHljelFnRGVQUHhwT1FsMEtFenY?oc=5
 
-🚀 MX3D Completes PIONEER Project, Proving Hybrid WAAM Ready for Civil Engineering at Scale
-MX3D, a Dutch company specializing in robotic Wire Arc Additive Manufacturing (WAAM), has announced the conclusion of the PIONEER project, an EU Horizon-funded initiative in which the company served as a pilot line...
-The effort centered on industrializing automated design, fabrication, and certification workflows for structurally optimized, load-bearing hybrid…, reported by 3D Printing Industry on Apr 23, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-15.08.29-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/mx3d-completes-pioneer-project-proving-hybrid-waam-ready-for-civil-engineering-at-scale-250753
+📰 L3Harris closes $1 billion Department of War investment in Missile Solutions business
+L3Harris Technologies has closed a $1 billion strategic investment from the Department of War (DoW) in its Missile Solutions (MSL) business, with the capital earmarked for facility modernization, research and … The...
+Reported by VoxelMatters on Apr 24, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/L3Harris-closes-1-billion-Department-of-War-investment-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/l3harris-closes-1-billion-department-of-war-investment-in-missile-solutions-business
 
-🦺 Fraunhofer IAP and NMI develop 3D printed biomimetic tissue substitute for medical implant applications
-Researchers at the Fraunhofer Institute for Applied Polymer Research (IAP) and the NMI Natural and Medical Sciences Institute have developed a multilayer biomimetic tissue substitute designed to replicate the...
-Reported by VoxelMatters on Apr 23, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Fraunhofer-IAP-biomimetic-tissue-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/fraunhofer-iap-and-nmi-develop-3d-printed-biomimetic-tissue-substitute-for-medical-implant-applications
+🚀 Rolls-Royce opens AM development cell at Bristol facility
+Best known for its luxury cars, British company Rolls-Royce also specializes in the production of engines and propulsion systems for aerospace and defense.
+As part of this line of work, … The post Rolls-Royce opens AM development cell at Bristol facility appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/rolls-royce-am-cell-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/rolls-royce-opens-am-development-cell-at-bristol-facility
 
-📰 Rapid 2026 shows pragmatic &amp; practical side of AM industry
-Walking into the Rapid + TCT exhibition halls in Boston felt like a shock of energy, the hum of conversation, the clack of demos, and the unmistakable jolt you only … The post Rapid 2026 shows pragmatic &amp; practical...
-Reported by VoxelMatters on Apr 23, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Rapid2026_Seaport-Boston-MA-Home-of-Rapid-TCT-2026-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/rapid-2026-shows-pragmatic-practical-side-of-am-industry
+💻 Project Hail Mary’s 3D print campaign turns Rocky into a desktop phenomenon. AMAZE
+Amazon MGM Studios embedded a 3D printing campaign into the official marketing of Project Hail Mary, the Ryan Gosling-led sci-fi film adapted from Andy Weir’s novel, offering fans free downloadable … The post Project...
+AMAZE appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Rocky-by-me-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/project-hail-marys-3d-print-campaign-turns-rocky-into-a-desktop-phenomenon-amaze
 
-🏠 ROBOZE announced as lead of Italian Armed Forces R&amp;D project
-The DIgitales partes Ad Necessitatem Armatorum (DIANA) project is designed to develop new technological infrastructures to support the Italian Armed Forces and the Navy.
-Reported by TCT Magazine on Apr 23, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/ARGO-500-1.png
-🔗 Read more: https://www.tctmagazine.com/roboze-announced-as-lead-of-italian-armed-forces-r-d-project
+📰 ORNL wins 2026 SME award for 3D printed precision nuclear reactor molds
+A research team from the Department of Energy’s Oak Ridge National Laboratory (ORNL) has received the 2026 SME Aubin Additive Manufacturing Case Study Award at the SME AM Awards.
+The … The post ORNL wins 2026 SME award for 3D printed precision nuclear reactor molds appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ORNL-wins-2026-SME-award-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ornl-wins-2026-sme-award-for-3d-printed-precision-nuclear-reactor-molds
 
-📰 AMGTA releases independent report establishing how AM should be evaluated across part, system &amp; enterprise levels
-The AMGTA says it is designed for use in investor presentations, policy discussions, procurement conversations, and organisational decision-making.
-Reported by TCT Magazine on Apr 23, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/Binder_Jet_-_P-50_2.png
-🔗 Read more: https://www.tctmagazine.com/amgta-releases-independent-report-establishing-how-am-should-be-evaluated-across-part-system-enterprise-levels
+🖨 New CONTEXT Data Shows Structural Shifts Reshaping AM Hardware
+The 2026 edition of our AMA: Energy online conference returns on April 30th.
+Market intelligence firm CONTEXT has published its Q4 2025 analysis of global 3D printer hardware shipments, with growth concentrated at opposite ends of the price spectrum, reported by 3D Printing Industry on Apr 24, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/CONTEXTChart1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/new-context-data-shows-structural-shifts-reshaping-am-hardware-250940
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Toyota and Wipro 3D partner to build AM Center of Excellence in India" because it highlights where practical 3D printing innovation is moving next. Source: https://www.voxelmatters.com/toyota-and-wipro-3d-partner-to-build-am-center-of-excellence-in-india | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Japan 3D Printing Market Forecast: AI Design, Scalable Manufacturing &amp; Forecast to 2034 - vocal.media" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTR3LVhTenVqN0dzcHp3Mjl6Z3F6c0xUemhuSDVuTy1sZ2s3dm0xcUlqd2ZUSl8zcnJGSmJXQ2I5X0JIUFRwbF8tT3phaGFaZXNqUGJ0U3daNnl4NUs5MkItaTd2RFpqQUV2a2tRZHhMckwzUU5IWG9INGVVd0VBOE8wR2cyNXA0YmxndzgwWUxnZWpBVV85ekxqQnpXbEg5Q193LTd1d0JFb0ZORDJLb0FMdXVfQ244?oc=5 | Full pulse: https://www.quality3ds.com/

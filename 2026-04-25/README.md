@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-25
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #108 - 2026-04-25
+## Stories
 
 🔥 ARC & ORNL Form Partnership to Accelerate AI-Enabled Manufacturing for Defense
 Last year, Autonomous Resource Corporation (ARC) became the surprising owner of Desktop Metal’s (DM’s) assets following the bankruptcy of the one-time additive manufacturing (AM) unicorn, an acquisition that cost ARC...
@@ -48,9 +46,3 @@ The 2026 edition of our AMA: Energy online conference returns on April 30th.
 Market intelligence firm CONTEXT has published its Q4 2025 analysis of global 3D printer hardware shipments, with growth concentrated at opposite ends of the price spectrum, reported by 3D Printing Industry on Apr 24, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/CONTEXTChart1-150x100.png
 Read more ? https://3dprintingindustry.com/news/new-context-data-shows-structural-shifts-reshaping-am-hardware-250940
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
