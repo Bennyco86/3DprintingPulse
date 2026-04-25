@@ -2,52 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #108 - 2026-04-25
+### 3D PRINTING PULSE #109 - 2026-04-26
 
-🔥 ARC & ORNL Form Partnership to Accelerate AI-Enabled Manufacturing for Defense
-Last year, Autonomous Resource Corporation (ARC) became the surprising owner of Desktop Metal’s (DM’s) assets following the bankruptcy of the one-time additive manufacturing (AM) unicorn, an acquisition that cost ARC...
-Reported by 3DPrint.com on Apr 24, 2026.
-Read more ? https://3dprint.com/325604/arc-ornl-partner-to-accelerate-ai-enabled-manufacturing-for-defense
+🚨 ELEGOO Makes Its Mark at RAPID + TCT 2026 With Jupiter 2 and Unexpected CANVAS Debut
+Chinese 3D printing brand ELEGOO used its presence at RAPID + TCT 2026 in Boston to unveil two headline products: the Jupiter 2, an ultra-large format resin printer, and the CANVAS multicolor system for its Centauri...
+Hardware in the Spotlight The Jupiter 2…, reported by 3D Printing Industry on Apr 25, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/JPT2-_10_497fe737-feaf-4755-9ed6-2861a518f1ee-150x100.webp
+Read more ? https://3dprintingindustry.com/news/elegoo-makes-its-mark-at-rapid-tct-2026-with-jupiter-2-and-unexpected-canvas-debut-250801
 
-🔥 Japan 3D Printing Market Forecast: AI Design, Scalable Manufacturing & Forecast to 2034 - vocal.media
-Japan 3D Printing Market Forecast: AI Design, Scalable Manufacturing & Forecast to 2034 vocal.media
-Reported by Google News - 3D Printing on Apr 24, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOTR3LVhTenVqN0dzcHp3Mjl6Z3F6c0xUemhuSDVuTy1sZ2s3dm0xcUlqd2ZUSl8zcnJGSmJXQ2I5X0JIUFRwbF8tT3phaGFaZXNqUGJ0U3daNnl4NUs5MkItaTd2RFpqQUV2a2tRZHhMckwzUU5IWG9INGVVd0VBOE8wR2cyNXA0YmxndzgwWUxnZWpBVV85ekxqQnpXbEg5Q193LTd1d0JFb0ZORDJLb0FMdXVfQ244?oc=5
+💻 ARC and ORNL form Exascale Foundry to accelerate defense manufacturing
+ARC (Autonomous Resource Corporation) and Oak Ridge National Laboratory signed a Memorandum of Understanding establishing a public–private partnership to accelerate AI-enabled manufacturing of qualified components...
+national security applications, reported by VoxelMatters on Apr 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/ARC_ORNL_-2026-04-25-alle-22.02.49-150x150.jpg
+Read more ? https://www.voxelmatters.com/arc-and-ornl-form-exascale-foundry-to-accelerate-defense-manufacturing
 
-♻️ Creality Filament Maker M1/Shredder R1: Desktop solution for recycling 3D printing waste - Notebookcheck
-Creality Filament Maker M1/Shredder R1: Desktop solution for recycling 3D printing waste Notebookcheck
-Reported by Google News - 3D Printing on Apr 24, 2026.
-Read more ? https://news.google.com/rss/articles/CBMizAFBVV95cUxNNW9IRlE4aHZ2eXV1SDRqZy02aEZiTURFSXpGVmRrNmFFb09IdTRsYjkyMnVmZ2VYM0luY0QzZDZqZlByUHhtTDg5RkxEcUNrckpGZk1NUmx3S2puYjhqVW15a3lFR2tLZUdEOUR0X2JGNkJqc3ZQTDVZQTNpY0NFSHQwejhDelhFUFVVUTdFdGNvUXZET3hKbmdiZFdkLS1OMHZIbTNrN1JOVFY2YTUzTFFiRWt6UWhIVHljelFnRGVQUHhwT1FsMEtFenY?oc=5
+📰 YKK wins Red Dot Design Award for 3D printed zipper developed with Variloom
+YKK Corporation has received a prestigious Red Dot Design Award in the Product Design category for its 3D Composite Puller, a zipper hardware component developed with Variloom, a specialist in … The post YKK wins Red...
+Reported by VoxelMatters on Apr 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/Variloom-YKK-zipper-150x150.jpg
+Read more ? https://www.voxelmatters.com/ykk-wins-red-dot-design-award-for-3d-printed-zipper-developed-with-variloom
 
-📰 L3Harris closes $1 billion Department of War investment in Missile Solutions business
-L3Harris Technologies has closed a $1 billion strategic investment from the Department of War (DoW) in its Missile Solutions (MSL) business, with the capital earmarked for facility modernization, research and … The...
-Reported by VoxelMatters on Apr 24, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/L3Harris-closes-1-billion-Department-of-War-investment-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/l3harris-closes-1-billion-department-of-war-investment-in-missile-solutions-business
-
-🚀 Rolls-Royce opens AM development cell at Bristol facility
-Best known for its luxury cars, British company Rolls-Royce also specializes in the production of engines and propulsion systems for aerospace and defense.
-As part of this line of work, … The post Rolls-Royce opens AM development cell at Bristol facility appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/rolls-royce-am-cell-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/rolls-royce-opens-am-development-cell-at-bristol-facility
-
-💻 Project Hail Mary’s 3D print campaign turns Rocky into a desktop phenomenon. AMAZE
-Amazon MGM Studios embedded a 3D printing campaign into the official marketing of Project Hail Mary, the Ryan Gosling-led sci-fi film adapted from Andy Weir’s novel, offering fans free downloadable … The post Project...
-AMAZE appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Rocky-by-me-150x150.jpg
-Read more ? https://www.voxelmatters.com/project-hail-marys-3d-print-campaign-turns-rocky-into-a-desktop-phenomenon-amaze
-
-📰 ORNL wins 2026 SME award for 3D printed precision nuclear reactor molds
-A research team from the Department of Energy’s Oak Ridge National Laboratory (ORNL) has received the 2026 SME Aubin Additive Manufacturing Case Study Award at the SME AM Awards.
-The … The post ORNL wins 2026 SME award for 3D printed precision nuclear reactor molds appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/ORNL-wins-2026-SME-award-150x150.jpg
-Read more ? https://www.voxelmatters.com/ornl-wins-2026-sme-award-for-3d-printed-precision-nuclear-reactor-molds
-
-🖨 New CONTEXT Data Shows Structural Shifts Reshaping AM Hardware
+🖨 Farsoon adds ALM materials and new PEBA production
 The 2026 edition of our AMA: Energy online conference returns on April 30th.
-Market intelligence firm CONTEXT has published its Q4 2025 analysis of global 3D printer hardware shipments, with growth concentrated at opposite ends of the price spectrum, reported by 3D Printing Industry on Apr 24, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/CONTEXTChart1-150x100.png
-Read more ? https://3dprintingindustry.com/news/new-context-data-shows-structural-shifts-reshaping-am-hardware-250940
+3D printer manufacturer Farsoon Technologies has expanded its open materials ecosystem to include three industrial polymer powders from EOS’ subsidiary Advanced Laser Materials (ALM), reported by 3D Printing Industry on Apr 25, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/FarsoonTech-150x100.png
+Read more ? https://3dprintingindustry.com/news/farsoon-adds-alm-materials-and-new-peba-production-250951
+
+📰 Freemelt secures follow-on defense order as 2025 annual report shows tripled revenue
+Swedish electron beam powder bed fusion specialist Freemelt has received a follow-on order from an unnamed leading Swedish defense company for the continued development and prototype manufacturing of components for …...
+Reported by VoxelMatters on Apr 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Freemelt-secures-follow-on-defense-order-as-2025-annual-report-shows-tripled-revenue-150x150.jpg
+Read more ? https://www.voxelmatters.com/freemelt-secures-follow-on-defense-order-as-2025-annual-report-shows-tripled-revenue
+
+🖨 The Elmet Group raises $120 million in NASDAQ IPO, backed by refractory metal AM patent
+The Elmet Group (NASDAQ: ELMT) raised $120.4 million in its initial public offering on April 22, 2026, pricing 8.6 million shares at $14.00 — the top of its $12.00–$14.00 range … The post The Elmet Group raises $120...
+Reported by VoxelMatters on Apr 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/ELMET-ipo-150x150.jpg
+Read more ? https://www.voxelmatters.com/the-elmet-group-raises-120-million-in-nasdaq-ipo-backed-by-refractory-metal-am-patent
+
+💻 Colibrium Additive Gets $31 Million NAVAIR Contract
+Colibrium Additive has been awarded a $31 million contract by the Naval Air Systems Command (NAVAIR).
+The contract is part of the Additive Manufacturing Capability initiative, focused on qualification and, reported by 3DPrint.com on Apr 24, 2026.
+Read more ? https://3dprint.com/325572/colibrium-additive-gets-31-million-navair-contract
+
+🖨 RAPID 2026: 6K Additive’s Domestic Metal Powders & Consolidation Plan
+6K Additive (ASX: 6KA), a U.S.
+supplier and manufacturer of metal powders for additive manufacturing (AM), has been very busy lately, reported by 3DPrint.com on Apr 24, 2026.
+Read more ? https://3dprint.com/325581/rapid-2026-6k-additives-domestic-metal-powders-consolidation-plan
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
