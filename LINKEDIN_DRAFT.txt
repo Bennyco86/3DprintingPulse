@@ -1,51 +1,49 @@
-﻿# 3D PRINTING PULSE #109 - 2026-04-26
+﻿# 3D PRINTING PULSE #110 - 2026-04-27
 
-🚨 ELEGOO Makes Its Mark at RAPID + TCT 2026 With Jupiter 2 and Unexpected CANVAS Debut
-Chinese 3D printing brand ELEGOO used its presence at RAPID + TCT 2026 in Boston to unveil two headline products: the Jupiter 2, an ultra-large format resin printer, and the CANVAS multicolor system for its Centauri...
-Hardware in the Spotlight The Jupiter 2…, reported by 3D Printing Industry on Apr 25, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/JPT2-_10_497fe737-feaf-4755-9ed6-2861a518f1ee-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/elegoo-makes-its-mark-at-rapid-tct-2026-with-jupiter-2-and-unexpected-canvas-debut-250801
+🖨 AI framework predicts metal 3D printed part strength in seconds
+Researchers at POSTECH and the Korea Institute of Materials Science (KIMS) have developed an AI-based analytical framework that can predict the mechanical strength of metal 3D printed components in seconds, … The...
+Reported by VoxelMatters on Apr 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/AI-framework-predicts-metal-3D-printed-part-strength-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ai-framework-predicts-metal-3d-printed-part-strength-in-seconds
 
-💻 ARC and ORNL form Exascale Foundry to accelerate defense manufacturing
-ARC (Autonomous Resource Corporation) and Oak Ridge National Laboratory signed a Memorandum of Understanding establishing a public–private partnership to accelerate AI-enabled manufacturing of qualified components...
-national security applications, reported by VoxelMatters on Apr 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ARC_ORNL_-2026-04-25-alle-22.02.49-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/arc-and-ornl-form-exascale-foundry-to-accelerate-defense-manufacturing
+🖨 NTU researchers develop ultra-thin optical film to improve LCD resin 3D printing accuracy
+Researchers at the National Taiwan University of Science and Technology have developed an ultra-thin, double-sided optical film designed to overcome light control problems in LCD-based resin 3D printers, according to...
+Reported by VoxelMatters on Apr 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ultra-thin-optical-film-to-improve-LCD-resin-3D-printing-accuracy--150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ntu-researchers-develop-ultra-thin-optical-film-to-improve-lcd-resin-3d-printing-accuracy
 
-📰 YKK wins Red Dot Design Award for 3D printed zipper developed with Variloom
-YKK Corporation has received a prestigious Red Dot Design Award in the Product Design category for its 3D Composite Puller, a zipper hardware component developed with Variloom, a specialist in … The post YKK wins Red...
-Reported by VoxelMatters on Apr 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/02/Variloom-YKK-zipper-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ykk-wins-red-dot-design-award-for-3d-printed-zipper-developed-with-variloom
+📰 IMTS 2026 to feature over 1,800 exhibitors across 1.2 million square feet in Chicago
+IMTS – The International Manufacturing Technology Show will run September 14–19, 2026, at McCormick Place in Chicago, bringing together more than 1,800 exhibitors across 1.2 million square feet of exhibition … The...
+Reported by VoxelMatters on Apr 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/IMTS_Th-02-xlarge-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/imts-2026-to-feature-over-1800-exhibitors-across-1-2-million-square-feet-in-chicago
 
-🖨 Farsoon adds ALM materials and new PEBA production
-The 2026 edition of our AMA: Energy online conference returns on April 30th.
-3D printer manufacturer Farsoon Technologies has expanded its open materials ecosystem to include three industrial polymer powders from EOS’ subsidiary Advanced Laser Materials (ALM), reported by 3D Printing Industry on Apr 25, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/FarsoonTech-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/farsoon-adds-alm-materials-and-new-peba-production-250951
+📰 A Museum Dig, Brought to Life with 3D Printing
+At the University of Nebraska–Lincoln, a team inside the Frontier Tech Lab has built one of the most engaging examples of additive manufacturing (AM) in education right now.
+Reported by 3DPrint.com on Apr 26, 2026.
+🔗 Read more: https://3dprint.com/325641/a-museum-dig-brought-to-life-with-3d-printing
 
-📰 Freemelt secures follow-on defense order as 2025 annual report shows tripled revenue
-Swedish electron beam powder bed fusion specialist Freemelt has received a follow-on order from an unnamed leading Swedish defense company for the continued development and prototype manufacturing of components for …...
-Reported by VoxelMatters on Apr 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Freemelt-secures-follow-on-defense-order-as-2025-annual-report-shows-tripled-revenue-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/freemelt-secures-follow-on-defense-order-as-2025-annual-report-shows-tripled-revenue
+💻 Slicer Settings for “Indestructible” Battle-Bot Worthy PLA Parts
+If you follow [Maker’s Muse] on YouTube, you know he’s as passionate about robot fights these days as he is about the tools he uses to make the robots.
+Luckily …read more, reported by Hackaday 3D Printing on Apr 26, 2026.
+🖼️ Image: https://hackaday.com/wp-content/uploads/2026/04/maker-muse-strong-pla.jpg
+🔗 Read more: https://hackaday.com/2026/04/25/slicer-settings-for-indestructible-battle-bot-worthy-pla-parts
 
-🖨 The Elmet Group raises $120 million in NASDAQ IPO, backed by refractory metal AM patent
-The Elmet Group (NASDAQ: ELMT) raised $120.4 million in its initial public offering on April 22, 2026, pricing 8.6 million shares at $14.00 — the top of its $12.00–$14.00 range … The post The Elmet Group raises $120...
-Reported by VoxelMatters on Apr 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ELMET-ipo-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/the-elmet-group-raises-120-million-in-nasdaq-ipo-backed-by-refractory-metal-am-patent
+🖨 Abilene Public Library’s teen library holds Grand Opening for new 3D Printer - abilene-rc.com
+Abilene Public Library’s teen library holds Grand Opening for new 3D Printer abilene-rc.com
+Reported by Google News - 3D Printing on Apr 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUVlEU0F6VWo3d2ZRT0pHMlhKRTZaNTBPcWN1X3BDcTZqanlZZExRVklZb0pyNzlzZktKOWFSOTFwakRnOVB2QXl6ZkxTZzVObzVXWV9od3F1NEloSUlrWGRYZzQ3QXdPeDlIXzB6SndqS2lHSUNuUlhsMGpkc0hOY0MzbjNQbVgzbVpQampNUVN3NzI4VkJlbGwxQjJxa2JYN3pYOFpDa2I4SjdOS3dobnRyQVB4NFZwWUcxLVIxa05jaS1odkc0NFJNR3h4dm9BM3RMZ1dJdlFKMzBWdFlOZUhuQ0FDVzVsSV9XcU5XOA?oc=5
 
-💻 Colibrium Additive Gets $31 Million NAVAIR Contract
-Colibrium Additive has been awarded a $31 million contract by the Naval Air Systems Command (NAVAIR).
-The contract is part of the Additive Manufacturing Capability initiative, focused on qualification and, reported by 3DPrint.com on Apr 24, 2026.
-🔗 Read more: https://3dprint.com/325572/colibrium-additive-gets-31-million-navair-contract
+🖨 Save over $150 on this fantastic Elecoo resin 3D printer with 16K resolution and a tilting vat — Saturn 4 Ultra 16K is on sale for just $493 right now on Amazon - Tom's Hardware
+Save over $150 on this fantastic Elecoo resin 3D printer with 16K resolution and a tilting vat — Saturn 4 Ultra 16K is on sale for just $493 right now on Amazon Tom's Hardware
+Reported by Google News - 3D Printing on Apr 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMirgJBVV95cUxQbUcteE0yMk5JdGtfeDdVZGxVZWd4bGp6TklILVZQNjFjak81SWV6ZkFGdzF6ZE1iUmNDQ3FvNDQydi1Sb1hXUEgxLTh1ZjJoT0s1cTMzdlo1ZXRWTVE4Y3BYakdmc2ZmdmVEYlNEY1Q1aXkxVnp1VmdJTEhBSmdkOFJENThyYXVmclpfQV9hekVWNDBjM3BSYk5pSENLYk1FbC1CdkZEeEhVN0Vuc3liS0JZOUh1aWh3RFp3UXlHc2k3N2Y5Zm9BT0dfRXplVGo4Q1FiWEJJbHp0RUx5eG9LUF9jeDFjaFFreGFYTG1JNy1kbXlMWG5UTm43Q3BaZ2JscWRsaFJqb2tySmEtdC1vbVpuM01kdWpnWF9Pb3BPMTVXR1JZS2ZiQmdUNG9udw?oc=5
 
-🖨 RAPID 2026: 6K Additive’s Domestic Metal Powders &amp; Consolidation Plan
-6K Additive (ASX: 6KA), a U.S.
-supplier and manufacturer of metal powders for additive manufacturing (AM), has been very busy lately, reported by 3DPrint.com on Apr 24, 2026.
-🔗 Read more: https://3dprint.com/325581/rapid-2026-6k-additives-domestic-metal-powders-consolidation-plan
+🚀 3D Systems Corp. (DDD) Carrying Optimistic Views Following Latest Product Launch - Insider Monkey
+3D Systems Corp.
+(DDD) Carrying Optimistic Views Following Latest Product Launch Insider Monkey, reported by Google News - 3D Printing on Apr 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmxjeFhOY0hJQWtvNFhHcXAtZHc0dkVOQ3BlcFpoYngtaHdJN1R6UmJCX1FuRW9MZm1ITXJQSTZGZ0NmRFdlS21hNmRNSmJ1dWY5TWZqUlVVTk9paGRzRkt5TUlSRUdIUkp0UXhfcVprVVBLeTczaXk0endpT2Yxd1hCcWtnWEI4QTEzaEtPeDZYQlY1UVBTX1RxRnp0Umg2SS1RdHBEQ3Nrc1JtVE1xUkF6RDd2Wl9jT0Z3T1Jn0gHGAUFVX3lxTE5LMFRpckk3bmtjTEpRQlkyTjI5ZmFSdDEtbHRRVHcyU1UtOFQydTFSY0lNTHI2TDdzTmU1S1hQUVplNU5ESC1DNzVFaFFFOURqOUQ3bzB4NngyTmNEbklUSEJ0dHlTdklOZmRzb2dfbExnWjhxNDRSTTlZem1zaDlUUldRWTNaa0Y5MXlILUJ5Z0tWOTBCQWdzeUk4RjRXMUJEZVhEMHlsT3VzMHMzZ0NTdXdHalExc3BHbWxVMXVMaXJZaVI2QQ?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "ELEGOO Makes Its Mark at RAPID + TCT 2026 With Jupiter 2 and Unexpected CANVAS Debut" because it highlights where practical 3D printing innovation is moving next. Direct link: https://3dprintingindustry.com/news/elegoo-makes-its-mark-at-rapid-tct-2026-with-jupiter-2-and-unexpected-canvas-debut-250801 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "AI framework predicts metal 3D printed part strength in seconds" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.voxelmatters.com/ai-framework-predicts-metal-3d-printed-part-strength-in-seconds | Full pulse: https://www.quality3ds.com/

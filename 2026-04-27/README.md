@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-27
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #110 - 2026-04-27
+## Stories
 
 🖨 AI framework predicts metal 3D printed part strength in seconds
 Researchers at POSTECH and the Korea Institute of Materials Science (KIMS) have developed an AI-based analytical framework that can predict the mechanical strength of metal 3D printed components in seconds, … The...
@@ -47,9 +45,3 @@ Read more ? https://news.google.com/rss/articles/CBMirgJBVV95cUxQbUcteE0yMk5JdGt
 3D Systems Corp.
 (DDD) Carrying Optimistic Views Following Latest Product Launch Insider Monkey, reported by Google News - 3D Printing on Apr 26, 2026.
 Read more ? https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmxjeFhOY0hJQWtvNFhHcXAtZHc0dkVOQ3BlcFpoYngtaHdJN1R6UmJCX1FuRW9MZm1ITXJQSTZGZ0NmRFdlS21hNmRNSmJ1dWY5TWZqUlVVTk9paGRzRkt5TUlSRUdIUkp0UXhfcVprVVBLeTczaXk0endpT2Yxd1hCcWtnWEI4QTEzaEtPeDZYQlY1UVBTX1RxRnp0Umg2SS1RdHBEQ3Nrc1JtVE1xUkF6RDd2Wl9jT0Z3T1Jn0gHGAUFVX3lxTE5LMFRpckk3bmtjTEpRQlkyTjI5ZmFSdDEtbHRRVHcyU1UtOFQydTFSY0lNTHI2TDdzTmU1S1hQUVplNU5ESC1DNzVFaFFFOURqOUQ3bzB4NngyTmNEbklUSEJ0dHlTdklOZmRzb2dfbExnWjhxNDRSTTlZem1zaDlUUldRWTNaa0Y5MXlILUJ5Z0tWOTBCQWdzeUk4RjRXMUJEZVhEMHlsT3VzMHMzZ0NTdXdHalExc3BHbWxVMXVMaXJZaVI2QQ?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
