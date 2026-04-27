@@ -1,49 +1,51 @@
-﻿# 3D PRINTING PULSE #110 - 2026-04-27
+﻿# 3D PRINTING PULSE #111 - 2026-04-28
 
-🖨 AI framework predicts metal 3D printed part strength in seconds
-Researchers at POSTECH and the Korea Institute of Materials Science (KIMS) have developed an AI-based analytical framework that can predict the mechanical strength of metal 3D printed components in seconds, … The...
-Reported by VoxelMatters on Apr 26, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/AI-framework-predicts-metal-3D-printed-part-strength-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ai-framework-predicts-metal-3d-printed-part-strength-in-seconds
+🔥 The Evolution of the 3D Food Printing Market - vocal.media
+The Evolution of the 3D Food Printing Market vocal.media
+Reported by Google News - 3D Printing on Apr 27, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTE9SMnFOVHFuaHhNOUdVS1NGdzV0U2k5TWdHWHJUM3hTZTZ5SjRfRkJMSEZqN3JfU2llbFpBaHZMcUFXQl9URlVLWW13d1JfVWhDUUJsRGZGWFpWd0N3dFlNamlsUUgzUXFqeFk4TXpmOU0tVVY3VjUwQ0JHY1ZLdw?oc=5
 
-🖨 NTU researchers develop ultra-thin optical film to improve LCD resin 3D printing accuracy
-Researchers at the National Taiwan University of Science and Technology have developed an ultra-thin, double-sided optical film designed to overcome light control problems in LCD-based resin 3D printers, according to...
-Reported by VoxelMatters on Apr 26, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/ultra-thin-optical-film-to-improve-LCD-resin-3D-printing-accuracy--150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ntu-researchers-develop-ultra-thin-optical-film-to-improve-lcd-resin-3d-printing-accuracy
+♻️ 3D Print Recycling Firm RecyclingFabrik Pauses Intake to Develop Next-Generation Process
+RecyclingFabrik is expanding.
+The post 3D Print Recycling Firm RecyclingFabrik Pauses Intake to Develop Next-Generation Process appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/3d-print-recycling-firm-recyclingfabrik-pauses-intake-to-develop-next-generation-process
 
-📰 IMTS 2026 to feature over 1,800 exhibitors across 1.2 million square feet in Chicago
-IMTS – The International Manufacturing Technology Show will run September 14–19, 2026, at McCormick Place in Chicago, bringing together more than 1,800 exhibitors across 1.2 million square feet of exhibition … The...
-Reported by VoxelMatters on Apr 26, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/IMTS_Th-02-xlarge-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/imts-2026-to-feature-over-1800-exhibitors-across-1-2-million-square-feet-in-chicago
+📰 Caracol and CNC Robotics form UK partnership to support local LFAM
+Milan-based Caracol, a robotic large format additive manufacturing company, has entered into a partnership with CNC Robotics, a Liverpool-headquartered KUKA Platinum System Integrator.
+The agreement brings together Caracol, CNC Robotics, … The post Caracol and CNC Robotics form UK partnership to support local LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Caracol-CNC-partnership-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/caracol-and-cnc-robotics-form-uk-partnership-to-support-local-lfam
 
-📰 A Museum Dig, Brought to Life with 3D Printing
-At the University of Nebraska–Lincoln, a team inside the Frontier Tech Lab has built one of the most engaging examples of additive manufacturing (AM) in education right now.
-Reported by 3DPrint.com on Apr 26, 2026.
-🔗 Read more: https://3dprint.com/325641/a-museum-dig-brought-to-life-with-3d-printing
+📰 AMA: Energy 2026: Pelagus Makes The Case for Digital Inventory in Energy and Maritime
+Energy meets innovation.
+Ahead of AMA: Energy 2026, 3D Printing Industry goes deep on additive manufacturing in one of the world’s most critical sectors.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/ama-energy-2026-pelagus-makes-the-case-for-digital-inventory-in-energy-and-maritime-250637
 
-💻 Slicer Settings for “Indestructible” Battle-Bot Worthy PLA Parts
-If you follow [Maker’s Muse] on YouTube, you know he’s as passionate about robot fights these days as he is about the tools he uses to make the robots.
-Luckily …read more, reported by Hackaday 3D Printing on Apr 26, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2026/04/maker-muse-strong-pla.jpg
-🔗 Read more: https://hackaday.com/2026/04/25/slicer-settings-for-indestructible-battle-bot-worthy-pla-parts
+🚀 Eplus3D Shatters the Three-Meter Ceiling in Metal Powder Bed Fusion
+Hangzhou-based metal 3D printing manufacturer Eplus3D has launched the EP-M3050, a metal powder bed fusion system that surpasses the long-standing three-meter barrier with a 3,050 x 3,050 mm build area, up to 256...
+“Scaling metal PBF beyond three meters is…, reported by 3D Printing Industry on Apr 27, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/2-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/eplus3d-shatters-the-three-meter-ceiling-in-metal-powder-bed-fusion-250915
 
-🖨 Abilene Public Library’s teen library holds Grand Opening for new 3D Printer - abilene-rc.com
-Abilene Public Library’s teen library holds Grand Opening for new 3D Printer abilene-rc.com
-Reported by Google News - 3D Printing on Apr 26, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUVlEU0F6VWo3d2ZRT0pHMlhKRTZaNTBPcWN1X3BDcTZqanlZZExRVklZb0pyNzlzZktKOWFSOTFwakRnOVB2QXl6ZkxTZzVObzVXWV9od3F1NEloSUlrWGRYZzQ3QXdPeDlIXzB6SndqS2lHSUNuUlhsMGpkc0hOY0MzbjNQbVgzbVpQampNUVN3NzI4VkJlbGwxQjJxa2JYN3pYOFpDa2I4SjdOS3dobnRyQVB4NFZwWUcxLVIxa05jaS1odkc0NFJNR3h4dm9BM3RMZ1dJdlFKMzBWdFlOZUhuQ0FDVzVsSV9XcU5XOA?oc=5
+🚀 Volkmann launches vPort powder handling system for HP Metal Jet S100
+Volkmann GmbH, a Germany-based manufacturer of metal powder conveying equipment, has introduced the vPort, a semi-automated, contained powder handling system developed in partnership with HP Additive Manufacturing...
+Announced on April 7, 2026, the system is designed specifically for the HP Metal Jet S100 series of binder jet 3D printers and is now available in…, reported by 3D Printing Industry on Apr 27, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/image-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/volkmann-launches-vport-powder-handling-system-for-hp-metal-jet-s100-250995
 
-🖨 Save over $150 on this fantastic Elecoo resin 3D printer with 16K resolution and a tilting vat — Saturn 4 Ultra 16K is on sale for just $493 right now on Amazon - Tom's Hardware
-Save over $150 on this fantastic Elecoo resin 3D printer with 16K resolution and a tilting vat — Saturn 4 Ultra 16K is on sale for just $493 right now on Amazon Tom's Hardware
-Reported by Google News - 3D Printing on Apr 26, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirgJBVV95cUxQbUcteE0yMk5JdGtfeDdVZGxVZWd4bGp6TklILVZQNjFjak81SWV6ZkFGdzF6ZE1iUmNDQ3FvNDQydi1Sb1hXUEgxLTh1ZjJoT0s1cTMzdlo1ZXRWTVE4Y3BYakdmc2ZmdmVEYlNEY1Q1aXkxVnp1VmdJTEhBSmdkOFJENThyYXVmclpfQV9hekVWNDBjM3BSYk5pSENLYk1FbC1CdkZEeEhVN0Vuc3liS0JZOUh1aWh3RFp3UXlHc2k3N2Y5Zm9BT0dfRXplVGo4Q1FiWEJJbHp0RUx5eG9LUF9jeDFjaFFreGFYTG1JNy1kbXlMWG5UTm43Q3BaZ2JscWRsaFJqb2tySmEtdC1vbVpuM01kdWpnWF9Pb3BPMTVXR1JZS2ZiQmdUNG9udw?oc=5
+🏠 PERI and partners complete 12-unit 3D printed social housing in France
+Almost exactly a year ago, PERI 3D Construction announced it would be 3D printing a multi-family apartment building in Bezannes, France as part of a social housing initiative.
+The housing … The post PERI and partners complete 12-unit 3D printed social housing in France appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/peri-france-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/peri-and-partners-complete-12-unit-3d-printed-social-housing-in-france
 
-🚀 3D Systems Corp. (DDD) Carrying Optimistic Views Following Latest Product Launch - Insider Monkey
-3D Systems Corp.
-(DDD) Carrying Optimistic Views Following Latest Product Launch Insider Monkey, reported by Google News - 3D Printing on Apr 26, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmxjeFhOY0hJQWtvNFhHcXAtZHc0dkVOQ3BlcFpoYngtaHdJN1R6UmJCX1FuRW9MZm1ITXJQSTZGZ0NmRFdlS21hNmRNSmJ1dWY5TWZqUlVVTk9paGRzRkt5TUlSRUdIUkp0UXhfcVprVVBLeTczaXk0endpT2Yxd1hCcWtnWEI4QTEzaEtPeDZYQlY1UVBTX1RxRnp0Umg2SS1RdHBEQ3Nrc1JtVE1xUkF6RDd2Wl9jT0Z3T1Jn0gHGAUFVX3lxTE5LMFRpckk3bmtjTEpRQlkyTjI5ZmFSdDEtbHRRVHcyU1UtOFQydTFSY0lNTHI2TDdzTmU1S1hQUVplNU5ESC1DNzVFaFFFOURqOUQ3bzB4NngyTmNEbklUSEJ0dHlTdklOZmRzb2dfbExnWjhxNDRSTTlZem1zaDlUUldRWTNaa0Y5MXlILUJ5Z0tWOTBCQWdzeUk4RjRXMUJEZVhEMHlsT3VzMHMzZ0NTdXdHalExc3BHbWxVMXVMaXJZaVI2QQ?oc=5
+📰 AML3D reports $20 million in YTD orders as US defence contracts drive quarterly growth
+AML3D has recorded $2.2 million (AUD) in customer receipts for the quarter ending 31 March 2026, holding a consistent run rate across the previous four quarters and bringing total year-to-date … The post AML3D...
+Reported by VoxelMatters on Apr 27, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2024/12/2021-09-14-AML3D-P-Chock-1149-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/aml3d-reports-20-million-in-ytd-orders-as-us-defence-contracts-drive-quarterly-growth
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "AI framework predicts metal 3D printed part strength in seconds" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.voxelmatters.com/ai-framework-predicts-metal-3d-printed-part-strength-in-seconds | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "The Evolution of the 3D Food Printing Market - vocal.media" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMifkFVX3lxTE9SMnFOVHFuaHhNOUdVS1NGdzV0U2k5TWdHWHJUM3hTZTZ5SjRfRkJMSEZqN3JfU2llbFpBaHZMcUFXQl9URlVLWW13d1JfVWhDUUJsRGZGWFpWd0N3dFlNamlsUUgzUXFqeFk4TXpmOU0tVVY3VjUwQ0JHY1ZLdw?oc=5 | Explore more: https://www.quality3ds.com/

@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-28
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #111 - 2026-04-28
+## Stories
 
 🔥 The Evolution of the 3D Food Printing Market - vocal.media
 The Evolution of the 3D Food Printing Market vocal.media
@@ -49,9 +47,3 @@ AML3D has recorded $2.2 million (AUD) in customer receipts for the quarter endin
 Reported by VoxelMatters on Apr 27, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2024/12/2021-09-14-AML3D-P-Chock-1149-150x150.jpeg
 Read more ? https://www.voxelmatters.com/aml3d-reports-20-million-in-ytd-orders-as-us-defence-contracts-drive-quarterly-growth
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
