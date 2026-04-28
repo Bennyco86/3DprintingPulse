@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-29
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #112 - 2026-04-29
+## Stories
 
 🚨 Bambu Lab launches X2D dual-nozzle 3D printer targeting reduced post-processing and material waste
 Bambu Lab has introduced the X2D, the second-generation system in its flagship X Series of desktop 3D printers.
@@ -49,9 +47,3 @@ SHINING 3D has received a Red Dot Award 2026 for its FreeScan Omni 3D scanner, w
 Reported by VoxelMatters on Apr 28, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/SHINING-3D-FreeScan-Omni-Red-Dot-Award-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/shining-3ds-freescan-omni-wins-red-dot-award-2026-for-industrial-design
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

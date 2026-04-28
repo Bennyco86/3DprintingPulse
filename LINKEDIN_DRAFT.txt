@@ -1,51 +1,51 @@
-﻿# 3D PRINTING PULSE #111 - 2026-04-28
+﻿# 3D PRINTING PULSE #112 - 2026-04-29
 
-🔥 The Evolution of the 3D Food Printing Market - vocal.media
-The Evolution of the 3D Food Printing Market vocal.media
-Reported by Google News - 3D Printing on Apr 27, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTE9SMnFOVHFuaHhNOUdVS1NGdzV0U2k5TWdHWHJUM3hTZTZ5SjRfRkJMSEZqN3JfU2llbFpBaHZMcUFXQl9URlVLWW13d1JfVWhDUUJsRGZGWFpWd0N3dFlNamlsUUgzUXFqeFk4TXpmOU0tVVY3VjUwQ0JHY1ZLdw?oc=5
+🚨 Bambu Lab launches X2D dual-nozzle 3D printer targeting reduced post-processing and material waste
+Bambu Lab has introduced the X2D, the second-generation system in its flagship X Series of desktop 3D printers.
+The new machine features a dual-nozzle extrusion system with mechanical switching, designed to simplify support removal, reduce material waste, and maintain consistent print quality over time, reported by 3D Printing Industry on Apr 28, 2026.
+Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/image-5-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/bambu-lab-launches-x2d-dual-nozzle-3d-printer-targeting-reduced-post-processing-and-material-waste-251005
 
-♻️ 3D Print Recycling Firm RecyclingFabrik Pauses Intake to Develop Next-Generation Process
-RecyclingFabrik is expanding.
-The post 3D Print Recycling Firm RecyclingFabrik Pauses Intake to Develop Next-Generation Process appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/3d-print-recycling-firm-recyclingfabrik-pauses-intake-to-develop-next-generation-process
+♻️ We Tested Fillamentum’s New Recycled PETG, It Didn’t Feel Like an Eco-Compromise - All3DP
+We Tested Fillamentum’s New Recycled PETG, It Didn’t Feel Like an Eco-Compromise All3DP
+Reported by Google News - 3D Printing on Apr 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2FJX3o0ejBrNkVjZDYwVUcxUS1tV1pGMm5KWU1JYXE1Z0NLNjVQSE9HNkR4ZE9wenhuUGc1Yk9PdGQ1R3B0U2FyVVVKT2ZHVzVUVEhqSF93VThCZkZ0cENKV1c3ZzlEQ2FEOXJKeGZ0OGpmUWF2eTBCcXl4aTA3c25YRnpQbDRITWk0UDlxZ3dMZlhqRlUydFU0SHJ6ZGR4?oc=5
 
-📰 Caracol and CNC Robotics form UK partnership to support local LFAM
-Milan-based Caracol, a robotic large format additive manufacturing company, has entered into a partnership with CNC Robotics, a Liverpool-headquartered KUKA Platinum System Integrator.
-The agreement brings together Caracol, CNC Robotics, … The post Caracol and CNC Robotics form UK partnership to support local LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Caracol-CNC-partnership-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/caracol-and-cnc-robotics-form-uk-partnership-to-support-local-lfam
+🚨 Elegoo launches the multi-colour system long promised for its best-selling Centauri Carbon 3D printer - Creative Bloq
+Elegoo launches the multi-colour system long promised for its best-selling Centauri Carbon 3D printer Creative Bloq
+Reported by Google News - 3D Printing on Apr 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMizgFBVV95cUxPWThTcjJuN0VJRjFzRGtyQkxQMHd6UG9DSTNwT1BnTWdUcm1LejRISDVFVWt6NHdvNjNMeE9uVjNFR29FblZfc2dUQjZ0eUQtLTRMdlVZWlRDX1dvMzRLbTBjbE1uWldONkpPc0ZXWjhUNGJjdUQ4aUlFYl9rbVpBaU9LVlVqMlVRejBjVzBPeVpFX3dFQkR1ZWl4X294aENjejBBX3FrZnNwYmNWbko2OGVBTjNDcHJGdlQzNmdCMVV3WTY4ZFlLOTR0dVRSZw?oc=5
 
-📰 AMA: Energy 2026: Pelagus Makes The Case for Digital Inventory in Energy and Maritime
-Energy meets innovation.
-Ahead of AMA: Energy 2026, 3D Printing Industry goes deep on additive manufacturing in one of the world’s most critical sectors.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/4-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/ama-energy-2026-pelagus-makes-the-case-for-digital-inventory-in-energy-and-maritime-250637
+🚨 Anycubic Kobra S1 ACE 2 Pro 3D printer launches with 16 colors, filament drying and discount - Notebookcheck
+Anycubic Kobra S1 ACE 2 Pro 3D printer launches with 16 colors, filament drying and discount Notebookcheck
+Reported by Google News - Filament Recycling on Apr 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcXJ2dzUxbTF2NTZBaVM3UEdFT0taN0ZXanFTVkpSbWhjb3R5TC13SUR4Uk1MMTNlVXl3Y3RVTzFWTGlyWGh6VzA4cTRTazFRaTEyQzVaVW1KNmFOaHdxX3JDVE5uc0U0b2dqVEtHeFVLWEhaN0NDVjVoVWt3d21yNHhNS2RkRDRBZHAtNUxtVmxJMl9zNm51UDRXQmFPTW1IUkFsUDFqcE43bDJNWDJfbHAtaGkyM2phcE94bGozTExqY1IwX245TlpYNi1mNUU4YVE?oc=5
 
-🚀 Eplus3D Shatters the Three-Meter Ceiling in Metal Powder Bed Fusion
-Hangzhou-based metal 3D printing manufacturer Eplus3D has launched the EP-M3050, a metal powder bed fusion system that surpasses the long-standing three-meter barrier with a 3,050 x 3,050 mm build area, up to 256...
-“Scaling metal PBF beyond three meters is…, reported by 3D Printing Industry on Apr 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/2-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/eplus3d-shatters-the-three-meter-ceiling-in-metal-powder-bed-fusion-250915
+🚀 HP and Craftcloud launch on-demand MJF parts portal with instant quoting
+HP Additive Manufacturing Solutions (HP AM) and Craftcloud, the Munich-based advanced manufacturing marketplace, have launched a joint on-demand ordering portal that gives engineers and designers direct access to...
+Reported by VoxelMatters on Apr 28, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/HP-Craftcloud-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/hp-and-craftcloud-launch-on-demand-mjf-parts-portal-with-instant-quoting
 
-🚀 Volkmann launches vPort powder handling system for HP Metal Jet S100
-Volkmann GmbH, a Germany-based manufacturer of metal powder conveying equipment, has introduced the vPort, a semi-automated, contained powder handling system developed in partnership with HP Additive Manufacturing...
-Announced on April 7, 2026, the system is designed specifically for the HP Metal Jet S100 series of binder jet 3D printers and is now available in…, reported by 3D Printing Industry on Apr 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/image-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/volkmann-launches-vport-powder-handling-system-for-hp-metal-jet-s100-250995
+📰 Alexander Wang debuts Griphoria, the first 3D printed stiletto
+Known for his edgy garments and focus on black, American designer Alexander Wang is no stranger to pushing the boundaries of fashion.
+His brand’s latest footwear release exemplifies this boldness: … The post Alexander Wang debuts Griphoria, the first 3D printed stiletto appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/griphoria-alexander-wang-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/alexander-wang-steps-it-up-with-first-3d-printed-stiletto
 
-🏠 PERI and partners complete 12-unit 3D printed social housing in France
-Almost exactly a year ago, PERI 3D Construction announced it would be 3D printing a multi-family apartment building in Bezannes, France as part of a social housing initiative.
-The housing … The post PERI and partners complete 12-unit 3D printed social housing in France appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/peri-france-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/peri-and-partners-complete-12-unit-3d-printed-social-housing-in-france
+📰 3D Systems receives Class IIa EU certification for NextDent Jet Base and NextDent Jet Teeth materials
+This regulatory milestone enables the immediate commercialisation of the complete NextDent Jetted Denture Solution across the EU.
+Reported by TCT Magazine on Apr 28, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/nextdent-base.jpg.png
+🔗 Read more: https://www.tctmagazine.com/3d-systems-receives-class-iia-eu-certification-for-nextdent-jet-base-and-nextdent-jet-teeth-materials
 
-📰 AML3D reports $20 million in YTD orders as US defence contracts drive quarterly growth
-AML3D has recorded $2.2 million (AUD) in customer receipts for the quarter ending 31 March 2026, holding a consistent run rate across the previous four quarters and bringing total year-to-date … The post AML3D...
-Reported by VoxelMatters on Apr 27, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2024/12/2021-09-14-AML3D-P-Chock-1149-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/aml3d-reports-20-million-in-ytd-orders-as-us-defence-contracts-drive-quarterly-growth
+📷 SHINING 3D’s FreeScan Omni wins Red Dot Award 2026 for industrial design
+SHINING 3D has received a Red Dot Award 2026 for its FreeScan Omni 3D scanner, with judges highlighting the device’s combination of industrial design quality and metrology-grade functionality in their … The post...
+Reported by VoxelMatters on Apr 28, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/SHINING-3D-FreeScan-Omni-Red-Dot-Award-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/shining-3ds-freescan-omni-wins-red-dot-award-2026-for-industrial-design
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "The Evolution of the 3D Food Printing Market - vocal.media" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMifkFVX3lxTE9SMnFOVHFuaHhNOUdVS1NGdzV0U2k5TWdHWHJUM3hTZTZ5SjRfRkJMSEZqN3JfU2llbFpBaHZMcUFXQl9URlVLWW13d1JfVWhDUUJsRGZGWFpWd0N3dFlNamlsUUgzUXFqeFk4TXpmOU0tVVY3VjUwQ0JHY1ZLdw?oc=5 | Explore more: https://www.quality3ds.com/
+Today's pulse focus is Bambu Lab's X2D launch: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system that raises capability for advanced materials. Story link: https://3dprintingindustry.com/news/bambu-lab-launches-x2d-dual-nozzle-3d-printer-targeting-reduced-post-processing-and-material-waste-251005 | Full pulse: https://www.quality3ds.com/
