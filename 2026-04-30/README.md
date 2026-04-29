@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-04-30
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #113 - 2026-04-30
+## Stories
 
 🔥 Firestorm Labs Raises $82 Million To Transition Mobile 3D Printing Tech, Drones Into Production - Defense Daily
 Firestorm Labs Raises $82 Million To Transition Mobile 3D Printing Tech, Drones Into Production Defense Daily
@@ -47,9 +45,3 @@ Read more ? https://www.tctmagazine.com/amnovis-acquires-westconn-precision-tech
 The certification, secured ahead of a … The post 3D Systems’ NextDent Jetted Denture Solution EU certified two months ahead of schedule appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/3D-Systems-NextDent-EU-certification-150x150.jpg
 Read more ? https://www.voxelmatters.com/3d-systems-nextdent-jetted-denture-solution-eu-certified-two-months-ahead-of-schedule
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
