@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-01
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #114 - 2026-05-01
+## Stories
 
 🔥 AI Learns to Work Around Metal 3D Printing Defects
 Researchers at POSTECH and the Korea Institute of Materials Science (KIMS) have developed an AI framework that predicts the mechanical strength of metal 3D printed components in seconds, even in the presence of...
@@ -50,9 +48,3 @@ Department of Energy‘s (DOE) Oak Ridge National Laboratory (ORNL) claimed the 
 The honor spotlights standout real-world deployments of 3D printing, and ORNL’s entry, focused on nuclear construction, impressed judges for its…, reported by 3D Printing Industry on Apr 30, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/1775854974567-150x100.jpeg
 Read more ? https://3dprintingindustry.com/news/ornl-wins-award-for-using-3d-printing-to-build-nuclear-infrastructure-251032
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
