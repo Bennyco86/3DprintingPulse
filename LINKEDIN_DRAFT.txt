@@ -1,52 +1,50 @@
-﻿# 3D PRINTING PULSE #114 - 2026-05-01
+﻿# 3D PRINTING PULSE #115 - 2026-05-02
 
-🔥 AI Learns to Work Around Metal 3D Printing Defects
-Researchers at POSTECH and the Korea Institute of Materials Science (KIMS) have developed an AI framework that predicts the mechanical strength of metal 3D printed components in seconds, even in the presence of...
-Their work, published in Acta Materialia, offers a model designed not to eliminate flaws, but to work with them, a…, reported by 3D Printing Industry on Apr 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/1-s2.0-S1359645426002077-ga1_lrg-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/ai-learns-to-work-around-metal-3d-printing-defects-251126
+🔥 ACA.fablab.adv.012.jpg - The Advocate
+ACA.fablab.adv.012.jpg The Advocate
+Reported by Google News - 3D Printing on May 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxOTTVSNzhTYWRvdGlLd2k3SXVvYVRLczhiV1FwdkZXd1NiSHV6VG5RWGtFX2ZmT2xvMFlLOWpZQU16aGowdDEyV0FHZEhGRHR6ZlEzN19yaS1SNjFJS3U1M1JwYlBtbXN3NWRGbnVjQnBKaW1RSjZleklRZ3NRbTJlQXlKTFNoVXdfSXpNbTJ6aURXamxscXJDV3pFTFZjd3c?oc=5
 
-🔥 6K Energy Secures 7-Year Agreement to Supply CRG Defense with Battery Materials
-Last year, the US Federal Communications Commission (FCC) announced a ban on certain components sourced from foreign suppliers, including Chinese firms, used in unmanned aerial systems (UAS).
-Meanwhile, the FY, reported by 3DPrint.com on Apr 30, 2026.
-🔗 Read more: https://3dprint.com/325722/6k-energy-secures-7-year-agreement-to-supply-crg-defense-with-battery-materials
+🔥 Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer - Manufactur3D
+Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer Manufactur3D
+Reported by Google News - 3D Printing Viral on May 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE9PVFk3S3pQYzVpTEZkcGxZSXFtaHJNTkNGVV9CN29WdGI2X0FGdWpiUzFnSUVXaC16Yi1BODdRMm5DZUM3QlNtb3NPaklMVTQ2SHFBUTIwLUR2eVdYZG5hRHpTZ09pMlRJTDRmMWdoaVNLZVI5S0ZETG1KWQ?oc=5
 
-📰 Amnovis establishes US operations and acquires Westconn Precision Technologies’ AM activities
-Belgian additive manufacturing contract manufacturer Amnovis has established a new operational entity in the United States and, at the same time, acquired the additive manufacturing activities of Westconn Precision...
-… The post Amnovis establishes US operations and acquires Westconn Precision Technologies’ AM activities appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Amnovis-US-expansion-05-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/amnovis-establishes-us-operations-and-acquires-westconn-precision-technologies-am-activities
+♻️ AI And Digital Twin Manufacturing Architecture For Small Businesses
+Researchers described a practical AI and Digital Twin architecture to enable SMEs to use closed-loop small-batch additive manufacturing.
+The post AI And Digital Twin Manufacturing Architecture For Small Businesses appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/ai-and-digital-twin-architecture-for-smes
 
-🚀 Vivobarefoot launches custom-fit 3D printed Tabi Gen 02 sandals
-Vivobarefoot, a footwear company specializing in minimalist “barefoot” shoes, has embraced 3D printing for its ability to offer greater customization for wearers.
-Last year, the company launched its first 3D … The post Vivobarefoot launches custom-fit 3D printed Tabi Gen 02 sandals appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/tabi-gen-02-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/vivobarefoot-launches-custom-fit-3d-printed-tabi-gen-02-sandals
+🚀 America Makes launches two further defense-focused project calls totaling $25.6M
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have opened two project calls with a combined $25.6 million in funding, both directed at advancing additive manufacturing … The...
+Reported by VoxelMatters on May 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/10/America-Makes-facility-face-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/america-makes-launches-two-further-defense-focused-project-calls-totaling-25-6m
 
-🖨 3DXTECH and BigRep partner for US market expansion
-3DXTECH, a leading US manufacturer of high-performance 3D printing filaments, has entered a reseller partnership with German large-format industrial 3D printing systems provider BigRep.
-Under the agreement, 3DXTECH will offer … The post 3DXTECH and BigRep partner for US market expansion appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/3DXTECH-partners-with-BigRep-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/3dxtech-and-bigrep-partner-for-us-market-expansion
+💻 Nike ups 3D printing efficiency with new Air Max 1000.2
+Spring 2026 is shaping up to be a big season for 3D printed footwear.
+Not only did adidas officially unveil its first 3D printed basketball shoes and soccer cleats, but … The post Nike ups 3D printing efficiency with new Air Max 1000.2 appeared first on VoxelMatters - The heart of...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/airmax-1000-2-black-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/nike-ups-3d-printing-efficiency-with-new-air-max-1000-2
 
-🦺 Researchers develop Voronoi-based scaffold design tool for extrusion 3D printing of lung tissue models
-Researchers from Politecnico di Torino and Maastricht University have developed a bioinspired scaffold design approach using a custom Voronoi path generator for extrusion-based 3D printing.
-Published in Biomaterials Science, the study introduces a Python-based software tool that enables the fabrication of irregular, biomimetic structures through melt electrowriting (MEW) and fused deposition modelling, reported by 3D Printing Industry on Apr 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/image-11-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/researchers-develop-voronoi-based-scaffold-design-tool-for-extrusion-3d-printing-of-lung-tissue-models-251045
+🖨 US Navy depot delivers first flight-certified metal 3D printed parts to fleet
+The US Navy aviation repair and maintenance facility, Fleet Readiness Center East (FRCE), has delivered its first flight-certified metal additive-manufactured parts to the US Navy fleet, marking a shift in … The post...
+Reported by VoxelMatters on May 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/FRCE-airplane-parts-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/us-navy-depot-delivers-first-flight-certified-metal-3d-printed-parts-to-fleet
 
-🦺 Ultra-Thin Optical Film Pushes Budget Resin Printers Toward Professional Precision
-Researchers from the National Taiwan University of Science and Technology have created an ultra-thin optical film capable of enhancing light quality in LCD resin-based 3D printers, a development that may bring...
-Resin-based 3D printing, also known as vat photopolymerization, works by…, reported by 3D Printing Industry on Apr 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/picture1_1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/ultra-thin-optical-film-pushes-budget-resin-printers-toward-professional-precision-251021
+🚀 New PAMA website and monthly research series for photopolymer AM community
+The Photopolymer Additive Manufacturing Alliance (PAMA) — a collaboration between the National Institute for Standards and Technology (NIST) and RadTech, the Association for UV+EB Technology — has relaunched its...
+Reported by VoxelMatters on May 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/PAMA-website-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/new-pama-website-and-monthly-research-series-for-photopolymer-am-community
 
-🏠 ORNL Wins Award for Using 3D Printing to Build Nuclear Infrastructure
-Department of Energy‘s (DOE) Oak Ridge National Laboratory (ORNL) claimed the 2026 SME Aubin Additive Manufacturing Case Study Award at the SME AM Awards and TCT Awards Gala, held April 14 in Boston.
-The honor spotlights standout real-world deployments of 3D printing, and ORNL’s entry, focused on nuclear construction, impressed judges for its…, reported by 3D Printing Industry on Apr 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/1775854974567-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/ornl-wins-award-for-using-3d-printing-to-build-nuclear-infrastructure-251032
+📰 Application spotlight: Mimaki's colour 3D printing technology used in LIV Golf art project
+How Mimaki's full-colour 3D printing technology supported a LIV Golf art project.
+Reported by TCT Magazine on May 01, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/image--19--1.png
+🔗 Read more: https://www.tctmagazine.com/application-spotlight-mimakis-colour-3d-printing-technology-used-in-liv-golf-art-project
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "AI Learns to Work Around Metal 3D Printing Defects" because it highlights where practical 3D printing innovation is moving next. Story link: https://3dprintingindustry.com/news/ai-learns-to-work-around-metal-3d-printing-defects-251126 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer - Manufactur3D" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9PVFk3S3pQYzVpTEZkcGxZSXFtaHJNTkNGVV9CN29WdGI2X0FGdWpiUzFnSUVXaC16Yi1BODdRMm5DZUM3QlNtb3NPaklMVTQ2SHFBUTIwLUR2eVdYZG5hRHpTZ09pMlRJTDRmMWdoaVNLZVI5S0ZETG1KWQ?oc=5 | Full coverage: https://www.quality3ds.com/

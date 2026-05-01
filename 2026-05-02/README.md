@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-02
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #115 - 2026-05-02
+## Stories
 
 🔥 ACA.fablab.adv.012.jpg - The Advocate
 ACA.fablab.adv.012.jpg The Advocate
@@ -48,9 +46,3 @@ How Mimaki's full-colour 3D printing technology supported a LIV Golf art project
 Reported by TCT Magazine on May 01, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/image--19--1.png
 Read more ? https://www.tctmagazine.com/application-spotlight-mimakis-colour-3d-printing-technology-used-in-liv-golf-art-project
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
