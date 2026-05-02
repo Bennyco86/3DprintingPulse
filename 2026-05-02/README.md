@@ -2,47 +2,42 @@
 
 ## Stories
 
-🔥 ACA.fablab.adv.012.jpg - The Advocate
-ACA.fablab.adv.012.jpg The Advocate
-Reported by Google News - 3D Printing on May 01, 2026.
-Read more ? https://news.google.com/rss/articles/CBMinwFBVV95cUxOTTVSNzhTYWRvdGlLd2k3SXVvYVRLczhiV1FwdkZXd1NiSHV6VG5RWGtFX2ZmT2xvMFlLOWpZQU16aGowdDEyV0FHZEhGRHR6ZlEzN19yaS1SNjFJS3U1M1JwYlBtbXN3NWRGbnVjQnBKaW1RSjZleklRZ3NRbTJlQXlKTFNoVXdfSXpNbTJ6aURXamxscXJDV3pFTFZjd3c?oc=5
+🔥 Today's Pulse is different: Vibe CADing and vibe 3D model generation
+Instead of a normal roundup, today's focus is the new AI-assisted design workflow for makers. The big idea: start with a prompt, image, or rough generated mesh, then use CAD and slicer checks to turn that first draft into something printable.
+Read more ? https://www.quality3ds.com/
 
-🔥 Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer - Manufactur3D
-Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer Manufactur3D
-Reported by Google News - 3D Printing Viral on May 01, 2026.
-Read more ? https://news.google.com/rss/articles/CBMie0FVX3lxTE9PVFk3S3pQYzVpTEZkcGxZSXFtaHJNTkNGVV9CN29WdGI2X0FGdWpiUzFnSUVXaC16Yi1BODdRMm5DZUM3QlNtb3NPaklMVTQ2SHFBUTIwLUR2eVdYZG5hRHpTZ09pMlRJTDRmMWdoaVNLZVI5S0ZETG1KWQ?oc=5
+🧠 Fusion + Claude brings AI into real CAD work
+Autodesk Fusion connecting with Claude through MCP is the strongest current signal that Vibe CADing is becoming real. Claude can work with design context and trigger structured Fusion actions, which moves AI from "talking about the model" toward helping build and edit the model.
+Reported by Autodesk and Anthropic on Apr 28, 2026.
+Read more ? https://aps.autodesk.com/blog/bringing-fusion-claude-creative-work
+Read more ? https://www.anthropic.com/news/claude-for-creative-work
 
-♻️ AI And Digital Twin Manufacturing Architecture For Small Businesses
-Researchers described a practical AI and Digital Twin architecture to enable SMEs to use closed-loop small-batch additive manufacturing.
-The post AI And Digital Twin Manufacturing Architecture For Small Businesses appeared on Fabbaloo.
-Read more ? https://www.fabbaloo.com/news/ai-and-digital-twin-architecture-for-smes
+☁️ Onshape is the cloud-CAD angle to watch
+We have touched on Vibe CADing with Onshape before, after an Onshape-style AI CAD workflow was shared around LinkedIn and then reshared on the Quality3Ds feed. Today's angle is the bigger picture: Onshape is not an official Claude MCP launch, but its cloud API and integration model make it a natural place for agent-driven CAD workflows. Community MCP projects already show how AI could start interacting with Onshape-style documents and features.
+Read more ? https://www.onshape.com/en/features/integrations
+Read more ? https://www.onshape.com/de/blog/cloud-native-cad-rest-api
+Read more ? https://github.com/BLamy/onshape-mcp
 
-🚀 America Makes launches two further defense-focused project calls totaling $25.6M
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have opened two project calls with a combined $25.6 million in funding, both directed at advancing additive manufacturing … The...
-Reported by VoxelMatters on May 01, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2025/10/America-Makes-facility-face-150x150.jpg
-Read more ? https://www.voxelmatters.com/america-makes-launches-two-further-defense-focused-project-calls-totaling-25-6m
+🎨 Image generators help makers design the look first
+For vibe 3D design, the first step can be a generated concept image. Use image tools to explore the silhouette, style, proportions, texture, and product feel before you spend time in CAD. This is useful for props, miniatures, lamp shades, display stands, custom enclosures, and product-shape ideas.
+Read more ? https://platform.openai.com/docs/guides/images
+Read more ? https://www.adobe.com/products/firefly.html
 
-💻 Nike ups 3D printing efficiency with new Air Max 1000.2
-Spring 2026 is shaping up to be a big season for 3D printed footwear.
-Not only did adidas officially unveil its first 3D printed basketball shoes and soccer cleats, but … The post Nike ups 3D printing efficiency with new Air Max 1000.2 appeared first on VoxelMatters - The heart of...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/airmax-1000-2-black-1-150x150.jpeg
-Read more ? https://www.voxelmatters.com/nike-ups-3d-printing-efficiency-with-new-air-max-1000-2
+🧱 Image-to-3D tools turn the vibe into rough geometry
+Tools like Meshy, Tripo, and Hyper3D Rodin can turn a reference image into a rough 3D mesh. That mesh is usually not a final engineering file, but it can be a fast starting point for visual models, character parts, decorative objects, and early product concepts.
+Read more ? https://www.meshy.ai/features/image-to-3d
+Read more ? https://www.tripo3d.ai/features/image-to-3d-model/
+Read more ? https://hyper3d.ai/tools/realistic-3d-model-generator
 
-🖨 US Navy depot delivers first flight-certified metal 3D printed parts to fleet
-The US Navy aviation repair and maintenance facility, Fleet Readiness Center East (FRCE), has delivered its first flight-certified metal additive-manufactured parts to the US Navy fleet, marking a shift in … The post...
-Reported by VoxelMatters on May 01, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/FRCE-airplane-parts-150x150.jpg
-Read more ? https://www.voxelmatters.com/us-navy-depot-delivers-first-flight-certified-metal-3d-printed-parts-to-fleet
+🛠 CAD cleanup is where the file becomes printable
+The AI model gives you the first draft. CAD cleanup makes it useful. Before printing, check scale, wall thickness, overhangs, flat faces, holes, clearances, split lines, manifold geometry, and slicer preview. For functional parts, rebuild the important geometry in Fusion, Onshape, Blender, or another tool you trust.
+Read more ? https://www.autodesk.com/products/fusion-360/overview
+Read more ? https://www.onshape.com/en/
+Read more ? https://www.blender.org/
 
-🚀 New PAMA website and monthly research series for photopolymer AM community
-The Photopolymer Additive Manufacturing Alliance (PAMA) — a collaboration between the National Institute for Standards and Technology (NIST) and RadTech, the Association for UV+EB Technology — has relaunched its...
-Reported by VoxelMatters on May 01, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/PAMA-website-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/new-pama-website-and-monthly-research-series-for-photopolymer-am-community
+⚠️ Prompt-to-print still needs human judgement
+AI-generated 3D models can look good and still fail as prints. Watch for non-manifold surfaces, fake threads, weak thin sections, uneven symmetry, unsupported overhangs, and holes that do not match real screws or bearings. The rule is simple: AI replaces the blank page, not engineering judgement.
+Read more ? https://help.prusa3d.com/article/model-repair-stl-files_2208
 
-📰 Application spotlight: Mimaki's colour 3D printing technology used in LIV Golf art project
-How Mimaki's full-colour 3D printing technology supported a LIV Golf art project.
-Reported by TCT Magazine on May 01, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/04/image--19--1.png
-Read more ? https://www.tctmagazine.com/application-spotlight-mimakis-colour-3d-printing-technology-used-in-liv-golf-art-project
+---
+*Originally published at: https://www.quality3ds.com/*
