@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-04
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #117 - 2026-05-04
+## Stories
 
 🔥 Firestorm Labs secures $82 million Series B to scale forward-deployed manufacturing platform
 Firestorm Labs, a defense technology company focused on producing combat systems, has raised $82 million in Series B funding, bringing its total capital raised to $153 million.
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMifkFVX3lxTFBIeEhPcnV5OG4xWTB
 Roots Artist of the Month: 3D Artist and Windgate Fellow Chrissy Kuiper The Eastern Echo
 Reported by Google News - 3D Printing on May 03, 2026.
 Read more ? https://news.google.com/rss/articles/CBMitAFBVV95cUxOZF83UWp3TUJBSmwtMDlkcldleWt2RHhhcEU1RVEwWnlmWnpmWmNJcVVYSmJFMDlzUDMwY09zRmVUaGU2Q2IyZHVqUzNaeVJRTjRyOHU1cS03UFQ1TmU4Q0hmalp6TGhZaldUd3otR0tqT21BQlg3T0RRM0djbXhYNVpoS2JzdndQdjgzRWRCY2Y1UExlbjBiNVpjYlpaU0N2VDFpc1FHLUV0X0xLbmZReXlkdlE?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

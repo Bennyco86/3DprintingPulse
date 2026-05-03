@@ -1,51 +1,47 @@
-﻿# 3D PRINTING PULSE #116 - 2026-05-03
+﻿# 3D PRINTING PULSE #117 - 2026-05-04
 
-🔥 Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer - Manufactur3D
-Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer Manufactur3D
-Reported by Google News - 3D Printing Viral on May 02, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE9PVFk3S3pQYzVpTEZkcGxZSXFtaHJNTkNGVV9CN29WdGI2X0FGdWpiUzFnSUVXaC16Yi1BODdRMm5DZUM3QlNtb3NPaklMVTQ2SHFBUTIwLUR2eVdYZG5hRHpTZ09pMlRJTDRmMWdoaVNLZVI5S0ZETG1KWQ?oc=5
+🔥 Firestorm Labs secures $82 million Series B to scale forward-deployed manufacturing platform
+Firestorm Labs, a defense technology company focused on producing combat systems, has raised $82 million in Series B funding, bringing its total capital raised to $153 million.
+The round was … The post Firestorm Labs secures $82 million Series B to scale forward-deployed manufacturing platform appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Firestorm-Labs-Series-B-raise-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/firestorm-labs-secures-82-million-series-b-to-scale-forward-deployed-manufacturing-platform
 
-🔥 First Look: Viral's $14,500 Optimist 145 Dream Machine - Pinkbike
-First Look: Viral's $14,500 Optimist 145 Dream Machine Pinkbike
-Reported by Google News - 3D Printing Viral on May 01, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOGJRbFVuUjVrVzB5a2pLYkpkUnB6Y0RoVDAxMVpDUm8zaDB5UmdGT1NxU3NvbHQwdWhEZXVZRTUzd2VqT0ZJMnMza3lXdm5OSDNxNDNxUjRCQnB2c2R3WUlLYVNwSEg2aDhkMER5ejRRX1dob0lGdWRnaVpwS08taXBBUGcwbHMybm1N?oc=5
+🚀 Rosatom ships RusBeam 2800 electron beam 3D printer to India for aerospace use
+Rosatom‘s Fuel Division has delivered its RusBeam 2800 industrial 3D printer to India, in a deal that marks the Russian state corporation’s entry into the Indian additive manufacturing market.
+The … The post Rosatom ships RusBeam 2800 electron beam 3D printer to India for aerospace use appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Rosatom-India-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/rosatom-ships-rusbeam-2800-electron-beam-3d-printer-to-india-for-aerospace-use
 
-📰 Apollo Automobil hypercar sports a 3D printed titanium “dragon skin” inspired exhaust
-Apollo Automobil has revealed a stunning “Dragon Skin Exhaust” for its Apollo EVO hypercar – a one-piece, fully titanium, laser-sintered component that took 123 hours to produce.
-The striking exhaust … The post Apollo Automobil hypercar sports a 3D printed titanium “dragon skin” inspired exhaust appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Apollo-EVO-exhaust-03-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/apollo-automobil-hypercar-sports-a-3d-printed-titanium-dragon-skin-inspired-exhaust
+🚀 The Next Generation of Engineers Is Learning by Doing, with 3D Printing
+Across several universities in the U.S., more programs are adding hands-on learning into how they teach, often using tools like 3D printing.
+Instead of relying only on lectures and theory,, reported by 3DPrint.com on May 03, 2026.
+🔗 Read more: https://3dprint.com/325809/the-next-generation-of-engineers-is-learning-by-doing-with-3d-printing
 
-🚀 LightForce Orthodontics launches patient-specific 3D printed metal bracket
-LightForce Orthodontics has brought LightBracket Metal, a patient-specific 3D printed metal bracket, to market, describing it as the first of its kind.
-The product extends the company’s generative braces system into … The post LightForce Orthodontics launches patient-specific 3D printed metal bracket appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Lightforce-metal-bracket-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lightforce-orthodontics-launches-patient-specific-3d-printed-metal-bracket
+🖨 Three-Axis Camera Slider From 3D Printer Parts - Hackaday
+Three-Axis Camera Slider From 3D Printer Parts Hackaday
+Reported by Google News - 3D Printing on May 03, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxNenMzRkFncXlRRTVPQ3NEWTByQ1hMQXdyUmd0Y0JnZUJwQzNzZ3Y2TlhIcGdwSkZhMVJubmZzZWNHV3FRSHpDNU1aN1FkVjlfLW94NVllZ1phVjZGaFNEYTZDQ2F6LU9MUjZHOHVwdmN3NFM3dXVIaEdPa2FDbUdxNDg0N05sdw?oc=5
 
-🚀 America Makes launches two further defense-focused project calls totaling $25.6M
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have opened two project calls with a combined $25.6 million in funding, both directed at advancing additive manufacturing … The...
-Reported by VoxelMatters on May 01, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/10/America-Makes-facility-face-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/america-makes-launches-two-further-defense-focused-project-calls-totaling-25-6m
+📰 These 5 PC upgrades cost pennies to 3D print instead of buying - How-To Geek
+These 5 PC upgrades cost pennies to 3D print instead of buying How-To Geek
+Reported by Google News - 3D Printing on May 03, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHBwSlVXUm8xVE5aSEgzYXNTRGtPcUZyLTY3OWVmLTFSdVg0amViVEpZbVZTbXJXc2hSNHZzaE5keUltMmMyZnRvYUR6Z1M1U0VJbng5TkRBdDRydUY2VmJqdUZXNC1nWnpuOWplN3Eta0ZCRkJqc0FLREhWa1RMNVdVS3BKa2RYTV83aDh6VXM?oc=5
 
-💻 Nike ups 3D printing efficiency with new Air Max 1000.2
-Spring 2026 is shaping up to be a big season for 3D printed footwear.
-Not only did adidas officially unveil its first 3D printed basketball shoes and soccer cleats, but … The post Nike ups 3D printing efficiency with new Air Max 1000.2 appeared first on VoxelMatters - The heart of...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/airmax-1000-2-black-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/nike-ups-3d-printing-efficiency-with-new-air-max-1000-2
+📰 I 3D printed my desk organizers instead of buying them and saved $60 - MakeUseOf
+I 3D printed my desk organizers instead of buying them and saved $60 MakeUseOf
+Reported by Google News - 3D Printing on May 03, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMibkFVX3lxTE5BclNBbm5oUURPR2ZYN1BZQV9SaU44TGFsMTVwckE4aGM5Y1N4QTZGTnp2bnpnQThmWkRnVG15OFdILURQdV9UZXZZYVRIMm1uN2ItR3JNeDlpWng2dVBmSU16YkVuNWFIQmEtQzFn?oc=5
 
-🖨 US Navy depot delivers first flight-certified metal 3D printed parts to fleet
-The US Navy aviation repair and maintenance facility, Fleet Readiness Center East (FRCE), has delivered its first flight-certified metal additive-manufactured parts to the US Navy fleet, marking a shift in … The post...
-Reported by VoxelMatters on May 01, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/FRCE-airplane-parts-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/us-navy-depot-delivers-first-flight-certified-metal-3d-printed-parts-to-fleet
+📰 Greeley to end work with Alquist 3D after company falls short of early promises - Greeley Tribune
+Greeley to end work with Alquist 3D after company falls short of early promises Greeley Tribune
+Reported by Google News - 3D Printing on May 03, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTFBIeEhPcnV5OG4xWTBBMWJhNFNpclZTVUF0RG9Cb1ZkQ28wZ3hLQkdsY2d0Q1J3WXAtemx6eVMydUpzek1oRDFFWVF0NEUwRDUyYnRWUDdnTVh1RjZIVmtOOUF3SWlwTGJpSEc3aktkYUNmMm1UN3c1UWlOdndCZw?oc=5
 
-🚀 New PAMA website and monthly research series for photopolymer AM community
-The Photopolymer Additive Manufacturing Alliance (PAMA) — a collaboration between the National Institute for Standards and Technology (NIST) and RadTech, the Association for UV+EB Technology — has relaunched its...
-Reported by VoxelMatters on May 01, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/PAMA-website-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/new-pama-website-and-monthly-research-series-for-photopolymer-am-community
+📰 Roots Artist of the Month: 3D Artist and Windgate Fellow Chrissy Kuiper - The Eastern Echo
+Roots Artist of the Month: 3D Artist and Windgate Fellow Chrissy Kuiper The Eastern Echo
+Reported by Google News - 3D Printing on May 03, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMitAFBVV95cUxOZF83UWp3TUJBSmwtMDlkcldleWt2RHhhcEU1RVEwWnlmWnpmWmNJcVVYSmJFMDlzUDMwY09zRmVUaGU2Q2IyZHVqUzNaeVJRTjRyOHU1cS03UFQ1TmU4Q0hmalp6TGhZaldUd3otR0tqT21BQlg3T0RRM0djbXhYNVpoS2JzdndQdjgzRWRCY2Y1UExlbjBiNVpjYlpaU0N2VDFpc1FHLUV0X0xLbmZReXlkdlE?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Bambu Lab OrcaSlicer Controversy Escalates After Legal Threats Against Developer - Manufactur3D" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMie0FVX3lxTE9PVFk3S3pQYzVpTEZkcGxZSXFtaHJNTkNGVV9CN29WdGI2X0FGdWpiUzFnSUVXaC16Yi1BODdRMm5DZUM3QlNtb3NPaklMVTQ2SHFBUTIwLUR2eVdYZG5hRHpTZ09pMlRJTDRmMWdoaVNLZVI5S0ZETG1KWQ?oc=5 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Firestorm Labs secures $82 million Series B to scale forward-deployed manufacturing platform" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://www.voxelmatters.com/firestorm-labs-secures-82-million-series-b-to-scale-forward-deployed-manufacturing-platform | Explore more: https://www.quality3ds.com/
