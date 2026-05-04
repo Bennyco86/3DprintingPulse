@@ -1,47 +1,50 @@
-﻿# 3D PRINTING PULSE #117 - 2026-05-04
+﻿# 3D PRINTING PULSE #118 - 2026-05-05
 
-🔥 Firestorm Labs secures $82 million Series B to scale forward-deployed manufacturing platform
-Firestorm Labs, a defense technology company focused on producing combat systems, has raised $82 million in Series B funding, bringing its total capital raised to $153 million.
-The round was … The post Firestorm Labs secures $82 million Series B to scale forward-deployed manufacturing platform appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Firestorm-Labs-Series-B-raise-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/firestorm-labs-secures-82-million-series-b-to-scale-forward-deployed-manufacturing-platform
+🔥 Voco, Formlabs partner to expand 3D-printing resin options - DrBicuspid.com
+Voco, Formlabs partner to expand 3D-printing resin options DrBicuspid.com
+Reported by Google News - 3D Printing on May 04, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTBRN3ZFajgyWWhnY1BQbHhXTDQ4amxwd19KR3NYb1QtUEk4WXVNMzNUclFoR3pXbUFueUJwMWphUm1LQ2hUMlR2VnNsU2lNRjcteldSVmZoalhrSDNKemhGcEU4eWxSbWptX2tqSTdGc3JmdkRCSzRQVkJ0aTRJdy12NEtCWE5YbzJHOHg4RElXT2k4THBWSWN1ZHh5Y2RtYUhzS29URFFkdlkxbV9vZXpjekc5VEtYU05GN2poalVrQlpPNmd1VmJNNS1FZ0w2SmFYVGxrTk8zQmViMW1yMA?oc=5
 
-🚀 Rosatom ships RusBeam 2800 electron beam 3D printer to India for aerospace use
-Rosatom‘s Fuel Division has delivered its RusBeam 2800 industrial 3D printer to India, in a deal that marks the Russian state corporation’s entry into the Indian additive manufacturing market.
-The … The post Rosatom ships RusBeam 2800 electron beam 3D printer to India for aerospace use appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Rosatom-India-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/rosatom-ships-rusbeam-2800-electron-beam-3d-printer-to-india-for-aerospace-use
+🚀 GKN Aerospace targets broader additive manufacturing rollout across major engine programs
+GKN Aerospace is moving to extend its additive manufacturing footprint across multiple engine programs and component types, building on production experience gained from its fan case mount ring (FCMR) — … The post...
+Reported by VoxelMatters on May 04, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/GKN-Aerospace-USAF-TITAN-AM-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/gkn-aerospace-targets-broader-additive-manufacturing-rollout-across-major-engine-programs
 
-🚀 The Next Generation of Engineers Is Learning by Doing, with 3D Printing
-Across several universities in the U.S., more programs are adding hands-on learning into how they teach, often using tools like 3D printing.
-Instead of relying only on lectures and theory,, reported by 3DPrint.com on May 03, 2026.
-🔗 Read more: https://3dprint.com/325809/the-next-generation-of-engineers-is-learning-by-doing-with-3d-printing
+🚀 Formes et Volumes 3D prints composite lamination tool using Caracol LFAM
+Formes et Volumes, a France-based machine shop specializing in prototypes, molds and professional models, recently partnered with LFAM specialist Caracol to produce a large-scale composite lamination tool for...
+… The post Formes et Volumes 3D prints composite lamination tool using Caracol LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/5_caracol-robotic-lfam-tooling-aerospace-composite-lamination-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/formes-et-volumes-3d-prints-composite-lamination-tool-using-caracol-lfam
 
-🖨 Three-Axis Camera Slider From 3D Printer Parts - Hackaday
-Three-Axis Camera Slider From 3D Printer Parts Hackaday
-Reported by Google News - 3D Printing on May 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxNenMzRkFncXlRRTVPQ3NEWTByQ1hMQXdyUmd0Y0JnZUJwQzNzZ3Y2TlhIcGdwSkZhMVJubmZzZWNHV3FRSHpDNU1aN1FkVjlfLW94NVllZ1phVjZGaFNEYTZDQ2F6LU9MUjZHOHVwdmN3NFM3dXVIaEdPa2FDbUdxNDg0N05sdw?oc=5
+🏠 ExOne Global Holdings moves Spectra Mono-Z printhead production to Detroit
+ExOne Global Holdings has begun producing its Spectra Mono-Z printhead at a facility in Canton, Michigan, marking the company’s first step toward building out a broader US manufacturing base for … The post ExOne...
+Reported by VoxelMatters on May 04, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ExOne-Detroit-printhead-production-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/exone-global-holdings-moves-spectra-mono-z-printhead-production-to-detroit
 
-📰 These 5 PC upgrades cost pennies to 3D print instead of buying - How-To Geek
-These 5 PC upgrades cost pennies to 3D print instead of buying How-To Geek
-Reported by Google News - 3D Printing on May 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxOOHBwSlVXUm8xVE5aSEgzYXNTRGtPcUZyLTY3OWVmLTFSdVg0amViVEpZbVZTbXJXc2hSNHZzaE5keUltMmMyZnRvYUR6Z1M1U0VJbng5TkRBdDRydUY2VmJqdUZXNC1nWnpuOWplN3Eta0ZCRkJqc0FLREhWa1RMNVdVS3BKa2RYTV83aDh6VXM?oc=5
+💻 SprintRay gets FDA clearance to 3D print porcelain dental crowns
+Dental 3D printing company SprintRay has received US Food and Drug Administration (FDA) clearance to print porcelain crowns — a regulatory milestone that opens up what its chief executive has … The post SprintRay...
+Reported by VoxelMatters on May 04, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/SprintRay-FDA-clearance-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/sprintray-gets-fda-clearance-to-3d-print-porcelain-dental-crowns
 
-📰 I 3D printed my desk organizers instead of buying them and saved $60 - MakeUseOf
-I 3D printed my desk organizers instead of buying them and saved $60 MakeUseOf
-Reported by Google News - 3D Printing on May 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMibkFVX3lxTE5BclNBbm5oUURPR2ZYN1BZQV9SaU44TGFsMTVwckE4aGM5Y1N4QTZGTnp2bnpnQThmWkRnVG15OFdILURQdV9UZXZZYVRIMm1uN2ItR3JNeDlpWng2dVBmSU16YkVuNWFIQmEtQzFn?oc=5
+🚀 LEAP 71 and Sindan partner to industrialize AI-designed aerospace systems in the UAE
+Sindan, an AI-driven advanced manufacturing company based in Abu Dhabi, and LEAP 71, a computational engineering firm headquartered in Dubai, formed a strategic partnership at the Make it in the … The post LEAP 71...
+Reported by VoxelMatters on May 04, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/LEAP-71-Jet-Engine-Wide-scaled-e1777882119311-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/leap-71-and-sindan-partner-to-industrialize-ai-designed-aerospace-systems-in-the-uae
 
-📰 Greeley to end work with Alquist 3D after company falls short of early promises - Greeley Tribune
-Greeley to end work with Alquist 3D after company falls short of early promises Greeley Tribune
-Reported by Google News - 3D Printing on May 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTFBIeEhPcnV5OG4xWTBBMWJhNFNpclZTVUF0RG9Cb1ZkQ28wZ3hLQkdsY2d0Q1J3WXAtemx6eVMydUpzek1oRDFFWVF0NEUwRDUyYnRWUDdnTVh1RjZIVmtOOUF3SWlwTGJpSEc3aktkYUNmMm1UN3c1UWlOdndCZw?oc=5
+📰 Microprinting Microcap XTPL Reports 2025 Sales Growth Despite Net Loss
+The Polish company XTPL is among a category of small startups sitting at the overlap between additive manufacturing (AM) and advanced packaging for the semiconductor industry.
+3DPrint.com’s Vanesa Listek wrote...
+🔗 Read more: https://3dprint.com/325787/microprinting-microcap-xtpl-reports-2025-sales-growth-despite-net-loss
 
-📰 Roots Artist of the Month: 3D Artist and Windgate Fellow Chrissy Kuiper - The Eastern Echo
-Roots Artist of the Month: 3D Artist and Windgate Fellow Chrissy Kuiper The Eastern Echo
-Reported by Google News - 3D Printing on May 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMitAFBVV95cUxOZF83UWp3TUJBSmwtMDlkcldleWt2RHhhcEU1RVEwWnlmWnpmWmNJcVVYSmJFMDlzUDMwY09zRmVUaGU2Q2IyZHVqUzNaeVJRTjRyOHU1cS03UFQ1TmU4Q0hmalp6TGhZaldUd3otR0tqT21BQlg3T0RRM0djbXhYNVpoS2JzdndQdjgzRWRCY2Y1UExlbjBiNVpjYlpaU0N2VDFpc1FHLUV0X0xLbmZReXlkdlE?oc=5
+📰 Top DAWG &amp; SAWC: $54 Billion Replicator Reborn
+The Defense Autonomous Warfare Group (DAWG), also called the Defense Autonomous Working Group, may be funded to the tune of $55 billion.
+Overseen by Deputy Defense Secretary Steve Feinberg, this, reported by 3DPrint.com on May 04, 2026.
+🔗 Read more: https://3dprint.com/325756/top-dawg-sawc-54-billion-replicator-reborn
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "Firestorm Labs secures $82 million Series B to scale forward-deployed manufacturing platform" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://www.voxelmatters.com/firestorm-labs-secures-82-million-series-b-to-scale-forward-deployed-manufacturing-platform | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "Voco, Formlabs partner to expand 3D-printing resin options - DrBicuspid.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTBRN3ZFajgyWWhnY1BQbHhXTDQ4amxwd19KR3NYb1QtUEk4WXVNMzNUclFoR3pXbUFueUJwMWphUm1LQ2hUMlR2VnNsU2lNRjcteldSVmZoalhrSDNKemhGcEU4eWxSbWptX2tqSTdGc3JmdkRCSzRQVkJ0aTRJdy12NEtCWE5YbzJHOHg4RElXT2k4THBWSWN1ZHh5Y2RtYUhzS29URFFkdlkxbV9vZXpjekc5VEtYU05GN2poalVrQlpPNmd1VmJNNS1FZ0w2SmFYVGxrTk8zQmViMW1yMA?oc=5 | Complete rundown: https://www.quality3ds.com/

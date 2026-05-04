@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-05
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #118 - 2026-05-05
+## Stories
 
 🔥 Voco, Formlabs partner to expand 3D-printing resin options - DrBicuspid.com
 Voco, Formlabs partner to expand 3D-printing resin options DrBicuspid.com
@@ -48,9 +46,3 @@ Read more ? https://3dprint.com/325787/microprinting-microcap-xtpl-reports-2025-
 The Defense Autonomous Warfare Group (DAWG), also called the Defense Autonomous Working Group, may be funded to the tune of $55 billion.
 Overseen by Deputy Defense Secretary Steve Feinberg, this, reported by 3DPrint.com on May 04, 2026.
 Read more ? https://3dprint.com/325756/top-dawg-sawc-54-billion-replicator-reborn
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
