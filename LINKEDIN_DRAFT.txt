@@ -1,50 +1,49 @@
-﻿# 3D PRINTING PULSE #118 - 2026-05-05
+﻿# 3D PRINTING PULSE #119 - 2026-05-06
 
-🔥 Voco, Formlabs partner to expand 3D-printing resin options - DrBicuspid.com
-Voco, Formlabs partner to expand 3D-printing resin options DrBicuspid.com
-Reported by Google News - 3D Printing on May 04, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTBRN3ZFajgyWWhnY1BQbHhXTDQ4amxwd19KR3NYb1QtUEk4WXVNMzNUclFoR3pXbUFueUJwMWphUm1LQ2hUMlR2VnNsU2lNRjcteldSVmZoalhrSDNKemhGcEU4eWxSbWptX2tqSTdGc3JmdkRCSzRQVkJ0aTRJdy12NEtCWE5YbzJHOHg4RElXT2k4THBWSWN1ZHh5Y2RtYUhzS29URFFkdlkxbV9vZXpjekc5VEtYU05GN2poalVrQlpPNmd1VmJNNS1FZ0w2SmFYVGxrTk8zQmViMW1yMA?oc=5
+🔥 The Government Doesn’t Just Want to Ban Ghost Guns. It Wants to Control Your 3D Printer - PCMag
+The Government Doesn’t Just Want to Ban Ghost Guns.
+It Wants to Control Your 3D Printer PCMag, reported by Google News - 3D Printing on May 05, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZkdpcWdpR0d6V0l6cWtGeTgxLTdMdFlhbUREdlNnOXFJU25ZSkk4VnNBWEF4dlBIM1Y0ZDNWWGwyaE1CcmpSa3BuaGFMZ0lEM3JPX1dDeDA2NDRCZWdkOUVXYVQ5emkzcGU2TGgtREpwNGNWOGRnVmxNNlhibU0?oc=5
 
-🚀 GKN Aerospace targets broader additive manufacturing rollout across major engine programs
-GKN Aerospace is moving to extend its additive manufacturing footprint across multiple engine programs and component types, building on production experience gained from its fan case mount ring (FCMR) — … The post...
-Reported by VoxelMatters on May 04, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/GKN-Aerospace-USAF-TITAN-AM-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/gkn-aerospace-targets-broader-additive-manufacturing-rollout-across-major-engine-programs
+🚨 UltiMaker Enhances S6 and S8 Performance
+UltiMaker just announced some interesting upgrades for their S6 and S8 3D printers.
+The post UltiMaker Enhances S6 and S8 Performance appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/ultimaker-enhances-s6-and-s8-performance
 
-🚀 Formes et Volumes 3D prints composite lamination tool using Caracol LFAM
-Formes et Volumes, a France-based machine shop specializing in prototypes, molds and professional models, recently partnered with LFAM specialist Caracol to produce a large-scale composite lamination tool for...
-… The post Formes et Volumes 3D prints composite lamination tool using Caracol LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/5_caracol-robotic-lfam-tooling-aerospace-composite-lamination-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/formes-et-volumes-3d-prints-composite-lamination-tool-using-caracol-lfam
+🔥 Gov. Jared Polis signs laws banning 3D-printed guns, creating new overtime rules for ag workers - The Denver Post
+Jared Polis signs laws banning 3D-printed guns, creating new overtime rules for ag workers The Denver Post
+Reported by Google News - 3D Printing on May 05, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxQc09IT2tLeHZwLTcwNmNRNlBTcTVKbGRXcXBQOXdBR21JazRqS1IwSEdMUGFxNEhHbHFGdmpMek13RkFTdnFSRENiWVlKc2ZXZ0lrUDllSkZqTkhfRnRhMTkwWThZQ3JScFNsdDZzWDJFZS1sVFc3U2JJWEY3QkFUTDU5R1NDQWtGVWFodjY3RUI?oc=5
 
-🏠 ExOne Global Holdings moves Spectra Mono-Z printhead production to Detroit
-ExOne Global Holdings has begun producing its Spectra Mono-Z printhead at a facility in Canton, Michigan, marking the company’s first step toward building out a broader US manufacturing base for … The post ExOne...
-Reported by VoxelMatters on May 04, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ExOne-Detroit-printhead-production-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/exone-global-holdings-moves-spectra-mono-z-printhead-production-to-detroit
+♻️ UK Service Turns Desktop 3D Printing Waste Into Filament
+A UK company provides a regional recycling loop for desktop 3D printing waste.
+The post UK Service Turns Desktop 3D Printing Waste Into Filament appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/a-new-uk-service-wants-to-turn-desktop-3d-printing-waste-back-into-filament
 
-💻 SprintRay gets FDA clearance to 3D print porcelain dental crowns
-Dental 3D printing company SprintRay has received US Food and Drug Administration (FDA) clearance to print porcelain crowns — a regulatory milestone that opens up what its chief executive has … The post SprintRay...
-Reported by VoxelMatters on May 04, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/SprintRay-FDA-clearance-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/sprintray-gets-fda-clearance-to-3d-print-porcelain-dental-crowns
+🚀 America Makes Launches Two Additive manufacturing project calls worth $25.6M
+America Makes, a US public-private partnership focused on additive manufacturing, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two project calls worth a combined $25.6 million.
+The funding is split between the $12.4 million Maturation Initiative for Additive Metals Interchangeability (MIAMI) and the $13.2 million INtegrated System for In-situ Testing &amp;…, reported by 3D Printing Industry on May 05, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/04/videoStill-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/america-makes-launches-two-additive-manufacturing-project-calls-worth-25-6m-251229
 
-🚀 LEAP 71 and Sindan partner to industrialize AI-designed aerospace systems in the UAE
-Sindan, an AI-driven advanced manufacturing company based in Abu Dhabi, and LEAP 71, a computational engineering firm headquartered in Dubai, formed a strategic partnership at the Make it in the … The post LEAP 71...
-Reported by VoxelMatters on May 04, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/LEAP-71-Jet-Engine-Wide-scaled-e1777882119311-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/leap-71-and-sindan-partner-to-industrialize-ai-designed-aerospace-systems-in-the-uae
+🚀 Rosswag to install Eplus3D system under new metal AM partnership
+Eplus3D, a manufacturer of industrial metal additive manufacturing systems, Rosswag Engineering, the additive manufacturing division of German metal processing company Rosswag GmbH, and qualloy, a supplier and...
+As part of…, reported by 3D Printing Industry on May 05, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/Poster-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/rosswag-to-install-eplus3d-system-under-new-metal-am-partnership-251234
 
-📰 Microprinting Microcap XTPL Reports 2025 Sales Growth Despite Net Loss
-The Polish company XTPL is among a category of small startups sitting at the overlap between additive manufacturing (AM) and advanced packaging for the semiconductor industry.
-3DPrint.com’s Vanesa Listek wrote...
-🔗 Read more: https://3dprint.com/325787/microprinting-microcap-xtpl-reports-2025-sales-growth-despite-net-loss
+🚀 Chromatic 3D Materials achieves breakthrough in 3D printed rocket propellant
+Chromatic 3D Materials, a company developing additively manufactured elastomeric and propulsion materials, has announced successful prototype printing and static fire testing of its 3D printed rocket propellant at...
+Tests showed the material sustained combustion pressures above 1,800 psi without structural failure, marking a milestone…, reported by 3D Printing Industry on May 05, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/IS4STestPictureforPressRelease-4.2026-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/chromatic-3d-materials-achieves-breakthrough-in-3d-printed-rocket-propellant-251243
 
-📰 Top DAWG &amp; SAWC: $54 Billion Replicator Reborn
-The Defense Autonomous Warfare Group (DAWG), also called the Defense Autonomous Working Group, may be funded to the tune of $55 billion.
-Overseen by Deputy Defense Secretary Steve Feinberg, this, reported by 3DPrint.com on May 04, 2026.
-🔗 Read more: https://3dprint.com/325756/top-dawg-sawc-54-billion-replicator-reborn
+🖨 X-ray study reveals how microscopic pores drive fractures in 3D printed metals
+A team of researchers from IMDEA Materials Institute and the Carlos III University of Madrid (UC3M), working with collaborators in France and Japan, has published a study in the Journal … The post X-ray study reveals...
+Reported by VoxelMatters on May 05, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/IMDEA-AM-metals-fracture-mechanics-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/x-ray-study-reveals-how-microscopic-pores-drive-fractures-in-3d-printed-metals
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Voco, Formlabs partner to expand 3D-printing resin options - DrBicuspid.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWTBRN3ZFajgyWWhnY1BQbHhXTDQ4amxwd19KR3NYb1QtUEk4WXVNMzNUclFoR3pXbUFueUJwMWphUm1LQ2hUMlR2VnNsU2lNRjcteldSVmZoalhrSDNKemhGcEU4eWxSbWptX2tqSTdGc3JmdkRCSzRQVkJ0aTRJdy12NEtCWE5YbzJHOHg4RElXT2k4THBWSWN1ZHh5Y2RtYUhzS29URFFkdlkxbV9vZXpjekc5VEtYU05GN2poalVrQlpPNmd1VmJNNS1FZ0w2SmFYVGxrTk8zQmViMW1yMA?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "The Government Doesn’t Just Want to Ban Ghost Guns. It Wants to Control Your 3D Printer - PCMag" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZkdpcWdpR0d6V0l6cWtGeTgxLTdMdFlhbUREdlNnOXFJU25ZSkk4VnNBWEF4dlBIM1Y0ZDNWWGwyaE1CcmpSa3BuaGFMZ0lEM3JPX1dDeDA2NDRCZWdkOUVXYVQ5emkzcGU2TGgtREpwNGNWOGRnVmxNNlhibU0?oc=5 | Full pulse: https://www.quality3ds.com/

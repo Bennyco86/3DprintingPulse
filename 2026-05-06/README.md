@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-06
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #119 - 2026-05-06
+## Stories
 
 🔥 The Government Doesn’t Just Want to Ban Ghost Guns. It Wants to Control Your 3D Printer - PCMag
 The Government Doesn’t Just Want to Ban Ghost Guns.
@@ -47,9 +45,3 @@ A team of researchers from IMDEA Materials Institute and the Carlos III Universi
 Reported by VoxelMatters on May 05, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/IMDEA-AM-metals-fracture-mechanics-02-150x150.jpg
 Read more ? https://www.voxelmatters.com/x-ray-study-reveals-how-microscopic-pores-drive-fractures-in-3d-printed-metals
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
