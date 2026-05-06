@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-07
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #120 - 2026-05-07
+## Stories
 
 🔥 3d printed gun ban signed into law by Governor Polis - KKTV
 3d printed gun ban signed into law by Governor Polis KKTV
@@ -50,9 +48,3 @@ Chinese 3D printer manufacturer Elegoo (Shenzhen SmartPie Technology Co., aka Sm
 The round was jointly backed by Meituan and its investment arm, Dragon Ball, alongside Guoce Capital, Hillhouse Capital, Minghui Zhiyuan Capital, Shenzhen Capital Group, Shanghai High-Tech Investment Group, and Yintai…, reported by 3D Printing Industry on May 06, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/04/ELEGOO_spotlights_3D_printing_ecosystem_RAPID___TCT_2026-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/can-elegoos-latest-500m-yuan-round-counter-the-bambu-effect-251266
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

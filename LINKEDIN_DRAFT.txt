@@ -1,49 +1,52 @@
-﻿# 3D PRINTING PULSE #119 - 2026-05-06
+﻿# 3D PRINTING PULSE #120 - 2026-05-07
 
-🔥 The Government Doesn’t Just Want to Ban Ghost Guns. It Wants to Control Your 3D Printer - PCMag
-The Government Doesn’t Just Want to Ban Ghost Guns.
-It Wants to Control Your 3D Printer PCMag, reported by Google News - 3D Printing on May 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZkdpcWdpR0d6V0l6cWtGeTgxLTdMdFlhbUREdlNnOXFJU25ZSkk4VnNBWEF4dlBIM1Y0ZDNWWGwyaE1CcmpSa3BuaGFMZ0lEM3JPX1dDeDA2NDRCZWdkOUVXYVQ5emkzcGU2TGgtREpwNGNWOGRnVmxNNlhibU0?oc=5
+🔥 3d printed gun ban signed into law by Governor Polis - KKTV
+3d printed gun ban signed into law by Governor Polis KKTV
+Reported by Google News - 3D Printing Viral on May 05, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDFBNWFmZWZVXzRYdXNLLVhKcnB1WTYzZ1l4bEhxUS1Eekx5TFg3S1VFQjd1Y0x5V3lEWUVVenh3LWZPSWEyb2toQWVhQjhITEFmdEo0MFJCNmZLV0pFQm5EMVBNVTcwS2FOY0RQSEJ0VzhndFNHNC1KMTBocklReTJ3b3kyV1FoSTJVaTN0eU9SM3ZoTXc?oc=5
 
-🚨 UltiMaker Enhances S6 and S8 Performance
-UltiMaker just announced some interesting upgrades for their S6 and S8 3D printers.
-The post UltiMaker Enhances S6 and S8 Performance appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/ultimaker-enhances-s6-and-s8-performance
+🖨 Wool Source and KiwiFil bring wool-based colorant to FFF filament in “world first”
+Wool Source, a Christchurch, New Zealand-based ingredients manufacturer and the commercial arm of the Wool Research Organisation of New Zealand (WRONZ), has developed a pigment derived from wool fiber for … The post...
+Reported by VoxelMatters on May 06, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/NZ-wool-filament-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/wool-source-and-kiwifil-bring-wool-based-colorant-to-fff-filament-in-world-first
 
-🔥 Gov. Jared Polis signs laws banning 3D-printed guns, creating new overtime rules for ag workers - The Denver Post
-Jared Polis signs laws banning 3D-printed guns, creating new overtime rules for ag workers The Denver Post
-Reported by Google News - 3D Printing on May 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxQc09IT2tLeHZwLTcwNmNRNlBTcTVKbGRXcXBQOXdBR21JazRqS1IwSEdMUGFxNEhHbHFGdmpMek13RkFTdnFSRENiWVlKc2ZXZ0lrUDllSkZqTkhfRnRhMTkwWThZQ3JScFNsdDZzWDJFZS1sVFc3U2JJWEY3QkFUTDU5R1NDQWtGVWFodjY3RUI?oc=5
+📰 RYSE 3D CEO Mitchell Barnes wins second King's Award
+The King's Award for Enterprise was awarded to Barnes after RYSE 3D's expansion into international markets.
+Reported by TCT Magazine on May 06, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Mitchell-Barnes--L-.jpg
+🔗 Read more: https://www.tctmagazine.com/ryse-3d-ceo-mitchell-barnes-wins-second-kings-award
 
-♻️ UK Service Turns Desktop 3D Printing Waste Into Filament
-A UK company provides a regional recycling loop for desktop 3D printing waste.
-The post UK Service Turns Desktop 3D Printing Waste Into Filament appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/a-new-uk-service-wants-to-turn-desktop-3d-printing-waste-back-into-filament
+💻 6K Additive appoints Brandon Davis as new Chief Operating Officer
+Davis is described as a 'high-impact manufacturing executive' with over two decades of experience.
+Reported by TCT Magazine on May 06, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Brandon-Davis-1.jpg
+🔗 Read more: https://www.tctmagazine.com/6k-additive-appoints-brandon-davis-as-new-chief-operating-officer
 
-🚀 America Makes Launches Two Additive manufacturing project calls worth $25.6M
-America Makes, a US public-private partnership focused on additive manufacturing, and the National Center for Defense Manufacturing and Machining (NCDMM) have announced two project calls worth a combined $25.6 million.
-The funding is split between the $12.4 million Maturation Initiative for Additive Metals Interchangeability (MIAMI) and the $13.2 million INtegrated System for In-situ Testing &amp;…, reported by 3D Printing Industry on May 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/04/videoStill-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/america-makes-launches-two-additive-manufacturing-project-calls-worth-25-6m-251229
+💻 ATLIX expands into Spain with Excelencia Tech Group distribution deal
+ATLIX has appointed Excelencia Tech Group as its official distributor for the Spanish market, with the agreement forming part of ATLIX’s broader commercial consolidation across Southern Europe.
+The move places … The post ATLIX expands into Spain with Excelencia Tech Group distribution deal appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ATLIX-Excelencia-Tech-partnership-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/atlix-expands-into-spain-with-excelencia-tech-group-distribution-deal
 
-🚀 Rosswag to install Eplus3D system under new metal AM partnership
-Eplus3D, a manufacturer of industrial metal additive manufacturing systems, Rosswag Engineering, the additive manufacturing division of German metal processing company Rosswag GmbH, and qualloy, a supplier and...
-As part of…, reported by 3D Printing Industry on May 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/Poster-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/rosswag-to-install-eplus3d-system-under-new-metal-am-partnership-251234
+🚀 SWISSto12 contracts HPS/LSS for deployable antenna reflector on HummingSat GEO mission
+SWISSto12, a Switzerland-based satellite communications company, has awarded a contract to German space subsystem consortium HPS/LSS for a large deployable reflector subsystem for the NEASTAR-1 mission.
+The reflector will be integrated with SWISSto12’s HummingSat small geostationary satellite platform, reported by 3D Printing Industry on May 06, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/image-1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/swissto12-contracts-hps-lss-for-deployable-antenna-reflector-on-hummingsat-geo-mission-251274
 
-🚀 Chromatic 3D Materials achieves breakthrough in 3D printed rocket propellant
-Chromatic 3D Materials, a company developing additively manufactured elastomeric and propulsion materials, has announced successful prototype printing and static fire testing of its 3D printed rocket propellant at...
-Tests showed the material sustained combustion pressures above 1,800 psi without structural failure, marking a milestone…, reported by 3D Printing Industry on May 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/IS4STestPictureforPressRelease-4.2026-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/chromatic-3d-materials-achieves-breakthrough-in-3d-printed-rocket-propellant-251243
+🖨 Metal Powder Recovery: Where Production Efficiency is Won or Lost
+Powder handling remains one of the most overlooked sources of inefficiency in AM.
+Reported by TCT Magazine on May 06, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/img000414-Entpulverung-am-EOS-Drucker--license-.png
+🔗 Read more: https://www.tctmagazine.com/metal-powder-recovery-where-production-efficiency-is-won-or-lost
 
-🖨 X-ray study reveals how microscopic pores drive fractures in 3D printed metals
-A team of researchers from IMDEA Materials Institute and the Carlos III University of Madrid (UC3M), working with collaborators in France and Japan, has published a study in the Journal … The post X-ray study reveals...
-Reported by VoxelMatters on May 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/IMDEA-AM-metals-fracture-mechanics-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/x-ray-study-reveals-how-microscopic-pores-drive-fractures-in-3d-printed-metals
+🏠 Can Elegoo’s Latest 500M Yuan Round Counter the “Bambu Effect”?
+Chinese 3D printer manufacturer Elegoo (Shenzhen SmartPie Technology Co., aka SmartPie) has completed a B+ round of financing worth over 500 million yuan ($73.3 million).
+The round was jointly backed by Meituan and its investment arm, Dragon Ball, alongside Guoce Capital, Hillhouse Capital, Minghui Zhiyuan Capital, Shenzhen Capital Group, Shanghai High-Tech Investment Group, and Yintai…, reported by 3D Printing Industry on May 06, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/ELEGOO_spotlights_3D_printing_ecosystem_RAPID___TCT_2026-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/can-elegoos-latest-500m-yuan-round-counter-the-bambu-effect-251266
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "The Government Doesn’t Just Want to Ban Ghost Guns. It Wants to Control Your 3D Printer - PCMag" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1NZkdpcWdpR0d6V0l6cWtGeTgxLTdMdFlhbUREdlNnOXFJU25ZSkk4VnNBWEF4dlBIM1Y0ZDNWWGwyaE1CcmpSa3BuaGFMZ0lEM3JPX1dDeDA2NDRCZWdkOUVXYVQ5emkzcGU2TGgtREpwNGNWOGRnVmxNNlhibU0?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "3d printed gun ban signed into law by Governor Polis - KKTV" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDFBNWFmZWZVXzRYdXNLLVhKcnB1WTYzZ1l4bEhxUS1Eekx5TFg3S1VFQjd1Y0x5V3lEWUVVenh3LWZPSWEyb2toQWVhQjhITEFmdEo0MFJCNmZLV0pFQm5EMVBNVTcwS2FOY0RQSEJ0VzhndFNHNC1KMTBocklReTJ3b3kyV1FoSTJVaTN0eU9SM3ZoTXc?oc=5 | Full coverage: https://www.quality3ds.com/
