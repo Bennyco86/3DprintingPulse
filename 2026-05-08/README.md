@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-08
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #121 - 2026-05-08
+## Stories
 
 🔥 New York budget agreement establishes first ban on 3D-printed ghost guns - Washington Examiner
 New York budget agreement establishes first ban on 3D-printed ghost guns Washington Examiner
@@ -48,9 +46,3 @@ Xometry (NASDAQ: XMTR) posted record first-quarter 2026 revenue of $205 million,
 Reported by VoxelMatters on May 07, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Xometry-biz-150x150.jpg
 Read more ? https://www.voxelmatters.com/xometry-posts-record-q1-2026-revenue-of-205-million-strikes-50-million-siemens-partnership
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

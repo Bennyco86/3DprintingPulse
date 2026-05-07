@@ -1,52 +1,50 @@
-﻿# 3D PRINTING PULSE #120 - 2026-05-07
+﻿# 3D PRINTING PULSE #121 - 2026-05-08
 
-🔥 3d printed gun ban signed into law by Governor Polis - KKTV
-3d printed gun ban signed into law by Governor Polis KKTV
-Reported by Google News - 3D Printing Viral on May 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDFBNWFmZWZVXzRYdXNLLVhKcnB1WTYzZ1l4bEhxUS1Eekx5TFg3S1VFQjd1Y0x5V3lEWUVVenh3LWZPSWEyb2toQWVhQjhITEFmdEo0MFJCNmZLV0pFQm5EMVBNVTcwS2FOY0RQSEJ0VzhndFNHNC1KMTBocklReTJ3b3kyV1FoSTJVaTN0eU9SM3ZoTXc?oc=5
+🔥 New York budget agreement establishes first ban on 3D-printed ghost guns - Washington Examiner
+New York budget agreement establishes first ban on 3D-printed ghost guns Washington Examiner
+Reported by Google News - 3D Printing Viral on May 07, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMisAFBVV95cUxQdENjZlpkaHBwUGVUX1VzN1NkRDhQUDJ0eUE1MEpiYnk1SkZIQmk1Q2pjaWNZRmVjdUozLVNud2RjbnhucGV5TjNlUGx4M001VUJBbVNtMm5LUGJTQVpUOUdCNjJkWFZoc2V1endBQXFlUGc0UGs2YmxYOUFvR3IyOHBtWGs3Q2Z3SlRqTjZueGJkcnZoU2VJM2lBQUptelV6V0hJOFJaN3Nxalo3dmJ0LQ?oc=5
 
-🖨 Wool Source and KiwiFil bring wool-based colorant to FFF filament in “world first”
-Wool Source, a Christchurch, New Zealand-based ingredients manufacturer and the commercial arm of the Wool Research Organisation of New Zealand (WRONZ), has developed a pigment derived from wool fiber for … The post...
-Reported by VoxelMatters on May 06, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/NZ-wool-filament-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/wool-source-and-kiwifil-bring-wool-based-colorant-to-fff-filament-in-world-first
+🚨 Hands on with the Elegoo Jupiter 2 3D Printer, Part 1
+We’re testing the brand new Jupiter 2 resin 3D printer from Elegoo.
+This is part one of a four part series, please read parts two, three and four, reported by Fabbaloo on May 07, 2026.
+🔗 Read more: https://www.fabbaloo.com/news/hands-on-with-the-elegoo-jupiter-2-3d-printer-part-1
 
-📰 RYSE 3D CEO Mitchell Barnes wins second King's Award
-The King's Award for Enterprise was awarded to Barnes after RYSE 3D's expansion into international markets.
-Reported by TCT Magazine on May 06, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Mitchell-Barnes--L-.jpg
-🔗 Read more: https://www.tctmagazine.com/ryse-3d-ceo-mitchell-barnes-wins-second-kings-award
+🔥 Longmont Senator Katie Wallace Helps Pass Colorado 3D-Printed Gun Ban - longmontleader.com
+Longmont Senator Katie Wallace Helps Pass Colorado 3D-Printed Gun Ban longmontleader.com
+Reported by Google News - 3D Printing Viral on May 07, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzNrQ2pST2FoT1p3QmRzOUNiMTMzNFQwSklZcUpZOTJtbXh1WmI3cUV0ZTN5dVRST2pXSnBZWjBvMk50cmZ6NE8wV2RvUWphWERUQWtnMmdsOHExN0ZUa0NVWDgzaThrcjVmRV82RmhKMlFiTXVpUDhsQk9oVlhMN3Y2cm91Rmh2ek52Q1NCZVVZdE15Y2dyRnhmRU1HR0RxNXprN25EeHp5UUlBR3BRSGdUNEtiYVd4bFJxUlltSDc?oc=5
 
-💻 6K Additive appoints Brandon Davis as new Chief Operating Officer
-Davis is described as a 'high-impact manufacturing executive' with over two decades of experience.
-Reported by TCT Magazine on May 06, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Brandon-Davis-1.jpg
-🔗 Read more: https://www.tctmagazine.com/6k-additive-appoints-brandon-davis-as-new-chief-operating-officer
+🦺 University of Colorado researchers use 3D bioprinting to build reusable, light-emitting living materials
+Researchers at the University of Colorado Boulder have developed a method for producing light-emitting living materials.
+By embedding bioluminescent marine microorganisms in 3D printed alginate hydrogel scaffolds and activating them … The post University of Colorado researchers use 3D bioprinting to build reusable, light-emitting, reported by VoxelMatters on May 07, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-bioprinting-Colorado-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/university-of-colorado-researchers-use-3d-bioprinting-to-build-reusable-light-emitting-living-materials
 
-💻 ATLIX expands into Spain with Excelencia Tech Group distribution deal
-ATLIX has appointed Excelencia Tech Group as its official distributor for the Spanish market, with the agreement forming part of ATLIX’s broader commercial consolidation across Southern Europe.
-The move places … The post ATLIX expands into Spain with Excelencia Tech Group distribution deal appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ATLIX-Excelencia-Tech-partnership-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/atlix-expands-into-spain-with-excelencia-tech-group-distribution-deal
+💻 Navigating the intersection of AI-driven 4D printing and intellectual property law
+Mitasha Bharadwaj, Trainee Patent Attorney at Marks &amp; Clerk on the IP complexities around 4D printing.
+Reported by TCT Magazine on May 07, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/IP-Icon.png
+🔗 Read more: https://www.tctmagazine.com/navigating-the-intersection-of-ai-driven-4d-printing-and-intellectual-property-law
 
-🚀 SWISSto12 contracts HPS/LSS for deployable antenna reflector on HummingSat GEO mission
-SWISSto12, a Switzerland-based satellite communications company, has awarded a contract to German space subsystem consortium HPS/LSS for a large deployable reflector subsystem for the NEASTAR-1 mission.
-The reflector will be integrated with SWISSto12’s HummingSat small geostationary satellite platform, reported by 3D Printing Industry on May 06, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/image-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/swissto12-contracts-hps-lss-for-deployable-antenna-reflector-on-hummingsat-geo-mission-251274
+🏠 TETMET’s low-energy approach to metal lattice construction
+Lattice structures are becoming an important feature of function design.
+The three dimensional geometries, which can be tailored to specific shapes and densities, offer important benefits like a greater strength-to-weight … The post TETMET’s low-energy approach to metal lattice, reported by VoxelMatters on May 07, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/tetmet-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction
 
-🖨 Metal Powder Recovery: Where Production Efficiency is Won or Lost
-Powder handling remains one of the most overlooked sources of inefficiency in AM.
-Reported by TCT Magazine on May 06, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/img000414-Entpulverung-am-EOS-Drucker--license-.png
-🔗 Read more: https://www.tctmagazine.com/metal-powder-recovery-where-production-efficiency-is-won-or-lost
+🏠 Three-storey apartment building marks "important milestone" in 3D printing for construction
+A apartment block has been constructed in France using COBOD International's concrete 3D printing technology, three months faster than conventional building methods.'ViliaSprint' is multi-family residential building...
+It follows a similar project completed in Japan earlier this, reported by TCT Magazine on May 07, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/PERI-3D-Construction-x-COBOD_VillaSprin_5.png
+🔗 Read more: https://www.tctmagazine.com/three-storey-apartment-building-marks-important-milestone-in-3d-printing-for-construction
 
-🏠 Can Elegoo’s Latest 500M Yuan Round Counter the “Bambu Effect”?
-Chinese 3D printer manufacturer Elegoo (Shenzhen SmartPie Technology Co., aka SmartPie) has completed a B+ round of financing worth over 500 million yuan ($73.3 million).
-The round was jointly backed by Meituan and its investment arm, Dragon Ball, alongside Guoce Capital, Hillhouse Capital, Minghui Zhiyuan Capital, Shenzhen Capital Group, Shanghai High-Tech Investment Group, and Yintai…, reported by 3D Printing Industry on May 06, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/04/ELEGOO_spotlights_3D_printing_ecosystem_RAPID___TCT_2026-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/can-elegoos-latest-500m-yuan-round-counter-the-bambu-effect-251266
+📰 Xometry Q1 2026 hits record $205 million as Siemens invests $50 million
+Xometry (NASDAQ: XMTR) posted record first-quarter 2026 revenue of $205 million, up 36% year-over-year, as marketplace growth accelerated and the company reached adjusted EBITDA profitability of $10.5 million—a very...
+Reported by VoxelMatters on May 07, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Xometry-biz-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/xometry-posts-record-q1-2026-revenue-of-205-million-strikes-50-million-siemens-partnership
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "3d printed gun ban signed into law by Governor Polis - KKTV" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDFBNWFmZWZVXzRYdXNLLVhKcnB1WTYzZ1l4bEhxUS1Eekx5TFg3S1VFQjd1Y0x5V3lEWUVVenh3LWZPSWEyb2toQWVhQjhITEFmdEo0MFJCNmZLV0pFQm5EMVBNVTcwS2FOY0RQSEJ0VzhndFNHNC1KMTBocklReTJ3b3kyV1FoSTJVaTN0eU9SM3ZoTXc?oc=5 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "New York budget agreement establishes first ban on 3D-printed ghost guns - Washington Examiner" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMisAFBVV95cUxQdENjZlpkaHBwUGVUX1VzN1NkRDhQUDJ0eUE1MEpiYnk1SkZIQmk1Q2pjaWNZRmVjdUozLVNud2RjbnhucGV5TjNlUGx4M001VUJBbVNtMm5LUGJTQVpUOUdCNjJkWFZoc2V1endBQXFlUGc0UGs2YmxYOUFvR3IyOHBtWGs3Q2Z3SlRqTjZueGJkcnZoU2VJM2lBQUptelV6V0hJOFJaN3Nxalo3dmJ0LQ?oc=5 | Full pulse: https://www.quality3ds.com/
