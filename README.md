@@ -2,52 +2,51 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #121 - 2026-05-08
+### 3D PRINTING PULSE #122 - 2026-05-09
 
-🔥 New York budget agreement establishes first ban on 3D-printed ghost guns - Washington Examiner
-New York budget agreement establishes first ban on 3D-printed ghost guns Washington Examiner
-Reported by Google News - 3D Printing Viral on May 07, 2026.
-Read more ? https://news.google.com/rss/articles/CBMisAFBVV95cUxQdENjZlpkaHBwUGVUX1VzN1NkRDhQUDJ0eUE1MEpiYnk1SkZIQmk1Q2pjaWNZRmVjdUozLVNud2RjbnhucGV5TjNlUGx4M001VUJBbVNtMm5LUGJTQVpUOUdCNjJkWFZoc2V1endBQXFlUGc0UGs2YmxYOUFvR3IyOHBtWGs3Q2Z3SlRqTjZueGJkcnZoU2VJM2lBQUptelV6V0hJOFJaN3Nxalo3dmJ0LQ?oc=5
+🔥 The Additive Chicken Coop, Part III: Bananas
+A friend of mine, Ed Davis, once pointed out the level of strategic replication in additive.
+I wasn’t aware of it before and haven’t been able to unsee it since, reported by 3DPrint.com on May 08, 2026.
+Read more ? https://3dprint.com/325218/the-additive-chicken-coop-part-iii-bananas
 
-🚨 Hands on with the Elegoo Jupiter 2 3D Printer, Part 1
-We’re testing the brand new Jupiter 2 resin 3D printer from Elegoo.
-This is part one of a four part series, please read parts two, three and four, reported by Fabbaloo on May 07, 2026.
-Read more ? https://www.fabbaloo.com/news/hands-on-with-the-elegoo-jupiter-2-3d-printer-part-1
+🔥 New York budget agreement establishes first ban on 3D-printed ghost guns - MSN
+New York budget agreement establishes first ban on 3D-printed ghost guns MSN
+Reported by Google News - 3D Printing Viral on May 08, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUHJqMVRIakc0TjN6SUNKelZ1cEROblNNamZ2WmFaNmdRbGE2OXppRkVFZmp3ZGdSZG85bWJKaDZaWXFhbmpUNTBxS0p6SE50NnR0QVpYR0FwLWltOFBTcU5iYldGa2tzN3VnUmZ2TG40MVRvYzh1cTFNeXRodktuMUwybFdlem5GZE55YUlsY2FGMkNBU1lmWXZoZXNyZ0ZvYml6UFo5T09qMzN0aGJadEh1eVpfLVFQTWh4a1V5YnRpcnNoWFdNY0x1U1hHVmpiM1JmaHAtMTdQdjFlOUVPNw?oc=5
 
-🔥 Longmont Senator Katie Wallace Helps Pass Colorado 3D-Printed Gun Ban - longmontleader.com
-Longmont Senator Katie Wallace Helps Pass Colorado 3D-Printed Gun Ban longmontleader.com
-Reported by Google News - 3D Printing Viral on May 07, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNzNrQ2pST2FoT1p3QmRzOUNiMTMzNFQwSklZcUpZOTJtbXh1WmI3cUV0ZTN5dVRST2pXSnBZWjBvMk50cmZ6NE8wV2RvUWphWERUQWtnMmdsOHExN0ZUa0NVWDgzaThrcjVmRV82RmhKMlFiTXVpUDhsQk9oVlhMN3Y2cm91Rmh2ek52Q1NCZVVZdE15Y2dyRnhmRU1HR0RxNXprN25EeHp5UUlBR3BRSGdUNEtiYVd4bFJxUlltSDc?oc=5
+🔥 New Colorado law bans the manufacture of 3D-printed guns - SummitDaily.com
+New Colorado law bans the manufacture of 3D-printed guns SummitDaily.com
+Reported by Google News - 3D Printing on May 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMie0FVX3lxTE9MWkFoSlBPdEFIZlVaNUhBLS1jUGxyUF9NQWoxRDNqclUzMTRHMzdXa3J0SVVLbGxWbTBlSWJtTUxIZTg2ZUtoSU5vMUkwM0V1Ym9iVVhqbk5vWnd2a1Z2eThOQ1RIR1JhSmpMQTVpWjhVaWU3ZjA5WVY2SQ?oc=5
 
-🦺 University of Colorado researchers use 3D bioprinting to build reusable, light-emitting living materials
-Researchers at the University of Colorado Boulder have developed a method for producing light-emitting living materials.
-By embedding bioluminescent marine microorganisms in 3D printed alginate hydrogel scaffolds and activating them … The post University of Colorado researchers use 3D bioprinting to build reusable, light-emitting, reported by VoxelMatters on May 07, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-bioprinting-Colorado-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/university-of-colorado-researchers-use-3d-bioprinting-to-build-reusable-light-emitting-living-materials
+♻️ Why Recycling 3D Printer Scraps Will Never Work
+Perhaps this is a controversial viewpoint, but I am now thinking that recycling of 3D print waste is a lost cause.
+The post Why Recycling 3D Printer Scraps Will Never Work appeared on Fabbaloo.
+Read more ? https://www.fabbaloo.com/news/why-recycling-3d-printer-scraps-will-never-work
 
-💻 Navigating the intersection of AI-driven 4D printing and intellectual property law
-Mitasha Bharadwaj, Trainee Patent Attorney at Marks & Clerk on the IP complexities around 4D printing.
-Reported by TCT Magazine on May 07, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/IP-Icon.png
-Read more ? https://www.tctmagazine.com/navigating-the-intersection-of-ai-driven-4d-printing-and-intellectual-property-law
+🏠 RAPID + TCT 2026: HP’s New MJF 1200 and Multi-Platform Updates
+Multinational printing firm HP’s additive manufacturing division used RAPID + TCT 2026 to announce its smallest Multi Jet Fusion (MJF) 3D printer yet, alongside updates across its polymer and metal platforms.
+The centerpiece announcement is the HP MJF 1200 3D Printer, a compact system with a 12-liter build volume, reported by 3D Printing Industry on May 08, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/HP-MJF-1200-3D-Printer-Solution-_Enviro-Image_8-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/rapid-tct-2026-hps-new-mjf-1200-and-multi-platform-updates-251306
 
-🏠 TETMET’s low-energy approach to metal lattice construction
-Lattice structures are becoming an important feature of function design.
-The three dimensional geometries, which can be tailored to specific shapes and densities, offer important benefits like a greater strength-to-weight … The post TETMET’s low-energy approach to metal lattice, reported by VoxelMatters on May 07, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/tetmet-1-150x150.jpeg
-Read more ? https://www.voxelmatters.com/tetmets-low-energy-approach-to-metal-lattice-construction
+💻 Lockheed Martin advances LPBF additive manufacturing to speed delivery of defense platforms
+Lockheed Martin claims it has matured its laser powder-bed fusion additive manufacturing process to the extent that it is now able to efficiently and effectively address persistent supply chain constraints, … The...
+Reported by VoxelMatters on May 08, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Lockheed-Martin-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/lockheed-martin-advances-lpbf-additive-manufacturing-to-speed-delivery-of-defense-platforms
 
-🏠 Three-storey apartment building marks "important milestone" in 3D printing for construction
-A apartment block has been constructed in France using COBOD International's concrete 3D printing technology, three months faster than conventional building methods.'ViliaSprint' is multi-family residential building...
-It follows a similar project completed in Japan earlier this, reported by TCT Magazine on May 07, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/PERI-3D-Construction-x-COBOD_VillaSprin_5.png
-Read more ? https://www.tctmagazine.com/three-storey-apartment-building-marks-important-milestone-in-3d-printing-for-construction
+🏠 New Cadillac F1 team leveraging 3D Systems’ SLA 3D printing
+Last Sunday at the Miami Grand Prix, the Cadillac Formula 1 team completed its home debut and its fourth ever Grand Prix.
+Despite not yet placing in the top 10, … The post New Cadillac F1 team leveraging 3D Systems’ SLA 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/cadillac-f1-1-150x150.jpeg
+Read more ? https://www.voxelmatters.com/new-cadillac-f1-team-leveraging-3d-systems-sla-3d-printing
 
-📰 Xometry Q1 2026 hits record $205 million as Siemens invests $50 million
-Xometry (NASDAQ: XMTR) posted record first-quarter 2026 revenue of $205 million, up 36% year-over-year, as marketplace growth accelerated and the company reached adjusted EBITDA profitability of $10.5 million—a very...
-Reported by VoxelMatters on May 07, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Xometry-biz-150x150.jpg
-Read more ? https://www.voxelmatters.com/xometry-posts-record-q1-2026-revenue-of-205-million-strikes-50-million-siemens-partnership
+📰 Sculpteo joins 3D Prod and Platex group to form new European 3D printing service bureau
+French 3D printing service bureau 3D Prod has merged with Sculpteo, creating a combined group under the 3D Prod/Platex umbrella.
+The new entity brings together over 100 employees, more than … The post Sculpteo joins 3D Prod and Platex group to form new European 3D printing service bureau appeared first on VoxelMatters - The heart of additive...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Shooting0405-7-1536x1020-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/sculpteo-joins-3d-prod-and-platex-group-to-form-new-european-3d-printing-service-bureau
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
