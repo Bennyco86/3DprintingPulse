@@ -1,49 +1,52 @@
-﻿# 3D PRINTING PULSE #122 - 2026-05-09
+﻿# 3D PRINTING PULSE #123 - 2026-05-10
 
-🔥 The Additive Chicken Coop, Part III: Bananas
-A friend of mine, Ed Davis, once pointed out the level of strategic replication in additive.
-I wasn’t aware of it before and haven’t been able to unsee it since, reported by 3DPrint.com on May 08, 2026.
-🔗 Read more: https://3dprint.com/325218/the-additive-chicken-coop-part-iii-bananas
+🔥 New Colorado law bans the manufacture of 3D-printed guns - SkyHiNews.com
+New Colorado law bans the manufacture of 3D-printed guns SkyHiNews.com
+Reported by Google News - 3D Printing on May 09, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTE9HbU40S2k4SWVheXFrbDlaNlRVREdHTm1yYlRzOEZLSHJETS1aWmlJN0VPbnpPbjM2bngzZWVpMTlpNUhqaHc2bldVbHBVRy1XQjZ2OVoyTkotSEpNbFNhT3dzZDJKWGdxazNURXpqTlZjcmdENXVjVQ?oc=5
 
-🔥 New York budget agreement establishes first ban on 3D-printed ghost guns - MSN
-New York budget agreement establishes first ban on 3D-printed ghost guns MSN
-Reported by Google News - 3D Printing Viral on May 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUHJqMVRIakc0TjN6SUNKelZ1cEROblNNamZ2WmFaNmdRbGE2OXppRkVFZmp3ZGdSZG85bWJKaDZaWXFhbmpUNTBxS0p6SE50NnR0QVpYR0FwLWltOFBTcU5iYldGa2tzN3VnUmZ2TG40MVRvYzh1cTFNeXRodktuMUwybFdlem5GZE55YUlsY2FGMkNBU1lmWXZoZXNyZ0ZvYml6UFo5T09qMzN0aGJadEh1eVpfLVFQTWh4a1V5YnRpcnNoWFdNY0x1U1hHVmpiM1JmaHAtMTdQdjFlOUVPNw?oc=5
+📰 UTEP and Sandia researchers use vat photopolymerization to 3D print gel polymer electrolytes
+Researchers at the University of Texas at El Paso (UTEP) and Sandia National Laboratories have produced gel polymer electrolytes (GPEs) — semi-solid materials that sit between liquid and fully solid … The post UTEP...
+Reported by VoxelMatters on May 09, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/UTEP-vat-photopolymerization-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/utep-and-sandia-researchers-use-vat-photopolymerization-to-3d-print-gel-polymer-electrolytes-for-lithium-ion-batteries
 
-🔥 New Colorado law bans the manufacture of 3D-printed guns - SummitDaily.com
-New Colorado law bans the manufacture of 3D-printed guns SummitDaily.com
-Reported by Google News - 3D Printing on May 07, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE9MWkFoSlBPdEFIZlVaNUhBLS1jUGxyUF9NQWoxRDNqclUzMTRHMzdXa3J0SVVLbGxWbTBlSWJtTUxIZTg2ZUtoSU5vMUkwM0V1Ym9iVVhqbk5vWnd2a1Z2eThOQ1RIR1JhSmpMQTVpWjhVaWU3ZjA5WVY2SQ?oc=5
+🖨 VoxelMatters Review: Formlabs’ Tough 2000 V2 resin shows how tough the Form 4 really is
+Last year, VoxelMatters reviewed the Form 4 Complete Package, basically an end-to-end production system, and testing it was a surprisingly smooth experience.
+We had lots of fun testing it, but … The post VoxelMatters Review: Formlabs’ Tough 2000 V2 resin shows how tough the Form 4 really is appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/F4T2K-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/voxelmatters-review-formlabs-tough-2000-v4-resin-shows-how-tough-the-form-4-really-is
 
-♻️ Why Recycling 3D Printer Scraps Will Never Work
-Perhaps this is a controversial viewpoint, but I am now thinking that recycling of 3D print waste is a lost cause.
-The post Why Recycling 3D Printer Scraps Will Never Work appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/why-recycling-3d-printer-scraps-will-never-work
+🚀 Addireen Now online platform brings industrial copper AM to instant quote
+Addireen, a Shenzhen-based metal additive manufacturing provider specializing in copper and Green Laser 3D printing, launched Addireen Now, a proprietary online platform that gives engineers direct access to...
+Reported by VoxelMatters on May 09, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Addireen-Now-3D-Printing-Platform-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/addireen-now-online-platform-brings-industrial-copper-am-to-instant-quote
 
-🏠 RAPID + TCT 2026: HP’s New MJF 1200 and Multi-Platform Updates
-Multinational printing firm HP’s additive manufacturing division used RAPID + TCT 2026 to announce its smallest Multi Jet Fusion (MJF) 3D printer yet, alongside updates across its polymer and metal platforms.
-The centerpiece announcement is the HP MJF 1200 3D Printer, a compact system with a 12-liter build volume, reported by 3D Printing Industry on May 08, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/HP-MJF-1200-3D-Printer-Solution-_Enviro-Image_8-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/rapid-tct-2026-hps-new-mjf-1200-and-multi-platform-updates-251306
+💻 MIT CSAIL brings 40-year-old zipper concept to life with 3D printing
+A zipper concept patented in the 1980s and then shelved for nearly four decades has been revived by researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), who used … The post MIT CSAIL...
+Reported by VoxelMatters on May 09, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/MIT-Y-zipper-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/mit-csail-brings-40-year-old-zipper-concept-to-life-with-3d-printing
 
-💻 Lockheed Martin advances LPBF additive manufacturing to speed delivery of defense platforms
-Lockheed Martin claims it has matured its laser powder-bed fusion additive manufacturing process to the extent that it is now able to efficiently and effectively address persistent supply chain constraints, … The...
+📰 Saarland University researchers developing 3D printed elastocaloric cooling systems
+Researchers at Saarland University have demonstrated an elastocaloric cooling and heating system that uses no refrigerants and no fossil fuels, and which relies instead on the physical properties of nickel-titanium,...
 Reported by VoxelMatters on May 08, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Lockheed-Martin-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lockheed-martin-advances-lpbf-additive-manufacturing-to-speed-delivery-of-defense-platforms
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-printed-elastocaloric-cooling-systems-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/saarland-university-researchers-developing-3d-printed-elastocaloric-cooling-systems
 
-🏠 New Cadillac F1 team leveraging 3D Systems’ SLA 3D printing
-Last Sunday at the Miami Grand Prix, the Cadillac Formula 1 team completed its home debut and its fourth ever Grand Prix.
-Despite not yet placing in the top 10, … The post New Cadillac F1 team leveraging 3D Systems’ SLA 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/cadillac-f1-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/new-cadillac-f1-team-leveraging-3d-systems-sla-3d-printing
+📰 Materialise eyewear business to operate under newly formed company
+It follows a similar decision earlier this year to sell its RapidFit business to its management team.
+Reported by TCT Magazine on May 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/odette-materialise-46-png-cb-53f5c1c136a89e58ec8975822137daa2.jpg
+🔗 Read more: https://www.tctmagazine.com/materialise-eyewear-business-to-operate-under-newly-formed-company
 
-📰 Sculpteo joins 3D Prod and Platex group to form new European 3D printing service bureau
-French 3D printing service bureau 3D Prod has merged with Sculpteo, creating a combined group under the 3D Prod/Platex umbrella.
-The new entity brings together over 100 employees, more than … The post Sculpteo joins 3D Prod and Platex group to form new European 3D printing service bureau appeared first on VoxelMatters - The heart of additive...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Shooting0405-7-1536x1020-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/sculpteo-joins-3d-prod-and-platex-group-to-form-new-european-3d-printing-service-bureau
+💻 Nikon AM Synergy Secures New DLA Supply Chain Contract
+The US Defense Logistics Agency (DLA) has awarded Nikon AM Synergy, a contract under the JAMA IV IDIQ Pilot Parts Program, bringing the company into the US military’s AM supply chain as a direct production partner.
+The DLA is using this pilot to determine whether additive manufacturing can reliably replace conventional production methods for critical…, reported by 3D Printing Industry on May 08, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/07/The-Pentagon.-Photo-via-the-United-States-Department-of-Defense-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/nikon-am-synergy-secures-new-dla-supply-chain-contract-251299
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "The Additive Chicken Coop, Part III: Bananas" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://3dprint.com/325218/the-additive-chicken-coop-part-iii-bananas | Explore more: https://www.quality3ds.com/
+Today's pulse highlight is "New Colorado law bans the manufacture of 3D-printed guns - SkyHiNews.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9HbU40S2k4SWVheXFrbDlaNlRVREdHTm1yYlRzOEZLSHJETS1aWmlJN0VPbnpPbjM2bngzZWVpMTlpNUhqaHc2bldVbHBVRy1XQjZ2OVoyTkotSEpNbFNhT3dzZDJKWGdxazNURXpqTlZjcmdENXVjVQ?oc=5 | Full pulse: https://www.quality3ds.com/

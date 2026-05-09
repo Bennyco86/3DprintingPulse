@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-10
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #123 - 2026-05-10
+## Stories
 
 🔥 New Colorado law bans the manufacture of 3D-printed guns - SkyHiNews.com
 New Colorado law bans the manufacture of 3D-printed guns SkyHiNews.com
@@ -50,9 +48,3 @@ The US Defense Logistics Agency (DLA) has awarded Nikon AM Synergy, a contract u
 The DLA is using this pilot to determine whether additive manufacturing can reliably replace conventional production methods for critical…, reported by 3D Printing Industry on May 08, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2025/07/The-Pentagon.-Photo-via-the-United-States-Department-of-Defense-150x100.png
 Read more ? https://3dprintingindustry.com/news/nikon-am-synergy-secures-new-dla-supply-chain-contract-251299
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
