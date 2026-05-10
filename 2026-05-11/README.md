@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #124 - 2026-05-11
+## Stories
 
 🔥 Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer - Tom's Hardware
 Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer...
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMi-AJBVV95cUxONHJGdVl2QXFPQ1V
 India’s First 3D Printed House by Tvasta Startup in Pune parametric-architecture.com
 Reported by Google News - 3D Printing on May 10, 2026.
 Read more ? https://news.google.com/rss/articles/CBMidEFVX3lxTE5vTE9mbzN3VzJ6aUlteWVPUUI1c2huRzBVUmhzU3VyblllV0lGclR6TV9oUzVPX2JsT3lXUm1hUjB1bGt4ZHdDVU1NS0Zad0dIRnNqQjhVWmJmQUFKcEstaU95UHJCMzZaVGowR2E3NTN2d3gx?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

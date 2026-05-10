@@ -1,52 +1,47 @@
-﻿# 3D PRINTING PULSE #123 - 2026-05-10
+﻿# 3D PRINTING PULSE #124 - 2026-05-11
 
-🔥 New Colorado law bans the manufacture of 3D-printed guns - SkyHiNews.com
-New Colorado law bans the manufacture of 3D-printed guns SkyHiNews.com
-Reported by Google News - 3D Printing on May 09, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTE9HbU40S2k4SWVheXFrbDlaNlRVREdHTm1yYlRzOEZLSHJETS1aWmlJN0VPbnpPbjM2bngzZWVpMTlpNUhqaHc2bldVbHBVRy1XQjZ2OVoyTkotSEpNbFNhT3dzZDJKWGdxazNURXpqTlZjcmdENXVjVQ?oc=5
+🔥 Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer - Tom's Hardware
+Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer...
+Reported by Google News - 3D Printing on May 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNmoxR0JGQXVQVHJHNjgxSEdaWlZrX1ViNzVfV1JsNWtWaVNfWXZ1YmE3MTQxSVg1MTB6ZkNReXV5ZjVHa0pnbWZtNEprdGZERWdlVlFkUDhwZ3hGYngxZEx2NXRaU0JrTWF6S3RTTTQ3emJQc1A2VlljV28xRDFTVlF2Rml3dDc1WFFRUVhfMEJ1TUpJNklTY0dlWlhMUTBMbWoxbm5DM1pGSGRzZkRydUZKbTRxcWl1TGg4U0dwb2RXWmRsSEE4aHZHdksyeEFQS3dXUU1SYmZoQTB3MVktQVA2bHE4V2ozQWI0Yjd0dXZjVTZNNUJjbndETmY2NE1VLWZnajB2ZGd4VWdQOGFZc0U1cEVCa01Uc1h2cElYR0Z4dXd6TUl0ZjhWZkYyeHkzNEZXWkJNMy1lcDNEYTRLdnhEeDY2WkxYc2pvLUVhc0RHM2daUnVMaA?oc=5
 
-📰 UTEP and Sandia researchers use vat photopolymerization to 3D print gel polymer electrolytes
-Researchers at the University of Texas at El Paso (UTEP) and Sandia National Laboratories have produced gel polymer electrolytes (GPEs) — semi-solid materials that sit between liquid and fully solid … The post UTEP...
-Reported by VoxelMatters on May 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/UTEP-vat-photopolymerization-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/utep-and-sandia-researchers-use-vat-photopolymerization-to-3d-print-gel-polymer-electrolytes-for-lithium-ion-batteries
+🔥 New York budget agreement establishes first ban on 3D-printed ghost guns - MSN
+New York budget agreement establishes first ban on 3D-printed ghost guns MSN
+Reported by Google News - 3D Printing Viral on May 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXFxN0NHbm41aUVOZ1BLUnVnam13Sy1EQzRYMG96cm04ZU04ZVQ5aGlrMC1mSW10ejBMVmFiU3Z6UTg5alQta25XSzQyS1RtVlh4TlZkSTRNX1poRTBoTHhWM2ZUSjJTSklmenllbjQwRmQ3eFF0aWdTcDRxZW5RQWkzdjFaaTZYaS01TFZaYmxhZVhPOFRUOTluV21GZGpZRzV6OVRzdWI4STNPUmJBeDg3bnJ6ZGhaYlE?oc=5
 
-🖨 VoxelMatters Review: Formlabs’ Tough 2000 V2 resin shows how tough the Form 4 really is
-Last year, VoxelMatters reviewed the Form 4 Complete Package, basically an end-to-end production system, and testing it was a surprisingly smooth experience.
-We had lots of fun testing it, but … The post VoxelMatters Review: Formlabs’ Tough 2000 V2 resin shows how tough the Form 4 really is appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/F4T2K-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/voxelmatters-review-formlabs-tough-2000-v4-resin-shows-how-tough-the-form-4-really-is
+🏠 Historic Chinese courtyard house fully digitally scanned for preservation using SHINING 3D scanners
+Preserving historic architecture in digital form has long required practitioners to choose between coverage and resolution.
+A project at Shijiazhuang Flower Hall — a traditional Chinese courtyard house covering approximately … The post Historic Chinese courtyard house fully digitally scanned for preservation using SHINING 3D scanners, reported by VoxelMatters on May 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Chinese-courtyard-SHINING-3D-03-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/historic-chinese-courtyard-house-fully-digitally-scanned-for-preservation-using-shining-3d-scanners
 
-🚀 Addireen Now online platform brings industrial copper AM to instant quote
-Addireen, a Shenzhen-based metal additive manufacturing provider specializing in copper and Green Laser 3D printing, launched Addireen Now, a proprietary online platform that gives engineers direct access to...
-Reported by VoxelMatters on May 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Addireen-Now-3D-Printing-Platform-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/addireen-now-online-platform-brings-industrial-copper-am-to-instant-quote
+🦺 Castomize’s heat-molded 3D printed orthopedic cast has reduced costs by up to 25%
+A Singapore-based startup, Castomize, has developed a 3D printed open cast for wrist, arm and ankle fractures that is breathable, lightweight, and fully waterproof, and which helps avoid common side … The post...
+Reported by VoxelMatters on May 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Castomize-cast-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/castomizes-heat-molded-3d-printed-orthopedic-cast-has-reduced-costs-by-up-to-25
 
-💻 MIT CSAIL brings 40-year-old zipper concept to life with 3D printing
-A zipper concept patented in the 1980s and then shelved for nearly four decades has been revived by researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL), who used … The post MIT CSAIL...
-Reported by VoxelMatters on May 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/MIT-Y-zipper-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/mit-csail-brings-40-year-old-zipper-concept-to-life-with-3d-printing
+💻 3D People Case Study Details Development of 3D Printed POV Camera Rig
+A POV, or Point of View, camera rig, is a wearable support system that helps filmographers capture first-person footage, making the images more immersive.
+Some good examples of movies shot, reported by 3DPrint.com on May 10, 2026.
+🔗 Read more: https://3dprint.com/325952/3d-people-details-development-of-3d-printed-pov-camera-rig
 
-📰 Saarland University researchers developing 3D printed elastocaloric cooling systems
-Researchers at Saarland University have demonstrated an elastocaloric cooling and heating system that uses no refrigerants and no fossil fuels, and which relies instead on the physical properties of nickel-titanium,...
-Reported by VoxelMatters on May 08, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-printed-elastocaloric-cooling-systems-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/saarland-university-researchers-developing-3d-printed-elastocaloric-cooling-systems
+🖨 Multimaterial Resin Printer - Hackaday
+Multimaterial Resin Printer Hackaday
+Reported by Google News - 3D Printing on May 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiY0FVX3lxTE56NllLY0ZPWGo3UVR2RWRETTc0RE1GVlZBcExhNk1jbkpOTWhheHh4Z05tS3o2YXktNWp0RHJsNkVZOUtSWXd3THBmUS0zZnZnMk1NLTZOUmlMRzlpMkI5Vm9lNA?oc=5
 
-📰 Materialise eyewear business to operate under newly formed company
-It follows a similar decision earlier this year to sell its RapidFit business to its management team.
-Reported by TCT Magazine on May 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/odette-materialise-46-png-cb-53f5c1c136a89e58ec8975822137daa2.jpg
-🔗 Read more: https://www.tctmagazine.com/materialise-eyewear-business-to-operate-under-newly-formed-company
+📰 MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures — 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams in seconds - Tom's Hardware
+MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures — 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams...
+Reported by Google News - 3D Printing on May 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi-AJBVV95cUxONHJGdVl2QXFPQ1VMVm82M2lDN2QxMFlRZ1pDZVVidW9xRGF0Y2hGM2ZTUnBzbGk3T2JRVFRlc2VJajkzQW0xdklScnFfd1JyTUR3UFU4UFpNWFdGeC1KeGUtem9QTW5vTnJKX1c2c0pqalRBU0JCWjZaTGxzMF9mRDdSTWIwQkFNMnI2Z0dCLTJnUUx5eHNpQW5RUm5pbERkOGxQMzVkaFJTNGtSQUhCV0hONUJfV3BKU3lGSE1qbk42MG5HaE9FM2FSUDh4cFFFX3VOajRZNWRwTDFiWlA1RXFlejZpcm41NnJ3WWF1bk9DSFZNR0pvdDZoSUlxY2RrWlBoY3hMLVRoMG8yUlBqS3RHSnlPRFRWVmNEU1ZMRDJzTkI3bWswR0V2Wjd2dWpfYW41VkQ5bHd3MG16eGhPQlpxYWtBSGVaUmNXV0c1WkZJMkpER2YwSmxkQXUxT0tEUUZDQUZuRk44SVV5UlREMUNLVHBXbVIz?oc=5
 
-💻 Nikon AM Synergy Secures New DLA Supply Chain Contract
-The US Defense Logistics Agency (DLA) has awarded Nikon AM Synergy, a contract under the JAMA IV IDIQ Pilot Parts Program, bringing the company into the US military’s AM supply chain as a direct production partner.
-The DLA is using this pilot to determine whether additive manufacturing can reliably replace conventional production methods for critical…, reported by 3D Printing Industry on May 08, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/07/The-Pentagon.-Photo-via-the-United-States-Department-of-Defense-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/nikon-am-synergy-secures-new-dla-supply-chain-contract-251299
+🏠 India’s First 3D Printed House by Tvasta Startup in Pune - parametric-architecture.com
+India’s First 3D Printed House by Tvasta Startup in Pune parametric-architecture.com
+Reported by Google News - 3D Printing on May 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMidEFVX3lxTE5vTE9mbzN3VzJ6aUlteWVPUUI1c2huRzBVUmhzU3VyblllV0lGclR6TV9oUzVPX2JsT3lXUm1hUjB1bGt4ZHdDVU1NS0Zad0dIRnNqQjhVWmJmQUFKcEstaU95UHJCMzZaVGowR2E3NTN2d3gx?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "New Colorado law bans the manufacture of 3D-printed guns - SkyHiNews.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMieEFVX3lxTE9HbU40S2k4SWVheXFrbDlaNlRVREdHTm1yYlRzOEZLSHJETS1aWmlJN0VPbnpPbjM2bngzZWVpMTlpNUhqaHc2bldVbHBVRy1XQjZ2OVoyTkotSEpNbFNhT3dzZDJKWGdxazNURXpqTlZjcmdENXVjVQ?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "New York budget agreement establishes first ban on 3D-printed ghost guns - MSN" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXFxN0NHbm41aUVOZ1BLUnVnam13Sy1EQzRYMG96cm04ZU04ZVQ5aGlrMC1mSW10ejBMVmFiU3Z6UTg5alQta25XSzQyS1RtVlh4TlZkSTRNX1poRTBoTHhWM2ZUSjJTSklmenllbjQwRmQ3eFF0aWdTcDRxZW5RQWkzdjFaaTZYaS01TFZaYmxhZVhPOFRUOTluV21GZGpZRzV6OVRzdWI4STNPUmJBeDg3bnJ6ZGhaYlE?oc=5 | Full coverage: https://www.quality3ds.com/
