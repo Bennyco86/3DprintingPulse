@@ -2,49 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #124 - 2026-05-11
+### 3D PRINTING PULSE #125 - 2026-05-12
 
-🔥 Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer - Tom's Hardware
-Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer...
-Reported by Google News - 3D Printing on May 10, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNmoxR0JGQXVQVHJHNjgxSEdaWlZrX1ViNzVfV1JsNWtWaVNfWXZ1YmE3MTQxSVg1MTB6ZkNReXV5ZjVHa0pnbWZtNEprdGZERWdlVlFkUDhwZ3hGYngxZEx2NXRaU0JrTWF6S3RTTTQ3emJQc1A2VlljV28xRDFTVlF2Rml3dDc1WFFRUVhfMEJ1TUpJNklTY0dlWlhMUTBMbWoxbm5DM1pGSGRzZkRydUZKbTRxcWl1TGg4U0dwb2RXWmRsSEE4aHZHdksyeEFQS3dXUU1SYmZoQTB3MVktQVA2bHE4V2ozQWI0Yjd0dXZjVTZNNUJjbndETmY2NE1VLWZnajB2ZGd4VWdQOGFZc0U1cEVCa01Uc1h2cElYR0Z4dXd6TUl0ZjhWZkYyeHkzNEZXWkJNMy1lcDNEYTRLdnhEeDY2WkxYc2pvLUVhc0RHM2daUnVMaA?oc=5
+🚨 Bambu Lab Launches Food Safe Filament … In China
+Bambu Lab announced the availability of a line of food-safe 3D printer filament materials.
+The post Bambu Lab Launches Food Safe Filament … In China appeared on Fabbaloo.
+Read more ? https://www.fabbaloo.com/news/bambu-lab-launches-food-safe-filament-in-china
 
-🔥 New York budget agreement establishes first ban on 3D-printed ghost guns - MSN
-New York budget agreement establishes first ban on 3D-printed ghost guns MSN
-Reported by Google News - 3D Printing Viral on May 10, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXFxN0NHbm41aUVOZ1BLUnVnam13Sy1EQzRYMG96cm04ZU04ZVQ5aGlrMC1mSW10ejBMVmFiU3Z6UTg5alQta25XSzQyS1RtVlh4TlZkSTRNX1poRTBoTHhWM2ZUSjJTSklmenllbjQwRmQ3eFF0aWdTcDRxZW5RQWkzdjFaaTZYaS01TFZaYmxhZVhPOFRUOTluV21GZGpZRzV6OVRzdWI4STNPUmJBeDg3bnJ6ZGhaYlE?oc=5
+💻 Interspectral joins Vinnova-backed TRUSTAM consortium to bring federated AI to additive manufacturing quality control
+Swedish provider of AI-driven process monitoring and quality assurance software for additive manufacturing technologies Interspectral has joined a publicly funded Swedish research consortium developing a federated...
+Reported by VoxelMatters on May 11, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Interpectral-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/interspectral-joins-vinnova-backed-trustam-consortium-to-bring-federated-ai-to-additive-manufacturing-quality-control
 
-🏠 Historic Chinese courtyard house fully digitally scanned for preservation using SHINING 3D scanners
-Preserving historic architecture in digital form has long required practitioners to choose between coverage and resolution.
-A project at Shijiazhuang Flower Hall — a traditional Chinese courtyard house covering approximately … The post Historic Chinese courtyard house fully digitally scanned for preservation using SHINING 3D scanners, reported by VoxelMatters on May 10, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Chinese-courtyard-SHINING-3D-03-150x150.jpg
-Read more ? https://www.voxelmatters.com/historic-chinese-courtyard-house-fully-digitally-scanned-for-preservation-using-shining-3d-scanners
+📰 Joris Laarman’s 3D printed SYMBIO benches exhibited in NYC
+Dutch artist Joris Laarman is no stranger to us.
+Focused on the intersection of craftsmanship and technology, Laarman has often used additive manufacturing as a tool to bring his visions … The post Joris Laarman’s 3D printed SYMBIO benches exhibited in NYC appeared, reported by VoxelMatters on May 11, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/laarman-symbio-2-150x150.jpeg
+Read more ? https://www.voxelmatters.com/joris-laarmans-3d-printed-symbio-benches-exhibited-in-nyc
 
-🦺 Castomize’s heat-molded 3D printed orthopedic cast has reduced costs by up to 25%
-A Singapore-based startup, Castomize, has developed a 3D printed open cast for wrist, arm and ankle fractures that is breathable, lightweight, and fully waterproof, and which helps avoid common side … The post...
-Reported by VoxelMatters on May 10, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Castomize-cast-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/castomizes-heat-molded-3d-printed-orthopedic-cast-has-reduced-costs-by-up-to-25
+🚀 DMG MORI launches LASERTEC 65 DED hybrid 2 for additive and subtractive metal manufacturing
+DMG MORI UK, the British division of machine tool manufacturer DMG MORI, has introduced the LASERTEC 65 DED hybrid 2, a second-generation production centre combining directed energy deposition (DED) with 5-axis...
+Launched earlier this year at the company’s open house in Pfronten, southern Germany, the system is designed…, reported by 3D Printing Industry on May 11, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/image-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/dmg-mori-launches-lasertec-65-ded-hybrid-2-for-additive-and-subtractive-metal-manufacturing-251354
 
-💻 3D People Case Study Details Development of 3D Printed POV Camera Rig
-A POV, or Point of View, camera rig, is a wearable support system that helps filmographers capture first-person footage, making the images more immersive.
-Some good examples of movies shot, reported by 3DPrint.com on May 10, 2026.
-Read more ? https://3dprint.com/325952/3d-people-details-development-of-3d-printed-pov-camera-rig
+🦺 Singapore researchers outline advances shaping biofabrication and biomanufacturing
+Researchers in Singapore have published a review mapping the country’s recent contributions to biofabrication and biomanufacturing, from waste-derived biomaterials and 3D bioprinting to cultivated food, regenerative...
+Published in Bio-Design and Manufacturing, the review examines work led by Singapore-based research groups across three areas: bio-derived materials, enabling manufacturing technologies, and emerging applications.…, reported by 3D Printing Industry on May 11, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/image-7-150x100.png
+Read more ? https://3dprintingindustry.com/news/singapore-researchers-outline-advances-shaping-biofabrication-and-biomanufacturing-251349
 
-🖨 Multimaterial Resin Printer - Hackaday
-Multimaterial Resin Printer Hackaday
-Reported by Google News - 3D Printing on May 10, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiY0FVX3lxTE56NllLY0ZPWGo3UVR2RWRETTc0RE1GVlZBcExhNk1jbkpOTWhheHh4Z05tS3o2YXktNWp0RHJsNkVZOUtSWXd3THBmUS0zZnZnMk1NLTZOUmlMRzlpMkI5Vm9lNA?oc=5
+💻 Interspectral to lead Swedish research project into AI-powered quality assurance for additive manufacturing
+Interspectral will work with Saab, AMEXCI and Scaleout Systems as part of a Sweden national innovation agency program.
+Reported by TCT Magazine on May 11, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/qualify_montage-1-1-scaled.png.png
+Read more ? https://www.tctmagazine.com/interspectral-to-lead-swedish-research-project-into-ai-powered-quality-assurance-for-additive-manufacturing
 
-📰 MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures — 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams in seconds - Tom's Hardware
-MIT researchers revive 40-year-old triangular zipper concept now made possible by 3D printing, creates shape-shifting robots and deployable structures — 3D-printed 'Y-Zipper' turns floppy tentacles into rigid beams...
-Reported by Google News - 3D Printing on May 10, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi-AJBVV95cUxONHJGdVl2QXFPQ1VMVm82M2lDN2QxMFlRZ1pDZVVidW9xRGF0Y2hGM2ZTUnBzbGk3T2JRVFRlc2VJajkzQW0xdklScnFfd1JyTUR3UFU4UFpNWFdGeC1KeGUtem9QTW5vTnJKX1c2c0pqalRBU0JCWjZaTGxzMF9mRDdSTWIwQkFNMnI2Z0dCLTJnUUx5eHNpQW5RUm5pbERkOGxQMzVkaFJTNGtSQUhCV0hONUJfV3BKU3lGSE1qbk42MG5HaE9FM2FSUDh4cFFFX3VOajRZNWRwTDFiWlA1RXFlejZpcm41NnJ3WWF1bk9DSFZNR0pvdDZoSUlxY2RrWlBoY3hMLVRoMG8yUlBqS3RHSnlPRFRWVmNEU1ZMRDJzTkI3bWswR0V2Wjd2dWpfYW41VkQ5bHd3MG16eGhPQlpxYWtBSGVaUmNXV0c1WkZJMkpER2YwSmxkQXUxT0tEUUZDQUZuRk44SVV5UlREMUNLVHBXbVIz?oc=5
+🚀 Harvard researchers print artificial muscle-like filaments that bend and twist on demand
+Researchers at Harvard University’s John A.
+Paulson School of Engineering and Applied Sciences have produced 3D printed filaments that are capable of bending, twisting, expanding, or contracting in response to … The post Harvard researchers print artificial, reported by VoxelMatters on May 11, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Harvard-rotational-multimaterial-3D-printing-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/harvard-researchers-print-artificial-muscle-like-filaments-that-bend-and-twist-on-demand
 
-🏠 India’s First 3D Printed House by Tvasta Startup in Pune - parametric-architecture.com
-India’s First 3D Printed House by Tvasta Startup in Pune parametric-architecture.com
-Reported by Google News - 3D Printing on May 10, 2026.
-Read more ? https://news.google.com/rss/articles/CBMidEFVX3lxTE5vTE9mbzN3VzJ6aUlteWVPUUI1c2huRzBVUmhzU3VyblllV0lGclR6TV9oUzVPX2JsT3lXUm1hUjB1bGt4ZHdDVU1NS0Zad0dIRnNqQjhVWmJmQUFKcEstaU95UHJCMzZaVGowR2E3NTN2d3gx?oc=5
+🖨 Cadillac F1 Team deploys seven 3D Systems SLA machines
+The F1 team has been working with 3D Systems' Application Innovation Group.
+Reported by TCT Magazine on May 11, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/3d-systems-sla-750-interior-laser-feature-940x722.png-1.png
+Read more ? https://www.tctmagazine.com/cadillac-f1-team-deploys-seven-3d-systems-sla-machines
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
