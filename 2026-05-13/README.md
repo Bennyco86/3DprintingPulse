@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-13
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #126 - 2026-05-13
+## Stories
 
 🔥 Colorado Governor Signs Ban on 3D-Printed Firearms Into Law - thefirearmblog.com
 Colorado Governor Signs Ban on 3D-Printed Firearms Into Law thefirearmblog.com
@@ -48,9 +46,3 @@ Endless Industries’ continuous fibre technology has been integrated into the B
 Reported by TCT Magazine on May 12, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/ipso105_image_1-cb-b8aa46b35e9182b7b343afcee2926348-1.png
 Read more ? https://www.tctmagazine.com/bigrep-endless-industries-introduce-large-format-continuous-fibre-reinforcement-3d-printing-capability
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
