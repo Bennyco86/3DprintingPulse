@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-14
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #127 - 2026-05-14
+## Stories
 
 🔥 Firestorm Secures $82M to Scale Battlefield Manufacturing
 Defense manufacturing startup Firestorm Labs has closed an $82 million Series B round, bringing its total capital raised to $153 million.
@@ -48,9 +46,3 @@ By integrating Burloak, i3D says it has expanded its ability to support complex,
 Reported by TCT Magazine on May 13, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Burloak-Image-Group-2048x416.png
 Read more ? https://www.tctmagazine.com/i3d-manufacturing-acquires-burloak-technologies
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

@@ -1,50 +1,50 @@
-﻿# 3D PRINTING PULSE #126 - 2026-05-13
+﻿# 3D PRINTING PULSE #127 - 2026-05-14
 
-🔥 Colorado Governor Signs Ban on 3D-Printed Firearms Into Law - thefirearmblog.com
-Colorado Governor Signs Ban on 3D-Printed Firearms Into Law thefirearmblog.com
-Reported by Google News - 3D Printing on May 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMipwFBVV95cUxPa3dzWmpUdU1oMFd6VGJJS05vMUwyVDBIUXZYTm1hcW5GN0ZSVW9sSFdyZXdfTmFHcnczUDlOTU5jYTZFRUd4VmNNaFJVOWJKS1ptcmstTnpJeE9WS0lvRDlsY0g4Ym5pcFJZVTNrMjJDRHdnTXMxdmlzMWdYVHB4YzNNdEZPNTFWNVRfVWpzWjhRWEJDQ1FLejRMbThVb0RTZE1iZDVTRQ?oc=5
+🔥 Firestorm Secures $82M to Scale Battlefield Manufacturing
+Defense manufacturing startup Firestorm Labs has closed an $82 million Series B round, bringing its total capital raised to $153 million.
+Washington Harbour Partners led the investment, joined by several backers spanning defense, intelligence, and venture, including NEA, In-Q-Tel, Lockheed Martin Ventures, Booz Allen Ventures, Ondas, Geodesic, Motley, reported by 3D Printing Industry on May 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/04/1742765527869-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/firestorm-secures-82m-to-scale-battlefield-manufacturing-251369
 
-🚨 Bambu Lab H2D review: This 3D printer does almost everything - The Independent
-Bambu Lab H2D review: This 3D printer does almost everything The Independent
-Reported by Google News - 3D Printing on May 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmtXWUcxTjBqUUprczRtdGxPZU9iRFdRSFBvMGVxdnR5aUdEY2tmY2V2a3VMeHZ3QzJfV1lDamNjRDBmSV9sZlZRdTdHaVVCUGE3a1Jfd3ZhYkNFMjRna2duV2NfZzBKRENyZ0l5YTlYcGQyUG1zSUVaTDlPWEp1Qkl4UklfWEFTbGE2aC12b2xaSk9QLUliR0FRMGRhY25NLW9ZbU5ydw?oc=5
+🔥 Vibrational characterization of void defects in metal additive manufacturing. - 3d adept media
+Vibrational characterization of void defects in metal additive manufacturing.
+3d adept media, reported by Google News - 3D Printing on May 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMingFBVV95cUxQRXpmdXZKbGthUWVDa1BpT3VSbjJ4amtoV0pwOEJOOTFqUHpSdzVwWDVxM1BsamdUZ1JFS19BRTVORi1WUks3YVdBRmlJdXpYbUJEZFh5NTFiWDltNUhEMkZMSnhoQktpSHMwX3hvc2ItOTlUSWlkMHBDUVRLT2s1SGNQd0pVa3Z0aHBDRUh2RmFlaC1ZTjB6RjJfbDREZw?oc=5
 
-🔥 Bambu Lab Cloud Access Dispute Highlights Tensions With Open Source Community
-There’s been a bit of a controversy brewing over Bambu Lab’s policies, but it’s really a collision of concepts.
-The post Bambu Lab Cloud Access Dispute Highlights Tensions With Open Source Community appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/bambu-lab-cloud-access-dispute-highlights-tensions-with-open-source-community
+♻️ Fraunhofer looks to closed-loop 3D-printing with recycled materials - Recycling International
+Fraunhofer looks to closed-loop 3D-printing with recycled materials Recycling International
+Reported by Google News - 3D Printing on May 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3VSMElXbU0tTW1FVkJkVm9meE9qTkI4TFNhV1FhcjBLMU5XNVp6RTY4YTFfMThvV2o2ajY2NjJNMjV4UlZqOVRwOUN0ZzcxUV82ZXBpeVFLT2d4QlduUU1VM2ZtSU8zUlB3aWN3MU1xMXZWTUd1emhpRExkYlg0aHljbENoRUZZVDVQbEYya0taS3lUX09wR054dUZuUHBFOFRnX2VYbHVUdHpEVE9tNWpQUVNXaDg3OEpOM19vejMtZWNZWldsRQ?oc=5
 
-🚀 Addliance launches AMin4Y four-year Strategic European AM Roadmap
-Addliance–The European AM Hubs Alliance is developing AMin4Y European Additive Manufacturing Roadmap, a four-year initiative to create a common industrial framework for additive manufacturing across Europe.
-The project targets fragmentation … The post Addliance launches AMin4Y four-year Strategic European AM Roadmap appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Ad4y-euro-roadmap-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/addliance-launches-amin4y-four-year-strategic-european-am-roadmap
+♻️ Innovative startup pioneers 3D printing with recycled glass — new ‘binder jet’ process combines powder with adhesive agent in layering technique - Tom's Hardware
+Innovative startup pioneers 3D printing with recycled glass — new ‘binder jet’ process combines powder with adhesive agent in layering technique Tom's Hardware
+Reported by Google News - 3D Printing on May 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMijgJBVV95cUxPbUp3dms1SFI0RVgxa0FldFRjUWFWSzAyakRZd0RfZUhJRHdmUWtyR1lTbUtadFg0RjhodVUyYlJEclJVRWRURHpIaXpqdDZSMEppTWJ3eFh4NGpZN1BOZVZmZU9KbV95bWFpbktOQXplOWpZdWFWOF9YTVlaZ0dBaXpZYkt4R0tXZi00bFo1UV9MLVlRWmNTYVM0Q0RTV05sTy1ZSUlMUUFxdFZwYzltYV9TZ1htSDRFM25jNVFnUHB2eG9vLUc4eDV2enpmcHNjQUgzLUFQOVNaWVZmckljcHVmZnZEVXJCd2VrbV9SSU5Zb3NDb2NiRUpBTTM0WkVlanNpMnJwMTlZNi1NX3c?oc=5
 
-💻 +INDUSTRY 2027 will have seven concurrent trade fairs set Bilbao for February event
-The Bilbao Exhibition Centre (BEC) is preparing a new edition of +INDUSTRY for February 2027, bringing together seven concurrent trade fairs under one roof in what organizers position as the … The post +INDUSTRY 2027...
-Reported by VoxelMatters on May 12, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2022/06/BIEMH_Bilbao_Addit3D_2022_BEC_IMG_0180-2-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/industry-2027-will-have-seven-concurrent-trade-fairs-set-bilbao-for-february-industrial-event
+🚀 HP Brings Industrial Power to the Engineering Workspace
+There is a moment in most product development cycles when the pace of thinking outruns the pace of making.
+A designer has an idea on Tuesday, reported by 3D Printing Industry on May 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/HP-MJF-1200-3D-Printer-Solution-_Enviro-Image_3-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/hp-brings-industrial-power-to-the-engineering-workspace-251423
 
-🖨 Axtra3D names Dynamism as North American reseller in channel push
-Axtra3D has added Dynamism as an authorized North American reseller, extending its regional distribution network for the Lumia X1 production 3D printer, Hybrid PhotoSynthesis (HPS) technology, and Axtra.Workflow...
-… The post Axtra3D names Dynamism as North American reseller in channel push appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Axtra-dynamism-150x150.webp
-🔗 Read more: https://www.voxelmatters.com/axtra3d-names-dynamism-as-north-american-reseller-in-channel-push
+🏠 Endless Industries and BigRep bring continuous carbon fiber reinforcement to large-format 3D printing
+Berlin-based deep-tech company Endless Industries has completed a two-year integration of its continuous fiber reinforcement technology into BigRep‘s large-format additive manufacturing platform, in what the...
+Reported by VoxelMatters on May 13, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Endless-BigRep-00-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/endless-industries-and-bigrep-bring-continuous-carbon-fiber-reinforcement-to-large-format-3d-printing
 
-📰 Jay Leno takes Czinger 21C 3D printed hypercar for a spin
-On the latest episode of Jay Leno’s web series Jay Leno’s Garage, the comedian and car collector reviewed and test drove Czinger’s 3D printed hypercar, the Czinger 21C.
-The vehicle, … The post Jay Leno takes Czinger 21C 3D printed hypercar for a spin appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/leno-czinger-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/jay-leno-takes-czinger-21c-3d-printed-hypercar-for-a-spin
+🚀 Vivobarefoot Launches Tabi Gen 02, Custom 3D Printed Sandal
+UK-based footwear brand Vivobarefoot has unveiled the Tabi Gen 02, the second iteration of its scan-to-print barefoot sandal, developed in partnership with Carbon and manufactured by Oechsler.
+Lighter and more precise than its predecessor, the Gen 02 is custom-printed for each wearer using Carbon’s Digital Light Synthesis process and CARBON BL6 PU foam, reported by 3D Printing Industry on May 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/doc_2026-04-21_16-21-12.Cz3fV2wk-edited-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/vivobarefoot-launches-tabi-gen-02-custom-3d-printed-sandal-251380
 
-🏠 BigRep &amp; Endless Industries introduce large-format continuous fibre reinforcement 3D printing capability
-Endless Industries’ continuous fibre technology has been integrated into the BigRep IPSO 105 platform.
-Reported by TCT Magazine on May 12, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/ipso105_image_1-cb-b8aa46b35e9182b7b343afcee2926348-1.png
-🔗 Read more: https://www.tctmagazine.com/bigrep-endless-industries-introduce-large-format-continuous-fibre-reinforcement-3d-printing-capability
+📰 i3D Manufacturing acquires Burloak Technologies
+By integrating Burloak, i3D says it has expanded its ability to support complex, high-performance applications.
+Reported by TCT Magazine on May 13, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Burloak-Image-Group-2048x416.png
+🔗 Read more: https://www.tctmagazine.com/i3d-manufacturing-acquires-burloak-technologies
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "Bambu Lab H2D review: This 3D printer does almost everything - The Independent" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmtXWUcxTjBqUUprczRtdGxPZU9iRFdRSFBvMGVxdnR5aUdEY2tmY2V2a3VMeHZ3QzJfV1lDamNjRDBmSV9sZlZRdTdHaVVCUGE3a1Jfd3ZhYkNFMjRna2duV2NfZzBKRENyZ0l5YTlYcGQyUG1zSUVaTDlPWEp1Qkl4UklfWEFTbGE2aC12b2xaSk9QLUliR0FRMGRhY25NLW9ZbU5ydw?oc=5 | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "Firestorm Secures $82M to Scale Battlefield Manufacturing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://3dprintingindustry.com/news/firestorm-secures-82m-to-scale-battlefield-manufacturing-251369 | Complete rundown: https://www.quality3ds.com/
