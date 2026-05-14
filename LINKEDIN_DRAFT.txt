@@ -1,50 +1,49 @@
-﻿# 3D PRINTING PULSE #127 - 2026-05-14
+﻿# 3D PRINTING PULSE #128 - 2026-05-15
 
-🔥 Firestorm Secures $82M to Scale Battlefield Manufacturing
-Defense manufacturing startup Firestorm Labs has closed an $82 million Series B round, bringing its total capital raised to $153 million.
-Washington Harbour Partners led the investment, joined by several backers spanning defense, intelligence, and venture, including NEA, In-Q-Tel, Lockheed Martin Ventures, Booz Allen Ventures, Ondas, Geodesic, Motley, reported by 3D Printing Industry on May 13, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/04/1742765527869-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/firestorm-secures-82m-to-scale-battlefield-manufacturing-251369
+🔥 Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer - Tom's Hardware
+Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer Tom's...
+Reported by Google News - 3D Printing on May 14, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi5AJBVV95cUxNZlBLVEhDTENVZjJweUs4NldGZUxQQnJlVTBuTEIwU1BQVFBzanlkc1NGbERVVGdtYjJhV2xfelRyU1pEUFExaUZ3aDRGTWtkUFc2ZFQ1MnhEWjhYQVQxX1NNTUtkQ0xVdXlzQjBBWDl1VmtCLXowTENiangwRWtTNDFJcXdjVWg3UUFTa2RDOFMzMzRpSkxHZDlmRkJlTUdia2xvOW1JZGd3YUVEQUl3X0JiRDdTYS1XcnZmUjF3RXZNYlNoX1pIRmdYcGpSR2lVd0I4QUpwS2FEMVZXZ2cza2gxYjZuYjJEQXVpYkJuUWtMbVNSQWs2SG5FU3JCdERneXJWNkdETXR4UFFNNlUtNWdvdUxYaTJwTmJ1TlhKVjFicDRSS0R0ckYzbU4xZlFzWGVWREhxWXNpZzhTZjlVUkw1Sm1RSmhVa04xajhzbzJIQ0daek8yWmF4OEpKcUVlbkM1Tw?oc=5
 
-🔥 Vibrational characterization of void defects in metal additive manufacturing. - 3d adept media
-Vibrational characterization of void defects in metal additive manufacturing.
-3d adept media, reported by Google News - 3D Printing on May 13, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMingFBVV95cUxQRXpmdXZKbGthUWVDa1BpT3VSbjJ4amtoV0pwOEJOOTFqUHpSdzVwWDVxM1BsamdUZ1JFS19BRTVORi1WUks3YVdBRmlJdXpYbUJEZFh5NTFiWDltNUhEMkZMSnhoQktpSHMwX3hvc2ItOTlUSWlkMHBDUVRLT2s1SGNQd0pVa3Z0aHBDRUh2RmFlaC1ZTjB6RjJfbDREZw?oc=5
-
-♻️ Fraunhofer looks to closed-loop 3D-printing with recycled materials - Recycling International
-Fraunhofer looks to closed-loop 3D-printing with recycled materials Recycling International
+🔥 Firestorm Secures $82M to Scale Battlefield Manufacturing - 3D Printing Industry
+Firestorm Secures $82M to Scale Battlefield Manufacturing 3D Printing Industry
 Reported by Google News - 3D Printing on May 13, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa3VSMElXbU0tTW1FVkJkVm9meE9qTkI4TFNhV1FhcjBLMU5XNVp6RTY4YTFfMThvV2o2ajY2NjJNMjV4UlZqOVRwOUN0ZzcxUV82ZXBpeVFLT2d4QlduUU1VM2ZtSU8zUlB3aWN3MU1xMXZWTUd1emhpRExkYlg0aHljbENoRUZZVDVQbEYya0taS3lUX09wR054dUZuUHBFOFRnX2VYbHVUdHpEVE9tNWpQUVNXaDg3OEpOM19vejMtZWNZWldsRQ?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMiogFBVV95cUxOWXZuWkNYSlh4LTgyVmthRVlHODJCbk9NTVNaU2dlbGFFUGJZN2FnUzVEa3I3RHgtUEM4N0FQR3BsblQ5eTllYlBkRzQ3VzVSNFBjNkJINF96YTlyZFB3SkFzdWVweld6djR6YTNzb05ydmFyM2tPSjJDb19yRkVIQmNFV2t3bDZoVnVfSTFQOEVBZVVNaEI2VkFyRHdXODZka3c?oc=5
 
-♻️ Innovative startup pioneers 3D printing with recycled glass — new ‘binder jet’ process combines powder with adhesive agent in layering technique - Tom's Hardware
-Innovative startup pioneers 3D printing with recycled glass — new ‘binder jet’ process combines powder with adhesive agent in layering technique Tom's Hardware
-Reported by Google News - 3D Printing on May 13, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMijgJBVV95cUxPbUp3dms1SFI0RVgxa0FldFRjUWFWSzAyakRZd0RfZUhJRHdmUWtyR1lTbUtadFg0RjhodVUyYlJEclJVRWRURHpIaXpqdDZSMEppTWJ3eFh4NGpZN1BOZVZmZU9KbV95bWFpbktOQXplOWpZdWFWOF9YTVlaZ0dBaXpZYkt4R0tXZi00bFo1UV9MLVlRWmNTYVM0Q0RTV05sTy1ZSUlMUUFxdFZwYzltYV9TZ1htSDRFM25jNVFnUHB2eG9vLUc4eDV2enpmcHNjQUgzLUFQOVNaWVZmckljcHVmZnZEVXJCd2VrbV9SSU5Zb3NDb2NiRUpBTTM0WkVlanNpMnJwMTlZNi1NX3c?oc=5
+🔥 Bambu Lab Defends Cloud Lockdown Amid Open Source Backlash - Open Source For You
+Bambu Lab Defends Cloud Lockdown Amid Open Source Backlash Open Source For You
+Reported by Google News - 3D Printing Viral on May 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0hVNk1xMXN3Z0V3dFA1Mk91TGxkX1R2eTFtZm9xdFhEckZxMTItSE9uVDNYSWZNX0dpeUFjTlQ2aVpkUXAxU1EtYWptb1VocEoxX1FIZXZienV4cjQxWjFmaXlzdkZLdFhQMy1Wdy0xX0F6WE40Zk8wazZtWW0zcEx6RHJFRno5cFN5Z0d3Rmp0dV9EV1JScmZwampMNjA?oc=5
 
-🚀 HP Brings Industrial Power to the Engineering Workspace
-There is a moment in most product development cycles when the pace of thinking outruns the pace of making.
-A designer has an idea on Tuesday, reported by 3D Printing Industry on May 13, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/HP-MJF-1200-3D-Printer-Solution-_Enviro-Image_3-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/hp-brings-industrial-power-to-the-engineering-workspace-251423
+♻️ Peopoly Unveils $15,000 Giga 800 FGF 3D Printer for Large Pellet Prints
+Peopoly is known for its Magneto X, a printer that eschews belts and uses linear motors instead.
+The company also has a vat polymerization system, and now is moving into FGF, reported by 3DPrint.com on May 14, 2026.
+🔗 Read more: https://3dprint.com/325968/peopoly-unveils-giga-800-pellet-3d-printer
 
-🏠 Endless Industries and BigRep bring continuous carbon fiber reinforcement to large-format 3D printing
-Berlin-based deep-tech company Endless Industries has completed a two-year integration of its continuous fiber reinforcement technology into BigRep‘s large-format additive manufacturing platform, in what the...
-Reported by VoxelMatters on May 13, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Endless-BigRep-00-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/endless-industries-and-bigrep-bring-continuous-carbon-fiber-reinforcement-to-large-format-3d-printing
+🦺 FIU’s Herbert Wertheim College of Medicine builds out 3D printing lab for anatomical and clinical training
+A single printer and a handful of components sourced out of pocket have grown into a functioning medical fabrication facility at Florida International University‘s Herbert Wertheim College of Medicine.
+The … The post FIU’s Herbert Wertheim College of Medicine builds out 3D printing lab for anatomical and clinical training appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/FIU-3D-printing-lab-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/fius-herbert-wertheim-college-of-medicine-builds-out-3d-printing-lab-for-anatomical-and-clinical-training
 
-🚀 Vivobarefoot Launches Tabi Gen 02, Custom 3D Printed Sandal
-UK-based footwear brand Vivobarefoot has unveiled the Tabi Gen 02, the second iteration of its scan-to-print barefoot sandal, developed in partnership with Carbon and manufactured by Oechsler.
-Lighter and more precise than its predecessor, the Gen 02 is custom-printed for each wearer using Carbon’s Digital Light Synthesis process and CARBON BL6 PU foam, reported by 3D Printing Industry on May 13, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/doc_2026-04-21_16-21-12.Cz3fV2wk-edited-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/vivobarefoot-launches-tabi-gen-02-custom-3d-printed-sandal-251380
+🚀 Branch Technology developing 3D printed 50-meter lunar towers for NASA
+Based in Chattanooga, Tennessee, construction 3D printing company Branch Technology has been working with NASA since 2017, when it won the 3D Printed Habitat Challenge.
+Now, the company is continuing … The post Branch Technology developing 3D printed 50-meter lunar towers for NASA appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/branch-nasa-tower-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/branch-technology-developing-3d-printed-50-meter-lunar-towers-for-nasa
 
-📰 i3D Manufacturing acquires Burloak Technologies
-By integrating Burloak, i3D says it has expanded its ability to support complex, high-performance applications.
-Reported by TCT Magazine on May 13, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Burloak-Image-Group-2048x416.png
-🔗 Read more: https://www.tctmagazine.com/i3d-manufacturing-acquires-burloak-technologies
+🚀 Drifbolt is launching India’s first 3D printed footwear brand with TPU lattice collection
+Drifbolt, positioning itself as India’s first 3D printed footwear brand, will launch in one month with three products: the Breeze (₹7,990 / ~$96), the Wave (₹9,990 / ~$120), and the … The post Drifbolt is launching...
+Reported by VoxelMatters on May 14, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Driftbolt-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/drifbolt-is-launching-indias-first-3d-printed-footwear-brand-with-tpu-lattice-collection
+
+💻 US Army’s 1st Special Forces Group holds 3D printing symposium
+The US Army’s 1st Special Forces Group (Airborne) has hosted a 3D printing symposium at Joint Base Lewis-McChord, Washington, with the objective of giving soldiers across the installation direct exposure … The post...
+Reported by VoxelMatters on May 14, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/US-Army-3D-printing-symposium-2026-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/us-armys-1st-special-forces-group-holds-3d-printing-symposium
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Firestorm Secures $82M to Scale Battlefield Manufacturing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://3dprintingindustry.com/news/firestorm-secures-82m-to-scale-battlefield-manufacturing-251369 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Bambu Lab Defends Cloud Lockdown Amid Open Source Backlash - Open Source For You" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOV0hVNk1xMXN3Z0V3dFA1Mk91TGxkX1R2eTFtZm9xdFhEckZxMTItSE9uVDNYSWZNX0dpeUFjTlQ2aVpkUXAxU1EtYWptb1VocEoxX1FIZXZienV4cjQxWjFmaXlzdkZLdFhQMy1Wdy0xX0F6WE40Zk8wazZtWW0zcEx6RHJFRno5cFN5Z0d3Rmp0dV9EV1JScmZwampMNjA?oc=5 | Full pulse: https://www.quality3ds.com/

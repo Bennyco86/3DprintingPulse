@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-15
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #128 - 2026-05-15
+## Stories
 
 🔥 Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer - Tom's Hardware
 Louis Rossmann taunts Bambu Lab by hosting banned 3D Printer firmware fork, dares $1 billion company to sue him — more creators pledge support and boycotts, Snapmaker donates equipment to embattled developer Tom's...
@@ -47,9 +45,3 @@ The US Army’s 1st Special Forces Group (Airborne) has hosted a 3D printing sym
 Reported by VoxelMatters on May 14, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/US-Army-3D-printing-symposium-2026-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/us-armys-1st-special-forces-group-holds-3d-printing-symposium
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
