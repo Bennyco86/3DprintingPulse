@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-16
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #129 - 2026-05-16
+## Stories
 
 🔥 University of Illinois team 3D prints pure-copper cold plates for electronics cooling
 Researchers at the University of Illinois Urbana-Champaign have developed a cold plate design workflow that pairs topology optimization (TO) with electrochemical additive manufacturing (ECAM) to produce pure-copper...
@@ -48,9 +46,3 @@ Netherlands-based metal 3D printing service provider K3D added two MetalFab syst
 The expansion gives K3D nine … The post K3D expands MetalFab fleet to six systems across two Netherlands sites appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Additive_Industries_K3D_DSC_3789-150x150.jpg
 Read more ? https://www.voxelmatters.com/k3d-expands-metalfab-fleet-to-six-systems-across-two-netherlands-sites
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
