@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-17
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #130 - 2026-05-17
+## Stories
 
 🔥 Glass 3D printing goes viral as labs break temperature barriers - MSN
 Glass 3D printing goes viral as labs break temperature barriers MSN
@@ -47,9 +45,3 @@ Interested in taking some wild new 3D printing features for a test drive?
 preFlight is a free and open source slicer that brings a host of processing improvements as well …read more, reported by Hackaday 3D Printing on May 15, 2026.
 Image ? https://hackaday.com/wp-content/uploads/2026/05/preFlight-Slicer-2-banner.png
 Read more ? https://hackaday.com/2026/05/15/preflight-slicer-brings-added-part-strength-feature-and-many-more
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

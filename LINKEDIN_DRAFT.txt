@@ -1,50 +1,49 @@
-﻿# 3D PRINTING PULSE #129 - 2026-05-16
+﻿# 3D PRINTING PULSE #130 - 2026-05-17
 
-🔥 University of Illinois team 3D prints pure-copper cold plates for electronics cooling
-Researchers at the University of Illinois Urbana-Champaign have developed a cold plate design workflow that pairs topology optimization (TO) with electrochemical additive manufacturing (ECAM) to produce pure-copper...
-Reported by VoxelMatters on May 15, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Illinois-cold-copper-plate-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/university-of-illinois-team-3d-prints-pure-copper-cold-plates-for-electronics-cooling
+🔥 Glass 3D printing goes viral as labs break temperature barriers - MSN
+Glass 3D printing goes viral as labs break temperature barriers MSN
+Reported by Google News - 3D Printing Viral on May 15, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU0ZYUmFDdW0xVTcycFd1Y0cxUzNzdGFSbGpfV0htZGRNcEpTNDI0VDhmSHJJbEgyOTdrSVladXA5YUlzT25MYy1qOHRVcjNJd21oajFGV0RTdXFsMlFyOC1IOEI2UEZzUVhZX09sbF9UZ093ZHhJV3ZuLWtGc0FWZzVuQjRVUWZLaVVaWXVIdXF0U3N1Qng3dDB3ODE1bTlUbC1ybEE1S0N4azBaQzZRR1U4d2hZbXhpdGpfcVVvWEktMWdvcVVPQXg0RDFHQWZi?oc=5
 
-🔥 AI framework predicts hidden defects that weaken metal 3D-printed parts - Nanowerk
-AI framework predicts hidden defects that weaken metal 3D-printed parts Nanowerk
-Reported by Google News - 3D Printing on May 15, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RSVVUcmN5UnVKSXdfSDNURmdfNG1VM0JXcV9jYXFHSHR4RGxSSjIzbWdIUkFhbGE0Unl6TUU2YTNaem51YWg4YTdJQ3FLVGZrSktXWktJbXF3SVdrQXh0NE8yTUQ?oc=5
+💻 US Army’s AM platoon fabricates counter-UAS mounts in the field during Flytrap 5.0
+The US Army‘s 2nd Cavalry Regiment put its organic additive manufacturing capability to practical use during Flytrap 5.0, a counter-unmanned aerial systems (UAS) exercise held at Pabradė Training Area in … The post...
+Reported by VoxelMatters on May 16, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/US-Army-FlyTrap-5.0-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/us-armys-am-platoon-fabricates-counter-uas-mounts-in-the-field-during-flytrap-5-0
 
-🔥 'Reading the invisible': AI framework accounts for hidden defects in metal 3D printing - Tech Xplore
-'Reading the invisible': AI framework accounts for hidden defects in metal 3D printing Tech Xplore
-Reported by Google News - 3D Printing on May 15, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxPVG1EaEVsQ19JckVWNlZhRG5IX0xvQkxvT19kQ0NkekZVQWZFLUN6VDVNSWd4MFUxb3hfeHBxWXdKTm8ycEZxT2JuS3hWeXhzRkJCdlBZY2xSc1I3Zjc0OHQ2M0xwcFRZMmlEcTR5SHBXUWh6TlZKRnczdFZaNTROWnZkNFdvQQ?oc=5
+🚀 Rocket Lab rolls the 1,000th Rutherford engine off its production line
+In line with its stated goal of launching 1,000 3D printed engines into space by year-end, Rocket Lab reached a production milestone for its Rutherford engine, completing the 1,000th unit … The post Rocket Lab rolls...
+Reported by VoxelMatters on May 16, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/rocket-lab-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/rocket-lab-rolls-the-1000th-rutherford-engine-off-its-production-line
 
-♻️ Goodbye Filament: Peopoly's New Giga 800 Brings Large-Format Pellet Printing to the $15K Mark - All3DP
-Goodbye Filament: Peopoly's New Giga 800 Brings Large-Format Pellet Printing to the $15K Mark All3DP
-Reported by Google News - 3D Printing on May 15, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMisgFBVV95cUxPc1pFOWVhSjA1NkJ1aElSYjFjSElrVDVLTWZUSlQzM2FBbnpIb3FIbWpwZ3JBVnRyQUl5NU9PT1BRWW5xU0lrMGVpYngtYXZXWG53MXpxdGpvMTZaZ3NfTEJ2TmVSTWR1YnozTzZFd0NZLTAzN3VfUGRwQzRpTUZjelhWZHR4YWVLOGpxcExkdDdBTjYyOWw0dHZXQUVtR0kxY2dmeDJHZkZSRUZGaHdpX2dB?oc=5
+🦺 Penn State’s 3D printed hydrogel implant cuts blood pressure by 15% in trials
+Researchers at Penn State University have developed a 3D printed bioelectronic implant that wraps around the carotid artery and delivers low-frequency electrical pulses to reduce blood pressure, and all without … The...
+Reported by VoxelMatters on May 16, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-printed-hydrogel-implant-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/penn-states-3d-printed-hydrogel-implant-cuts-blood-pressure-by-15-in-trials
 
-🏠 Mint Group acquires Generation 3D to bring large-format 3D printing in-house
-Mint Group, a themed fabrication and fit-out company operating across the Middle East, has acquired Generation 3D (G3D), a regional 3D printing firm, to bring large-format additive manufacturing directly into … The...
-Reported by VoxelMatters on May 15, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Mint-Group-Generation-3D-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/mint-group-acquires-generation-3d-to-bring-large-format-3d-printing-in-house
+📰 Ceramic 3D Printing Applications on Display at Ceramics Expo USA
+There’s a lot of crossover between ceramics and additive manufacturing (AM).
+Now, we just need to get the two industries to talk to each other more, reported by 3DPrint.com on May 16, 2026.
+🔗 Read more: https://3dprint.com/325884/ceramic-3d-printing-applications-on-display-at-ceramics-expo-usa
 
-🚀 Tvasta and 14Trees launch Cedar, an AI-enabled construction 3D printer
-Tvasta, a Chennai-based deep-tech startup born out of the Indian Institute of Technology (IIT) Madras, has partnered with construction 3D printing company 14Trees to develop and launch Cedar, a construction … The...
-Reported by VoxelMatters on May 15, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/cedar-3d-printer-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/tvasta-and-14trees-launch-cedar-an-ai-enabled-construction-3d-printer
+📰 The Additive Chicken Coop, Part IV: Lemmings
+If we look at our past, we can see how making custom machines, incessantly watching ourselves, and our inability to rescope shaped our industry.
+We have also looked at the, reported by 3DPrint.com on May 15, 2026.
+🔗 Read more: https://3dprint.com/325223/the-additive-chicken-coop-part-iv-lemmings
 
-🖨 ORNL uses 3D printing to fabricate canisters for PM-HIP of large metal components
-Researchers at the US Department of Energy’s Oak Ridge National Laboratory (ORNL) have developed a method for using additive manufacturing to produce custom canisters for powder metallurgy hot isostatic pressing …...
-Reported by VoxelMatters on May 15, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ORNL-3D-printed-PM-HIP-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ornl-uses-3d-printing-to-fabricate-canisters-for-pm-hip-of-large-metal-components
+🖨 i3D Manufacturing Expands Metal 3D Printing Capacity with Burloak Technologies Acquisition
+The Canadian economy may be one of the most difficult to forecast right now.
+This is largely the result of the fact that the nation is attempting to thread a, reported by 3DPrint.com on May 15, 2026.
+🔗 Read more: https://3dprint.com/326043/i3d-manufacturing-expands-metal-3d-printing-capacity-w-burloak-technologies-acquisition
 
-🖨 K3D expands MetalFab fleet to six systems across two Netherlands sites
-Netherlands-based metal 3D printing service provider K3D added two MetalFab systems to its production fleet, bringing its total to six machines across two manufacturing facilities.
-The expansion gives K3D nine … The post K3D expands MetalFab fleet to six systems across two Netherlands sites appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Additive_Industries_K3D_DSC_3789-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/k3d-expands-metalfab-fleet-to-six-systems-across-two-netherlands-sites
+💻 preFlight Slicer Brings Added Part Strength Feature, and Many More
+Interested in taking some wild new 3D printing features for a test drive?
+preFlight is a free and open source slicer that brings a host of processing improvements as well …read more, reported by Hackaday 3D Printing on May 15, 2026.
+🖼️ Image: https://hackaday.com/wp-content/uploads/2026/05/preFlight-Slicer-2-banner.png
+🔗 Read more: https://hackaday.com/2026/05/15/preflight-slicer-brings-added-part-strength-feature-and-many-more
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "University of Illinois team 3D prints pure-copper cold plates for electronics cooling" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/university-of-illinois-team-3d-prints-pure-copper-cold-plates-for-electronics-cooling | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Glass 3D printing goes viral as labs break temperature barriers - MSN" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU0ZYUmFDdW0xVTcycFd1Y0cxUzNzdGFSbGpfV0htZGRNcEpTNDI0VDhmSHJJbEgyOTdrSVladXA5YUlzT25MYy1qOHRVcjNJd21oajFGV0RTdXFsMlFyOC1IOEI2UEZzUVhZX09sbF9UZ093ZHhJV3ZuLWtGc0FWZzVuQjRVUWZLaVVaWXVIdXF0U3N1Qng3dDB3ODE1bTlUbC1ybEE1S0N4azBaQzZRR1U4d2hZbXhpdGpfcVVvWEktMWdvcVVPQXg0RDFHQWZi?oc=5 | Full pulse: https://www.quality3ds.com/
