@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-18
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #131 - 2026-05-18
+## Stories
 
 🦺 Tampere University researchers develop ceramic 3D printed scaffolds that replicate bone structure
 Researchers at Tampere University in Finland have developed a 3D printed ceramic implant material that is designed to replicate the chemical composition and physical architecture of natural human bone.
@@ -44,9 +42,3 @@ Read more ? https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUVjMGhhTVFlVkZ
 Nano Dimension Ltd stock (IL0010851609): 3D-printing specialist in focus after recent share price sw AD HOC NEWS
 Reported by Google News - 3D Printing on May 17, 2026.
 Read more ? https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXBLem05SFZ6Q04tSVpqNVFXTDd3SU1TdE9sZm1mQ3JOOEg3WVV6REVTSEFSWk95QjJQOXJwaUhHX0dQNkdsVXFZLXB0cFoyVDIxOXo3MElMcG9SLU9DRW5yZVJqNDluWkRTakhpQjZQcnFlcEJrd3VkeEZmbVRyMmx1a2FrSXhFLWFkbFBERExMNm01REhkdm9KdXI2SzFodWp4WloxSTQtMkhNZm1zN0xXQ1BtSE9aWEFLY2oxNVJSZGVpYmU4?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

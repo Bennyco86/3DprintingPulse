@@ -1,49 +1,46 @@
-﻿# 3D PRINTING PULSE #130 - 2026-05-17
+﻿# 3D PRINTING PULSE #131 - 2026-05-18
 
-🔥 Glass 3D printing goes viral as labs break temperature barriers - MSN
-Glass 3D printing goes viral as labs break temperature barriers MSN
-Reported by Google News - 3D Printing Viral on May 15, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU0ZYUmFDdW0xVTcycFd1Y0cxUzNzdGFSbGpfV0htZGRNcEpTNDI0VDhmSHJJbEgyOTdrSVladXA5YUlzT25MYy1qOHRVcjNJd21oajFGV0RTdXFsMlFyOC1IOEI2UEZzUVhZX09sbF9UZ093ZHhJV3ZuLWtGc0FWZzVuQjRVUWZLaVVaWXVIdXF0U3N1Qng3dDB3ODE1bTlUbC1ybEE1S0N4azBaQzZRR1U4d2hZbXhpdGpfcVVvWEktMWdvcVVPQXg0RDFHQWZi?oc=5
+🦺 Tampere University researchers develop ceramic 3D printed scaffolds that replicate bone structure
+Researchers at Tampere University in Finland have developed a 3D printed ceramic implant material that is designed to replicate the chemical composition and physical architecture of natural human bone.
+The … The post Tampere University researchers develop ceramic 3D printed scaffolds that replicate bone structure appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Tampere-University-ceramic-3D-printed-bone-scaffolds-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/tampere-university-researchers-develop-ceramic-3d-printed-scaffolds-that-replicate-bone-structure
 
-💻 US Army’s AM platoon fabricates counter-UAS mounts in the field during Flytrap 5.0
-The US Army‘s 2nd Cavalry Regiment put its organic additive manufacturing capability to practical use during Flytrap 5.0, a counter-unmanned aerial systems (UAS) exercise held at Pabradė Training Area in … The post...
-Reported by VoxelMatters on May 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/US-Army-FlyTrap-5.0-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/us-armys-am-platoon-fabricates-counter-uas-mounts-in-the-field-during-flytrap-5-0
+🏠 Ancient Rome Meets Modern Tech: How 3D Printing Recreated Trajan’s Column for the Saint Louis Art Museum
+When the Saint Louis Art Museum wanted to display the power and influence of the Roman Empire, it used 3D printing to bridge a 2,000 year gap.
+The museum’s current, reported by 3DPrint.com on May 17, 2026.
+🔗 Read more: https://3dprint.com/326125/ancient-rome-meets-modern-tech-how-3d-printing-recreated-trajans-column-for-the-saint-louis-art-museum
 
-🚀 Rocket Lab rolls the 1,000th Rutherford engine off its production line
-In line with its stated goal of launching 1,000 3D printed engines into space by year-end, Rocket Lab reached a production milestone for its Rutherford engine, completing the 1,000th unit … The post Rocket Lab rolls...
-Reported by VoxelMatters on May 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/rocket-lab-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/rocket-lab-rolls-the-1000th-rutherford-engine-off-its-production-line
+🖨 Creality SPARKX i7 3D Printer Review - Comics Gaming Magazine
+Creality SPARKX i7 3D Printer Review Comics Gaming Magazine
+Reported by Google News - 3D Printing on May 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMif0FVX3lxTE9VSzltZkJjdXRVczJrOS0zbVQ2OHJMYnJkVUd1SUZaZjdHS1FKaFI0NXQ5ckZLS1pCS0V6QmpCUV9Qbkp5QWZhVnkwdmZRb0owS0Q3VjBMejlmQ1pnbUh2UDM5MzhwOXl3M1RFTm44cEYyTVlQS0l6eEp5aUtQQms?oc=5
 
-🦺 Penn State’s 3D printed hydrogel implant cuts blood pressure by 15% in trials
-Researchers at Penn State University have developed a 3D printed bioelectronic implant that wraps around the carotid artery and delivers low-frequency electrical pulses to reduce blood pressure, and all without … The...
-Reported by VoxelMatters on May 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-printed-hydrogel-implant-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/penn-states-3d-printed-hydrogel-implant-cuts-blood-pressure-by-15-in-trials
+📰 Stratasys stock (US88554D2053): 3D-printing specialist posts Q1 loss amid merger breakup and sector - AD HOC NEWS
+Stratasys stock (US88554D2053): 3D-printing specialist posts Q1 loss amid merger breakup and sector AD HOC NEWS
+Reported by Google News - 3D Printing on May 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFBJWmgzdUc3d3M4Tm8yWkRVMTVyMEkxeURCTm1MMVFlMVBWSTZLcWlnZW94cnpadzQyOXh5X0ZrUWtJWDBpZS1INEVXcFVqdktsRTROemFtcTRTbFU3OThsSW9QSmdrOWUxaDNoN1IwcmlZOTF1MS0wU3YzeG5CT2hmSXBlYUtvUGZ0UWxLdW9wRnVlemZJMG5sZS1kS3Vsc19CaDNLNTFFOUVoa3l0emIzX3VtNk81YmJvQkRGRXdmc1R1bFBDcQ?oc=5
 
-📰 Ceramic 3D Printing Applications on Display at Ceramics Expo USA
-There’s a lot of crossover between ceramics and additive manufacturing (AM).
-Now, we just need to get the two industries to talk to each other more, reported by 3DPrint.com on May 16, 2026.
-🔗 Read more: https://3dprint.com/325884/ceramic-3d-printing-applications-on-display-at-ceramics-expo-usa
+💻 The Government's Ghost Gun Battle Is Taking Aim at Something Much Bigger: Innovation - PCMag
+The Government's Ghost Gun Battle Is Taking Aim at Something Much Bigger: Innovation PCMag
+Reported by Google News - 3D Printing on May 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipAFBVV95cUxNemI2YWFGRFlxMk5CYlUyQk5iMVBzNmVUZF9LU2hRcWRCMTE4dHV2SnB0aFdQbXh5VWlYVTZlckFrRXdqM0V4Qlp3aUhtZ01mbTRXYmtmdGxLYWU2Wk5fLWxSMDYtOTJLRTdEc2RTRmVnemF2WFJ0OXQ5R3NzX3pYSXJmbmN2S09Jb3JXSG05QUhsUF83M0dPX2xaWHFoWmhtY0tXZw?oc=5
 
-📰 The Additive Chicken Coop, Part IV: Lemmings
-If we look at our past, we can see how making custom machines, incessantly watching ourselves, and our inability to rescope shaped our industry.
-We have also looked at the, reported by 3DPrint.com on May 15, 2026.
-🔗 Read more: https://3dprint.com/325223/the-additive-chicken-coop-part-iv-lemmings
+🖨 Josef Prusa says Bambu Lab allegedly violates AGPL license with an un-auditable network 'black box' — warns Chinese 3D printing software poses massive security risks - Tom's Hardware
+Josef Prusa says Bambu Lab allegedly violates AGPL license with an un-auditable network 'black box' — warns Chinese 3D printing software poses massive security risks Tom's Hardware
+Reported by Google News - 3D Printing on May 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiowJBVV95cUxPRzFGT2s5TDh3a3FfNzdhZFdIY0RMenNQNTRLbnlQbWNPVjV3bXF2SGxiMmFxX3o1YkEtNlVNU19qblI1T091Wm5sRkxhM2hyWjZDcnhiTHF6ZFlIeTZhalhLeFNETjVzNmxRWi0xVGxqVF9wbnFrbWR1dFNVWjNXY3ZlR296VVdCMEdaTlRURHNFRW1nSGhOSnJKX0JidmVYX3RwQ0l4WnhuMTM2bEdLUk9HdkZhRHBfTGdwbWhoT2d3eVVSa0JEZnFxMjBGTXNvUjlacFdwMVF3MUZMT0lhWm81bTRwYzhmWno3Skxlc1dEUmRmVzdzSGItVHdDREgwVGZzLWxDNk8zbXhEU2NxaUVBQllzdURUdXhGcVJGTzNXbTA?oc=5
 
-🖨 i3D Manufacturing Expands Metal 3D Printing Capacity with Burloak Technologies Acquisition
-The Canadian economy may be one of the most difficult to forecast right now.
-This is largely the result of the fact that the nation is attempting to thread a, reported by 3DPrint.com on May 15, 2026.
-🔗 Read more: https://3dprint.com/326043/i3d-manufacturing-expands-metal-3d-printing-capacity-w-burloak-technologies-acquisition
+🖨 5 ESP32 projects that are better with a 3D printer - How-To Geek
+5 ESP32 projects that are better with a 3D printer How-To Geek
+Reported by Google News - 3D Printing on May 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUVjMGhhTVFlVkZiUW5lNXlRZ0kySndWNFJVOUhLTEVQZ3lRM3hjNENHbEdMQWluYzFPSG13MVhxWXhWTTV0SWxuZ0xLeGM5NUQ2YlpKTUR1eHhrbXpVeVR6endlVE5pdFNWMXc3TjJ2S1RIWTF5bzlLUS0xQ29kSA?oc=5
 
-💻 preFlight Slicer Brings Added Part Strength Feature, and Many More
-Interested in taking some wild new 3D printing features for a test drive?
-preFlight is a free and open source slicer that brings a host of processing improvements as well …read more, reported by Hackaday 3D Printing on May 15, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2026/05/preFlight-Slicer-2-banner.png
-🔗 Read more: https://hackaday.com/2026/05/15/preflight-slicer-brings-added-part-strength-feature-and-many-more
+📰 Nano Dimension Ltd stock (IL0010851609): 3D-printing specialist in focus after recent share price sw - AD HOC NEWS
+Nano Dimension Ltd stock (IL0010851609): 3D-printing specialist in focus after recent share price sw AD HOC NEWS
+Reported by Google News - 3D Printing on May 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXBLem05SFZ6Q04tSVpqNVFXTDd3SU1TdE9sZm1mQ3JOOEg3WVV6REVTSEFSWk95QjJQOXJwaUhHX0dQNkdsVXFZLXB0cFoyVDIxOXo3MElMcG9SLU9DRW5yZVJqNDluWkRTakhpQjZQcnFlcEJrd3VkeEZmbVRyMmx1a2FrSXhFLWFkbFBERExMNm01REhkdm9KdXI2SzFodWp4WloxSTQtMkhNZm1zN0xXQ1BtSE9aWEFLY2oxNVJSZGVpYmU4?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Glass 3D printing goes viral as labs break temperature barriers - MSN" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU0ZYUmFDdW0xVTcycFd1Y0cxUzNzdGFSbGpfV0htZGRNcEpTNDI0VDhmSHJJbEgyOTdrSVladXA5YUlzT25MYy1qOHRVcjNJd21oajFGV0RTdXFsMlFyOC1IOEI2UEZzUVhZX09sbF9UZ093ZHhJV3ZuLWtGc0FWZzVuQjRVUWZLaVVaWXVIdXF0U3N1Qng3dDB3ODE1bTlUbC1ybEE1S0N4azBaQzZRR1U4d2hZbXhpdGpfcVVvWEktMWdvcVVPQXg0RDFHQWZi?oc=5 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Creality SPARKX i7 3D Printer Review - Comics Gaming Magazine" because it highlights where practical 3D printing innovation is moving next. Story: https://news.google.com/rss/articles/CBMif0FVX3lxTE9VSzltZkJjdXRVczJrOS0zbVQ2OHJMYnJkVUd1SUZaZjdHS1FKaFI0NXQ5ckZLS1pCS0V6QmpCUV9Qbkp5QWZhVnkwdmZRb0owS0Q3VjBMejlmQ1pnbUh2UDM5MzhwOXl3M1RFTm44cEYyTVlQS0l6eEp5aUtQQms?oc=5 | Explore more: https://www.quality3ds.com/
