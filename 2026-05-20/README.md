@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #133 - 2026-05-20
+## Stories
 
 ♻️ The Modern Blacksmith: Forging with Plastic Waste - Tomorrow's World Today
 The Modern Blacksmith: Forging with Plastic Waste Tomorrow's World Today
@@ -49,9 +47,3 @@ Praveen Gowtham, a 43-year-old physicist from New York, has become the first per
 The … The post Open Bionics fits first 3D printed full-length bionic arm appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Open-Bionics-ful-length-3D-printed-arm-03-150x150.jpg
 Read more ? https://www.voxelmatters.com/new-york-amputee-becomes-first-recipient-of-3d-printed-full-length-bionic-arm
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
