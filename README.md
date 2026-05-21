@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #134 - 2026-05-21
+### 3D PRINTING PULSE #135 - 2026-05-22
 
-🔥 Neuenhauser Maschinenfabrik becomes official processor of Luvocom 3F 3D printing materials - CompositesWorld
-Neuenhauser Maschinenfabrik becomes official processor of Luvocom 3F 3D printing materials CompositesWorld
-Reported by Google News - 3D Printing on May 20, 2026.
-Read more ? https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ20zWG8yb25UVFYxS21jdXFqcGtEQ2RpUVhZai1ac2tseDN0QmpSOEtkek5UMllSRUNDU2JHN3JDNEtrTV80Z21PcGJNdllvTzZqRlNKYW1BM0dONGNWTGRRa3VNUXRfY3ZfOGE1VE9HekE4MnptMW1HWGxRak5QUWhONHcxdFFmcHNNNV90U3lIRlhyVG9VMm9VQ3p6ZnRyQ25rcHAtVnJhbHAyLUw0QkN1Z0lpaGxabm5hSGpnZlpEdmZZN3c?oc=5
+🔥 Investigating the Health Impacts of UFPs and VOCs from FDM Printers
+FDM 3D printing is fairly messy on a molecular scale, with the filament being heated up to temperatures high enough to melt it, which produces ultra-fine particles (UFPs) and volatile …read more
+Reported by Hackaday 3D Printing on May 21, 2026.
+Image ? https://hackaday.com/wp-content/uploads/2026/05/3d_printing_hazards_simon_pow_youtube.jpg
+Read more ? https://hackaday.com/2026/05/20/investigating-the-health-impacts-of-ufps-and-vocs-from-fdm-printers
 
-📰 Lynxter releases food-grade certified silicone for industrial 3D printing
-French elastomer specialist Lynxter has released SIL-004, a liquid silicone formulated for direct 3D printing in food-processing environments, and which meets FDA CFR 21 177-2600 requirements — a standard governing …...
-Reported by VoxelMatters on May 20, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Lynxter-silicone-food-FDA-approval-04-150x150.jpg
-Read more ? https://www.voxelmatters.com/lynxter-releases-food-grade-certified-silicone-for-industrial-3d-printing
+🔥 Demand soars for Israel’s weapons tech, even among countries claiming to boycott Jewish state - The Times of Israel
+Demand soars for Israel’s weapons tech, even among countries claiming to boycott Jewish state The Times of Israel
+Reported by Google News - 3D Printing on May 21, 2026.
+Read more ? https://news.google.com/rss/articles/CBMivwFBVV95cUxQVU5LRWlyTXB2NU5iNGZvQUZBY3YzUlYyNlpaN2E0VkVvVW93UE1iaVdWSXhveU0ydG5rNFR1THRIeTk0clg4SE5tREdCeURFWDI5R1NDMWE3NXZiY2Z2VnVVWlJvUEhjV0hZYmVkeC1aWUt1MHVYRmZnV25ER1JkUlZ5RDZCeGJwQXNVd0dpWWY0QU9jSlpiV2tmNUg0UEZLWXctU1FwWU1TV0pPOHA4WGYxZFp6akhQYlpjT3M5NNIBxAFBVV95cUxNZnF3VHNrZl82THJ2T28wa01EN0VaYWFBNmY1dVpBdnNpLWNJbGF5bzVhTnBCamR1eTEwMGhpVnF3cV9lVFVwUnZXOURLRjZlQlpBdFQ2emQyRHQ3bXN5RjdsVnp3bFBNeVZ5dzhuQWhueFlSay1kVGx1cUk4S3QwelZNZDVrNm1yMEV4dy00dFdhbERGX1ZPS0hfalF1NVZnY2tHWEZPSzNTcnAzOVh5VU9wTUdybEZlMzZlR1BBbUtfWU1k?oc=5
 
-🚀 Colossal Biosciences hatches 26 chicks in 3D printed artificial egg system
-Colossal Biosciences, a Dallas-based bioscience, genetic engineering and “de-extinction” company, has successfully hatched 26 healthy chickens using a synthetic incubation system built around a 3D printed plastic cup.
-The device … The post Colossal Biosciences hatches 26 chicks in 3D printed artificial egg system appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Colossal-Biosciences-chick-hatching-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/colossal-biosciences-hatches-26-chicks-in-3d-printed-artificial-egg-system
+🚀 Agnikul Cosmos fires cluster of four 3D printed semi-cryogenic engines
+Agnikul Cosmos, a private Indian space transportation company founded by IIT Madras alumni, has carried out what it claims is the first cluster firing of four semi-cryogenic rocket engines in … The post Agnikul...
+Reported by VoxelMatters on May 21, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Agnikul-Cosmos-fires-cluster-of-four-3D-printed-semi-cryogenic-engines-150x150.jpg
+Read more ? https://www.voxelmatters.com/agnikul-cosmos-fires-cluster-of-four-3d-printed-semi-cryogenic-engines
 
-🚀 The future of stereolithography, seen through innovations by Axtra 3D, Formlabs and 3D Systems
-Stereolithography has been the defining resin-based 3D printing technology for four decades, but in recent years, a cluster of new light-engine approaches has pushed well past the laser-traces-a-vat model that … The...
-Reported by VoxelMatters on May 20, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Future_of_stereolithography_May-17-2026-11_32_47-AM-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/the-future-of-stereolithography-seen-through-innovations-by-axtra-3d-formlabs-and-3d-systems
+🚀 NP Aerospace 3D prints 110 kg suspension for armored vehicle
+UK-based NP Aerospace, a specialist in armor manufacturing and military vehicle integration, is no stranger to additive manufacturing.
+In fact, the company has taken an active role in the Ministry … The post NP Aerospace 3D prints 110 kg suspension for armored vehicle appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/caracol-suspension-np-aerospace-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/np-aerospace-3d-prints-110-kg-suspension-for-armored-vehicle
 
-💻 America Makes and NCDMM name six suppliers in $1.7M allocation
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have named six companies as the first group of winners under the Joint Additive Qualification for Sustainment – … The post America...
-Reported by VoxelMatters on May 20, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/America-Makes-facility-face-150x150.jpg
-Read more ? https://www.voxelmatters.com/america-makes-and-ncdmm-name-six-suppliers-in-1-7m-allocation
+🚀 SHINING 3D launches OptimScan Q12 HD scanner
+SHINING 3D has released the OptimScan Q12 HD, a high-precision 3D inspection scanner built for industrial metrology applications that demand detailed surface data and flexible automation.
+The system achieves an … The post SHINING 3D launches OptimScan Q12 HD scanner appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/SHINING3D-Q12-HD-03-150x150.jpg
+Read more ? https://www.voxelmatters.com/shining-3d-launches-optimscan-q12-hd-scanner
 
-📰 Kings3D FGF technology powers 9-meter stage mech for China concert tour
-A 9-meter-tall, 10.7-ton automated stage mech deployed on a major 2026 concert tour in China was produced using Kings3D‘s Fused Granulate Fabrication 3D printing technology, marking one of the largest … The post...
-Reported by VoxelMatters on May 20, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Kings3D_FGF_Robot_Concert_701480019_1040256748324886_4629330984886012868_n-150x150.jpg
-Read more ? https://www.voxelmatters.com/kings3d-fgf-technology-powers-9-meter-stage-mech-for-china-concert-tour
+📰 Penn State’s 3D Printed CaroFlex Device Opens a New Front in Drug-Resistant Hypertension
+Nearly half of all adults in the United States live with hypertension, and for roughly one in ten of them, conventional drug treatments simply don’t work.
+A research team at Pennsylvania State University (PSU) has developed a potential answer: a soft, 3D printed bioelectronic device that attaches directly to one of the body’s most critical…, reported by 3D Printing Industry on May 21, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/body-photo-2-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/penn-states-3d-printed-caroflex-device-opens-a-new-front-in-drug-resistant-hypertension-251605
 
-💻 FlashForge integrates Meshy AI into Flash Studio, enabling image-to-3D to multi-color print in one click
-FlashForge and Meshy AI have connected their platforms through a direct software integration, adding a built-in Meshy entry point to FlashForge’s Flash Studio desktop application.
-Creator 5 users can now … The post FlashForge integrates Meshy AI into Flash Studio, enabling image-to-3D to multi-color print in one click appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/20260409-131120-150x150.webp
-Read more ? https://www.voxelmatters.com/flashforge-integrates-meshy-ai-into-flash-studio-enabling-image-to-3d-to-multi-color-print-in-one-click
+🦺 FITASY launches single-shoe online purchase option with help of 3D printing
+Aimed at individuals who require only a left or a right shoe, such as those who use prosthetics, the "single-shoe" option is sold at exactly half the price of a pair.
+Reported by TCT Magazine on May 21, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Fitasy-1.png
+Read more ? https://www.tctmagazine.com/fitasy-launches-single-shoe-online-purchase-option-with-help-of-3d-printing
 
-🚀 Rocket Lab’s 3D Printed Engine Hits 1,000 Units
-US-based space systems company Rocket Lab has completed production of its 1,000th Rutherford engine at its Long Beach, California facility, a milestone that reflects the maturation of additive manufacturing as a...
-The Rutherford is the world’s first 3D printed, electric pump-fed orbital rocket engine, and its production volume now…, reported by 3D Printing Industry on May 20, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/1778808696178-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/rocket-labs-3d-printed-engine-hits-1000-units-251599
+🖨 Yokohama researchers develop recyclable resin for high-precision 3D printing
+Researchers at Yokohama National University in Japan have developed a photocurable resin for stereolithography that can be melted down and reprinted more than ten times, and with minimal material degradation.
+… The post Yokohama researchers develop recyclable resin for high-precision 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Recyclable-3D-printing-resin-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/yokohama-researchers-develop-recyclable-resin-for-high-precision-3d-printing
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
