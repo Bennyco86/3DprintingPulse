@@ -1,52 +1,51 @@
-﻿# 3D PRINTING PULSE #135 - 2026-05-22
+﻿# 3D PRINTING PULSE #136 - 2026-05-23
 
-🔥 Investigating the Health Impacts of UFPs and VOCs from FDM Printers
-FDM 3D printing is fairly messy on a molecular scale, with the filament being heated up to temperatures high enough to melt it, which produces ultra-fine particles (UFPs) and volatile …read more
-Reported by Hackaday 3D Printing on May 21, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2026/05/3d_printing_hazards_simon_pow_youtube.jpg
-🔗 Read more: https://hackaday.com/2026/05/20/investigating-the-health-impacts-of-ufps-and-vocs-from-fdm-printers
+🔥 UNF secures NSF grant to tackle defects in laser powder bed fusion
+The University of North Florida (UNF) has received a National Science Foundation (NSF) grant to develop a real-time quality-control system for metal additive manufacturing.
+Longfei Zhou, Assistant Professor of … The post UNF secures NSF grant to tackle defects in laser powder bed fusion appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/NSF-story3-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/unf-secures-nsf-grant-to-tackle-defects-in-laser-powder-bed-fusion
 
-🔥 Demand soars for Israel’s weapons tech, even among countries claiming to boycott Jewish state - The Times of Israel
-Demand soars for Israel’s weapons tech, even among countries claiming to boycott Jewish state The Times of Israel
-Reported by Google News - 3D Printing on May 21, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMivwFBVV95cUxQVU5LRWlyTXB2NU5iNGZvQUZBY3YzUlYyNlpaN2E0VkVvVW93UE1iaVdWSXhveU0ydG5rNFR1THRIeTk0clg4SE5tREdCeURFWDI5R1NDMWE3NXZiY2Z2VnVVWlJvUEhjV0hZYmVkeC1aWUt1MHVYRmZnV25ER1JkUlZ5RDZCeGJwQXNVd0dpWWY0QU9jSlpiV2tmNUg0UEZLWXctU1FwWU1TV0pPOHA4WGYxZFp6akhQYlpjT3M5NNIBxAFBVV95cUxNZnF3VHNrZl82THJ2T28wa01EN0VaYWFBNmY1dVpBdnNpLWNJbGF5bzVhTnBCamR1eTEwMGhpVnF3cV9lVFVwUnZXOURLRjZlQlpBdFQ2emQyRHQ3bXN5RjdsVnp3bFBNeVZ5dzhuQWhueFlSay1kVGx1cUk4S3QwelZNZDVrNm1yMEV4dy00dFdhbERGX1ZPS0hfalF1NVZnY2tHWEZPSzNTcnAzOVh5VU9wTUdybEZlMzZlR1BBbUtfWU1k?oc=5
+🚨 Radu joins Snapmaker to further ‘Full Spectrum’ color printing
+When Snapmaker’s U1 3D printer became the most funded 3D printer ever on Kickstarter ($20.61 million!) it was clear that the desktop hardware was going to make an impact within … The post Radu joins Snapmaker to...
+Reported by VoxelMatters on May 22, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/radu-snapmaker-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/radu-joins-snapmaker-to-further-full-spectrum-color-printing
 
-🚀 Agnikul Cosmos fires cluster of four 3D printed semi-cryogenic engines
-Agnikul Cosmos, a private Indian space transportation company founded by IIT Madras alumni, has carried out what it claims is the first cluster firing of four semi-cryogenic rocket engines in … The post Agnikul...
-Reported by VoxelMatters on May 21, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Agnikul-Cosmos-fires-cluster-of-four-3D-printed-semi-cryogenic-engines-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/agnikul-cosmos-fires-cluster-of-four-3d-printed-semi-cryogenic-engines
+♻️ Peopoly Giga 800 Targets Large-Format Pellet Printing at $15,000 - Manufactur3D
+Peopoly Giga 800 Targets Large-Format Pellet Printing at $15,000 Manufactur3D
+Reported by Google News - 3D Printing on May 22, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTFBpR0ZtNzN3bEYwN01OZzdMWjN0dE0xWnZGaEphQzlLekphT28weTVhenA3TkdOUU9kSU10a0tOV2VuYnJQZkdZRlgwWGFScDc1UGpMbFRrM3V3Q2YtekkyajlpMklyY3U5T2ZpMktFLVBWeDBVVFN3RHdpUWk0Zw?oc=5
 
-🚀 NP Aerospace 3D prints 110 kg suspension for armored vehicle
-UK-based NP Aerospace, a specialist in armor manufacturing and military vehicle integration, is no stranger to additive manufacturing.
-In fact, the company has taken an active role in the Ministry … The post NP Aerospace 3D prints 110 kg suspension for armored vehicle appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/caracol-suspension-np-aerospace-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/np-aerospace-3d-prints-110-kg-suspension-for-armored-vehicle
+🚨 Snapmaker brings Full Spectrum developer Ratdoux into multicolor 3D printing software push
+Shenzhen-based desktop 3D printer manufacturer Snapmaker has hired Radu “Ratdoux”, the original developer behind the experimental Full Spectrum color-mixing slicer, to help lead a new multicolor 3D printing initiative.
+Announced in May 2026, the move will see Snapmaker begin work on officially integrating Full Spectrum’s virtual color-mixing technology into upcoming versions of Snapmaker Orca, the…, reported by 3D Printing Industry on May 22, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/SN-Full-Spectrum-Announcement-Wide-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/snapmaker-brings-full-spectrum-developer-ratdoux-into-multicolor-3d-printing-software-push-251721
 
-🚀 SHINING 3D launches OptimScan Q12 HD scanner
-SHINING 3D has released the OptimScan Q12 HD, a high-precision 3D inspection scanner built for industrial metrology applications that demand detailed surface data and flexible automation.
-The system achieves an … The post SHINING 3D launches OptimScan Q12 HD scanner appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/SHINING3D-Q12-HD-03-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/shining-3d-launches-optimscan-q12-hd-scanner
+🚨 UltiMaker Launches Factor 4 Plus for Industrial Manufacturing
+UltiMaker announced a new professional 3D printer, the UltiMaker Factor 4 Plus.
+The post UltiMaker Launches Factor 4 Plus for Industrial Manufacturing appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/ultimaker-launches-factor-4-plus-for-industrial-manufacturing
 
-📰 Penn State’s 3D Printed CaroFlex Device Opens a New Front in Drug-Resistant Hypertension
-Nearly half of all adults in the United States live with hypertension, and for roughly one in ten of them, conventional drug treatments simply don’t work.
-A research team at Pennsylvania State University (PSU) has developed a potential answer: a soft, 3D printed bioelectronic device that attaches directly to one of the body’s most critical…, reported by 3D Printing Industry on May 21, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/body-photo-2-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/penn-states-3d-printed-caroflex-device-opens-a-new-front-in-drug-resistant-hypertension-251605
+🖨 UltiMaker Factor 4 Plus 3D printer doubles speed and targets defence
+"When I talk directly with our customers, one message comes through consistently: speed is great, but proving the quality of the part is the real challenge.”
+Reported by TCT Magazine on May 22, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/UltiMaker-Factor-4-Plus.png
+🔗 Read more: https://www.tctmagazine.com/ultimaker-factor-4-plus-3d-printer-doubles-speed-and-targets-defence
 
-🦺 FITASY launches single-shoe online purchase option with help of 3D printing
-Aimed at individuals who require only a left or a right shoe, such as those who use prosthetics, the "single-shoe" option is sold at exactly half the price of a pair.
-Reported by TCT Magazine on May 21, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/Fitasy-1.png
-🔗 Read more: https://www.tctmagazine.com/fitasy-launches-single-shoe-online-purchase-option-with-help-of-3d-printing
+🚀 Smart Skin Technology to Protect Robots in Space
+The European Space Agency has appointed a pan-European consortium led by Danish Technological Institute, a Denmark-based research and technology organization, to develop a protective covering for robotic arms used in...
+Called Smart Skin for Exploration Cobots, the €1.65 million project will run for 24 months from 2026 to 2028 and aims to produce two…, reported by 3D Printing Industry on May 22, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/2-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/smart-skin-technology-to-protect-robots-in-space-251673
 
-🖨 Yokohama researchers develop recyclable resin for high-precision 3D printing
-Researchers at Yokohama National University in Japan have developed a photocurable resin for stereolithography that can be melted down and reprinted more than ten times, and with minimal material degradation.
-… The post Yokohama researchers develop recyclable resin for high-precision 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Recyclable-3D-printing-resin-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/yokohama-researchers-develop-recyclable-resin-for-high-precision-3d-printing
+🖨 XJet expands into UK and Ireland with eqops partnership
+XJet, a pioneering metal and ceramic direct material jetting solution provider, has named eqops as its exclusive sales and support partner for the United Kingdom and Ireland.
+The appointment forms … The post XJet expands into UK and Ireland with eqops partnership appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/XJet-eqops-logo-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/xjet-expands-into-uk-and-ireland-with-eqops-partnership
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "Investigating the Health Impacts of UFPs and VOCs from FDM Printers" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://hackaday.com/2026/05/20/investigating-the-health-impacts-of-ufps-and-vocs-from-fdm-printers | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "UltiMaker Launches Factor 4 Plus for Industrial Manufacturing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://www.fabbaloo.com/news/ultimaker-launches-factor-4-plus-for-industrial-manufacturing | Complete rundown: https://www.quality3ds.com/

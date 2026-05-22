@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-23
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #136 - 2026-05-23
+## Stories
 
 🔥 UNF secures NSF grant to tackle defects in laser powder bed fusion
 The University of North Florida (UNF) has received a National Science Foundation (NSF) grant to develop a real-time quality-control system for metal additive manufacturing.
@@ -49,9 +47,3 @@ XJet, a pioneering metal and ceramic direct material jetting solution provider, 
 The appointment forms … The post XJet expands into UK and Ireland with eqops partnership appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/XJet-eqops-logo-150x150.jpg
 Read more ? https://www.voxelmatters.com/xjet-expands-into-uk-and-ireland-with-eqops-partnership
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
