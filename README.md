@@ -2,53 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #136 - 2026-05-23
+### 3D PRINTING PULSE #137 - 2026-05-24
 
-🔥 UNF secures NSF grant to tackle defects in laser powder bed fusion
-The University of North Florida (UNF) has received a National Science Foundation (NSF) grant to develop a real-time quality-control system for metal additive manufacturing.
-Longfei Zhou, Assistant Professor of … The post UNF secures NSF grant to tackle defects in laser powder bed fusion appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/NSF-story3-150x150.jpg
-Read more ? https://www.voxelmatters.com/unf-secures-nsf-grant-to-tackle-defects-in-laser-powder-bed-fusion
+🔥 ROBOZE Acquires Dimanex to Wire the Physical and Digital Sides of Manufacturing Together
+Italian advanced manufacturing company ROBOZE has acquired key assets from Dimanex, a Dutch software platform that filed for bankruptcy earlier this year.
+The deal brings Dimanex’s platform together with ROBOZE’s existing software tools, Pandora and SlizeR, closing a persistent gap in its ecosystem: connecting physical machines directly to digital inventory management, reported by 3D Printing Industry on May 23, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/1778064707174-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/roboze-acquires-dimanex-to-wire-the-physical-and-digital-sides-of-manufacturing-together-251690
 
-🚨 Radu joins Snapmaker to further ‘Full Spectrum’ color printing
-When Snapmaker’s U1 3D printer became the most funded 3D printer ever on Kickstarter ($20.61 million!) it was clear that the desktop hardware was going to make an impact within … The post Radu joins Snapmaker to...
-Reported by VoxelMatters on May 22, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/radu-snapmaker-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/radu-joins-snapmaker-to-further-full-spectrum-color-printing
-
-♻️ Peopoly Giga 800 Targets Large-Format Pellet Printing at $15,000 - Manufactur3D
-Peopoly Giga 800 Targets Large-Format Pellet Printing at $15,000 Manufactur3D
+🔥 UNF secures NSF grant to tackle defects in laser powder bed fusion - VoxelMatters
+UNF secures NSF grant to tackle defects in laser powder bed fusion VoxelMatters
 Reported by Google News - 3D Printing on May 22, 2026.
-Read more ? https://news.google.com/rss/articles/CBMifkFVX3lxTFBpR0ZtNzN3bEYwN01OZzdMWjN0dE0xWnZGaEphQzlLekphT28weTVhenA3TkdOUU9kSU10a0tOV2VuYnJQZkdZRlgwWGFScDc1UGpMbFRrM3V3Q2YtekkyajlpMklyY3U5T2ZpMktFLVBWeDBVVFN3RHdpUWk0Zw?oc=5
+Read more ? https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUFRNjRNa0Q0SVlfOGdFbDBLZ1FZUWRveHlsQjc3c0xKcnlkRkZid0Mxa3R4SnpYTkI0VEZiNEdQbkkxbFNlQWlYZG5sYjhveW1xUjhGZDE1N0ZqemE0MFJlbjhWeGFzaXBKSEFhSUVuRzZwRWlfWFVWbUx6N3M5SFBjaHZhU0tEQWF5eW5PT0NBSjFQYUVCOGlTS2TSAaIBQVVfeXFMTk53V3BjN0JHTWp2by12WWlNNXp4S21FdFo3N2dOdk5EbUZLY215RS0xYnhJRUxwclVMc21kR1gwS05qYW5TN3A2VVdLYzRQRXhLYW5MVVhRLWZid01tNUw0MW55c0RSNS1kblhkZTB2Yk5CSEtycV9wSnN0VDJtQnZlX3NqcUpuUk1RVGpnbl9PQ191cmtzbEs4SFBZX3dxdEZ3?oc=5
 
-🚨 Snapmaker brings Full Spectrum developer Ratdoux into multicolor 3D printing software push
-Shenzhen-based desktop 3D printer manufacturer Snapmaker has hired Radu “Ratdoux”, the original developer behind the experimental Full Spectrum color-mixing slicer, to help lead a new multicolor 3D printing initiative.
-Announced in May 2026, the move will see Snapmaker begin work on officially integrating Full Spectrum’s virtual color-mixing technology into upcoming versions of Snapmaker Orca, the…, reported by 3D Printing Industry on May 22, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/SN-Full-Spectrum-Announcement-Wide-150x100.png
-Read more ? https://3dprintingindustry.com/news/snapmaker-brings-full-spectrum-developer-ratdoux-into-multicolor-3d-printing-software-push-251721
+🦺 USC team prints MRI coils for just $30 per unit
+MRI coils — specialized antennas placed against the body to detect radiofrequency signals from tissue — currently cost between $10,000 and $50,000 each.
+They require complex manufacturing and follow rigid … The post USC team prints MRI coils for just $30 per unit appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/USC-Viterbi-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/usc-team-prints-mri-coils-for-just-30-per-unit
 
-🚨 UltiMaker Launches Factor 4 Plus for Industrial Manufacturing
-UltiMaker announced a new professional 3D printer, the UltiMaker Factor 4 Plus.
-The post UltiMaker Launches Factor 4 Plus for Industrial Manufacturing appeared on Fabbaloo.
-Read more ? https://www.fabbaloo.com/news/ultimaker-launches-factor-4-plus-for-industrial-manufacturing
+🚀 SHINING 3D releases Inspect 2026 with modular workflow architecture
+SHINING 3D has released Inspect 2026, an updated version of its 3D inspection software designed to give quality engineers and manufacturers greater flexibility across dimensional inspection and quality control tasks.
+… The post SHINING 3D releases Inspect 2026 with modular workflow architecture appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Automated-Inspection-150x150.jpg
+Read more ? https://www.voxelmatters.com/shining-3d-releases-inspect-2026-with-modular-workflow-architecture
 
-🖨 UltiMaker Factor 4 Plus 3D printer doubles speed and targets defence
-"When I talk directly with our customers, one message comes through consistently: speed is great, but proving the quality of the part is the real challenge.”
-Reported by TCT Magazine on May 22, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/UltiMaker-Factor-4-Plus.png
-Read more ? https://www.tctmagazine.com/ultimaker-factor-4-plus-3d-printer-doubles-speed-and-targets-defence
+🖨 T.GOLD expands to two annual editions in 2026, with increased focus on 3D printing
+T.GOLD, the international trade show dedicated to machinery and technology for the jewelry and precious metals industry, returns to the Vicenzaoro exhibition center in Vicenza from September 4 to 8, 2026, … The post...
+Reported by VoxelMatters on May 23, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/FIERA_VICENZA_hall02-150x150.jpg
+Read more ? https://www.voxelmatters.com/t-gold-expands-to-two-annual-editions-in-2026-with-increased-focus-on-3d-printing
 
-🚀 Smart Skin Technology to Protect Robots in Space
-The European Space Agency has appointed a pan-European consortium led by Danish Technological Institute, a Denmark-based research and technology organization, to develop a protective covering for robotic arms used in...
-Called Smart Skin for Exploration Cobots, the €1.65 million project will run for 24 months from 2026 to 2028 and aims to produce two…, reported by 3D Printing Industry on May 22, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/2-1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/smart-skin-technology-to-protect-robots-in-space-251673
+🖨 i3D Manufacturing Acquires Burloak Technologies in New Deal
+i3D Manufacturing, a business unit within the BTX Precision group, has completed the acquisition of Burloak Technologies, a metal additive manufacturing specialist based in Oakville, Ontario.
+The move adds technical depth to i3D’s existing capabilities and marks BTX Precision’s first footprint outside the United States, reported by 3D Printing Industry on May 23, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/OVERVIEW-1-1024x208-1-150x100.webp
+Read more ? https://3dprintingindustry.com/news/i3d-manufacturing-acquires-burloak-technologies-in-new-deal-251654
 
-🖨 XJet expands into UK and Ireland with eqops partnership
-XJet, a pioneering metal and ceramic direct material jetting solution provider, has named eqops as its exclusive sales and support partner for the United Kingdom and Ireland.
-The appointment forms … The post XJet expands into UK and Ireland with eqops partnership appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/XJet-eqops-logo-150x150.jpg
-Read more ? https://www.voxelmatters.com/xjet-expands-into-uk-and-ireland-with-eqops-partnership
+💻 3D Prod and Sculpteo Merge to Scale AM in France
+French additive manufacturing providers 3D Prod and Sculpteo have announced a merger, with 3D Prod, backed by injection moulding firm Platex, acquiring Sculpteo from BASF New Business GmbH, which had held the company...
+Terms of the transaction were not disclosed, reported by 3D Printing Industry on May 23, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/1778148198701-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/3d-prod-and-sculpteo-merge-to-scale-am-in-france-251695
+
+🦺 Open Bionics Expands Hero FLEX to Above-Elbow Amputees with First Clinical Fitting in New York
+A New York-based physicist has made history as the world’s first above-elbow amputee to be fitted with a full-length, 3D printed bionic arm.
+Born with an amputation following a circulatory complication eight days after birth, Gowtham spent most of his life without a functional prosthetic, reported by 3D Printing Industry on May 23, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/MGS_Dan-00032-copy-4-scaled-e1712314888150-1024x968-1-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/open-bionics-expands-hero-flex-to-above-elbow-amputees-with-first-clinical-fitting-in-new-york-251754
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
