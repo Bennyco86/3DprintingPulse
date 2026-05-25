@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-26
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #139 - 2026-05-26
+## Stories
 
 🔥 The Growing Family Tree of Slic3r-Based Software
 With the controversy over open-source 3D print slicing software continuing, I thought I’d check on the current state of these tools.
@@ -50,9 +48,3 @@ For most of additive manufacturing’s history, printing in full color meant acc
 Attempts have been made to reduce the cost of color 3D … The post Color 3D printing, from voxel-level jetting to sub-$500 filament extrusion appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/color-3D-printing-150x150.jpg
 Read more ? https://www.voxelmatters.com/color-3d-printing-from-voxel-level-jetting-to-sub-500-filament-extrusion
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

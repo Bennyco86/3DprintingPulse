@@ -1,50 +1,52 @@
-﻿# 3D PRINTING PULSE #138 - 2026-05-25
+﻿# 3D PRINTING PULSE #139 - 2026-05-26
 
-🔥 New video of melted Bambu Lab A1 sparks debate about whether the 3D printer is still a fire hazard — critics push for recall while redditors suspect external factors - Tom's Hardware
-New video of melted Bambu Lab A1 sparks debate about whether the 3D printer is still a fire hazard — critics push for recall while redditors suspect external factors Tom's Hardware
-Reported by Google News - 3D Printing on May 24, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMisAJBVV95cUxOUXZWQURZdUdUOTdtQ1pKZkRUUjdqd2NxTFlUQzYtdVBpRXROTU0yMTBIYWVKRmQzRWNmYXpGMkxrZ3lMQjB3VG9fZ1Y2MmQzSUo5dE9Tci0wcmFfV0JtZW1LbE15cnhia3I2UWVUS29TRGE4cEd3R2ZsWjBXOXVhdk5XZFNCeU1Ic2tFNFlRdThCRVBiY29xWENybzVNNXg2WEx6aGk2LWREdmZwVEpOelo3MEVXMGhCRjNMYzc3RmtrNERieEpGODhQbnE0d2MzUnpTOWVLYzRucE9JOWpPbW9remVXRHpoeUszWGZpMEg4UTR0a0hIMUgwbmdHYVptMmFuQV9DYklWX2ZoMUVLNkNRQ2RLME9fRHdfMlhqZ1hza2Q3MTlHb1puVHdkdE53?oc=5
+🔥 The Growing Family Tree of Slic3r-Based Software
+With the controversy over open-source 3D print slicing software continuing, I thought I’d check on the current state of these tools.
+The post The Growing Family Tree of Slic3r-Based Software appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/the-growing-family-tree-of-slic3r-based-software
 
-🚀 Creality goes public: a $177 million bet on the future of consumer 3D printing
-A decade of growth, one long road to the IPO Shenzhen Creality 3D Technology, the world’s largest consumer 3D printing company by cumulative shipments, has officially launched its IPO on … The post Creality goes...
-Reported by VoxelMatters on May 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Zrzut-ekranu-2026-05-24-131921-150x150.png
-🔗 Read more: https://www.voxelmatters.com/creality-goes-public-a-177-million-bet-on-the-future-of-consumer-3d-printing
+🚀 The thermal barrier holding back metal AM may finally have a solution
+Before you print, find out if it’s worth it Aibuild, a software company serving the additive manufacturing industry, has just launched a tool called FETS.
+It is a thermomechanical finite … The post The thermal barrier holding back metal AM may finally have a solution appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Zrzut-ekranu-2026-05-24-233006-150x150.png
+🔗 Read more: https://www.voxelmatters.com/the-thermal-barrier-holding-back-metal-am-may-finally-have-a-solution
 
-🦺 Hadassah doctors rebuild and lengthen leg using 3D printed implants
-Doctors at Hadassah Ein Kerem in Jerusalem have reconstructed a patient’s hip joint and femur using two custom 3D printed implants, after a rare condition caused her bones to progressively … The post Hadassah doctors...
-Reported by VoxelMatters on May 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Hadassah-implant-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/hadassah-doctors-rebuild-and-lengthen-leg-using-3d-printed-implants
+🚀 SHINING 3D’s FreeScan Trak quantifies hull geometry for aluminum electric catamaran
+Hangzhou-based engineer and sailor Hu Wei has invested tens of millions of RMB into the HighWei 66, an electric catamaran built around variable-pitch electric propulsion, solar power generation, and regenerative …...
+Reported by VoxelMatters on May 25, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Shining-3D-aluminum-hull-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/shining-3ds-freescan-trak-quantifies-hull-geometry-for-aluminum-electric-catamaran
 
-📰 Fitasy brings single-shoe purchasing to its 3D printed footwear platform
-Fitasy, an Indianapolis-based custom-fit footwear company, has updated its on-demand production platform to accept orders for individual shoes through its website, fitasy.com.
-The option targets customers who require only one … The post Fitasy brings single-shoe purchasing to its 3D printed footwear platform appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Fitasy-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/fitasy-brings-single-shoe-purchasing-to-its-3d-printed-footwear-platform
+📰 Youtube inventor 3D prints multi-purpose suitcase
+Matty Benedetto, a Youtuber and self-made inventor who, in his words, “designs products to solve problems that don’t exist” has created a 3D printed suitcase that, frankly, puts other luggage … The post Youtube...
+Reported by VoxelMatters on May 25, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3d-printed-suitcase-4-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/youtube-inventor-3d-prints-multi-purpose-suitcase
 
-🚀 NP Aerospace Produces Mastiff Suspension Carrier via WAAM, Cutting Lead Times by 50%
-NP Aerospace, working with the Digital Manufacturing Centre (DMC), has used Caracol‘s Vipra AM platform to produce the Mastiff suspension and differential carrier, a structurally critical, load-bearing component for...
-Printed as a single piece without tooling in 60 hours, the component marks a direct challenge…, reported by 3D Printing Industry on May 24, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/Mastiff-suspension-np-aerospace-dmc-caracol-waam-robotic-dual-use-transportation-1200x900-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/np-aerospace-produces-mastiff-suspension-carrier-via-waam-cutting-lead-times-by-50-251756
+💻 Axtra3D: a unified, traceable workflow for polymer AM
+Founded just five years ago, North Carolina-based Axtra3D has progressed rapidly in its mission of becoming a global, production-focused additive manufacturing company.
+Not only has Axtra3D developed and brought to … The post Axtra3D: a unified, traceable workflow for polymer AM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Axtra3D-polymer-eBook-04-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/axtra3d-a-unified-traceable-workflow-for-polymer-am
 
-🚀 India’s First Four-Engine Cluster Firing Marks New Frontier for Agnikul Cosmos
-Agnikul Cosmos, the Chennai-based private launch startup, has reached another propulsion milestone: the simultaneous firing of four semi-cryogenic rocket engines, all of them 3D printed as individual, single-piece...
-According to Agnikul, the test is the first of its kind in India involving semi-cryogenic…, reported by 3D Printing Industry on May 24, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-16.21.59-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/indias-first-four-engine-cluster-firing-marks-new-frontier-for-agnikul-cosmos-251760
+💻 Airtech and Evergreen Additive sign exclusive supply agreement for maritime LFAM
+Airtech Advanced Materials Group and Evergreen Additive entered into an exclusive supply agreement on May 20, targeting LFAM applications in the maritime and defense sectors.
+Under the deal, Airtech will … The post Airtech and Evergreen Additive sign exclusive supply agreement for maritime LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Evergreen-founding-team-150x150.png
+🔗 Read more: https://www.voxelmatters.com/airtech-and-evergreen-additive-sign-exclusive-supply-agreement-for-maritime-lfam
 
-📰 Soiboi Soft: Making Soft Robotics &amp; Microfluidics Genius Look Easy
-Many YouTubers are talking heads with a keyed-up, almost manic, enthusiasm.
-In 3D printing, some give useful reviews, reported by 3DPrint.com on May 24, 2026.
-🔗 Read more: https://3dprint.com/325429/soiboi-soft-making-soft-robotics-microfluidics-genius-look-easy
+💻 EPFL team makes 70x efficiency gain in holographic volumetric 3D printing
+Researchers at the École Polytechnique Fédérale de Lausanne (EPFL) have developed a volumetric 3D printing platform that it claims is 70 times more energy-efficient than previous techniques.
+The system uses … The post EPFL team makes 70x efficiency gain in holographic volumetric 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/EPFL-holographic-volumetric-3D-printing-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/epfl-70x-efficiency-gain-holographic-volumetric-3d-printing
 
-🏠 APC PowerForge with Dell and NVIDIA at DTW 2026 - ServeTheHome
-APC PowerForge with Dell and NVIDIA at DTW 2026 ServeTheHome
-Reported by Google News - 3D Printing on May 24, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMigwFBVV95cUxNMVNTOVNEMDdvVFJYalN3OUt2b3VSdnFVNGxUS2drTVU2TTZDNjNtRDZWVFpsdmxNWndjVUJXdHNMRFd4Yy1GbURrdHlpMXNnSjU2S3l5VXNtTFU2NmRYMFVBUmhFdklpSEoyUHhScjVCQU5kZTdBdmcxbjY2R3pEdy1Kaw?oc=5
+🖨 Color 3D printing, from voxel-level jetting to sub-$500 filament extrusion
+For most of additive manufacturing’s history, printing in full color meant accessing a short list of expensive, specialized systems.
+Attempts have been made to reduce the cost of color 3D … The post Color 3D printing, from voxel-level jetting to sub-$500 filament extrusion appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/color-3D-printing-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/color-3d-printing-from-voxel-level-jetting-to-sub-500-filament-extrusion
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Creality goes public: a $177 million bet on the future of consumer 3D printing" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/creality-goes-public-a-177-million-bet-on-the-future-of-consumer-3d-printing | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "The Growing Family Tree of Slic3r-Based Software" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.fabbaloo.com/news/the-growing-family-tree-of-slic3r-based-software | Full pulse: https://www.quality3ds.com/
