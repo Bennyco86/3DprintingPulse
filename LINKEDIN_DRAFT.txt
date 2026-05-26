@@ -1,52 +1,52 @@
-﻿# 3D PRINTING PULSE #139 - 2026-05-26
+﻿# 3D PRINTING PULSE #140 - 2026-05-27
 
-🔥 The Growing Family Tree of Slic3r-Based Software
-With the controversy over open-source 3D print slicing software continuing, I thought I’d check on the current state of these tools.
-The post The Growing Family Tree of Slic3r-Based Software appeared on Fabbaloo.
-🔗 Read more: https://www.fabbaloo.com/news/the-growing-family-tree-of-slic3r-based-software
+🚨 UltiMaker Targets Defense Manufacturing With New Factor 4 Plus
+UltiMaker has announced the new Factor 4 Plus.
+The printer, which sits above the S series, has a 330 x 240 x 300 mm build volume and a 120-kilo dual-nozzle, reported by 3DPrint.com on May 26, 2026.
+🔗 Read more: https://3dprint.com/326230/ultimaker-targets-defense-manufacturing-with-new-factor-4-plus
 
-🚀 The thermal barrier holding back metal AM may finally have a solution
-Before you print, find out if it’s worth it Aibuild, a software company serving the additive manufacturing industry, has just launched a tool called FETS.
-It is a thermomechanical finite … The post The thermal barrier holding back metal AM may finally have a solution appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Zrzut-ekranu-2026-05-24-233006-150x150.png
-🔗 Read more: https://www.voxelmatters.com/the-thermal-barrier-holding-back-metal-am-may-finally-have-a-solution
+📰 ORNL develops real-time composite 3D printing error correction system
+Researchers at the US Department of Energy’s (DOE) Oak Ridge National Laboratory (ORNL) have developed an automated controller capable of detecting and correcting temperature errors during large-scale plastic...
+Reported by VoxelMatters on May 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/2025-P11622_0-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ornl-develops-real-time-composite-3d-printing-error-correction-system
 
-🚀 SHINING 3D’s FreeScan Trak quantifies hull geometry for aluminum electric catamaran
-Hangzhou-based engineer and sailor Hu Wei has invested tens of millions of RMB into the HighWei 66, an electric catamaran built around variable-pitch electric propulsion, solar power generation, and regenerative …...
-Reported by VoxelMatters on May 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Shining-3D-aluminum-hull-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/shining-3ds-freescan-trak-quantifies-hull-geometry-for-aluminum-electric-catamaran
+🚀 Sinterit launches compact SLS platform powered by a 30W RF CO₂ laser
+The €47,000 machine has been developed in response to growing demand for greater material freedom and more advanced process control.
+Reported by TCT Magazine on May 26, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/PR-BIANCO2-image-1-1.png
+🔗 Read more: https://www.tctmagazine.com/sinterit-launches-compact-sls-platform-powered-by-a-30w-rf-co2-laser
 
-📰 Youtube inventor 3D prints multi-purpose suitcase
-Matty Benedetto, a Youtuber and self-made inventor who, in his words, “designs products to solve problems that don’t exist” has created a 3D printed suitcase that, frankly, puts other luggage … The post Youtube...
-Reported by VoxelMatters on May 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3d-printed-suitcase-4-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/youtube-inventor-3d-prints-multi-purpose-suitcase
+📰 ROBOZE to conduct research into Carbon–Carbon &amp; Ceramic Matrix Composites with Swiss university
+Carbon–Carbon and CMC are known for their exceptional resistance to ultra-high temperatures, thermal shock, and aggressive operating conditions.
+Reported by TCT Magazine on May 26, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/0422-am-roboze-argo-500.png
+🔗 Read more: https://www.tctmagazine.com/roboze-to-conduct-research-into-carbon-carbon-ceramic-matrix-composites-with-swiss-university
 
-💻 Axtra3D: a unified, traceable workflow for polymer AM
-Founded just five years ago, North Carolina-based Axtra3D has progressed rapidly in its mission of becoming a global, production-focused additive manufacturing company.
-Not only has Axtra3D developed and brought to … The post Axtra3D: a unified, traceable workflow for polymer AM appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Axtra3D-polymer-eBook-04-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/axtra3d-a-unified-traceable-workflow-for-polymer-am
+📰 Hyperion Systems 3D prints 4.6m hull for ASTRA 460 USV
+This week at the Indian Ocean Defence and Security Conference (IODS) in Perth, Australia, Hyperion Systems is making quite the splash.
+There, the Australian LFAM specialist is not only publicly … The post Hyperion Systems 3D prints 4.6m hull for ASTRA 460 USV appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/hyperion-systems-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/hyperion-systems-3d-prints-4-6m-hull-for-astra-460-usv
 
-💻 Airtech and Evergreen Additive sign exclusive supply agreement for maritime LFAM
-Airtech Advanced Materials Group and Evergreen Additive entered into an exclusive supply agreement on May 20, targeting LFAM applications in the maritime and defense sectors.
-Under the deal, Airtech will … The post Airtech and Evergreen Additive sign exclusive supply agreement for maritime LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Evergreen-founding-team-150x150.png
-🔗 Read more: https://www.voxelmatters.com/airtech-and-evergreen-additive-sign-exclusive-supply-agreement-for-maritime-lfam
+🚀 ROBOZE and SUPSI launch R&amp;D initiative targeting Carbon–Carbon and Ceramic Matrix Composites
+ROBOZE and SUPSI, the University of Applied Sciences and Arts of Southern Switzerland, through its Institute of Mechanical Engineering and Materials Technology (MEMTi), formed a joint research and development...
+Reported by VoxelMatters on May 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/roboze-argo-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/roboze-and-supsi-launch-rd-initiative-targeting-carbon-carbon-and-ceramic-matrix-composites
 
-💻 EPFL team makes 70x efficiency gain in holographic volumetric 3D printing
-Researchers at the École Polytechnique Fédérale de Lausanne (EPFL) have developed a volumetric 3D printing platform that it claims is 70 times more energy-efficient than previous techniques.
-The system uses … The post EPFL team makes 70x efficiency gain in holographic volumetric 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/EPFL-holographic-volumetric-3D-printing-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/epfl-70x-efficiency-gain-holographic-volumetric-3d-printing
+🚀 Xenia launches thermoplastic composite pellet range for large-scale additive manufacturing
+Xenia, an Italian developer of carbon and glass fiber-reinforced thermoplastic composites, has released a new line of pellet-based materials engineered for large-scale additive manufacturing (LSAM) tooling applications.
+The portfolio addresses … The post Xenia launches thermoplastic composite pellet range for large-scale additive manufacturing appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/xenia_img1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/xenia-launches-thermoplastic-composite-pellet-range-for-large-scale-additive-manufacturing
 
-🖨 Color 3D printing, from voxel-level jetting to sub-$500 filament extrusion
-For most of additive manufacturing’s history, printing in full color meant accessing a short list of expensive, specialized systems.
-Attempts have been made to reduce the cost of color 3D … The post Color 3D printing, from voxel-level jetting to sub-$500 filament extrusion appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/color-3D-printing-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/color-3d-printing-from-voxel-level-jetting-to-sub-500-filament-extrusion
+🚀 Sinterit launches BIANCO2 compact SLS 3D printer for colorable and white materials
+Sinterit introduced the BIANCO2, a compact CO₂ selective laser sintering 3D printer designed for companies requiring broader material options and tighter process control than standard compact SLS systems offer.
+The … The post Sinterit launches BIANCO2 compact SLS 3D printer for colorable and white materials appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/BIANCO2-newsletter-picture-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/sinterit-launches-bianco2-compact-sls-3d-printer-with-support-for-colorable-and-white-materials
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "The Growing Family Tree of Slic3r-Based Software" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.fabbaloo.com/news/the-growing-family-tree-of-slic3r-based-software | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "UltiMaker Targets Defense Manufacturing With New Factor 4 Plus" because it highlights where practical 3D printing innovation is moving next. Story: https://3dprint.com/326230/ultimaker-targets-defense-manufacturing-with-new-factor-4-plus | Explore more: https://www.quality3ds.com/

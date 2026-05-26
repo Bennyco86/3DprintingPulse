@@ -1,5 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Quality3Ds Daily Pulse</title><link>https://quality3ds.godaddysites.com</link><description>Curated daily news for 3D printing enthusiasts.</description><lastBuildDate>Tue, 26 May 2026 12:00:00 GMT</lastBuildDate><item><title>3D PRINTING PULSE #139 - 2026-05-26</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🔥 The Growing Family Tree of Slic3r-Based Software
+<rss version="2.0"><channel><title>Quality3Ds Daily Pulse</title><link>https://quality3ds.godaddysites.com</link><description>Curated daily news for 3D printing enthusiasts.</description><lastBuildDate>Wed, 27 May 2026 12:00:00 GMT</lastBuildDate><item><title>3D PRINTING PULSE #140 - 2026-05-27</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🚨 UltiMaker Targets Defense Manufacturing With New Factor 4 Plus
+UltiMaker has announced the new Factor 4 Plus.
+The printer, which sits above the S series, has a 330 x 240 x 300 mm build volume and a 120-kilo dual-nozzle, reported by 3DPrint.com on May 26, 2026.
+Read more ? https://3dprint.com/326230/ultimaker-targets-defense-manufacturing-with-new-factor-4-plus&lt;/p&gt;
+&lt;p&gt;📰 ORNL develops real-time composite 3D printing error correction system
+Researchers at the US Department of Energy’s (DOE) Oak Ridge National Laboratory (ORNL) have developed an automated controller capable of detecting and correcting temperature errors during large-scale plastic...
+Reported by VoxelMatters on May 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/2025-P11622_0-150x150.jpg
+Read more ? https://www.voxelmatters.com/ornl-develops-real-time-composite-3d-printing-error-correction-system&lt;/p&gt;
+&lt;p&gt;🚀 Sinterit launches compact SLS platform powered by a 30W RF CO₂ laser
+The €47,000 machine has been developed in response to growing demand for greater material freedom and more advanced process control.
+Reported by TCT Magazine on May 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/PR-BIANCO2-image-1-1.png
+Read more ? https://www.tctmagazine.com/sinterit-launches-compact-sls-platform-powered-by-a-30w-rf-co2-laser&lt;/p&gt;
+&lt;p&gt;📰 ROBOZE to conduct research into Carbon–Carbon &amp;amp; Ceramic Matrix Composites with Swiss university
+Carbon–Carbon and CMC are known for their exceptional resistance to ultra-high temperatures, thermal shock, and aggressive operating conditions.
+Reported by TCT Magazine on May 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/0422-am-roboze-argo-500.png
+Read more ? https://www.tctmagazine.com/roboze-to-conduct-research-into-carbon-carbon-ceramic-matrix-composites-with-swiss-university&lt;/p&gt;
+&lt;p&gt;📰 Hyperion Systems 3D prints 4.6m hull for ASTRA 460 USV
+This week at the Indian Ocean Defence and Security Conference (IODS) in Perth, Australia, Hyperion Systems is making quite the splash.
+There, the Australian LFAM specialist is not only publicly … The post Hyperion Systems 3D prints 4.6m hull for ASTRA 460 USV appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/hyperion-systems-1-150x150.jpeg
+Read more ? https://www.voxelmatters.com/hyperion-systems-3d-prints-4-6m-hull-for-astra-460-usv&lt;/p&gt;
+&lt;p&gt;🚀 ROBOZE and SUPSI launch R&amp;amp;D initiative targeting Carbon–Carbon and Ceramic Matrix Composites
+ROBOZE and SUPSI, the University of Applied Sciences and Arts of Southern Switzerland, through its Institute of Mechanical Engineering and Materials Technology (MEMTi), formed a joint research and development...
+Reported by VoxelMatters on May 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/roboze-argo-150x150.jpg
+Read more ? https://www.voxelmatters.com/roboze-and-supsi-launch-rd-initiative-targeting-carbon-carbon-and-ceramic-matrix-composites&lt;/p&gt;
+&lt;p&gt;🚀 Xenia launches thermoplastic composite pellet range for large-scale additive manufacturing
+Xenia, an Italian developer of carbon and glass fiber-reinforced thermoplastic composites, has released a new line of pellet-based materials engineered for large-scale additive manufacturing (LSAM) tooling applications.
+The portfolio addresses … The post Xenia launches thermoplastic composite pellet range for large-scale additive manufacturing appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/xenia_img1-150x150.jpg
+Read more ? https://www.voxelmatters.com/xenia-launches-thermoplastic-composite-pellet-range-for-large-scale-additive-manufacturing&lt;/p&gt;
+&lt;p&gt;🚀 Sinterit launches BIANCO2 compact SLS 3D printer for colorable and white materials
+Sinterit introduced the BIANCO2, a compact CO₂ selective laser sintering 3D printer designed for companies requiring broader material options and tighter process control than standard compact SLS systems offer.
+The … The post Sinterit launches BIANCO2 compact SLS 3D printer for colorable and white materials appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/BIANCO2-newsletter-picture-150x150.jpg
+Read more ? https://www.voxelmatters.com/sinterit-launches-bianco2-compact-sls-3d-printer-with-support-for-colorable-and-white-materials&lt;/p&gt;</description><pubDate>Wed, 27 May 2026 12:00:00 GMT</pubDate><guid>pulse-140-2026-05-27</guid></item><item><title>3D PRINTING PULSE #139 - 2026-05-26</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🔥 The Growing Family Tree of Slic3r-Based Software
 With the controversy over open-source 3D print slicing software continuing, I thought I’d check on the current state of these tools.
 The post The Growing Family Tree of Slic3r-Based Software appeared on Fabbaloo.
 Read more ? https://www.fabbaloo.com/news/the-growing-family-tree-of-slic3r-based-software&lt;/p&gt;
@@ -330,39 +368,4 @@ Read more ? https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUVjMGhhTVFlVkZ
 &lt;p&gt;📰 Nano Dimension Ltd stock (IL0010851609): 3D-printing specialist in focus after recent share price sw - AD HOC NEWS
 Nano Dimension Ltd stock (IL0010851609): 3D-printing specialist in focus after recent share price sw AD HOC NEWS
 Reported by Google News - 3D Printing on May 17, 2026.
-Read more ? https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXBLem05SFZ6Q04tSVpqNVFXTDd3SU1TdE9sZm1mQ3JOOEg3WVV6REVTSEFSWk95QjJQOXJwaUhHX0dQNkdsVXFZLXB0cFoyVDIxOXo3MElMcG9SLU9DRW5yZVJqNDluWkRTakhpQjZQcnFlcEJrd3VkeEZmbVRyMmx1a2FrSXhFLWFkbFBERExMNm01REhkdm9KdXI2SzFodWp4WloxSTQtMkhNZm1zN0xXQ1BtSE9aWEFLY2oxNVJSZGVpYmU4?oc=5&lt;/p&gt;</description><pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate><guid>pulse-131-2026-05-18</guid></item><item><title>3D PRINTING PULSE #130 - 2026-05-17</title><link>https://quality3ds.godaddysites.com</link><description>&lt;p&gt;🔥 Glass 3D printing goes viral as labs break temperature barriers - MSN
-Glass 3D printing goes viral as labs break temperature barriers MSN
-Reported by Google News - 3D Printing Viral on May 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU0ZYUmFDdW0xVTcycFd1Y0cxUzNzdGFSbGpfV0htZGRNcEpTNDI0VDhmSHJJbEgyOTdrSVladXA5YUlzT25MYy1qOHRVcjNJd21oajFGV0RTdXFsMlFyOC1IOEI2UEZzUVhZX09sbF9UZ093ZHhJV3ZuLWtGc0FWZzVuQjRVUWZLaVVaWXVIdXF0U3N1Qng3dDB3ODE1bTlUbC1ybEE1S0N4azBaQzZRR1U4d2hZbXhpdGpfcVVvWEktMWdvcVVPQXg0RDFHQWZi?oc=5&lt;/p&gt;
-&lt;p&gt;💻 US Army’s AM platoon fabricates counter-UAS mounts in the field during Flytrap 5.0
-The US Army‘s 2nd Cavalry Regiment put its organic additive manufacturing capability to practical use during Flytrap 5.0, a counter-unmanned aerial systems (UAS) exercise held at Pabradė Training Area in … The post...
-Reported by VoxelMatters on May 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/US-Army-FlyTrap-5.0-150x150.jpg
-Read more ? https://www.voxelmatters.com/us-armys-am-platoon-fabricates-counter-uas-mounts-in-the-field-during-flytrap-5-0&lt;/p&gt;
-&lt;p&gt;🚀 Rocket Lab rolls the 1,000th Rutherford engine off its production line
-In line with its stated goal of launching 1,000 3D printed engines into space by year-end, Rocket Lab reached a production milestone for its Rutherford engine, completing the 1,000th unit … The post Rocket Lab rolls...
-Reported by VoxelMatters on May 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/rocket-lab-150x150.jpg
-Read more ? https://www.voxelmatters.com/rocket-lab-rolls-the-1000th-rutherford-engine-off-its-production-line&lt;/p&gt;
-&lt;p&gt;🦺 Penn State’s 3D printed hydrogel implant cuts blood pressure by 15% in trials
-Researchers at Penn State University have developed a 3D printed bioelectronic implant that wraps around the carotid artery and delivers low-frequency electrical pulses to reduce blood pressure, and all without … The...
-Reported by VoxelMatters on May 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-printed-hydrogel-implant-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/penn-states-3d-printed-hydrogel-implant-cuts-blood-pressure-by-15-in-trials&lt;/p&gt;
-&lt;p&gt;📰 Ceramic 3D Printing Applications on Display at Ceramics Expo USA
-There’s a lot of crossover between ceramics and additive manufacturing (AM).
-Now, we just need to get the two industries to talk to each other more, reported by 3DPrint.com on May 16, 2026.
-Read more ? https://3dprint.com/325884/ceramic-3d-printing-applications-on-display-at-ceramics-expo-usa&lt;/p&gt;
-&lt;p&gt;📰 The Additive Chicken Coop, Part IV: Lemmings
-If we look at our past, we can see how making custom machines, incessantly watching ourselves, and our inability to rescope shaped our industry.
-We have also looked at the, reported by 3DPrint.com on May 15, 2026.
-Read more ? https://3dprint.com/325223/the-additive-chicken-coop-part-iv-lemmings&lt;/p&gt;
-&lt;p&gt;🖨 i3D Manufacturing Expands Metal 3D Printing Capacity with Burloak Technologies Acquisition
-The Canadian economy may be one of the most difficult to forecast right now.
-This is largely the result of the fact that the nation is attempting to thread a, reported by 3DPrint.com on May 15, 2026.
-Read more ? https://3dprint.com/326043/i3d-manufacturing-expands-metal-3d-printing-capacity-w-burloak-technologies-acquisition&lt;/p&gt;
-&lt;p&gt;💻 preFlight Slicer Brings Added Part Strength Feature, and Many More
-Interested in taking some wild new 3D printing features for a test drive?
-preFlight is a free and open source slicer that brings a host of processing improvements as well …read more, reported by Hackaday 3D Printing on May 15, 2026.
-Image ? https://hackaday.com/wp-content/uploads/2026/05/preFlight-Slicer-2-banner.png
-Read more ? https://hackaday.com/2026/05/15/preflight-slicer-brings-added-part-strength-feature-and-many-more&lt;/p&gt;</description><pubDate>Sun, 17 May 2026 12:00:00 GMT</pubDate><guid>pulse-130-2026-05-17</guid></item></channel></rss>
+Read more ? https://news.google.com/rss/articles/CBMixwFBVV95cUxNSXBLem05SFZ6Q04tSVpqNVFXTDd3SU1TdE9sZm1mQ3JOOEg3WVV6REVTSEFSWk95QjJQOXJwaUhHX0dQNkdsVXFZLXB0cFoyVDIxOXo3MElMcG9SLU9DRW5yZVJqNDluWkRTakhpQjZQcnFlcEJrd3VkeEZmbVRyMmx1a2FrSXhFLWFkbFBERExMNm01REhkdm9KdXI2SzFodWp4WloxSTQtMkhNZm1zN0xXQ1BtSE9aWEFLY2oxNVJSZGVpYmU4?oc=5&lt;/p&gt;</description><pubDate>Mon, 18 May 2026 12:00:00 GMT</pubDate><guid>pulse-131-2026-05-18</guid></item></channel></rss>

@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-27
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #140 - 2026-05-27
+## Stories
 
 🚨 UltiMaker Targets Defense Manufacturing With New Factor 4 Plus
 UltiMaker has announced the new Factor 4 Plus.
@@ -50,9 +48,3 @@ Sinterit introduced the BIANCO2, a compact CO₂ selective laser sintering 3D pr
 The … The post Sinterit launches BIANCO2 compact SLS 3D printer for colorable and white materials appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/BIANCO2-newsletter-picture-150x150.jpg
 Read more ? https://www.voxelmatters.com/sinterit-launches-bianco2-compact-sls-3d-printer-with-support-for-colorable-and-white-materials
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
