@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-28
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #141 - 2026-05-28
+## Stories
 
 🔥 NSF Backs UNF Research to Stamp Out Defects in Metal 3D Printing - 3D Printing Industry
 NSF Backs UNF Research to Stamp Out Defects in Metal 3D Printing 3D Printing Industry
@@ -48,9 +46,3 @@ Holcim and British International Investment’s (BII) joint venture 14Trees and 
 Cedar is designed to work with locally available concrete mixes rather than the proprietary mortar-based materials that many existing 3D concrete printing systems require, reported by 3D Printing Industry on May 27, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/cedar_name-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/new-cedar-concrete-3d-printer-technical-specifications-and-pricing-251809
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

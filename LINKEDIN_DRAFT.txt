@@ -1,52 +1,50 @@
-﻿# 3D PRINTING PULSE #140 - 2026-05-27
+﻿# 3D PRINTING PULSE #141 - 2026-05-28
 
-🚨 UltiMaker Targets Defense Manufacturing With New Factor 4 Plus
-UltiMaker has announced the new Factor 4 Plus.
-The printer, which sits above the S series, has a 330 x 240 x 300 mm build volume and a 120-kilo dual-nozzle, reported by 3DPrint.com on May 26, 2026.
-🔗 Read more: https://3dprint.com/326230/ultimaker-targets-defense-manufacturing-with-new-factor-4-plus
+🔥 NSF Backs UNF Research to Stamp Out Defects in Metal 3D Printing - 3D Printing Industry
+NSF Backs UNF Research to Stamp Out Defects in Metal 3D Printing 3D Printing Industry
+Reported by Google News - 3D Printing on May 27, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEk4VXlzYUp3bDBhYXFTRHV5Sy1WTjVMdV9mQ2JPLVVpS3FTaTV5THB2bGFtVzgzU0pRc0U2SUZ6UW5sd0hyMTg2WFhSSW1RWC1WVGpmNGpqWG5OcFdSV3psQkc2UTVRb2tyT1BVbDhQMGtyUFNVVXlGYWR4RkotS0JmbkppU1VJUVJvRDI3VC1xbU14Z2dpUXFJQm5Rc3cyZjRfN1hTRGJtanlD?oc=5
 
-📰 ORNL develops real-time composite 3D printing error correction system
-Researchers at the US Department of Energy’s (DOE) Oak Ridge National Laboratory (ORNL) have developed an automated controller capable of detecting and correcting temperature errors during large-scale plastic...
-Reported by VoxelMatters on May 26, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/2025-P11622_0-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ornl-develops-real-time-composite-3d-printing-error-correction-system
+🚨 UltiMaker Unveils Factor 4 Plus, a High-Speed Industrial 3D Printer with Automated Quality Validation - designnews.com
+UltiMaker Unveils Factor 4 Plus, a High-Speed Industrial 3D Printer with Automated Quality Validation designnews.com
+Reported by Google News - 3D Printing on May 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHR5S25JQmVMQmNpN0x1eUJfM1Q0UUQ0WkNSeTVFUXpvMzBsZ2JVZWpwbEhIVHlaaUtMYjBRNEdidHNtZl9KUUloSi1nOGZMRkhYUVB3ZldNQXNJNU1ZNEUwXzgyRmNiVkhnMW5vSThQSE1NejhxcTJjZXNFeUtLNEVIU1FRODBDUGNmVG9nYjF1Z08zeVUwSU1Ca2hvMFUweno4Z3hxQnJWdVhMaWlYWW12ZkJaRThxQkRZbGt4U1lSZW02TUJVemR1UmhBQXpscVZ4a2F3?oc=5
 
-🚀 Sinterit launches compact SLS platform powered by a 30W RF CO₂ laser
-The €47,000 machine has been developed in response to growing demand for greater material freedom and more advanced process control.
-Reported by TCT Magazine on May 26, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/PR-BIANCO2-image-1-1.png
-🔗 Read more: https://www.tctmagazine.com/sinterit-launches-compact-sls-platform-powered-by-a-30w-rf-co2-laser
+🔥 NY moves to ban 3D printers that make guns, but can it be enforced? - MSN
+NY moves to ban 3D printers that make guns, but can it be enforced?
+Reported by Google News - 3D Printing on May 27, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMitwJBVV95cUxNZzZ0NlotcXEzZl85R29qZFpmY2lJc2xfX2VfZU1FVFBnYTllaVFpLUhLT2dOc0ozOTNNbUJRVlg1ck4wVTFlYW4xWE1WUm9mZmpaaDN3Y2t0RzhFOFBFZ0F4V29NS3MtTVplUzh2cEl5YVRoT1NZSVlzZzQxQ2MzaHBZNHBFNmZISHBTMVhBcVBIUWE2T0p5NU1ERlhjdGU1ZzRoWThqa0JCU09kdEJHbTA5Vk5CSl83N0VQQk41aEFpNEhfdkVrcFdaMm5VbkYtc1U4ZmZqVVNsaFk2SnU4YmJTdG1BLWp4Wk1tajZuNlBJa0FlcE9jT1ktNElUemhrS1o0aFl5Z2EwRU5PZnZDT2Y5amhZdzdLLUVsUjVnU29EM1hMNUtOWDQzaGJLeGM2YVhybmU4Yw?oc=5
 
-📰 ROBOZE to conduct research into Carbon–Carbon &amp; Ceramic Matrix Composites with Swiss university
-Carbon–Carbon and CMC are known for their exceptional resistance to ultra-high temperatures, thermal shock, and aggressive operating conditions.
-Reported by TCT Magazine on May 26, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/0422-am-roboze-argo-500.png
-🔗 Read more: https://www.tctmagazine.com/roboze-to-conduct-research-into-carbon-carbon-ceramic-matrix-composites-with-swiss-university
+🖨 K3D adds two more MetalFab 3D printers
+"Ideal for large products, but also for series production of smaller parts, they are a perfect addition to our existing machines."
+Reported by TCT Magazine on May 27, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/DSC_3789.png
+🔗 Read more: https://www.tctmagazine.com/k3d-adds-two-more-metalfab-3d-printers
 
-📰 Hyperion Systems 3D prints 4.6m hull for ASTRA 460 USV
-This week at the Indian Ocean Defence and Security Conference (IODS) in Perth, Australia, Hyperion Systems is making quite the splash.
-There, the Australian LFAM specialist is not only publicly … The post Hyperion Systems 3D prints 4.6m hull for ASTRA 460 USV appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/hyperion-systems-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/hyperion-systems-3d-prints-4-6m-hull-for-astra-460-usv
+🖨 Nano Dimension Takes Substantial Loss on Sale of Markforged to Stratasys
+Israeli 3D printer manufacturer Nano Dimension has agreed to sell its Markforged subsidiary to rival 3D printing company Stratasys in an all-cash deal worth $42.5 million.
+With this move, the Israeli manufacturer is shedding one of its cash-burning business units as it works through a restructuring plan, reported by 3D Printing Industry on May 27, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2024/04/Markforged-HQ.-Photo-via-Businesswire-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/nano-dimension-takes-substantial-loss-on-sale-of-markforged-to-stratasys-251862
 
-🚀 ROBOZE and SUPSI launch R&amp;D initiative targeting Carbon–Carbon and Ceramic Matrix Composites
-ROBOZE and SUPSI, the University of Applied Sciences and Arts of Southern Switzerland, through its Institute of Mechanical Engineering and Materials Technology (MEMTi), formed a joint research and development...
-Reported by VoxelMatters on May 26, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/roboze-argo-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/roboze-and-supsi-launch-rd-initiative-targeting-carbon-carbon-and-ceramic-matrix-composites
+🏠 Metal Powder Works and Westinghouse extend nuclear AM powders contract
+Metal Powder Works, a Pittsburgh-based specialty materials company, has entered the third phase of its product development program with Westinghouse Electric Company (WEC), extending a multi-year collaboration...
+Reported by VoxelMatters on May 27, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Metal-Powder-Works-facility-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/metal-powder-works-westinghouse-nuclear-am-powders
 
-🚀 Xenia launches thermoplastic composite pellet range for large-scale additive manufacturing
-Xenia, an Italian developer of carbon and glass fiber-reinforced thermoplastic composites, has released a new line of pellet-based materials engineered for large-scale additive manufacturing (LSAM) tooling applications.
-The portfolio addresses … The post Xenia launches thermoplastic composite pellet range for large-scale additive manufacturing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/xenia_img1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/xenia-launches-thermoplastic-composite-pellet-range-for-large-scale-additive-manufacturing
+🚀 Snowbird Technologies to Demonstrate Field-Ready Manufacturing at RIMPAC 2026
+Defense and space manufacturing company Snowbird Technologies has been confirmed as a participant in the 30th Rim of the Pacific Exercise (RIMPAC) 2026.
+The company will take part through the Naval Postgraduate School’s Consortium for Advanced Manufacturing Research and Education (NPS CAMRE) and its distributed advanced manufacturing experiment—one of the exercise’s, reported by 3D Printing Industry on May 27, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/MELTIO-METAL-AM-SOLUTION-DURING-RIMPAC-DEFENSE-EXERCISE-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/snowbird-technologies-to-demonstrate-field-ready-manufacturing-at-rimpac-2026-251829
 
-🚀 Sinterit launches BIANCO2 compact SLS 3D printer for colorable and white materials
-Sinterit introduced the BIANCO2, a compact CO₂ selective laser sintering 3D printer designed for companies requiring broader material options and tighter process control than standard compact SLS systems offer.
-The … The post Sinterit launches BIANCO2 compact SLS 3D printer for colorable and white materials appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/BIANCO2-newsletter-picture-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/sinterit-launches-bianco2-compact-sls-3d-printer-with-support-for-colorable-and-white-materials
+🏠 New Cedar Concrete 3D Printer: Technical Specifications and Pricing
+Holcim and British International Investment’s (BII) joint venture 14Trees and Chennai-based Tvasta Manufacturing Solutions have jointly developed Cedar concrete 3D printer designed for large-scale construction...
+Cedar is designed to work with locally available concrete mixes rather than the proprietary mortar-based materials that many existing 3D concrete printing systems require, reported by 3D Printing Industry on May 27, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/cedar_name-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/new-cedar-concrete-3d-printer-technical-specifications-and-pricing-251809
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "UltiMaker Targets Defense Manufacturing With New Factor 4 Plus" because it highlights where practical 3D printing innovation is moving next. Story: https://3dprint.com/326230/ultimaker-targets-defense-manufacturing-with-new-factor-4-plus | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "UltiMaker Unveils Factor 4 Plus, a High-Speed Industrial 3D Printer with Automated Quality Validation - designnews.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHR5S25JQmVMQmNpN0x1eUJfM1Q0UUQ0WkNSeTVFUXpvMzBsZ2JVZWpwbEhIVHlaaUtMYjBRNEdidHNtZl9KUUloSi1nOGZMRkhYUVB3ZldNQXNJNU1ZNEUwXzgyRmNiVkhnMW5vSThQSE1NejhxcTJjZXNFeUtLNEVIU1FRODBDUGNmVG9nYjF1Z08zeVUwSU1Ca2hvMFUweno4Z3hxQnJWdVhMaWlYWW12ZkJaRThxQkRZbGt4U1lSZW02TUJVemR1UmhBQXpscVZ4a2F3?oc=5 | Complete rundown: https://www.quality3ds.com/
