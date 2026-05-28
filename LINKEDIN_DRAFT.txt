@@ -1,50 +1,52 @@
-﻿# 3D PRINTING PULSE #141 - 2026-05-28
+﻿# 3D PRINTING PULSE #142 - 2026-05-29
 
-🔥 NSF Backs UNF Research to Stamp Out Defects in Metal 3D Printing - 3D Printing Industry
-NSF Backs UNF Research to Stamp Out Defects in Metal 3D Printing 3D Printing Industry
-Reported by Google News - 3D Printing on May 27, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirAFBVV95cUxQeEk4VXlzYUp3bDBhYXFTRHV5Sy1WTjVMdV9mQ2JPLVVpS3FTaTV5THB2bGFtVzgzU0pRc0U2SUZ6UW5sd0hyMTg2WFhSSW1RWC1WVGpmNGpqWG5OcFdSV3psQkc2UTVRb2tyT1BVbDhQMGtyUFNVVXlGYWR4RkotS0JmbkppU1VJUVJvRDI3VC1xbU14Z2dpUXFJQm5Rc3cyZjRfN1hTRGJtanlD?oc=5
+🔥 New York's ban on 3D-printed guns sparks First Amendment concerns - USA Today
+New York's ban on 3D-printed guns sparks First Amendment concerns USA Today
+Reported by Google News - 3D Printing on May 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMisAFBVV95cUxONnhXRmdSSE00NTh6UUdGSkxIOGZhdUs2aE1MM1lCbWRObFRUaTdjY1IzQ0xJNEl6SVpOcjR4QkRkNnZSTVlBeF8yRGNYSzhacnNJRGtlZDJTWktqcDBBWEZGbVhaZmVJWUh2MUctSno3MGpnREVVME9nS3JWaFZkajdqakN3eDdvdzloN0Vnb0VER2dXcWJOZFI1U3Y3cFJHTnUxZEdMZmJUaE9jYnFrWg?oc=5
 
-🚨 UltiMaker Unveils Factor 4 Plus, a High-Speed Industrial 3D Printer with Automated Quality Validation - designnews.com
-UltiMaker Unveils Factor 4 Plus, a High-Speed Industrial 3D Printer with Automated Quality Validation designnews.com
-Reported by Google News - 3D Printing on May 26, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHR5S25JQmVMQmNpN0x1eUJfM1Q0UUQ0WkNSeTVFUXpvMzBsZ2JVZWpwbEhIVHlaaUtMYjBRNEdidHNtZl9KUUloSi1nOGZMRkhYUVB3ZldNQXNJNU1ZNEUwXzgyRmNiVkhnMW5vSThQSE1NejhxcTJjZXNFeUtLNEVIU1FRODBDUGNmVG9nYjF1Z08zeVUwSU1Ca2hvMFUweno4Z3hxQnJWdVhMaWlYWW12ZkJaRThxQkRZbGt4U1lSZW02TUJVemR1UmhBQXpscVZ4a2F3?oc=5
+🚨 Prusament Resin Model+: New generation resin with safer health profile and better impact resistance
+Meet Prusament Resin Model+, our reformulated SLA resin with faster exposure, better impact resistance, and reduced pigment sedimentation!
+The Prusament Model Resin has long been a flagship of our SLA lineup, reported by Prusa Blog on May 28, 2026.
+🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/05/7ade2335-prusamentresin_model_launch_blog-698x325.jpg
+🔗 Read more: https://blog.prusa3d.com/prusament-resin-model-new-generation-resin-with-safer-health-profile-and-better-impact-resistance_136337
 
-🔥 NY moves to ban 3D printers that make guns, but can it be enforced? - MSN
-NY moves to ban 3D printers that make guns, but can it be enforced?
-Reported by Google News - 3D Printing on May 27, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMitwJBVV95cUxNZzZ0NlotcXEzZl85R29qZFpmY2lJc2xfX2VfZU1FVFBnYTllaVFpLUhLT2dOc0ozOTNNbUJRVlg1ck4wVTFlYW4xWE1WUm9mZmpaaDN3Y2t0RzhFOFBFZ0F4V29NS3MtTVplUzh2cEl5YVRoT1NZSVlzZzQxQ2MzaHBZNHBFNmZISHBTMVhBcVBIUWE2T0p5NU1ERlhjdGU1ZzRoWThqa0JCU09kdEJHbTA5Vk5CSl83N0VQQk41aEFpNEhfdkVrcFdaMm5VbkYtc1U4ZmZqVVNsaFk2SnU4YmJTdG1BLWp4Wk1tajZuNlBJa0FlcE9jT1ktNElUemhrS1o0aFl5Z2EwRU5PZnZDT2Y5amhZdzdLLUVsUjVnU29EM1hMNUtOWDQzaGJLeGM2YVhybmU4Yw?oc=5
+🚀 UT Austin researchers cut semiconductor fabrication time from days to minutes
+Researchers at the Cockrell School of Engineering at the University of Texas at Austin have developed a tabletop version of Extreme ultraviolet (EUV) lithography equipment by reducing the system to … The post UT...
+Reported by VoxelMatters on May 28, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/2026-ME-Chang-EUV-13-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ut-austin-researchers-cut-semiconductor-fabrication-time-from-days-to-minutes
 
-🖨 K3D adds two more MetalFab 3D printers
-"Ideal for large products, but also for series production of smaller parts, they are a perfect addition to our existing machines."
-Reported by TCT Magazine on May 27, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/DSC_3789.png
-🔗 Read more: https://www.tctmagazine.com/k3d-adds-two-more-metalfab-3d-printers
+🚀 Decathlon brand launches KIPNEXT 3D sneaker made using MJF
+Nearly two decades ago, sporting goods retailer Decathlon created the Kiprun brand to drive innovation in running gear.
+Since then, the performance running brand has pushed the envelope for shoes, … The post Decathlon brand launches KIPNEXT 3D sneaker made using MJF appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/kiprun-3-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/decathlon-brand-launches-kipnext-3d-sneaker-made-using-mjf
 
-🖨 Nano Dimension Takes Substantial Loss on Sale of Markforged to Stratasys
-Israeli 3D printer manufacturer Nano Dimension has agreed to sell its Markforged subsidiary to rival 3D printing company Stratasys in an all-cash deal worth $42.5 million.
-With this move, the Israeli manufacturer is shedding one of its cash-burning business units as it works through a restructuring plan, reported by 3D Printing Industry on May 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2024/04/Markforged-HQ.-Photo-via-Businesswire-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/nano-dimension-takes-substantial-loss-on-sale-of-markforged-to-stratasys-251862
+🚀 ETH Zurich students fire 3D printed copper detonation rocket engine
+Students from the Aris Swiss student space initiative at ETH Zurich have produced stable detonation waves during ground testing of a Rotating Detonation Rocket Engine (RDRE), whose combustion chamber and … The post...
+Reported by VoxelMatters on May 28, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ETH-Zurich-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/eth-zurich-students-fire-3d-printed-copper-detonation-rocket-engine
 
-🏠 Metal Powder Works and Westinghouse extend nuclear AM powders contract
-Metal Powder Works, a Pittsburgh-based specialty materials company, has entered the third phase of its product development program with Westinghouse Electric Company (WEC), extending a multi-year collaboration...
-Reported by VoxelMatters on May 27, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Metal-Powder-Works-facility-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/metal-powder-works-westinghouse-nuclear-am-powders
+🚀 Mastrex launches $185,000 MX300 metal 3D printing system
+The MX300 boasts a 300 x 300 x 350 mm build volume and dual 500W lasers.
+Reported by TCT Magazine on May 28, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/MX300-press-release-1.png
+🔗 Read more: https://www.tctmagazine.com/mastrex-launches-185-000-mx300-metal-3d-printing-system
 
-🚀 Snowbird Technologies to Demonstrate Field-Ready Manufacturing at RIMPAC 2026
-Defense and space manufacturing company Snowbird Technologies has been confirmed as a participant in the 30th Rim of the Pacific Exercise (RIMPAC) 2026.
-The company will take part through the Naval Postgraduate School’s Consortium for Advanced Manufacturing Research and Education (NPS CAMRE) and its distributed advanced manufacturing experiment—one of the exercise’s, reported by 3D Printing Industry on May 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/MELTIO-METAL-AM-SOLUTION-DURING-RIMPAC-DEFENSE-EXERCISE-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/snowbird-technologies-to-demonstrate-field-ready-manufacturing-at-rimpac-2026-251829
+🏠 Metal Powder Works &amp; Westinghouse Electric Company extent product development partnership
+WEC is said to have achieved successful results during previous phases of their collaboration, with the two companies now embarking on a scale-up of their efforts.
+Reported by TCT Magazine on May 28, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/0922-am-mpw-machine.png
+🔗 Read more: https://www.tctmagazine.com/metal-powder-works-westinghouse-electric-company-extent-product-development-partnership
 
-🏠 New Cedar Concrete 3D Printer: Technical Specifications and Pricing
-Holcim and British International Investment’s (BII) joint venture 14Trees and Chennai-based Tvasta Manufacturing Solutions have jointly developed Cedar concrete 3D printer designed for large-scale construction...
-Cedar is designed to work with locally available concrete mixes rather than the proprietary mortar-based materials that many existing 3D concrete printing systems require, reported by 3D Printing Industry on May 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/cedar_name-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/new-cedar-concrete-3d-printer-technical-specifications-and-pricing-251809
+🚀 amsight &amp; toolcraft target semiconductor space with automated AM quality management approach
+The companies hope it will be more transparent and scalable than current methods and processes.
+Reported by TCT Magazine on May 28, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/amsight-vor-Anlage-Produktion_manifold4-2-1.jpg
+🔗 Read more: https://www.tctmagazine.com/amsight-toolcraft-target-semiconductor-space-with-automated-am-quality-management-approach
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "UltiMaker Unveils Factor 4 Plus, a High-Speed Industrial 3D Printer with Automated Quality Validation - designnews.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRHR5S25JQmVMQmNpN0x1eUJfM1Q0UUQ0WkNSeTVFUXpvMzBsZ2JVZWpwbEhIVHlaaUtMYjBRNEdidHNtZl9KUUloSi1nOGZMRkhYUVB3ZldNQXNJNU1ZNEUwXzgyRmNiVkhnMW5vSThQSE1NejhxcTJjZXNFeUtLNEVIU1FRODBDUGNmVG9nYjF1Z08zeVUwSU1Ca2hvMFUweno4Z3hxQnJWdVhMaWlYWW12ZkJaRThxQkRZbGt4U1lSZW02TUJVemR1UmhBQXpscVZ4a2F3?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "New York's ban on 3D-printed guns sparks First Amendment concerns - USA Today" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMisAFBVV95cUxONnhXRmdSSE00NTh6UUdGSkxIOGZhdUs2aE1MM1lCbWRObFRUaTdjY1IzQ0xJNEl6SVpOcjR4QkRkNnZSTVlBeF8yRGNYSzhacnNJRGtlZDJTWktqcDBBWEZGbVhaZmVJWUh2MUctSno3MGpnREVVME9nS3JWaFZkajdqakN3eDdvdzloN0Vnb0VER2dXcWJOZFI1U3Y3cFJHTnUxZEdMZmJUaE9jYnFrWg?oc=5 | Full pulse: https://www.quality3ds.com/

@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-29
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #142 - 2026-05-29
+## Stories
 
 🔥 New York's ban on 3D-printed guns sparks First Amendment concerns - USA Today
 New York's ban on 3D-printed guns sparks First Amendment concerns USA Today
@@ -50,9 +48,3 @@ The companies hope it will be more transparent and scalable than current methods
 Reported by TCT Magazine on May 28, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/amsight-vor-Anlage-Produktion_manifold4-2-1.jpg
 Read more ? https://www.tctmagazine.com/amsight-toolcraft-target-semiconductor-space-with-automated-am-quality-management-approach
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
