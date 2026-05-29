@@ -1,52 +1,48 @@
-﻿# 3D PRINTING PULSE #142 - 2026-05-29
+﻿# 3D PRINTING PULSE #143 - 2026-05-30
 
-🔥 New York's ban on 3D-printed guns sparks First Amendment concerns - USA Today
-New York's ban on 3D-printed guns sparks First Amendment concerns USA Today
-Reported by Google News - 3D Printing on May 28, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMisAFBVV95cUxONnhXRmdSSE00NTh6UUdGSkxIOGZhdUs2aE1MM1lCbWRObFRUaTdjY1IzQ0xJNEl6SVpOcjR4QkRkNnZSTVlBeF8yRGNYSzhacnNJRGtlZDJTWktqcDBBWEZGbVhaZmVJWUh2MUctSno3MGpnREVVME9nS3JWaFZkajdqakN3eDdvdzloN0Vnb0VER2dXcWJOZFI1U3Y3cFJHTnUxZEdMZmJUaE9jYnFrWg?oc=5
+🔥 A Grassroots Group in Tucson Is 3D-Printing Tourniquets to Send to Lebanon - Truthout
+A Grassroots Group in Tucson Is 3D-Printing Tourniquets to Send to Lebanon Truthout
+Reported by Google News - 3D Printing on May 29, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMC1Lamo2a3l4VHU4eFZfU2s0Y3YtOUtxM3hBb0xWc3JodVZBRTBLRkVLS0s1V3JNbHBXc2JILXNtMjNSdzlQQU41TFJKYVZSMzIzUGxuc2xocThudlY0OGFnOVN1aE1FMHNRaDNJQWRaX0J4aDNxWGwtbG9RT0o5d2ExdUU3WTZ4ZHBIRF9pZ2FYV0dJVzFqU29SX1dSdWp4ZVNFYWQ1Q2M?oc=5
 
-🚨 Prusament Resin Model+: New generation resin with safer health profile and better impact resistance
-Meet Prusament Resin Model+, our reformulated SLA resin with faster exposure, better impact resistance, and reduced pigment sedimentation!
-The Prusament Model Resin has long been a flagship of our SLA lineup, reported by Prusa Blog on May 28, 2026.
-🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/05/7ade2335-prusamentresin_model_launch_blog-698x325.jpg
-🔗 Read more: https://blog.prusa3d.com/prusament-resin-model-new-generation-resin-with-safer-health-profile-and-better-impact-resistance_136337
+🚨 Bambu Lab teases new A2L 3D printer — June 1 launch hints at a massive, budget-friendly bed slinger - Tom's Hardware
+Bambu Lab teases new A2L 3D printer — June 1 launch hints at a massive, budget-friendly bed slinger Tom's Hardware
+Reported by Google News - 3D Printing on May 29, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiogFBVV95cUxOdi1YQmZOdmk5dGl2aERrckNyMTRaRGh1elJ2SGZta3dGT1czeFE2S3Z6ZlF6akk4VTNWakFhSTRMTmRsaDJlTk5MTDNzclQ1LUU3VFd1UU40eHpEZkt6OGVIQWpCTkRlUGRaN0VoZ1BLRjdaLXlqcUtkNzcxMjJtaGZYTEY5cTRheFlxMUNvNEJpNUVUcFlIRHNvTEVvRFJJY2c?oc=5
 
-🚀 UT Austin researchers cut semiconductor fabrication time from days to minutes
-Researchers at the Cockrell School of Engineering at the University of Texas at Austin have developed a tabletop version of Extreme ultraviolet (EUV) lithography equipment by reducing the system to … The post UT...
-Reported by VoxelMatters on May 28, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/2026-ME-Chang-EUV-13-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ut-austin-researchers-cut-semiconductor-fabrication-time-from-days-to-minutes
+🔥 New York bans 3D-printed guns amid growing firearm violence, receives backlash - Cybernews
+New York bans 3D-printed guns amid growing firearm violence, receives backlash Cybernews
+Reported by Google News - 3D Printing on May 29, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wUzN1RDJ2QmlkRGZPZXIzTHFMWFctYVp0NnFaZDNRMXhjbEQwaWlwanJuWWgzTUpleGZaWmk1TER4TElUeXFkdkdUbjJVS21NMW5NUHRKdDgwRnVXai1vbjlpMV8yei1D?oc=5
 
-🚀 Decathlon brand launches KIPNEXT 3D sneaker made using MJF
-Nearly two decades ago, sporting goods retailer Decathlon created the Kiprun brand to drive innovation in running gear.
-Since then, the performance running brand has pushed the envelope for shoes, … The post Decathlon brand launches KIPNEXT 3D sneaker made using MJF appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/kiprun-3-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/decathlon-brand-launches-kipnext-3d-sneaker-made-using-mjf
+🔥 New York's ban on 3D-printed guns sparks First Amendment concerns - AOL.com
+New York's ban on 3D-printed guns sparks First Amendment concerns AOL.com
+Reported by Google News - 3D Printing Viral on May 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTE83SHBEYmZpQmo5WE9STEs1cnFWX1YwbXpwb3FqclE3d1Zra045ZWk5R3hZcFVPa0FUazZ5eWlEZTc2OTA2MzI5VmRGVUJqbUdRMlJwMDllTnc4UUJpOWpwVUhTRjhlY3FaYXltVUxxWEVuNWE4ZUlPYw?oc=5
 
-🚀 ETH Zurich students fire 3D printed copper detonation rocket engine
-Students from the Aris Swiss student space initiative at ETH Zurich have produced stable detonation waves during ground testing of a Rotating Detonation Rocket Engine (RDRE), whose combustion chamber and … The post...
-Reported by VoxelMatters on May 28, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ETH-Zurich-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/eth-zurich-students-fire-3d-printed-copper-detonation-rocket-engine
+♻️ The Best Machines for Recycling Plastic and Making Your Own 3D Printing Filament
+Whether we like it or not, 3D printing generates waste.
+Failed parts, material purges, supports that end up in the trash, prints that no longer meet expectations, reported by 3D Natives on May 28, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/05/filament-reciclers-cover.jpg
+🔗 Read more: https://www.3dnatives.com/en/recycling-plastic-filament-extruders-29052026
 
-🚀 Mastrex launches $185,000 MX300 metal 3D printing system
-The MX300 boasts a 300 x 300 x 350 mm build volume and dual 500W lasers.
-Reported by TCT Magazine on May 28, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/MX300-press-release-1.png
-🔗 Read more: https://www.tctmagazine.com/mastrex-launches-185-000-mx300-metal-3d-printing-system
+♻️ Study Tests Recycled FGF Polymers For Dental Models
+A new paper proposes that pellet-based Fused Granular Fabrication using recycled polymers, which could make dental and orthodontic models cheaper and greener.
+The post Study Tests Recycled FGF Polymers For Dental Models appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/study-tests-recycled-fgf-polymers-for-dental-models
 
-🏠 Metal Powder Works &amp; Westinghouse Electric Company extent product development partnership
-WEC is said to have achieved successful results during previous phases of their collaboration, with the two companies now embarking on a scale-up of their efforts.
-Reported by TCT Magazine on May 28, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/0922-am-mpw-machine.png
-🔗 Read more: https://www.tctmagazine.com/metal-powder-works-westinghouse-electric-company-extent-product-development-partnership
+📰 Fully 3D printed book is made in a single printing sequence
+Designers Darius Ou and Benson Chong have produced a book fabricated entirely from a single 3D-printing sequence, with no manual assembly or post-print finishing, making it one of the more … The post Fully 3D printed...
+Reported by VoxelMatters on May 29, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-printed-book-main-image-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/fully-3d-printed-book-is-made-in-a-single-printing-sequence
 
-🚀 amsight &amp; toolcraft target semiconductor space with automated AM quality management approach
-The companies hope it will be more transparent and scalable than current methods and processes.
-Reported by TCT Magazine on May 28, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/05/amsight-vor-Anlage-Produktion_manifold4-2-1.jpg
-🔗 Read more: https://www.tctmagazine.com/amsight-toolcraft-target-semiconductor-space-with-automated-am-quality-management-approach
+📰 AM highlights from the high-performance automotive sector
+While the use of additive manufacturing is evolving and expanding at every level in the automotive industry, particularly behind-the-scenes for prototyping and tooling applications, we want to take the opportunity …...
+Reported by VoxelMatters on May 29, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/08/CZINGER-21C-V-MAX_1756141396234-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/am-highlights-from-the-high-performance-automotive-sector
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "New York's ban on 3D-printed guns sparks First Amendment concerns - USA Today" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMisAFBVV95cUxONnhXRmdSSE00NTh6UUdGSkxIOGZhdUs2aE1MM1lCbWRObFRUaTdjY1IzQ0xJNEl6SVpOcjR4QkRkNnZSTVlBeF8yRGNYSzhacnNJRGtlZDJTWktqcDBBWEZGbVhaZmVJWUh2MUctSno3MGpnREVVME9nS3JWaFZkajdqakN3eDdvdzloN0Vnb0VER2dXcWJOZFI1U3Y3cFJHTnUxZEdMZmJUaE9jYnFrWg?oc=5 | Full pulse: https://www.quality3ds.com/
+The story setting the tone today is "Bambu Lab teases new A2L 3D printer — June 1 launch hints at a massive, budget-friendly bed slinger - Tom's Hardware" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMiogFBVV95cUxOdi1YQmZOdmk5dGl2aERrckNyMTRaRGh1elJ2SGZta3dGT1czeFE2S3Z6ZlF6akk4VTNWakFhSTRMTmRsaDJlTk5MTDNzclQ1LUU3VFd1UU40eHpEZkt6OGVIQWpCTkRlUGRaN0VoZ1BLRjdaLXlqcUtkNzcxMjJtaGZYTEY5cTRheFlxMUNvNEJpNUVUcFlIRHNvTEVvRFJJY2c?oc=5 | Full pulse: https://www.quality3ds.com/

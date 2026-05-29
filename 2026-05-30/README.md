@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-30
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #143 - 2026-05-30
+## Stories
 
 🔥 A Grassroots Group in Tucson Is 3D-Printing Tourniquets to Send to Lebanon - Truthout
 A Grassroots Group in Tucson Is 3D-Printing Tourniquets to Send to Lebanon Truthout
@@ -46,9 +44,3 @@ While the use of additive manufacturing is evolving and expanding at every level
 Reported by VoxelMatters on May 29, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2025/08/CZINGER-21C-V-MAX_1756141396234-150x150.jpg
 Read more ? https://www.voxelmatters.com/am-highlights-from-the-high-performance-automotive-sector
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
