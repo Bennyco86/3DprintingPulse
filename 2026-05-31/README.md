@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-05-31
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #144 - 2026-05-31
+## Stories
 
 🚨 Creality marks 12 years with KliTek launch and AI expansion
 Twelve years after shipping its first desktop 3D printer, Creality has grown into a multi-category platform company with a presence spanning approximately 140 countries and regions.
@@ -50,9 +48,3 @@ German contract manufacturer toolcraft has partnered with industrial AM quality 
 The collaboration places a particular emphasis on semiconductor-related manufacturing, a sector where documentation, consistency, and process repeatability are non-negotiable, reported by 3D Printing Industry on May 29, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/6a0ec5cc44672c514754dc0b_amsight-vor-Anlage-Produktion_manifold4-2_small_square-150x100.jpeg
 Read more ? https://3dprintingindustry.com/news/toolcraft-and-amsight-join-forces-to-bring-data-driven-quality-control-to-semiconductor-am-251914
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
