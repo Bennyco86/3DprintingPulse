@@ -2,54 +2,50 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #144 - 2026-05-31
+### 3D PRINTING PULSE #145 - 2026-06-01
 
-🚨 Creality marks 12 years with KliTek launch and AI expansion
-Twelve years after shipping its first desktop 3D printer, Creality has grown into a multi-category platform company with a presence spanning approximately 140 countries and regions.
-The company now covers … The post Creality marks 12 years with KliTek launch and AI expansion appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/image2-150x150.jpg
-Read more ? https://www.voxelmatters.com/creality-marks-12-years-with-klitek-launch-and-ai-expansion
+🔥 Bambu Lab A2L Specs Leak! More Klitek Details And More! | 3D Printing News! Titolo (Xp32NLfemT) - Mshale
+Bambu Lab A2L Specs Leak!
+More Klitek Details And More, reported by Google News - 3D Printing on May 31, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRHplb3JEMllnc0dUZ1dTYzVVaU9LRUNqSTQxLUhwaDd5ZmRCVGNjeVBLRkRLTUthX0RuYXh6NDB3NXA2RTd5NjM1dDhpQ2NFbmpBdlY5TkVlQjg?oc=5
 
-🚨 Bambu Lab Teases New 3D Printer A2L Ahead of June 1 Reveal - 3D Printing Industry
-Bambu Lab Teases New 3D Printer A2L Ahead of June 1 Reveal 3D Printing Industry
-Reported by Google News - 3D Printing on May 29, 2026.
-Read more ? https://news.google.com/rss/articles/CBMipAFBVV95cUxNbnBRMXd3bkFjSXZNVVpZMzZuQjJSZ0hrTHA3a1RuMTM3NE9qS3h0X09Lb0VDS1Zwb3RvdTVDVWZPaEkyWThuVUh1LUxFRTZJbDdFWmpmcmlUSjZKemNwRFJqZTY4NnFzQ0VDN3E5NjdzOEg0dmZRdnk5dGtVYzM5QjU5NkFKZkdUMUtQUEJYRlBfSmpnS2dvYWlDNVcwS0hCc3draw?oc=5
+📰 University of Birmingham researchers 3D print continuous carbon fiber-reinforced silicon carbide composites
+Researchers at the University of Birmingham have developed a 3D printing method capable of producing geometrically complex ceramic matrix composites (CMCs) reinforced with continuous carbon fibers — a material class...
+Reported by VoxelMatters on May 31, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/ceramic-carbon-fiber-150x150.png
+Read more ? https://www.voxelmatters.com/university-of-birmingham-researchers-3d-print-continuous-carbon-fiber-reinforced-silicon-carbide-composites
 
-📰 California bill targeting 3D printed firearms passes Assembly
-California lawmakers have passed Assembly Bill 2047 out of the Assembly, advancing the amended proposal to the Senate for further consideration.
-Introduced by Assembly Member Rebecca Bauer-Kahan, AB 2047 would add the California Firearm Printing Prevention Act as Title 21.1 to the state’s Civil Code, reported by 3D Printing Industry on May 29, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2019/01/9359528e2eacf3d0712e3dad0a083da6_preview_featured-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/california-bill-targeting-3d-printed-firearms-passes-assembly-251887
+🦺 Ottobock brings 3D printed silicone liner to market with iconiq
+Ottobock, an orthopedic technology company, has introduced iconiq, its first 3D printed silicone liner for leg prosthesis users, following a German premiere at OTWorld in Leipzig last week.
+The product … The post Ottobock brings 3D printed silicone liner to market with iconiq appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Ottobock_Iconiq-150x150.jpg
+Read more ? https://www.voxelmatters.com/ottobock-brings-3d-printed-silicone-liner-to-market-with-iconiq
 
-💻 Norsk Titanium lands first production contract with Northrop Grumman
-Norsk Titanium has secured a recurring production contract with Northrop Grumman for structural aircraft components, marking the first formal production award between the two companies following a multi-year...
-Reported by VoxelMatters on May 29, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/Norsk-Titanium-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/norsk-titanium-lands-first-production-contract-with-northrop-grumman
+💻 3D Spark earns ISO certification as enterprise data security demands grow
+3D Spark, a Hamburg-based software company serving industrial manufacturing and procurement teams, has received ISO/IEC 27001:2022 certification.
+The certification, issued by Proks Certification GmbH and valid through May 2029, confirms … The post 3D Spark earns ISO certification as enterprise data security demands grow appeared first on VoxelMatters - The...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-Spark-ISO-cert-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/3d-spark-earns-iso-certification-as-enterprise-data-security-demands-grow
 
-🦺 Conexeu Debuts on Nasdaq With Preclinical Regenerative Tissue Platform
-Conexeu Sciences, a preclinical-stage regenerative tissue platform company, debuted on Nasdaq, framing the public listing as a milestone for its mission of “Architecting Bioregeneration” and for the development of a...
-“At Conexeu, we believe regenerative medicine requires more than incremental improvement;…, reported by 3D Printing Industry on May 29, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/298401_conexeu_nadaq-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/conexeu-debuts-on-nasdaq-with-preclinical-regenerative-tissue-platform-251966
+📰 Sandvik Leaves 3D Printing: Analysis
+Global materials company Sandvik has left the 3D printing market; the Osprey must now fly from the Sandy Bay.
+Sandvik started engaging with the 3D printing market in the mid-2010s, reported by 3DPrint.com on May 31, 2026.
+Read more ? https://3dprint.com/326390/sandvik-leaves-3d-printing-analysis
 
-🏠 Neighborhood 91 Breaks Ground on New Building to Expand Advanced Manufacturing Campus
-Neighborhood 91 (N91), the advanced manufacturing campus at Pittsburgh International Airport, is expanding with a new 108,000-square-foot building intended to attract additional businesses and jobs to southwestern...
-Officials broke ground on the facility as Allegheny County Executive Sara Innamorato joined Christina Cassotis, chief executive officer of the Allegheny County Airport Authority, which owns the…, reported by 3D Printing Industry on May 29, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/N91_Rendering-150x100.png
-Read more ? https://3dprintingindustry.com/news/neighborhood-91-breaks-ground-on-new-building-to-expand-advanced-manufacturing-campus-251730
+🖨 Creality Marks 12 Years with KliTek and AI-Powered Ecosystem Expansion
+For 12 years, Creality has advanced accessible 3D printing technologies, enabling global users to turn ideas into tangible creations.
+What began as a desktop 3D printer manufacturer has evolved into, reported by 3DPrint.com on May 31, 2026.
+Read more ? https://3dprint.com/326354/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion
 
-🚀 KIPNEXT 3D: Kiprun Enters the 3D Printed Footwear Market
-Decathlon’s performance running brand Kiprun has launched its first 3D printed shoe, the KIPNEXT 3D, joining a growing list of sportswear companies incorporating additive manufacturing into their footwear lines.
-The brand, created by Decathlon roughly two decades ago, has positioned itself around technical running gear and athlete partnerships, and is now extending that focus into…, reported by 3D Printing Industry on May 29, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/1779436371865-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/kipnext-3d-kiprun-enters-the-3d-printed-footwear-market-251919
+📰 Experimental Printed Books - Trend Hunter
+Experimental Printed Books Trend Hunter
+Reported by Google News - 3D Printing on May 31, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xYXlWUVo5VmVSZzJLVFB3OHRGYnZHRkx4M2x3OXFyZ001MXNBZzJhWHByMzNYR252Slc2LXFEbG1iVWx1aGs5N3NHaklQdjQxNFdIRG5TNWVvbjB5YkHSAWNBVV95cUxQR1NRZU91LU5OSHE0R1V0WTdTZUZ5ZS1XdlFEenhIb1pyUktoZXMtdlI2cnpxLW1oLVFraV9tdmxFbHVVcktTN21wSHpDS1BOWEhtQ2F0Z1FuS0p1U3lhSXpkYWs?oc=5
 
-📰 toolcraft and amsight Join Forces to Bring Data-Driven Quality Control to Semiconductor AM
-German contract manufacturer toolcraft has partnered with industrial AM quality specialist amsight to overhaul how production data is captured, connected, and acted upon across its AM operations.
-The collaboration places a particular emphasis on semiconductor-related manufacturing, a sector where documentation, consistency, and process repeatability are non-negotiable, reported by 3D Printing Industry on May 29, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/6a0ec5cc44672c514754dc0b_amsight-vor-Anlage-Produktion_manifold4-2_small_square-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/toolcraft-and-amsight-join-forces-to-bring-data-driven-quality-control-to-semiconductor-am-251914
+📰 3d Printed Rounded Lighting - Trend Hunter
+3d Printed Rounded Lighting Trend Hunter
+Reported by Google News - 3D Printing on May 31, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GaEh3TlZld3BnZk5BMUJKaFFsQlppNmJxc0FZNk1GMkNtQ0h2SFl2RUhpWnhrTFBHN0p6N3lVUk5VbzBtdGlRTGpRc1MwZnc0dkZwSEN3amRTVWkyTV9FRUMxbzUtTzDSAWxBVV95cUxNSHp1Y1QzbFhLVHhtaVFMQ3dPa0UxSi1XSjFzYXdFUTd4YUhRMm94elNjVTNZUTF1T1RJdFJySks1amhpVGNUMS0tSDdrcmg4MHJSVEhhNVRWb0ZxTXIyTmVydEhqTzFfaERiTmk?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
