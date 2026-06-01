@@ -1,48 +1,51 @@
-﻿# 3D PRINTING PULSE #145 - 2026-06-01
+﻿# 3D PRINTING PULSE #146 - 2026-06-02
 
-🔥 Bambu Lab A2L Specs Leak! More Klitek Details And More! | 3D Printing News! Titolo (Xp32NLfemT) - Mshale
-Bambu Lab A2L Specs Leak!
-More Klitek Details And More, reported by Google News - 3D Printing on May 31, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRHplb3JEMllnc0dUZ1dTYzVVaU9LRUNqSTQxLUhwaDd5ZmRCVGNjeVBLRkRLTUthX0RuYXh6NDB3NXA2RTd5NjM1dDhpQ2NFbmpBdlY5TkVlQjg?oc=5
+🔥 Iris van Herpen Brings 140 Haute Couture Pieces to New York
+Iris van Herpen’s retrospective exhibition arrives in New York after stops in Paris, Brisbane, Singapore, and Rotterdam, marking its first visit to North America.
+From May 16 through December 6, 2026, the Brooklyn Museum will host “Iris van Herpen: Sculpting…, reported by 3D Natives on May 31, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/05/van-herpen-cover.jpeg
+🔗 Read more: https://www.3dnatives.com/en/iris-van-herpen-new-york-01062026
 
-📰 University of Birmingham researchers 3D print continuous carbon fiber-reinforced silicon carbide composites
-Researchers at the University of Birmingham have developed a 3D printing method capable of producing geometrically complex ceramic matrix composites (CMCs) reinforced with continuous carbon fibers — a material class...
-Reported by VoxelMatters on May 31, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/ceramic-carbon-fiber-150x150.png
-🔗 Read more: https://www.voxelmatters.com/university-of-birmingham-researchers-3d-print-continuous-carbon-fiber-reinforced-silicon-carbide-composites
+🚨 Bambu Launches A2L: What the New Printer Reveals About Its Strategy
+Bambu Lab continues its relentless march for 3D printing domination with the launch of the A2L.
+The 330 × 320 × 325 mm printer will have a nozzle temperature of, reported by 3DPrint.com on Jun 01, 2026.
+🔗 Read more: https://3dprint.com/326389/d-embargo-june-1-2026-1000-am-edt-bambu-launches-a2l-analysis
 
-🦺 Ottobock brings 3D printed silicone liner to market with iconiq
-Ottobock, an orthopedic technology company, has introduced iconiq, its first 3D printed silicone liner for leg prosthesis users, following a German premiere at OTWorld in Leipzig last week.
-The product … The post Ottobock brings 3D printed silicone liner to market with iconiq appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/Ottobock_Iconiq-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ottobock-brings-3d-printed-silicone-liner-to-market-with-iconiq
+🔥 3D Printing in Healthcare Market Set to Reach US$ 9.69 Billion by 2033 as Personalized Medicine Revolution Accelerates - vocal.media
+3D Printing in Healthcare Market Set to Reach US$ 9.69 Billion by 2033 as Personalized Medicine Revolution Accelerates vocal.media
+Reported by Google News - 3D Printing on Jun 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi3gFBVV95cUxONXdOV1FlUmVNZHZCRzNIeXBvVlgzd3dJYk80TzY3SFZpVnJPQk02T1ZmQjlJU1dwVmdSRkVfVFE3bHc5aE5lTm1QbUlEbWJ2NVFZb3J2SWRRV3RTSUVaUzdyTi1QamxzUGNYYVBQczVkYXhMemx2VUE2X29iNS04c2c1eFVqY3hiNTg4c0hudHd2Y2FocWNuVWZjZ3RrMmpPRkFyRS1id3RVSmtNbmZsdG8ySUxyY3llVW13OVVfZC1sM2NZMElFZVY0S1lRVGVYdGdSZGNfTFhOMjFQWHc?oc=5
 
-💻 3D Spark earns ISO certification as enterprise data security demands grow
-3D Spark, a Hamburg-based software company serving industrial manufacturing and procurement teams, has received ISO/IEC 27001:2022 certification.
-The certification, issued by Proks Certification GmbH and valid through May 2029, confirms … The post 3D Spark earns ISO certification as enterprise data security demands grow appeared first on VoxelMatters - The...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/05/3D-Spark-ISO-cert-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/3d-spark-earns-iso-certification-as-enterprise-data-security-demands-grow
+♻️ Peopoly Introduces GIGA 800 Pellet 3D Printer
+3D printer manufacturer Peopoly has introduced the GIGA 800 FGF Printer, a large-format pellet-extrusion system for industrial tooling, composite mold making, automotive fixtures, and architectural design.
+Base pricing starts at $15,000 USD (EXW), reported by 3D Printing Industry on Jun 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Giga_FGF_Printer_blog_2_8e9768c5-5fd6-46d5-843f-d063235faa0c_1200x-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/peopoly-introduces-giga-800-pellet-3d-printer-252029
 
-📰 Sandvik Leaves 3D Printing: Analysis
-Global materials company Sandvik has left the 3D printing market; the Osprey must now fly from the Sandy Bay.
-Sandvik started engaging with the 3D printing market in the mid-2010s, reported by 3DPrint.com on May 31, 2026.
-🔗 Read more: https://3dprint.com/326390/sandvik-leaves-3d-printing-analysis
+🦺 AMA: Healthcare: Redefining Preclinical Testing: New Biofabrication Approach at Newcastle University
+3D Printing for Healthcare is the topic of our next online event, AMA: Healthcare 2026 on June 4th.
+At the center of that discussion is work being done not in a clinical setting, but at the intersection of materials science, cellular biology, and additive fabrication, reported by 3D Printing Industry on Jun 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/ama-healthcare-redefining-preclinical-testing-new-biofabrication-approach-at-newcastle-university-251622
 
-🖨 Creality Marks 12 Years with KliTek and AI-Powered Ecosystem Expansion
-For 12 years, Creality has advanced accessible 3D printing technologies, enabling global users to turn ideas into tangible creations.
-What began as a desktop 3D printer manufacturer has evolved into, reported by 3DPrint.com on May 31, 2026.
-🔗 Read more: https://3dprint.com/326354/creality-marks-12-years-with-klitek-and-ai-powered-ecosystem-expansion
+📷 Scandium Canada to advance aluminum-scandium alloy for AM research
+Scandium Canada has signed a mutual non-disclosure agreement with the University of Waterloo to establish a research collaboration focused on the additive manufacturing of aluminum-scandium (Al-Sc) alloys, with an...
+Reported by VoxelMatters on Jun 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Scandium-Canada-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/scandium-canada-to-advance-aluminum-scandium-alloy-for-am-research
 
-📰 Experimental Printed Books - Trend Hunter
-Experimental Printed Books Trend Hunter
-Reported by Google News - 3D Printing on May 31, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xYXlWUVo5VmVSZzJLVFB3OHRGYnZHRkx4M2x3OXFyZ001MXNBZzJhWHByMzNYR252Slc2LXFEbG1iVWx1aGs5N3NHaklQdjQxNFdIRG5TNWVvbjB5YkHSAWNBVV95cUxQR1NRZU91LU5OSHE0R1V0WTdTZUZ5ZS1XdlFEenhIb1pyUktoZXMtdlI2cnpxLW1oLVFraV9tdmxFbHVVcktTN21wSHpDS1BOWEhtQ2F0Z1FuS0p1U3lhSXpkYWs?oc=5
+💻 amsight and toolcraft partner on quality management for semiconductor AM production
+German precision manufacturer toolcraft has begun working with AM quality software company amsight to overhaul how production data is collected, connected, and evaluated across its additive manufacturing operations,...
+Reported by VoxelMatters on Jun 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Amsight-ToolCraft-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/amsight-and-toolcraft-partner-on-quality-management-for-semiconductor-am-production
 
-📰 3d Printed Rounded Lighting - Trend Hunter
-3d Printed Rounded Lighting Trend Hunter
-Reported by Google News - 3D Printing on May 31, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GaEh3TlZld3BnZk5BMUJKaFFsQlppNmJxc0FZNk1GMkNtQ0h2SFl2RUhpWnhrTFBHN0p6N3lVUk5VbzBtdGlRTGpRc1MwZnc0dkZwSEN3amRTVWkyTV9FRUMxbzUtTzDSAWxBVV95cUxNSHp1Y1QzbFhLVHhtaVFMQ3dPa0UxSi1XSjFzYXdFUTd4YUhRMm94elNjVTNZUTF1T1RJdFJySks1amhpVGNUMS0tSDdrcmg4MHJSVEhhNVRWb0ZxTXIyTmVydEhqTzFfaERiTmk?oc=5
+🦺 AMA: Healthcare: Industrial Scalability for O&amp;P Production
+With AMA: Healthcare 2026 on June 4th putting 3D printing in healthcare under the spotlight, voices from across the industry are weighing in on where the technology is heading.
+Among the clearest is EOS, the Munich-founded laser powder bed technology company, which is making the case that the orthotics and prosthetics industry has spent long…, reported by 3D Printing Industry on Jun 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/ama-healthcare-industrial-scalability-for-op-production-252007
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Bambu Lab A2L Specs Leak! More Klitek Details And More! | 3D Printing News! Titolo (Xp32NLfemT) - Mshale" because it highlights where practical 3D printing innovation is moving next. Direct link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRHplb3JEMllnc0dUZ1dTYzVVaU9LRUNqSTQxLUhwaDd5ZmRCVGNjeVBLRkRLTUthX0RuYXh6NDB3NXA2RTd5NjM1dDhpQ2NFbmpBdlY5TkVlQjg?oc=5 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Bambu Launches A2L: What the New Printer Reveals About Its Strategy" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://3dprint.com/326389/d-embargo-june-1-2026-1000-am-edt-bambu-launches-a2l-analysis | Full pulse: https://www.quality3ds.com/

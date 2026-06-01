@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-02
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #146 - 2026-06-02
+## Stories
 
 🔥 Iris van Herpen Brings 140 Haute Couture Pieces to New York
 Iris van Herpen’s retrospective exhibition arrives in New York after stops in Paris, Brisbane, Singapore, and Rotterdam, marking its first visit to North America.
@@ -49,9 +47,3 @@ With AMA: Healthcare 2026 on June 4th putting 3D printing in healthcare under th
 Among the clearest is EOS, the Munich-founded laser powder bed technology company, which is making the case that the orthotics and prosthetics industry has spent long…, reported by 3D Printing Industry on Jun 01, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/05/AMAHealthcare-2026--150x100.png
 Read more ? https://3dprintingindustry.com/news/ama-healthcare-industrial-scalability-for-op-production-252007
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

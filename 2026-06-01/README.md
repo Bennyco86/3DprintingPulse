@@ -2,6 +2,19 @@
 
 ## Stories
 
+🔥 Creality KliTek Nozzle Changer Targets Fast, Low-Waste Multi-Material Printing
+Creality's upcoming K3 printer will use the new KliTek nozzle-changing system. Creality says it can change nozzles in under five seconds and switch colors or materials in under 15 seconds with virtually zero purge waste.
+The system is also designed for mixed nozzle sizes and faster flexible-filament printing, making this a major consumer 3D-printing development to watch.
+Watch video ? https://www.youtube.com/watch?v=Jx5lRca5OoA
+Official details ? https://www.creality.com/br/campaigns/creality-nozzle-changing-3d-printer-2026
+Read more ? https://www.youtube.com/watch?v=Jx5lRca5OoA
+
+🔥 Bambu Lab X2D Maintenance Debate: Does a Simple Blockage Require Too Much Teardown?
+A Bambu Lab community troubleshooting thread is drawing attention to X2D serviceability after an aux-extruder hotend blockage led one owner to investigate a surprisingly involved disassembly process.
+The thread describes removing covers, fans, hotend components, cutters, brackets, sensors, screws, and small cable connections for a common maintenance scenario. This is a user-reported concern rather than a confirmed universal defect, but several replies raise similar questions about long-term repairability.
+Watch teardown ? https://www.youtube.com/watch?v=3qr407Z3vd8
+Read more ? https://www.reddit.com/r/BambuLab/comments/1tsq6aw/
+
 🔥 Bambu Lab A2L Specs Leak! More Klitek Details And More! | 3D Printing News! Titolo (Xp32NLfemT) - Mshale
 Bambu Lab A2L Specs Leak!
 More Klitek Details And More, reported by Google News - 3D Printing on May 31, 2026.
