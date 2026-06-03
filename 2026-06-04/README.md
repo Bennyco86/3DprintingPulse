@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-04
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #148 - 2026-06-04
+## Stories
 
 🔥 Google releases Fitbit Air CAD blueprints for 3D-printed bands - qz.com
 Google releases Fitbit Air CAD blueprints for 3D-printed bands qz.com
@@ -47,9 +45,3 @@ Researchers at Chalmers University of Technology in Gothenburg, Sweden, have dev
 Reported by VoxelMatters on Jun 03, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/3D-printable-architectural-material-yeast-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/3d-printable-architectural-material-developed-from-yeast
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
