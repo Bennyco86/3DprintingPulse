@@ -1,49 +1,50 @@
-﻿# 3D PRINTING PULSE #148 - 2026-06-04
+﻿# 3D PRINTING PULSE #149 - 2026-06-05
 
-🔥 Google releases Fitbit Air CAD blueprints for 3D-printed bands - qz.com
-Google releases Fitbit Air CAD blueprints for 3D-printed bands qz.com
-Reported by Google News - 3D Printing on Jun 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTE04S1FWWGUyX0FrNTM2WU1uWmdmRGtPMDlnUGdiWjFnSE9nRXJyZk5OelRWZDVVak93Tk4tM3dHZEpXTHhncEZDVndmSFNiRU5LZHAyaW5FS0p2dTZuVFd4T3pNRzgwVTd6MHpIaTUyYWp1WU93NDlreQ?oc=5
+🔥 3D printed stents outperform commercial devices in gastric leak study
+Postoperative gastric leaks are among the most serious complications of laparoscopic sleeve gastrectomy (LSG), occurring in 1–3% of primary procedures and up to 10% of revision cases.
+Current treatment relies … The post 3D printed stents outperform commercial devices in gastric leak study appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Gastric-stent-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/3d-printed-stents-outperform-commercial-devices-in-gastric-leak-study
 
-🚨 VoxelMatters Review of the Snapmaker U1, simply the best 4-color 3D printer
-There may be some things you could ask for to make the Snapmaker U1 experience even better, but what we got here is already a great start and possibly the … The post VoxelMatters Review of the Snapmaker U1, simply...
-Reported by VoxelMatters on Jun 03, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/snapmaker-u1-review-feature-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/voxelmatters-review-of-the-snapmaker-u1-simply-the-best-4-color-3d-printer
+🚨 Bambu Lab launches A2L 3D printer for larger creative projects - tctmagazine.com
+Bambu Lab launches A2L 3D printer for larger creative projects tctmagazine.com
+Reported by Google News - 3D Printing on Jun 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0Z0QW0zdnNQb2hjWlk1S2wwV0JEYnJKWmJMclU3SUU3UFB1b0lxNm9hdER4TU54bHFlNVhsOEtvSVhYN050ZWgtMmRZNkZ5eFloeThIejJESHVTa2NjY1BSQ2F1TzVGam8yWV81ZjFqWFB5bDVROUF5Q0Jibzlod0Y4djdxelRqWGY1dk1DTE5TRVZsTkE?oc=5
 
-🔥 Google wants you to 3D-print your own Fitbit Air bands - Digital Trends
-Google wants you to 3D-print your own Fitbit Air bands Digital Trends
-Reported by Google News - 3D Printing on Jun 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxNbFg4QnBNZldyaDFLWjhhelh5TGQ0ZG9ETmFFaDI2YjBieEtRb3JPUHZrSDFsUlItWWNTMkg1S2c3aTdlWFh5emwwWjJ3cmhNOUpBczF4Zk81UElpblhMalFPWm02UkZYbjhhSmF4X0dCdGowOTBGdDN6R3pPRlJkbTZsZk1UOUVySENjdVNLZnFmYUlOOWc1ak9mRQ?oc=5
+🔥 Fitbit Air bands can now be 3D printed, and Google just handed you the blueprints - Android Police
+Fitbit Air bands can now be 3D printed, and Google just handed you the blueprints Android Police
+Reported by Google News - 3D Printing on Jun 04, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMickFVX3lxTE1jOGZENGpGUnR3TmxweGYzSEtmbGhnTG5wTXNpTGVjVzB6QklJd2UtWkR0bDJmV3EzY0lZZVhBTHgyLUlkV01jbkJ0TDFjQXpaODVVQUozWGZ5Y1lHUWZMTVV5OEFOMV9Ncnh2SDB4Q1Rldw?oc=5
 
-🔥 Google just made it ridiculously easy to 3D print your own Fitbit Air bands - Android Authority
-Google just made it ridiculously easy to 3D print your own Fitbit Air bands Android Authority
-Reported by Google News - 3D Printing on Jun 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMifEFVX3lxTFByWFV1cFRYNGY2dl9GWG1OTnFpSWRIU0YtMkdDRk5md2YxelhOUEYyQlVoSWVzNVpreDU4WTVycktEQlBYWTZpRUxORER4RVZwb3ZFbjg3d1hCQncxWWRzSFpMVHhyUkh3cnNLa0twM2lVZ09SWTVscGU4WmE?oc=5
+🔥 Google Now Lets You 3D Print Your Own Fitbit Air Bands - Android Headlines
+Google Now Lets You 3D Print Your Own Fitbit Air Bands Android Headlines
+Reported by Google News - 3D Printing on Jun 04, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVlEcXJmUldsTXNDWG1oemFUSkJNY09ZNlJZclhGbDcyR0w5QjUwYnNxZTdOMDFwRWRqYTM0RXRfZFhvTXhSQnRadWZ3SnJ4VUdZNXhTejNtLXRYM1dXTmhjd3JTWllOWi1hY2N5MzZWdU1HSkl4MEtiaGh0QmdleTdUM1VrY3cxaXBWQlpqbWlhWkNmR3VYNGZfbkpUTVNrNnc?oc=5
 
-🚨 Fake Studio Lighting on your 3D Prints using Filament Mixing and a Free App
-Last week, we introduced the Prusa ColorMix, a tool for combining existing filaments into new colors.
-Today, we'll show you how to use our new free web app to add realistic ColorMix shading to any model, reported by Prusa Blog on Jun 03, 2026.
-🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/06/6956624d-auto_shading_with_colormix_blog_en-2-698x325.jpg
-🔗 Read more: https://blog.prusa3d.com/introducing-the-colormix-shading-app-make-your-models-pop-with-realistic-lighting_136716
+🚀 ORNL develops DuAlumin-3D, a 3D printable aluminum alloy for high-temperature use
+Researchers at the US Department of Energy’s Oak Ridge National Laboratory developed DuAlumin-3D, a 3D printable aluminum alloy designed for high-temperature applications in aerospace and automotive components.
+The alloy, which … The post ORNL develops DuAlumin-3D, a 3D printable aluminum alloy for high-temperature use appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/header-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ornl-develops-dualumin-3d-a-3d-printable-aluminum-alloy-for-high-temperature-use
 
-🚨 Bambu Lab Launches the A2L: A “Creative Playground” with Larger Build Volume and Modular Add-Ons
-Today, Bambu Lab is launching the A2L, a machine they are referring to as the “Creative Playground.” The company shared that this large-format 3D printer was designed for ambitious creative projects that previously...
-Reported by 3D Natives on Jun 01, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/05/bambu-lab-a2l.jpg
-🔗 Read more: https://www.3dnatives.com/en/bambu-lab-launches-the-a2l-01062026
+💻 LAMÁQUINA 3D prints ‘Great Wave’-inspired decor for Odachi restaurant
+Barcelona-based 3D printing service LAMÁQUINA has added yet another retail décor project to its impressive portfolio.
+Working with a design by architect Seba Orabi, the LAMÁQUINA team 3D printed a … The post LAMÁQUINA 3D prints ‘Great Wave’-inspired decor for Odachi restaurant appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/lamaquina-3-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/lamaquina-3d-prints-great-wave-inspired-decor-for-odachi-restaurant
 
-🚨 Creality’s Next Generation of 3D Printer to Be a KliTek-Powered Toolchanger - All3DP
-Creality’s Next Generation of 3D Printer to Be a KliTek-Powered Toolchanger All3DP
-Reported by Google News - 3D Printing on Jun 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMinAFBVV95cUxPMzM0TFlscTBvdWhFT2x4YWtndFZyQnFQN0xkMGtIcllsenBXWjB0clhFLTFrQ0hLUUx3REpQS0lneEdRU0dBWk52RWhPelRtRkpTXzV2UVF2ZzFnMklsVzJ5LTFzUUxGMXdYd05RV3ZLSy13Yzk3QmhObXNuWXprUDBTeVNPeFpPWWlNSngtdlBJWlIxSXExNF95ekY?oc=5
+🚀 Continuum Powders launches Custom Foundry Runtime service
+Continuum Powders, a Houston-based materials supplier specializing in plasma-gas atomization of high-value metal powders for advanced manufacturing, has introduced Custom Foundry Runtime (CFR), a new service giving...
+Reported by VoxelMatters on Jun 04, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Continuum-Powders-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/continuum-powders-launches-custom-foundry-runtime-service
 
-📰 3D printable architectural material developed from yeast
-Researchers at Chalmers University of Technology in Gothenburg, Sweden, have developed a 3D printable biomaterial derived from baker’s yeast (Saccharomyces cerevisiae) and microfibrillated cellulose (MFC) intended...
-Reported by VoxelMatters on Jun 03, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/3D-printable-architectural-material-yeast-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/3d-printable-architectural-material-developed-from-yeast
+📰 NX Atomics and Sciaky bring EBAM to small modular reactor components
+Indiana company NX Atomics, a startup developing high-temperature small modular reactors (SMRs) for clean baseload power and industrial process heat, has formed a manufacturing partnership with Chicago-based Sciaky,...
+Reported by VoxelMatters on Jun 04, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/NX-Atomics-3D-print-reactor-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nx-atomics-and-sciaky-bring-ebam-to-small-modular-reactor-components
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse focus is the Snapmaker U1 launch and Bambu Lab's new-printer reveal on April 14, because both stories are major desktop 3D printing moments for the community. Snapmaker: https://www.voxelmatters.com/voxelmatters-review-of-the-snapmaker-u1-simply-the-best-4-color-3d-printer | Bambu: https://www.3dnatives.com/en/bambu-lab-launches-the-a2l-01062026 | Full pulse: https://www.quality3ds.com/
+Today's pulse highlight is "Bambu Lab launches A2L 3D printer for larger creative projects - tctmagazine.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNT0Z0QW0zdnNQb2hjWlk1S2wwV0JEYnJKWmJMclU3SUU3UFB1b0lxNm9hdER4TU54bHFlNVhsOEtvSVhYN050ZWgtMmRZNkZ5eFloeThIejJESHVTa2NjY1BSQ2F1TzVGam8yWV81ZjFqWFB5bDVROUF5Q0Jibzlod0Y4djdxelRqWGY1dk1DTE5TRVZsTkE?oc=5 | Full pulse: https://www.quality3ds.com/

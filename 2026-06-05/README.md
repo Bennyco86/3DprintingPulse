@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-05
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #149 - 2026-06-05
+## Stories
 
 🔥 3D printed stents outperform commercial devices in gastric leak study
 Postoperative gastric leaks are among the most serious complications of laparoscopic sleeve gastrectomy (LSG), occurring in 1–3% of primary procedures and up to 10% of revision cases.
@@ -48,9 +46,3 @@ Indiana company NX Atomics, a startup developing high-temperature small modular 
 Reported by VoxelMatters on Jun 04, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/NX-Atomics-3D-print-reactor-150x150.jpg
 Read more ? https://www.voxelmatters.com/nx-atomics-and-sciaky-bring-ebam-to-small-modular-reactor-components
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
