@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-07
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #151 - 2026-06-07
+## Stories
 
 🔥 Bank-Backed 3D-Printed Mortgages - Trend Hunter
 Bank-Backed 3D-Printed Mortgages Trend Hunter
@@ -47,9 +45,3 @@ Read more ? https://3dprint.com/326406/university-of-arkansas-researchers-test-m
 Photolithography, the semiconductor manufacturing process whereby lasers transfer patterns onto chemical layers coating a substrate, is one of the most amazing industrial processes humanity has ever created.
 It is also, reported by 3DPrint.com on Jun 05, 2026.
 Read more ? https://3dprint.com/326445/ut-researchers-use-3d-printing-to-develop-tabletop-euv-lithography-process
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

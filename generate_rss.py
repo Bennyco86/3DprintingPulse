@@ -5,6 +5,8 @@ import markdown
 import re
 from xml.etree.ElementTree import Element, SubElement, ElementTree
 
+import auto_daily
+
 # Configuration
 REPO_URL = "https://github.com/Bennyco86/3DprintingPulse"
 SITE_URL = "https://quality3ds.godaddysites.com"
@@ -70,6 +72,88 @@ def normalize_for_compare(markdown_body):
 def normalize_markdown(markdown_body):
     return re.sub(r"^\?\?\s+", "\U0001F4F0 ", markdown_body, flags=re.M)
 
+def extract_story_entries(markdown_body):
+    entries = []
+    current_title = ""
+    current_line = 0
+    for line_number, raw_line in enumerate(markdown_body.splitlines(), start=1):
+        line = raw_line.strip()
+        if not line:
+            current_title = ""
+            current_line = 0
+            continue
+
+        if not current_title and "Read more" not in line and "Image ?" not in line:
+            if len(line) <= 180 and len(line.split()) >= 3 and not line.endswith("."):
+                current_title = line
+                current_line = line_number
+            continue
+
+        if "Read more" not in line:
+            continue
+
+        match = re.search(r"https?://\S+", line)
+        if match:
+            entries.append({
+                "title": current_title or "Untitled story",
+                "url": match.group(0).rstrip(").,]"),
+                "line": current_line or line_number,
+            })
+        current_title = ""
+        current_line = 0
+    return entries
+
+def validate_unique_latest_pulse(markdown_body, project_root, date_str, file_path):
+    entries = extract_story_entries(markdown_body)
+    if not entries:
+        raise SystemExit(f"Latest daily README has no parseable story links: {file_path}")
+
+    history = auto_daily.load_seen_story_history(project_root, exclude_date=date_str)
+    seen_urls = set()
+    seen_title_signatures = set()
+    seen_title_topic_tokens = set()
+    seen_major_signatures = set()
+    duplicate_messages = []
+
+    for entry in entries:
+        title = entry["title"]
+        url = auto_daily.normalize_url(entry["url"])
+        title_signature = auto_daily.normalize_title_for_dedupe(title)
+        topic_tokens = auto_daily.title_topic_tokens(title)
+        major_signature = auto_daily.major_release_signature_from_text(title)
+
+        if url in seen_urls:
+            duplicate_messages.append(f"line {entry['line']}: duplicate URL in today's Pulse: {title}")
+        if url in history["urls"]:
+            duplicate_messages.append(f"line {entry['line']}: URL already appeared in a previous Pulse: {title}")
+
+        if title_signature and title_signature in seen_title_signatures:
+            duplicate_messages.append(f"line {entry['line']}: duplicate title in today's Pulse: {title}")
+        if title_signature and title_signature in history["title_signatures"]:
+            duplicate_messages.append(f"line {entry['line']}: title already appeared in a previous Pulse: {title}")
+
+        if any(auto_daily.title_topics_overlap(topic_tokens, seen) for seen in seen_title_topic_tokens):
+            duplicate_messages.append(f"line {entry['line']}: near-duplicate topic in today's Pulse: {title}")
+        if any(auto_daily.title_topics_overlap(topic_tokens, seen) for seen in history["title_topic_tokens"]):
+            duplicate_messages.append(f"line {entry['line']}: near-duplicate topic from recent history: {title}")
+
+        if major_signature and major_signature in seen_major_signatures:
+            duplicate_messages.append(f"line {entry['line']}: duplicate printer-release model in today's Pulse ({major_signature}): {title}")
+        if major_signature and major_signature in history["major_signatures"]:
+            duplicate_messages.append(f"line {entry['line']}: printer-release model already covered ({major_signature}): {title}")
+
+        seen_urls.add(url)
+        if title_signature:
+            seen_title_signatures.add(title_signature)
+        if topic_tokens:
+            seen_title_topic_tokens.add(topic_tokens)
+        if major_signature:
+            seen_major_signatures.add(major_signature)
+
+    if duplicate_messages:
+        details = "\n".join(f"- {message}" for message in duplicate_messages)
+        raise SystemExit(f"Latest Pulse has repeated stories and will not publish:\n{details}")
+
 def build_latest_section(pulse_title, markdown_body):
     cleaned_body = normalize_markdown(markdown_body).strip()
     if not cleaned_body:
@@ -132,6 +216,13 @@ def generate_rss():
     latest_body = load_markdown_body(dated_files[0][0])
     if not latest_body:
         raise SystemExit(f"Latest daily README has no stories: {dated_files[0][0]}")
+
+    validate_unique_latest_pulse(
+        latest_body,
+        os.path.dirname(os.path.abspath(__file__)),
+        dated_files[0][1],
+        dated_files[0][0],
+    )
 
     if len(dated_files) > 1:
         previous_body = load_markdown_body(dated_files[1][0])

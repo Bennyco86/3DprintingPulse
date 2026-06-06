@@ -42,7 +42,7 @@ MAJOR_RELEASE_TERMS = {
     "next-gen", "next generation", "flagship"
 }
 MAJOR_RELEASE_MODEL_HINTS = {
-    "x2d", "h2d", "u1", "x1e", "x1 carbon", "p2s"
+    "a2l", "x2d", "h2d", "u1", "x1e", "x1 carbon", "p2s"
 }
 MAJOR_RELEASE_SPEC_NOTES = {
     "x2d": "Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system."
@@ -139,6 +139,14 @@ USER_AGENT = "Quality3DsPulseBot/1.0 (+https://quality3ds.godaddysites.com)"
 TRACKING_PARAMS = {
     "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
     "fbclid", "gclid", "mc_cid", "mc_eid"
+}
+TITLE_TOPIC_STOPWORDS = {
+    "about", "after", "also", "ahead", "analysis", "article", "available",
+    "because", "before", "bigger", "creative", "details", "devices", "edition",
+    "first", "from", "handed", "headline", "headlines", "here", "just",
+    "larger", "latest", "lets", "more", "news", "now", "officially", "onto",
+    "own", "printing", "projects", "reported", "source", "story", "tctmagazine",
+    "today", "trend", "update", "what", "with", "your"
 }
 DEBUG_ENCODING = os.getenv("PULSE_DEBUG_ENCODING") == "1"
 MOJIBAKE_MARKERS = (
@@ -465,8 +473,8 @@ def is_major_printer_release(item):
     return has_brand and ((has_release_term and has_printer_context) or has_model_hint)
 
 
-def major_release_signature(item):
-    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+def major_release_signature_from_text(text):
+    text = (text or "").lower()
     brand = ""
     for candidate in sorted(MAJOR_RELEASE_BRANDS, key=len, reverse=True):
         if candidate in text:
@@ -481,9 +489,12 @@ def major_release_signature(item):
 
     if brand and model:
         return f"{brand}:{model}"
-    if brand:
-        return f"{brand}:generic-launch"
     return ""
+
+
+def major_release_signature(item):
+    text = f"{item.get('title', '')} {item.get('summary', '')}"
+    return major_release_signature_from_text(text)
 
 
 def major_release_spec_note(item):
@@ -544,6 +555,34 @@ def normalize_title_for_dedupe(title):
     return re.sub(r"\s+", " ", text).strip()
 
 
+def title_topic_tokens(title):
+    text = normalize_title_for_dedupe(title)
+    tokens = set()
+    for token in text.split():
+        if len(token) <= 2 or token in TITLE_TOPIC_STOPWORDS:
+            continue
+        if token.endswith("ies") and len(token) > 4:
+            token = token[:-3] + "y"
+        elif token.endswith("ing") and len(token) > 5:
+            token = token[:-3]
+        elif token.endswith("ed") and len(token) > 4:
+            token = token[:-2]
+        elif token.endswith("s") and len(token) > 4:
+            token = token[:-1]
+        tokens.add(token)
+    return frozenset(tokens)
+
+
+def title_topics_overlap(left, right):
+    if len(left) < 4 or len(right) < 4:
+        return False
+    shared = len(left & right)
+    if shared < 5:
+        return False
+    union = len(left | right)
+    return union > 0 and (shared / union) >= 0.55
+
+
 def is_probably_non_english(title, summary, url=""):
     text = f"{title or ''} {summary or ''}".lower()
     words = set(re.findall(r"[a-zA-Z\u00c0-\u017f]+", text))
@@ -570,8 +609,11 @@ def source_preference_score(source_name):
     return 1
 
 
-def load_seen_urls(project_root, exclude_date=None):
-    seen = set()
+def load_seen_story_history(project_root, exclude_date=None):
+    seen_urls = set()
+    seen_title_signatures = set()
+    seen_title_topic_tokens = set()
+    seen_major_signatures = set()
     paths = glob.glob(os.path.join(project_root, "20??-??-??", "README.md"))
     paths.sort(reverse=True)
     skip_path = None
@@ -582,21 +624,67 @@ def load_seen_urls(project_root, exclude_date=None):
             continue
         try:
             with open(path, "r", encoding="utf-8") as handle:
+                pending_title = ""
                 for line in handle:
-                    if "Read more" not in line:
+                    stripped = strip_html(line).strip()
+                    if not stripped:
+                        pending_title = ""
                         continue
-                    match = re.search(r"https?://\S+", line)
+
+                    if "Read more" not in stripped:
+                        if (
+                            not pending_title
+                            and len(stripped) <= 180
+                            and len(stripped.split()) >= 3
+                            and not stripped.endswith(".")
+                            and "Image ?" not in stripped
+                        ):
+                            pending_title = stripped
+                        continue
+
+                    if pending_title:
+                        title_signature = normalize_title_for_dedupe(pending_title)
+                        if title_signature:
+                            seen_title_signatures.add(title_signature)
+                        topic_tokens = title_topic_tokens(pending_title)
+                        if topic_tokens:
+                            seen_title_topic_tokens.add(topic_tokens)
+                        major_signature = major_release_signature_from_text(pending_title)
+                        if major_signature:
+                            seen_major_signatures.add(major_signature)
+                        pending_title = ""
+
+                    if "Read more" not in stripped:
+                        continue
+                    match = re.search(r"https?://\S+", stripped)
                     if match:
                         url = match.group(0).rstrip(").,]")
                         url = normalize_url(url)
                         if "example.com" not in url:
-                            seen.add(url)
+                            seen_urls.add(url)
         except OSError:
             continue
-    return seen
+    return {
+        "urls": seen_urls,
+        "title_signatures": seen_title_signatures,
+        "title_topic_tokens": seen_title_topic_tokens,
+        "major_signatures": seen_major_signatures,
+    }
 
 
-def select_stories(items, seen_urls):
+def select_stories(items, seen_history):
+    if isinstance(seen_history, set):
+        seen_history = {
+            "urls": seen_history,
+            "title_signatures": set(),
+            "title_topic_tokens": set(),
+            "major_signatures": set(),
+        }
+    seen_urls = seen_history.get("urls", set())
+    seen_title_signatures = seen_history.get("title_signatures", set())
+    seen_title_topic_tokens = seen_history.get("title_topic_tokens", set())
+    seen_major_signatures = seen_history.get("major_signatures", set())
+
     now = datetime.datetime.now(datetime.timezone.utc)
     cutoff = now - datetime.timedelta(hours=MAX_ITEM_AGE_HOURS)
     major_release_cutoff = now - datetime.timedelta(hours=MAJOR_RELEASE_MAX_ITEM_AGE_HOURS)
@@ -634,7 +722,16 @@ def select_stories(items, seen_urls):
         item["category"] = classify_item(item)
         item["url"] = url
         item["title_signature"] = normalize_title_for_dedupe(title)
+        item["title_topic_tokens"] = title_topic_tokens(title)
         item["source_score"] = source_score
+        if item["title_signature"] in seen_title_signatures:
+            continue
+        if any(title_topics_overlap(item["title_topic_tokens"], seen) for seen in seen_title_topic_tokens):
+            continue
+        if item["category"] == "major_printer_release":
+            signature = major_release_signature(item)
+            if signature and signature in seen_major_signatures:
+                continue
         candidates.append(item)
 
     if not candidates:
@@ -653,12 +750,16 @@ def select_stories(items, seen_urls):
     selected = []
     used_urls = set()
     used_signatures = set()
+    used_title_topic_tokens = set()
     used_major_signatures = set()
 
     def can_select(item):
         if item["url"] in used_urls:
             return False
         if item.get("title_signature", "") in used_signatures:
+            return False
+        topic_tokens = item.get("title_topic_tokens") or frozenset()
+        if any(title_topics_overlap(topic_tokens, used) for used in used_title_topic_tokens):
             return False
         if item.get("category") == "major_printer_release":
             signature = major_release_signature(item)
@@ -670,6 +771,8 @@ def select_stories(items, seen_urls):
         used_urls.add(item["url"])
         if item.get("title_signature"):
             used_signatures.add(item["title_signature"])
+        if item.get("title_topic_tokens"):
+            used_title_topic_tokens.add(item["title_topic_tokens"])
         if item.get("category") == "major_printer_release":
             signature = major_release_signature(item)
             if signature:
@@ -787,8 +890,8 @@ def main():
     if not items:
         raise SystemExit("No feed items found. Check sources.json and network access.")
 
-    seen_urls = load_seen_urls(project_root, exclude_date=date_stamp if force else None)
-    selected = select_stories(items, seen_urls)
+    seen_history = load_seen_story_history(project_root, exclude_date=date_stamp if force else None)
+    selected = select_stories(items, seen_history)
     if len(selected) < MIN_STORIES:
         raise SystemExit(
             f"Only found {len(selected)} fresh unique stories in the last {MAX_ITEM_AGE_HOURS}h. "
