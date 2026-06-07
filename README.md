@@ -2,51 +2,50 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #151 - 2026-06-07
+### 3D PRINTING PULSE #152 - 2026-06-08
 
-🔥 Bank-Backed 3D-Printed Mortgages - Trend Hunter
-Bank-Backed 3D-Printed Mortgages Trend Hunter
-Reported by Google News - 3D Printing on Jun 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BS0RaMkxTRkFOckJtWnZLcE1LWWtadDBmdTNqY0pQc3IzdXdwWDRKb2lHUUhMVUVpS2VyNl9SdVBOdTFsTWlvbnJES01ZODNRNzFldV90WmozLTJyc2xvdmh3UGhMTVMt0gFuQVVfeXFMUGV5bTE2SndDOFpxbjVrQm9TNkp2QU9aM2NnYllKcGVLYzBZeDgwc1BnWGUyb01HdDdSRVV5d0dNdHlWX0dsY1dvSTdoUV83WmEyUUhPcEIyREFlQzJRSjRrOXk1UWlfZ2c1cDIwQWc?oc=5
+🚀 Voltage launches Eclipse X9 basalt-PETG composite for large-format AM
+Hawaiian company Voltage Vessels/Voltage Materials has launched Eclipse X9, a basalt-reinforced recycled PETG composite designed for large-format additive manufacturing, now available in both pellet and filament forms.
+The material has … The post Voltage launches Eclipse X9 basalt-PETG composite for large-format AM appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/1780588673313-150x150.jpg
+Read more ? https://www.voxelmatters.com/voltage-launches-eclipse-x9-basalt-petg-composite-for-large-format-am
 
-🚨 Elegoo announces bizarre 3D printer collab with Emoji brand — special edition Centauri Carbon 2 Combo is priced at $489 USD - Tom's Hardware
-Elegoo announces bizarre 3D printer collab with Emoji brand — special edition Centauri Carbon 2 Combo is priced at $489 USD Tom's Hardware
-Reported by Google News - 3D Printing on Jun 05, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi9wFBVV95cUxQemdxZEhPSHdWeThDV2Fiak9xcWJOdnVxckRLU201WGIwWnVDb3pRb0laeC1hWGN3M0VDX0N3Tk9TdEpFWGdsbWh4VHhxNTkwWjI0YXBrRVZhYWozelNqbVNIdF9hb1FHMnk4UkdBekRjYjB6bnJUOXdlb09PTUNHOEliT0NIaDhDTkNlckZac1R4WTBVUDhLZzBScHVQal9NMHIwSnE2b3pTMU14OVJseU9LQ0d2VnFIZDlVc1g3ZktjT1NDanZfYWhUbmVsTXlUU3Z5MlBGM3NuS1VKMTJRdkZzRkQtT1o2ekRDSHktZ3lldU42bWlR?oc=5
+🖨 DEEP Manufacturing and Fortius Metals join forces on multi-material wire arc AM
+DEEP Manufacturing and Fortius Metals have begun a joint project to build a multi-material metal cylinder using DEEP Manufacturing’s synchronized multi-robot wire arc Additive Manufacturing (WAAM) system.
+The effort is … The post DEEP Manufacturing and Fortius Metals join forces on multi-material wire arc AM appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/deep-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am
 
-📰 XJet names 3D-Werk Black Forest as German reseller
-XJet has appointed 3D-Werk Black Forest GmbH as a Value-Added Reseller (VAR) for its Carmel system family in Germany.
-The agreement gives manufacturers in the country a new route to … The post XJet names 3D-Werk Black Forest as German reseller appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/XJet-3D-Werk-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/xjet-names-3d-werk-black-forest-as-german-reseller
+🚀 English soccer club integrates 3D printing in new kit launch
+Crewe Alexandra FC used full-color 3D printing as the centerpiece of its 2026-27 home kit reveal, working with official printer partner and Mimaki distributor Hybrid Services to produce a miniature … The post English...
+Reported by VoxelMatters on Jun 07, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Crewe-Alexandra-3D-printed-kit-launch-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/english-soccer-club-integrates-3d-printing-in-new-kit-launch
 
-🖨 NIST develops laser-stirring technique to produce high-entropy alloys via 3D printing
-Researchers at the National Institute of Standards and Technology (NIST) have developed a laser-stirring method for metal additive manufacturing that addresses one of the more persistent obstacles in producing...
-Reported by VoxelMatters on Jun 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/NIST-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/nist-develops-laser-stirring-technique-to-produce-high-entropy-alloys-via-3d-printing
+💻 Disney Gives Muppet Favorite Scooter a 3D Printed Comeback on Rock ‘n’ Roller Coaster
+For many Disney fans, Rock ‘n’ Roller Coaster Starring Aerosmith was a rite of passage.
+The attraction opened at Disney’s Hollywood Studios in 1999 and quickly became one of the, reported by 3DPrint.com on Jun 07, 2026.
+Read more ? https://3dprint.com/326395/disney-gives-muppet-favorite-scooter-a-3d-printed-comeback-on-rock-n-roller-coaster
 
-📰 DMFS Wins First Defense Parts Contract Under DLA’s JAMA IV
-Machine tool manufacturer DMG MORI Federal Services (DMFS) has been selected for the US Defense Logistics Agency’s (DLA) Joint Additive Manufacturing Accelerator (JAMA) IV Pilot Parts Program.
-The program’s performance period began February 25, 2026, reported by 3D Printing Industry on Jun 06, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/03/image-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/dmfs-wins-first-defense-parts-contract-under-dlas-jama-iv-252163
+📰 Scientists Are Using 3D Printing To Try And Bring Back Extinct Animals - bgr.com
+Scientists Are Using 3D Printing To Try And Bring Back Extinct Animals bgr.com
+Reported by Google News - 3D Printing on Jun 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMihAFBVV95cUxORXhabllyOEh1NDhydjdNUDIzT21oUmdSRHRzSVNSTE55VldNWEZCZ2t6RzllcENmTmhNaDhoYjR6Y1k1Z0NnUFFYZTV4TjNROWRROGxmN1pGWFdTbU50SlFBNEJ0ZXB5MXFKZFFmdTFNZzN0cXJRcUViOXRDWTRwTklPUjk?oc=5
 
-📰 New Method Embeds Independent Magnetic Movement at the Microscale
-Researchers at Massachusetts Institute of Technology (MIT) have developed a fabrication method for soft magnetic hydrogels that can be 3D printed into structures smaller than 1mm and activated remotely by an ordinary...
-According to the research paper published in Matter, the study also saw contributions from École Polytechnique Fédérale de Lausanne (EPFL) and the…, reported by 3D Printing Industry on Jun 06, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/MIT-Mini-MagnoBot-01-press_0-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/new-method-embeds-independent-magnetic-movement-at-the-microscale-252160
+🏠 The steel rebar inside every bridge and parking deck starts rusting the day it goes in, and a UAE team just 3D-printed a wavy plastic version that reaches 80% of steel's strength and never corrodes at all - Autonocion.com
+The steel rebar inside every bridge and parking deck starts rusting the day it goes in, and a UAE team just 3D-printed a wavy plastic version that reaches 80% of steel's strength and never corrodes at all Autonocion.com
+Reported by Google News - 3D Printing on Jun 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGkteUwwN2ZtLVhsSGc2aXhwaDBlZ2UzRHZOR1JwUHhhZ3NjdDFZOVlwWVlfNVplSW5zcHY1N0NCdUduRV9URUptbFl0RE1HdjZTYldfbDZzSEtnNk15Y0tabmlTazJtUnJ6aUZpdkRSS0JS?oc=5
 
-🖨 University of Arkansas Researchers Test Metal 3D Printing in a Mars-Like Atmosphere
-If humans eventually establish a long-term presence on Mars, they will face a major manufacturing challenge almost immediately.
-Tools will break, reported by 3DPrint.com on Jun 05, 2026.
-Read more ? https://3dprint.com/326406/university-of-arkansas-researchers-test-metal-3d-printing-in-a-mars-like-atmosphere
+🏠 Italian architects printed a 60 m² house with local mud in 200 hours, and the result challenges bricks, concrete, and construction waste - OkDiario
+Italian architects printed a 60 m² house with local mud in 200 hours, and the result challenges bricks, concrete, and construction waste OkDiario
+Reported by Google News - 3D Printing on Jun 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMihAJBVV95cUxNSmc1aHFfOUZpeXVQUmNkdW9aR0o1QWpoN0E3azhOWGdtUkIwUmhFNnYweDFXRXU0cHZrUVd0UmQwcllkYmtxbm92d3l6UFVBbEk2X1ZaMkgtNG9ubmNkTWZ2aldqeE5jWTdjWlRRVmFqUTlvY1h6R0RyNEhveUl1Rkt5NmR1TE9sZ3Rha3hnMy1wQ1c5SWxMMFpDZ2RzTWlWYkRGOVpROXgxODRvbEZzZ2p1VHR5dzNXc2trd19WVzVRZkpUSkIxY2t6TjZxdVQ4UjcydGxuLURiUm5kdGFJMHJ6QjlXZzhGWERhLU5lTUMwQnhtZjNpWlFZblc4dC1BOUUtYg?oc=5
 
-📰 UT Researchers Use 3D Printing to Develop “Tabletop EUV Lithography” Process
-Photolithography, the semiconductor manufacturing process whereby lasers transfer patterns onto chemical layers coating a substrate, is one of the most amazing industrial processes humanity has ever created.
-It is also, reported by 3DPrint.com on Jun 05, 2026.
-Read more ? https://3dprint.com/326445/ut-researchers-use-3d-printing-to-develop-tabletop-euv-lithography-process
+🖨 Anycubic Photon Mono 4 dips below $190 saving you 21% off its retail price — Amazon deal saves $50 on this entry-level resin 3D printer - Tom's Hardware
+Anycubic Photon Mono 4 dips below $190 saving you 21% off its retail price — Amazon deal saves $50 on this entry-level resin 3D printer Tom's Hardware
+Reported by Google News - 3D Printing on Jun 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMilgJBVV95cUxQczFXcE5MV2Q5YVZ5R2taT3JfTlpVRllrMy1SMmx0V2ZjcWwwWng0TjRSTnRCNjFoZHZ6MXJuRm8xWXB5cW5XdW13ejRSbnBLeFBxYjJ1MzJaM3o5V0E4NFBBdDQxYUhPM2ROWEdQczN2c2ZBTkYxOGM3SnVCN2VCaE41SENKZmV0b0hCYW5UUWpLOHZjaEJvR1JTR0RFU3ZPWE1fRy1wYWpxTmZQbE41dE4xb1Nad2RpZ1NLcW9DXzNlUWJvc2pSbDFxaE4yLVNDcG9GLXdzdmF1VUJSbDhucWpJMWQxM05ZN1VEenl4WFlhUVJrRWhpeDY4bW9oUEJXdlNqb2xybkpjcHpGMGM2VjJYRTBlZw?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
