@@ -1,48 +1,53 @@
-﻿# 3D PRINTING PULSE #152 - 2026-06-08
+﻿# 3D PRINTING PULSE #153 - 2026-06-09
 
-🚀 Voltage launches Eclipse X9 basalt-PETG composite for large-format AM
-Hawaiian company Voltage Vessels/Voltage Materials has launched Eclipse X9, a basalt-reinforced recycled PETG composite designed for large-format additive manufacturing, now available in both pellet and filament forms.
-The material has … The post Voltage launches Eclipse X9 basalt-PETG composite for large-format AM appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/1780588673313-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/voltage-launches-eclipse-x9-basalt-petg-composite-for-large-format-am
+🚀 Northwestern University researchers print artificial neurons that communicate with living brain cells
+Northwestern University engineers have developed 3D printed artificial neurons capable of generating electrical signals that activate living brain cells, in a development that could advance both bioelectronic...
+Reported by VoxelMatters on Jun 08, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Printed-neurons-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/northwestern-university-researchers-print-artificial-neurons-that-communicate-with-living-brain-cells
 
-🖨 DEEP Manufacturing and Fortius Metals join forces on multi-material wire arc AM
-DEEP Manufacturing and Fortius Metals have begun a joint project to build a multi-material metal cylinder using DEEP Manufacturing’s synchronized multi-robot wire arc Additive Manufacturing (WAAM) system.
-The effort is … The post DEEP Manufacturing and Fortius Metals join forces on multi-material wire arc AM appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/deep-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/deep-manufacturing-and-fortius-metals-join-forces-on-multi-material-wire-arc-am
+🚀 LA startup Parivas launches Exo.1 3D printed watch
+Six years ago, Mickey Brown and Justin Chang, both mechanical engineers with experience in the aerospace industry, set out to develop something new and innovative: a 3D printed wristwatch engineered … The post LA...
+Reported by VoxelMatters on Jun 08, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Parivas_exo1_additive_mfg_stainless_steel-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/la-startup-parivas-launches-exo-1-3d-printed-watch
 
-🚀 English soccer club integrates 3D printing in new kit launch
-Crewe Alexandra FC used full-color 3D printing as the centerpiece of its 2026-27 home kit reveal, working with official printer partner and Mimaki distributor Hybrid Services to produce a miniature … The post English...
-Reported by VoxelMatters on Jun 07, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Crewe-Alexandra-3D-printed-kit-launch-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/english-soccer-club-integrates-3d-printing-in-new-kit-launch
+📰 Xenia brings LSAM-grade thermoplastic composites to FIP 2026
+Xenia Materials is exhibiting at France Innovation Plasturgie (FIP) in Lyon from June 2 to 5, showcasing a range of carbon and glass fiber-reinforced thermoplastic compounds designed for large-scale additive … The...
+Reported by VoxelMatters on Jun 08, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/high-tempertaure-molds-and-tools-scaled-optimized-150x150.webp
+🔗 Read more: https://www.voxelmatters.com/xenia-brings-lsam-grade-thermoplastic-composites-to-fip-2026
 
-💻 Disney Gives Muppet Favorite Scooter a 3D Printed Comeback on Rock ‘n’ Roller Coaster
-For many Disney fans, Rock ‘n’ Roller Coaster Starring Aerosmith was a rite of passage.
-The attraction opened at Disney’s Hollywood Studios in 1999 and quickly became one of the, reported by 3DPrint.com on Jun 07, 2026.
-🔗 Read more: https://3dprint.com/326395/disney-gives-muppet-favorite-scooter-a-3d-printed-comeback-on-rock-n-roller-coaster
+🖨 METALNOX cuts propeller repair time by 20% with SHINING 3D tech
+METALNOX, a Mallorca-based propeller repair specialist, has reduced its propeller repair cycle time by 20% after integrating SHINING 3D‘s FreeScan Combo Series handheld 3D scanner into its workshop operations.
+The … The post METALNOX cuts propeller repair time by 20% with SHINING 3D tech appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/METALNOX-SHINING-3D-05-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/metalnox-cuts-propeller-repair-time-by-20-with-shining-3d-tech
 
-📰 Scientists Are Using 3D Printing To Try And Bring Back Extinct Animals - bgr.com
-Scientists Are Using 3D Printing To Try And Bring Back Extinct Animals bgr.com
-Reported by Google News - 3D Printing on Jun 07, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihAFBVV95cUxORXhabllyOEh1NDhydjdNUDIzT21oUmdSRHRzSVNSTE55VldNWEZCZ2t6RzllcENmTmhNaDhoYjR6Y1k1Z0NnUFFYZTV4TjNROWRROGxmN1pGWFdTbU50SlFBNEJ0ZXB5MXFKZFFmdTFNZzN0cXJRcUViOXRDWTRwTklPUjk?oc=5
+📰 Weerg shows off world’s largest fleet of identical HP MJF 5620 Pro systems
+Weerg, one of the largest 3D printing service providers in the world, now operates 28 HP Multi Jet Fusion 5620 Pro systems in identical configuration at its 6,000 m² facility … The post Weerg shows off world’s...
+Reported by VoxelMatters on Jun 08, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/WEERG-1-e1780839499425-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/weerg-shows-off-worlds-largest-fleet-of-identical-hp-mjf-5620-pro-systems
 
-🏠 The steel rebar inside every bridge and parking deck starts rusting the day it goes in, and a UAE team just 3D-printed a wavy plastic version that reaches 80% of steel's strength and never corrodes at all - Autonocion.com
-The steel rebar inside every bridge and parking deck starts rusting the day it goes in, and a UAE team just 3D-printed a wavy plastic version that reaches 80% of steel's strength and never corrodes at all Autonocion.com
-Reported by Google News - 3D Printing on Jun 07, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMidEFVX3lxTFBVSGkteUwwN2ZtLVhsSGc2aXhwaDBlZ2UzRHZOR1JwUHhhZ3NjdDFZOVlwWVlfNVplSW5zcHY1N0NCdUduRV9URUptbFl0RE1HdjZTYldfbDZzSEtnNk15Y0tabmlTazJtUnJ6aUZpdkRSS0JS?oc=5
+🖨 Interspectral expands multi-year partnership with Pankl Racing Systems AG
+The two companies aim to accelerate the industrialisation of metal additive manufacturing through improved process monitoring, quality assurance, and data-driven production workflows.
+Reported by TCT Magazine on Jun 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/1-2.png.png
+🔗 Read more: https://www.tctmagazine.com/interspectral-expands-multi-year-partnership-with-pankl-racing-systems-ag
 
-🏠 Italian architects printed a 60 m² house with local mud in 200 hours, and the result challenges bricks, concrete, and construction waste - OkDiario
-Italian architects printed a 60 m² house with local mud in 200 hours, and the result challenges bricks, concrete, and construction waste OkDiario
-Reported by Google News - 3D Printing on Jun 07, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihAJBVV95cUxNSmc1aHFfOUZpeXVQUmNkdW9aR0o1QWpoN0E3azhOWGdtUkIwUmhFNnYweDFXRXU0cHZrUVd0UmQwcllkYmtxbm92d3l6UFVBbEk2X1ZaMkgtNG9ubmNkTWZ2aldqeE5jWTdjWlRRVmFqUTlvY1h6R0RyNEhveUl1Rkt5NmR1TE9sZ3Rha3hnMy1wQ1c5SWxMMFpDZ2RzTWlWYkRGOVpROXgxODRvbEZzZ2p1VHR5dzNXc2trd19WVzVRZkpUSkIxY2t6TjZxdVQ4UjcydGxuLURiUm5kdGFJMHJ6QjlXZzhGWERhLU5lTUMwQnhtZjNpWlFZblc4dC1BOUUtYg?oc=5
+🖨 Incodema3D to add more than a dozen EOS metal 3D printers to existing fleet
+The company has made this latest investment in line with a growth plan that will see its manufacturing capacity increase threefold by 2030.
+Reported by TCT Magazine on Jun 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/System_EOS_M4_ONYX-1.jpg
+🔗 Read more: https://www.tctmagazine.com/incodema3d-to-add-more-than-a-dozen-eos-metal-3d-printers-to-existing-fleet
 
-🖨 Anycubic Photon Mono 4 dips below $190 saving you 21% off its retail price — Amazon deal saves $50 on this entry-level resin 3D printer - Tom's Hardware
-Anycubic Photon Mono 4 dips below $190 saving you 21% off its retail price — Amazon deal saves $50 on this entry-level resin 3D printer Tom's Hardware
-Reported by Google News - 3D Printing on Jun 07, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMilgJBVV95cUxQczFXcE5MV2Q5YVZ5R2taT3JfTlpVRllrMy1SMmx0V2ZjcWwwWng0TjRSTnRCNjFoZHZ6MXJuRm8xWXB5cW5XdW13ejRSbnBLeFBxYjJ1MzJaM3o5V0E4NFBBdDQxYUhPM2ROWEdQczN2c2ZBTkYxOGM3SnVCN2VCaE41SENKZmV0b0hCYW5UUWpLOHZjaEJvR1JTR0RFU3ZPWE1fRy1wYWpxTmZQbE41dE4xb1Nad2RpZ1NLcW9DXzNlUWJvc2pSbDFxaE4yLVNDcG9GLXdzdmF1VUJSbDhucWpJMWQxM05ZN1VEenl4WFlhUVJrRWhpeDY4bW9oUEJXdlNqb2xybkpjcHpGMGM2VjJYRTBlZw?oc=5
+💻 Dyndrite to lead America Makes' Artificial Intelligence for Material Allowables in Additive Manufacturing project
+AIM-4AM is a $2 million initiative that is seeking to develop an AI-driven framework to identify and quantify risks within the existing material allowables approach for Laser Powder Bed Fusion.
+Reported by TCT Magazine on Jun 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/653fc84a05bcbe86cf4ccf13_Additive_20cam_201000px--1--1.png
+🔗 Read more: https://www.tctmagazine.com/dyndrite-to-lead-america-makes-artificial-intelligence-for-material-allowables-in-additive-manufacturing-project
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "Voltage launches Eclipse X9 basalt-PETG composite for large-format AM" because it highlights where practical 3D printing innovation is moving next. Story: https://www.voxelmatters.com/voltage-launches-eclipse-x9-basalt-petg-composite-for-large-format-am | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "Northwestern University researchers print artificial neurons that communicate with living brain cells" because it highlights where practical 3D printing innovation is moving next. Source: https://www.voxelmatters.com/northwestern-university-researchers-print-artificial-neurons-that-communicate-with-living-brain-cells | Complete rundown: https://www.quality3ds.com/

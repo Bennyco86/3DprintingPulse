@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-09
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #153 - 2026-06-09
+## Stories
 
 🚀 Northwestern University researchers print artificial neurons that communicate with living brain cells
 Northwestern University engineers have developed 3D printed artificial neurons capable of generating electrical signals that activate living brain cells, in a development that could advance both bioelectronic...
@@ -51,9 +49,3 @@ AIM-4AM is a $2 million initiative that is seeking to develop an AI-driven frame
 Reported by TCT Magazine on Jun 08, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/653fc84a05bcbe86cf4ccf13_Additive_20cam_201000px--1--1.png
 Read more ? https://www.tctmagazine.com/dyndrite-to-lead-america-makes-artificial-intelligence-for-material-allowables-in-additive-manufacturing-project
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
