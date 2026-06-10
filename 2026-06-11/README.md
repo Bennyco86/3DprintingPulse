@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #155 - 2026-06-11
+## Stories
 
 🔥 EV Battery Insulation Goes Digital as Plastic Film Fails - Battery Technology
 EV Battery Insulation Goes Digital as Plastic Film Fails Battery Technology
@@ -49,9 +47,3 @@ The largest specialist event of its kind, AMA: Aerospace, Space and Defense, ret
 Additive manufacturing in aerospace and defense has entered a more demanding phase, reported by 3D Printing Industry on Jun 10, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png
 Read more ? https://3dprintingindustry.com/news/additive-manufacturing-advantage-aerospace-space-and-defense-2026-speakers-announced-252218
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
