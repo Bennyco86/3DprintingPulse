@@ -1,51 +1,52 @@
-﻿# 3D PRINTING PULSE #155 - 2026-06-11
+﻿# 3D PRINTING PULSE #156 - 2026-06-12
 
-🔥 EV Battery Insulation Goes Digital as Plastic Film Fails - Battery Technology
-EV Battery Insulation Goes Digital as Plastic Film Fails Battery Technology
-Reported by Google News - 3D Printing on Jun 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMjQ3MS1HakxkMDNkTUd3LTJLOFFKeE5aamhlVEtTaDVBRzNZNGU3M2VaSm9OOElEd2ZaVEZKMXhiY1dQRTN1bHFvZ0NpRnNLazczSkxoeVZFS3F5Q0lTU1VJb3JMYmNYUzNXd3RqMmJHbWdKdVI4eUpwOWxVUEticzl2OGFYS1NJVXpHQllHQVVsMmJlQkVrdVhSb3dUTW42dUdXSXdlZXpPRlpNMHNhNGVRcjdVTWxFZnRtMDlsWkJqZE5jRzE4OXVXdkZOYjhnVm9Rdm9B?oc=5
+🔥 Google Releases Enables 3D Printed Fitbit Air Band Designs
+Google has stepped into the world of 3D printing in a big way.
+The post Google Releases Enables 3D Printed Fitbit Air Band Designs appeared on Fabbaloo.
+🔗 Read more: https://www.fabbaloo.com/news/google-releases-enables-3d-printed-fitbit-air-band-designs
 
-🚨 Formlabs Launches Fuse X1: Technical Specifications and Pricing
-Supplier of professional stereolithography (SLA) and selective laser sintering (SLS) 3D printers Formlabs has introduced the Fuse X1, a large-format SLS ecosystem aimed at bringing industrial-grade powder bed fusion...
-Announced June 9, 2026, the machine is priced from $84,999, can be ordered immediately, and…, reported by 3D Printing Industry on Jun 10, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Optimized_For_Web_JPEG-Formlabs-2026_FUSE-X1_SLS-Printer_002-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/formlabs-launches-fuse-x1-technical-specifications-and-pricing-252208
+💻 Hi3D expands its Maker toolset with automated part splitting and assembly connectors
+Hi3D, the AI-powered 3D model generation platform built on the company’s proprietary Sparc3D model, released a set of new Maker capabilities designed to shorten the path from AI-generated model to … The post Hi3D...
+Reported by VoxelMatters on Jun 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/split-to-print-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/hi3d-expands-its-maker-toolset-with-automated-part-splitting-and-assembly-connectors
 
-🚨 Formlabs Launches the $84,999 Fuse X1 3D Printer - Hackster.io
-Formlabs Launches the $84,999 Fuse X1 3D Printer Hackster.io
-Reported by Google News - 3D Printing on Jun 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikwFBVV95cUxQTEpMWFNWQnJIWUdvUkZad00xT0NnaDNsNHZJTGw0LUU1eGZ6R040elFnejVoV0FMVnJKSDFRcGxoVUw5RmhOdF9WT2xaQjJ6ZlpMTUJYTlRZRXVINDl0ejFkb0hWdEhkR1VPTVNoeElZZU91N3kxQkFJd1VMZTkxcS1DSjBJQUphbVdMa2c3WHJvcTjSAZgBQVVfeXFMT2pTV1NlYjNqWTJmeU5fM3pyUUswQ0VGVXc3UFZxUGF5QVctaEJUeF8waDd4MlhweUVwcXZSaTYtSWU1Y0pFOEFkTUczelpJekk5aV95aDJOaUZ6dUVjSGtJbEdrWm1ob212eTNobkl3N2RpQVIxWk8talJSOEJmeVVMM0FsNG9TR1BoOFUyVFdQcFUtcTNrcDY?oc=5
+📰 Photocentric takes JENI out for a spin
+"The original spinning jenny allowed one person to make multiple yarns at the same time, which allowed the cloth industry to flourish.
+That changed the world, basically, reported by TCT Magazine on Jun 11, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/IMG_0745-1-1.jpeg
+🔗 Read more: https://www.tctmagazine.com/photocentric-takes-jeni-out-for-a-spin
 
-🚀 Talleres Artificio reduces ball mill inspection time by up to 50% with metrology
-Talleres Artificio, a mechanical engineering company based in Nogales, Chile, has integrated SHINING 3D‘s FreeScan Trak Nova into its inspection workflow for ball mill maintenance projects, cutting on-site...
-Reported by VoxelMatters on Jun 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Talleres-Artificio-SHINING-3D-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/talleres-artificio-reduces-ball-mill-inspection-time-by-up-to-50-with-metrology
+💻 US Air Force to fit entire C-17 fleet with 3D printed microvanes within a year
+The US Air Force is moving toward fitting its entire C-17 Globemaster III transport fleet with 3D printed microvanes, with a senior service official stating all 222 aircraft would carry … The post US Air Force to fit...
+Reported by VoxelMatters on Jun 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/C-17-3D-printed-microvanes-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/us-air-force-to-fit-entire-c-17-fleet-with-3d-printed-microvanes-within-a-year
 
-🚀 ROBOZE appoints retired military officer as Senior Aerospace &amp; Defence Advisor for Singapore
-Yap will support the development of partnerships aimed at accelerating the adoption of qualified advanced manufacturing technologies throughout Singapore and Southeast Asia.
-Reported by TCT Magazine on Jun 10, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/Senza_titolo_2.png
-🔗 Read more: https://www.tctmagazine.com/roboze-appoints-retired-military-officer-as-senior-aerospace-defence-advisor-for-singapore
+📰 From Concept to Certified: How 3D Printed Fluidic Fittings Are Disrupting the Medtech Market
+Discover how Astoria-Pacific International leveraged the Carbon platform to bring a groundbreaking manufacturing solution to life — and what it could mean for your next medtech application.
+Reported by TCT Magazine on Jun 11, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/image--5--Firefly-Upscaler-2x-scale-1.jpg
+🔗 Read more: https://www.tctmagazine.com/events/from-concept-to-certified-how-3d-printed-fluidic-fittings-are-disrupting-the-medtech-market-2
 
-📰 Rem3dy Health closes £14m round at £84m valuation to fund international growth
-Rem3dy Health, the UK-based parent company of personalized vitamin gummy brand Nourish3d, has closed a £14 million ($18.6m) funding round valuing the business at £84m ($111.7m).
-The round was led … The post Rem3dy Health closes £14m round at £84m valuation to fund international growth appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/10/2fe2bc9c41679ad48a18110-150x150.webp
-🔗 Read more: https://www.voxelmatters.com/rem3dy-health-closes-14m-round-at-84m-valuation-to-fund-international-growth
+🏠 Julia Koerner turns applause into sculpture with 3D printing
+Last month, at A Night At the Opera Gala, the Zurich Opera House handed out the first Opera House Award to the team from the Female Classics organization.
+The award … The post Julia Koerner turns applause into sculpture with 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/frozen-music-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/julia-koerner-turns-applause-into-sculpture-with-3d-printing
 
-📰 Elmet Technologies received $4.3 million US defense contract for molybdenum components
-Elmet Technologies, a wholly owned subsidiary of The Elmet Group Co.
-(NASDAQ: ELMT) and the sole US-owned and vertically integrated tungsten and molybdenum manufacturer, secured $4.3 million in strategic funding … The post Elmet Technologies received $4.3 million US defense contract, reported by VoxelMatters on Jun 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/06/Elmet-Additive-Manufacturing-Parts-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/elmet-technologies-received-4-3-million-us-defense-contract-for-molybdenum-components
+💻 Lockheed Martin’s Skunk Works takes 3D printed drone from concept to hardware in under a year
+Lockheed Martin‘s Skunk Works division and advanced manufacturing company Divergent produced a nine-foot wingspan unmanned aircraft system (UAS) from initial concept to first article in less than 12 months, using …...
+Reported by VoxelMatters on Jun 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Lockheed-Martin-Replicator-drone-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lockheed-martins-skunk-works-takes-3d-printed-drone-from-concept-to-hardware-in-under-a-year
 
-🚀 Additive Manufacturing Advantage: Aerospace, Space and Defense 2026 Speakers Announced
-The largest specialist event of its kind, AMA: Aerospace, Space and Defense, returns on July 9th.
-Additive manufacturing in aerospace and defense has entered a more demanding phase, reported by 3D Printing Industry on Jun 10, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/additive-manufacturing-advantage-aerospace-space-and-defense-2026-speakers-announced-252218
+💻 TDK Corporation to acquire Fabric8Labs in deal worth up to $400m
+Fabric8Labs' ECAM technology will be integrated into TDK's global manufacturing network.
+Reported by TCT Magazine on Jun 11, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/FABRIC8LABS__Phased_Array_Antenna_PCB--1-.png
+🔗 Read more: https://www.tctmagazine.com/tdk-corporation-to-acquire-fabric8labs-in-deal-worth-up-to-400m
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Formlabs Launches Fuse X1: Technical Specifications and Pricing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://3dprintingindustry.com/news/formlabs-launches-fuse-x1-technical-specifications-and-pricing-252208 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Google Releases Enables 3D Printed Fitbit Air Band Designs" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://www.fabbaloo.com/news/google-releases-enables-3d-printed-fitbit-air-band-designs | Explore more: https://www.quality3ds.com/

@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-12
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #156 - 2026-06-12
+## Stories
 
 🔥 Google Releases Enables 3D Printed Fitbit Air Band Designs
 Google has stepped into the world of 3D printing in a big way.
@@ -50,9 +48,3 @@ Fabric8Labs' ECAM technology will be integrated into TDK's global manufacturing 
 Reported by TCT Magazine on Jun 11, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/FABRIC8LABS__Phased_Array_Antenna_PCB--1-.png
 Read more ? https://www.tctmagazine.com/tdk-corporation-to-acquire-fabric8labs-in-deal-worth-up-to-400m
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
