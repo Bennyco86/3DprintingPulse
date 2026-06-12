@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-13
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #157 - 2026-06-13
+## Stories
 
 🔥 FIFA banned vuvuzelas. Bay Area students used a 3D printer for one that ‘sounds acoustically better’ - San Francisco Chronicle
 FIFA banned vuvuzelas.
@@ -50,9 +48,3 @@ How KLS Martin is using ceramic 3D printing technology from Lithoz to produce zy
 Reported by TCT Magazine on Jun 12, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/shared-image--26--1-1.jpeg
 Read more ? https://www.tctmagazine.com/application-spotlight-ceramic-3d-printing-enables-patient-specific-zygomatic-onlay-implants
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
