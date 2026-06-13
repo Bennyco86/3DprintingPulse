@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-14
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #158 - 2026-06-14
+## Stories
 
 🔥 New law aims to ban 3D-printed guns after UnitedHealthcare CEO murder - The Independent
 New law aims to ban 3D-printed guns after UnitedHealthcare CEO murder The Independent
@@ -46,9 +44,3 @@ Read more ? https://blog.prusa3d.com/a-cheap-smart-light-controller-thanks-to-3d
 A 3D-printed option for bending easy-to-mar metal The Fabricator
 Reported by Google News - 3D Printing on Jun 13, 2026.
 Read more ? https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVRxd0d6Mk9PY09aS3NYQnk1OXNJcFVEWjQ5UEo5R1hQcDVBU1NFNlZ0WjJQcEVYVDJvSWJWZFZIWGUydkF3Y0dUMHhjMUZxS3laaHhScHRXT1ZiaUx6UmQtRGtfSHBKcVNZMFpCRkg2NXExTE9ER3RIRlBSSmFmMHpkQnZ1ZjFTYkJUMVdrTjlJLTM1WUdJWG0ydEN6dm5aWlZzdnhHcXVYYmcyNVE?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
