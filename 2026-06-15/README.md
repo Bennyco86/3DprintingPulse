@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-15
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #159 - 2026-06-15
+## Stories
 
 🔥 US law seeks to put ban the printing of 3D guns - Taipei Times
 US law seeks to put ban the printing of 3D guns Taipei Times
@@ -46,9 +44,3 @@ Read more ? https://news.google.com/rss/articles/CBMimAFBVV95cUxQT01tSU1zMDBheVQ
 Science fiction comes to life at University of Miami's new lab facilitiesmanagement-now.com
 Reported by Google News - 3D Printing on Jun 14, 2026.
 Read more ? https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNDZjd3NHVDFhVEp0dWJWVENFRVBwRDAzUjFqblpHU0x1VVk2UGFHSExCZnVUUGhnNlFfcEFKazRSRkJncGE5NF9wTUU3RFBDbThnTW91QktFUG9LNmVUVmJURndrT0dHQnB4QWZadXRJSU9pRHJBLVBWZW5OUEYtVGVRT2FJM1Qwal9GVEt4UWJFTFFIOTI1Z2wxYnNadkQ2QS1DYmQyazJUVHBsYmZTWGRMVmZnXzdySW9zYzlXWUJ0SDZWdDFaVy04Rkx3Rm12Q1dxN3ZJM3RrV0lmOXQ4QmpoSnRUcy1NOWIzR0lyX2trSVAxaHdyOHJVbVdQR2ptSUZwVkZiUjEwZGxnbmxfeE80cEFtRnlaemlyVVY3NzZORVN6V09fTVp1ei04S2VldUlpcW5NSld0dXZDUmUxYUhaM05YMUJ3VzljaDhFN3A0OHBGUTA1Ug?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

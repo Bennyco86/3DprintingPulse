@@ -1,48 +1,48 @@
-﻿# 3D PRINTING PULSE #158 - 2026-06-14
+﻿# 3D PRINTING PULSE #159 - 2026-06-15
 
-🔥 New law aims to ban 3D-printed guns after UnitedHealthcare CEO murder - The Independent
-New law aims to ban 3D-printed guns after UnitedHealthcare CEO murder The Independent
-Reported by Google News - 3D Printing Viral on Jun 13, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmdQdGFlOFFPZkpWalZoLTN5U1BRRmtZOW5tR2E3cm43NDMyZC0xN1ZNcUpDOFlGZXVLZmFrdjN3UWczb2Vtdm5ibmlYX243Q01HQjVDdldDdFpCUnZHaTRPUzFhcGNQLUNlclhmVEFWLVk2dkYxbEktRkxxdF9VenQ3azBpVUwwRjVtY2VVdjRINnlVWUwyWWJxel83QU95TmlOT3Y2RmhPUDhSTU4tdUh1N25EdUN6bVBiN25zdV9qMG9T?oc=5
+🔥 US law seeks to put ban the printing of 3D guns - Taipei Times
+US law seeks to put ban the printing of 3D guns Taipei Times
+Reported by Google News - 3D Printing on Jun 14, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbkRjd3AycVNBcWk3UkxzRFVhLUxJWjF2MGZqZXNDVTFnWjl6WnRreGFxLWhwcHFTbDVKZzhNQ2owcjZXNU1Dd2Z6X1hkc1BNZmhBY1lPUjB6YUZaSjBpcXhzbWZ6eGZEaEVXLW43Z1E2b0txbVk2MQ?oc=5
 
-🏠 Luyten turns a tower crane into a 3D printer, now capable of printing buildings up to 100 meters tall
-Australian company Luyten has just unveiled the Ascend Series A27, a concrete 3D printing system mounted on a tower crane.
-According to the manufacturer, this is the world’s first device … The post Luyten turns a tower crane into a 3D printer, now capable of printing buildings up to 100 meters tall appeared first on VoxelMatters - The...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Zrzut-ekranu-2026-06-13-153936-150x150.png
-🔗 Read more: https://www.voxelmatters.com/luyten-turns-a-tower-crane-into-a-3d-printer-now-capable-of-printing-buildings-up-to-100-meters-tall
+♻️ RIT gets $3 million NSF grant to advance metal 3D printing with recycled feedstocks
+Rochester Institute of Technology has received a nearly $3 million grant from the National Science Foundation (NSF) to develop a new approach to metal additive manufacturing.
+The research centers on … The post RIT gets $3 million NSF grant to advance metal 3D printing with recycled feedstocks appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/NMSU-grant-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/rit-gets-3-million-nsf-grant-to-advance-metal-3d-printing-with-recycled-feedstocks
 
-🚀 US Marine Corps creates fabrication specialist role with 3D printing at its core
-The US Marine Corps is consolidating two existing engineering roles into a single new military occupational specialty (MOS) centered on additive manufacturing, taking effect October 1, 2026.
-Metal Worker MOS … The post US Marine Corps creates fabrication specialist role with 3D printing at its core appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Marine-Corps-AM-role-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/us-marine-corps-creates-fabrication-specialist-role-with-3d-printing-at-its-core
+📰 La Universidad de Nottingham inaugura el centro de CSAM con mayor presión de Reino Unido
+La Universidad de Nottingham ha inaugurado el centro de fabricación aditiva por pulverización en frío (CSAM) que ostenta el récord de presión de Reino Unido y cuyos sistemas ha diseñado e instalado … The post La...
+Reported by VoxelMatters on Jun 14, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Nottingham-Uni-coldspray-AM-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/la-universidad-de-nottingham-inaugura-el-centro-de-csam-con-mayor-presion-de-reino-unido
 
-🚀 SpaceX IPO Puts a Major 3D Printing Powerhouse on Wall Street
-SpaceX officially began trading on the Nasdaq today under the ticker symbol SPCX, marking one of the most anticipated and largest public offerings in Wall Street history.
-The company priced, reported by 3DPrint.com on Jun 12, 2026.
-🔗 Read more: https://3dprint.com/326801/spacex-ipo-puts-a-major-3d-printing-powerhouse-on-wall-street
+🏠 Australian musician builds 3D printed concertinas and violins from home workshop
+Australian accordionist Eddy Jay, who has performed on Broadway and toured the UK, lacked woodworking skills and so turned to a 3D printer as an alternative path into lutherie.
+He … The post Australian musician builds 3D printed concertinas and violins from home workshop appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Australian-instruments-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/australian-musician-builds-3d-printed-concertinas-and-violins-from-home-workshop
 
-🖨 The Seminal Moment: Creality’s IPO Analysis &amp; Possible Effects
-Something super important happened just a few days ago, and too few people paid attention.
-Creality, a pioneer in low-cost desktop material extrusion printers, went public, reported by 3DPrint.com on Jun 12, 2026.
-🔗 Read more: https://3dprint.com/326431/the-seminal-moment-crealitys-ipo-analysis-possible-effects
+🖨 The Rise of IP: The First Emoji 3D Printer Is Here. Don’t Rule Out Star Wars Next.
+For years, most desktop 3D printers have looked more or less the same.
+Some are black, reported by 3DPrint.com on Jun 14, 2026.
+🔗 Read more: https://3dprint.com/326035/the-rise-of-ip-the-first-emoji-3d-printer-is-here-dont-rule-out-star-wars-next
 
-🚀 Photocentric Spins Out CosmicMaker to Pursue In-Space Manufacturing
-UK-based 3D printing company Photocentric has spun out its space manufacturing activities into a separate business called CosmicMaker, after the successful demonstration of its 3D printing technology aboard a series...
-Reported by 3DPrint.com on Jun 12, 2026.
-🔗 Read more: https://3dprint.com/326832/photocentric-spins-out-cosmicmaker-to-pursue-in-space-manufacturing
+🖨 NMSU researcher works to turn scrap metal into 3D-printed parts - Organ Mountain News
+NMSU researcher works to turn scrap metal into 3D-printed parts Organ Mountain News
+Reported by Google News - 3D Printing on Jun 14, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUtRelZUM3Fhd3RRVEh4eWkyN21qanNRajlLcmR0dDJZWFdnUmNsbVFvVVJoQThiTkpjTThlWDljOUlhWmtra2tDbHlCM01hLVpiRE9FdkxjM0dYbDdaVG0zSnB2SlBLRlctSnFUQUZ3cllMZ3AzdWtiSllZSXZDQXhNaVRraGFCZnU0?oc=5
 
-🏠 Control Your Smart Home with a Custom 3D-Printed Macropad
-As a smart home enthusiast, I rely on smart lighting quite a lot.
-But when I needed to equip every room in the house with a light controller, sometimes even multiple, I ran into a budget problem, reported by Prusa Blog on Jun 12, 2026.
-🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/05/0591b6ce-3d-printed_smart_home_controller_blog-698x325.jpg
-🔗 Read more: https://blog.prusa3d.com/a-cheap-smart-light-controller-thanks-to-3d-printing_136243
+📰 OpenCAL: Computed Axial Lithographic 3D Printing For Everyone - Hackaday
+OpenCAL: Computed Axial Lithographic 3D Printing For Everyone Hackaday
+Reported by Google News - 3D Printing on Jun 14, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMimAFBVV95cUxQT01tSU1zMDBheVQ3VjdIY010Ul9zQkpZVjhvZ2pUMnZrSWZvejN0Q0Q4Y3lNZlRMdVJzSTA0MGhrLTZNdzVpMWpDQTlfVGhiS2lNZzk0ZWJDTTJVVjBvOVdKb3AyTmRpZjU1dC1tZGpfdHJUUFhZZDRkeWxkSVBsaU1YYm1BeEZGclRsTjUxcFhETzdZbmluUw?oc=5
 
-🖨 A 3D-printed option for bending easy-to-mar metal - The Fabricator
-A 3D-printed option for bending easy-to-mar metal The Fabricator
-Reported by Google News - 3D Printing on Jun 13, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirgFBVV95cUxPYVRxd0d6Mk9PY09aS3NYQnk1OXNJcFVEWjQ5UEo5R1hQcDVBU1NFNlZ0WjJQcEVYVDJvSWJWZFZIWGUydkF3Y0dUMHhjMUZxS3laaHhScHRXT1ZiaUx6UmQtRGtfSHBKcVNZMFpCRkg2NXExTE9ER3RIRlBSSmFmMHpkQnZ1ZjFTYkJUMVdrTjlJLTM1WUdJWG0ydEN6dm5aWlZzdnhHcXVYYmcyNVE?oc=5
+📰 3D-printed bones? Science fiction comes to life at University of Miami's new lab - facilitiesmanagement-now.com
+Science fiction comes to life at University of Miami's new lab facilitiesmanagement-now.com
+Reported by Google News - 3D Printing on Jun 14, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNDZjd3NHVDFhVEp0dWJWVENFRVBwRDAzUjFqblpHU0x1VVk2UGFHSExCZnVUUGhnNlFfcEFKazRSRkJncGE5NF9wTUU3RFBDbThnTW91QktFUG9LNmVUVmJURndrT0dHQnB4QWZadXRJSU9pRHJBLVBWZW5OUEYtVGVRT2FJM1Qwal9GVEt4UWJFTFFIOTI1Z2wxYnNadkQ2QS1DYmQyazJUVHBsYmZTWGRMVmZnXzdySW9zYzlXWUJ0SDZWdDFaVy04Rkx3Rm12Q1dxN3ZJM3RrV0lmOXQ4QmpoSnRUcy1NOWIzR0lyX2trSVAxaHdyOHJVbVdQR2ptSUZwVkZiUjEwZGxnbmxfeE80cEFtRnlaemlyVVY3NzZORVN6V09fTVp1ei04S2VldUlpcW5NSld0dXZDUmUxYUhaM05YMUJ3VzljaDhFN3A0OHBGUTA1Ug?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "New law aims to ban 3D-printed guns after UnitedHealthcare CEO murder - The Independent" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNdmdQdGFlOFFPZkpWalZoLTN5U1BRRmtZOW5tR2E3cm43NDMyZC0xN1ZNcUpDOFlGZXVLZmFrdjN3UWczb2Vtdm5ibmlYX243Q01HQjVDdldDdFpCUnZHaTRPUzFhcGNQLUNlclhmVEFWLVk2dkYxbEktRkxxdF9VenQ3azBpVUwwRjVtY2VVdjRINnlVWUwyWWJxel83QU95TmlOT3Y2RmhPUDhSTU4tdUh1N25EdUN6bVBiN25zdV9qMG9T?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "US law seeks to put ban the printing of 3D guns - Taipei Times" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbkRjd3AycVNBcWk3UkxzRFVhLUxJWjF2MGZqZXNDVTFnWjl6WnRreGFxLWhwcHFTbDVKZzhNQ2owcjZXNU1Dd2Z6X1hkc1BNZmhBY1lPUjB6YUZaSjBpcXhzbWZ6eGZEaEVXLW43Z1E2b0txbVk2MQ?oc=5 | Full coverage: https://www.quality3ds.com/
