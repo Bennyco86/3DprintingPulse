@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-16
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #160 - 2026-06-16
+## Stories
 
 🚨 Bambu Lab Anniversary Sale Includes First-Ever Discounts for P2S, H2S & H2C Machines - All3DP
 Bambu Lab Anniversary Sale Includes First-Ever Discounts for P2S, H2S & H2C Machines All3DP
@@ -50,9 +48,3 @@ Read more ? https://3dprintingindustry.com/news/spectrum-filaments-receives-mult
 Reported by TCT Magazine on Jun 15, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/SSAB-metal-additive-manufacturing.jpg
 Read more ? https://www.tctmagazine.com/ssab-to-expand-production-facility-for-additive-manufacturing-steel-powder
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

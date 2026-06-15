@@ -1,48 +1,52 @@
-﻿# 3D PRINTING PULSE #159 - 2026-06-15
+﻿# 3D PRINTING PULSE #160 - 2026-06-16
 
-🔥 US law seeks to put ban the printing of 3D guns - Taipei Times
-US law seeks to put ban the printing of 3D guns Taipei Times
-Reported by Google News - 3D Printing on Jun 14, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbkRjd3AycVNBcWk3UkxzRFVhLUxJWjF2MGZqZXNDVTFnWjl6WnRreGFxLWhwcHFTbDVKZzhNQ2owcjZXNU1Dd2Z6X1hkc1BNZmhBY1lPUjB6YUZaSjBpcXhzbWZ6eGZEaEVXLW43Z1E2b0txbVk2MQ?oc=5
+🚨 Bambu Lab Anniversary Sale Includes First-Ever Discounts for P2S, H2S &amp; H2C Machines - All3DP
+Bambu Lab Anniversary Sale Includes First-Ever Discounts for P2S, H2S &amp; H2C Machines All3DP
+Reported by Google News - 3D Printing on Jun 15, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipgFBVV95cUxOMW5vd2V5MnBsclBSRXhCRnZ6cl80YjFwaERZWWhNOWM0NzhTLXo5dmZ4VlhHY1ZpNEN5WDBNWVhsb2xhM2otSmdydHNzeHFwSW1lNHZOV3pVTEF0RllhQ1BleTRHUDdaUlFNQzFjdThWN2dQdzI5OGZsdm9ocEVMQWpmdXRfVlJ3ZGZmU2F0cWlQVEVJcUhHVDBkeUIwajBjWE9BdUt3?oc=5
 
-♻️ RIT gets $3 million NSF grant to advance metal 3D printing with recycled feedstocks
-Rochester Institute of Technology has received a nearly $3 million grant from the National Science Foundation (NSF) to develop a new approach to metal additive manufacturing.
-The research centers on … The post RIT gets $3 million NSF grant to advance metal 3D printing with recycled feedstocks appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/NMSU-grant-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/rit-gets-3-million-nsf-grant-to-advance-metal-3d-printing-with-recycled-feedstocks
+🚀 SSAB launches what it claims is world’s first protection steel powder
+Swedish steel producer SSAB has taken its Armox 500 AM Powder – the first in a series of planned powder grades – to the Eurosatory Defense and Security tradeshow in … The post SSAB launches what it claims is world’s...
+Reported by VoxelMatters on Jun 15, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/SSAB-Armox-500-AM-Powder-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ssab-launches-what-it-claims-is-worlds-first-protection-steel-powder
 
-📰 La Universidad de Nottingham inaugura el centro de CSAM con mayor presión de Reino Unido
-La Universidad de Nottingham ha inaugurado el centro de fabricación aditiva por pulverización en frío (CSAM) que ostenta el récord de presión de Reino Unido y cuyos sistemas ha diseñado e instalado … The post La...
-Reported by VoxelMatters on Jun 14, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Nottingham-Uni-coldspray-AM-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/la-universidad-de-nottingham-inaugura-el-centro-de-csam-con-mayor-presion-de-reino-unido
+📰 Forks 3.0, 3D printing the cutlery of the future
+Picture a place setting, with a fork, spoon, and knife.
+Chances are, we’re all more or less picturing the same thing, reported by VoxelMatters on Jun 15, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/mishakahn-white-bg-1200x-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/forks-3-0-3d-printing-the-cutlery-of-the-future
 
-🏠 Australian musician builds 3D printed concertinas and violins from home workshop
-Australian accordionist Eddy Jay, who has performed on Broadway and toured the UK, lacked woodworking skills and so turned to a 3D printer as an alternative path into lutherie.
-He … The post Australian musician builds 3D printed concertinas and violins from home workshop appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Australian-instruments-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/australian-musician-builds-3d-printed-concertinas-and-violins-from-home-workshop
+🚀 R3 Printing emerges from stealth to launch material extrusion 3D printing technology
+The company's R3 Printer is available to order now, with shipping of the R3 Printer Ultra set to commence on August 31, 2026.
+Reported by TCT Magazine on Jun 15, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/YFRH935gZ8Bmro5VyozyXNJK4E-1.png
+🔗 Read more: https://www.tctmagazine.com/r3-printing-emerges-from-stealth-to-launch-material-extrusion-3d-printing-technology
 
-🖨 The Rise of IP: The First Emoji 3D Printer Is Here. Don’t Rule Out Star Wars Next.
-For years, most desktop 3D printers have looked more or less the same.
-Some are black, reported by 3DPrint.com on Jun 14, 2026.
-🔗 Read more: https://3dprint.com/326035/the-rise-of-ip-the-first-emoji-3d-printer-is-here-dont-rule-out-star-wars-next
+📰 Aalto University researchers use 3D printed panels to solve 6G coverage issues
+Researchers at Aalto University have developed a class of passive signal-management devices — called metacrystals — that redirect radio waves around physical obstacles without requiring power, active tuning or...
+Reported by VoxelMatters on Jun 15, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Aalto-University-6G-panels-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/aalto-university-researchers-use-3d-printed-panels-to-solve-6g-coverage-issues
 
-🖨 NMSU researcher works to turn scrap metal into 3D-printed parts - Organ Mountain News
-NMSU researcher works to turn scrap metal into 3D-printed parts Organ Mountain News
-Reported by Google News - 3D Printing on Jun 14, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSUtRelZUM3Fhd3RRVEh4eWkyN21qanNRajlLcmR0dDJZWFdnUmNsbVFvVVJoQThiTkpjTThlWDljOUlhWmtra2tDbHlCM01hLVpiRE9FdkxjM0dYbDdaVG0zSnB2SlBLRlctSnFUQUZ3cllMZ3AzdWtiSllZSXZDQXhNaVRraGFCZnU0?oc=5
+📰 Former Fremont Mayor Lily Mei joins Velo3D Board of Directors
+Mei currently serves as Executive Director of Emerging City Leaders Institute for Partnership &amp; Strategic Empowerment ("ECLIPSE") at San Francisco Bay University, a role she has held since June 2025.
+Reported by TCT Magazine on Jun 15, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/image--29--1.png
+🔗 Read more: https://www.tctmagazine.com/former-fremont-mayor-lily-mei-joins-velo3d-board-of-directors
 
-📰 OpenCAL: Computed Axial Lithographic 3D Printing For Everyone - Hackaday
-OpenCAL: Computed Axial Lithographic 3D Printing For Everyone Hackaday
-Reported by Google News - 3D Printing on Jun 14, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimAFBVV95cUxQT01tSU1zMDBheVQ3VjdIY010Ul9zQkpZVjhvZ2pUMnZrSWZvejN0Q0Q4Y3lNZlRMdVJzSTA0MGhrLTZNdzVpMWpDQTlfVGhiS2lNZzk0ZWJDTTJVVjBvOVdKb3AyTmRpZjU1dC1tZGpfdHJUUFhZZDRkeWxkSVBsaU1YYm1BeEZGclRsTjUxcFhETzdZbmluUw?oc=5
+🖨 Spectrum Filaments receives multi-million Blue Gravity Capital Investment
+Spectrum Group Sp.
+z o.o., the Polish manufacturer behind the Spectrum Filaments and The Filament brands, has secured a strategic investment to expand production of FFF/FDM 3D printing materials, reported by 3D Printing Industry on Jun 15, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/SPC_and_BGC_2-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/spectrum-filaments-receives-multi-million-blue-gravity-capital-investment-252340
 
-📰 3D-printed bones? Science fiction comes to life at University of Miami's new lab - facilitiesmanagement-now.com
-Science fiction comes to life at University of Miami's new lab facilitiesmanagement-now.com
-Reported by Google News - 3D Printing on Jun 14, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi2AJBVV95cUxQNDZjd3NHVDFhVEp0dWJWVENFRVBwRDAzUjFqblpHU0x1VVk2UGFHSExCZnVUUGhnNlFfcEFKazRSRkJncGE5NF9wTUU3RFBDbThnTW91QktFUG9LNmVUVmJURndrT0dHQnB4QWZadXRJSU9pRHJBLVBWZW5OUEYtVGVRT2FJM1Qwal9GVEt4UWJFTFFIOTI1Z2wxYnNadkQ2QS1DYmQyazJUVHBsYmZTWGRMVmZnXzdySW9zYzlXWUJ0SDZWdDFaVy04Rkx3Rm12Q1dxN3ZJM3RrV0lmOXQ4QmpoSnRUcy1NOWIzR0lyX2trSVAxaHdyOHJVbVdQR2ptSUZwVkZiUjEwZGxnbmxfeE80cEFtRnlaemlyVVY3NzZORVN6V09fTVp1ei04S2VldUlpcW5NSld0dXZDUmUxYUhaM05YMUJ3VzljaDhFN3A0OHBGUTA1Ug?oc=5
+📰 SSAB to expand production facility for additive manufacturing steel powder
+"We are strengthening our offering in steel powder for additive manufacturing and making the technology more accessible to our customers."
+Reported by TCT Magazine on Jun 15, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/SSAB-metal-additive-manufacturing.jpg
+🔗 Read more: https://www.tctmagazine.com/ssab-to-expand-production-facility-for-additive-manufacturing-steel-powder
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "US law seeks to put ban the printing of 3D guns - Taipei Times" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMieEFVX3lxTE5WbkRjd3AycVNBcWk3UkxzRFVhLUxJWjF2MGZqZXNDVTFnWjl6WnRreGFxLWhwcHFTbDVKZzhNQ2owcjZXNU1Dd2Z6X1hkc1BNZmhBY1lPUjB6YUZaSjBpcXhzbWZ6eGZEaEVXLW43Z1E2b0txbVk2MQ?oc=5 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Bambu Lab Anniversary Sale Includes First-Ever Discounts for P2S, H2S &amp; H2C Machines - All3DP" because it highlights where practical 3D printing innovation is moving next. Read it here: https://news.google.com/rss/articles/CBMipgFBVV95cUxOMW5vd2V5MnBsclBSRXhCRnZ6cl80YjFwaERZWWhNOWM0NzhTLXo5dmZ4VlhHY1ZpNEN5WDBNWVhsb2xhM2otSmdydHNzeHFwSW1lNHZOV3pVTEF0RllhQ1BleTRHUDdaUlFNQzFjdThWN2dQdzI5OGZsdm9ocEVMQWpmdXRfVlJ3ZGZmU2F0cWlQVEVJcUhHVDBkeUIwajBjWE9BdUt3?oc=5 | Full pulse: https://www.quality3ds.com/
