@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-17
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #161 - 2026-06-17
+## Stories
 
 ♻️ Bike-Powered Shredder Makes Short Work of 3D Printer Waste
 [Brogan M Pratt] and his students do a lot of 3D printing, and as such found themselves producing a lot of plastic waste.
@@ -51,9 +49,3 @@ Anantara Dhigu Maldives Resort has placed 13 flower-shaped reef structures in it
 Reported by VoxelMatters on Jun 16, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Maldives-3D-printed-clay-reef-05-150x150.jpg
 Read more ? https://www.voxelmatters.com/maldives-resort-installs-3d-printed-clay-reef-structures
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
