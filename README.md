@@ -2,55 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #161 - 2026-06-17
+### 3D PRINTING PULSE #162 - 2026-06-18
 
-♻️ Bike-Powered Shredder Makes Short Work of 3D Printer Waste
-[Brogan M Pratt] and his students do a lot of 3D printing, and as such found themselves producing a lot of plastic waste.
-Seeing an opportunity, they built a bike-powered …read more, reported by Hackaday 3D Printing on Jun 16, 2026.
-Image ? https://hackaday.com/wp-content/uploads/2026/06/I-Built-a-Bike-Powered-Plastic-Shredder-7-31-screenshot.png
-Read more ? https://hackaday.com/2026/06/16/bike-powered-shredder-makes-short-work-of-3d-printer-waste
+🔥 As California Debates AB 2047, New York’s Law Targeting 3D Printed Guns Prepares to Take Effect
+California’s controversial AB 2047 is still making its way through the state legislature.
+Meanwhile, in New York, lawmakers have already moved forward with similar restrictions for preventing the production of, reported by 3DPrint.com on Jun 17, 2026.
+Read more ? https://3dprint.com/326731/as-california-debates-ab-2047-new-yorks-law-targeting-3d-printed-guns-prepares-to-take-effect
 
-🚀 Four additive manufacturing users on their biggest AM truths, learnings and more
-Real user insights from JLR, Rolls-Royce, Nestlé and GKN Aerospace.
-Reported by TCT Magazine on Jun 16, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/DHR-5346.jpg
-Read more ? https://www.tctmagazine.com/four-additive-manufacturing-users-on-their-biggest-am-truths-learnings-and-more
+🚨 ELEGOO Launches World's First Emoji Co-Branded 3D Printer - AndroidGuys
+ELEGOO Launches World's First Emoji Co-Branded 3D Printer AndroidGuys
+Reported by Google News - 3D Printing on Jun 17, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWVMeC0xb3BQSG9yNlFpRTJfZ0lrSlBsN1VLU0E3bTdOY1JTN2ttMmotakdHMHp1cThCYTc2RFE2d0dVVmVXdGw2OUFpdURzaGZOVTFNSGktaDhnQWFxd3BVLWlPdHpRZ1BCc0loTkNFZVVUc18yb1Fmc1RSVmtyWHhnLWU4M3hQMTFodjZ2UVlvejdQRzUyTFB3?oc=5
 
-📷 Liuzhou Yinrui cuts new model development time by one-third with metrology scanning
-Liuzhou Yinrui Vehicle Industry Co., Ltd., a stamping parts and assembly supplier to major Chinese automakers, has achieved a reduction in new model development time by at least one-third after … The post Liuzhou...
-Reported by VoxelMatters on Jun 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/SHINING-3D-Liuzhou-Yinrui-Vehicle-Industry-Co-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/liuzhou-yinrui-cuts-new-model-development-time-by-one-third-with-metrology-scanning
+📰 Italian Exhibition Group and AFEMO renew partnership
+Italian Exhibition Group (IEG) and AFEMO — the Italian Association of Manufacturers and Exporters of Jewelry Machinery — have renewed their strategic partnership for the 2026–2028 period, reinforcing the...
+Reported by VoxelMatters on Jun 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/IEG-AFEMO-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/italian-exhibition-group-and-afemo-renew-partnership
 
-💻 New exhibit at Haarlem’s 3D Print Gallery explores sustainability
-Still within its first year of operation, the 3D Print Gallery in Haarlem is preparing to open its fourth exhibition, “An Ocean of Possibilities for Sustainability”, this July.
-For this … The post New exhibit at Haarlem’s 3D Print Gallery explores sustainability appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/haarlem-exhibition-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/new-exhibit-at-haarlems-3d-print-gallery-explores-sustainability
+📷 Zellerfeld acquires Volumental, German 3D printed footwear platform gains a database of 66 million scanned feet
+German platform Zellerfeld, known for its fully 3D printed footwear, has acquired Swedish company Volumental, a specialist in foot scanning and shoe fitting.
+The deal was announced in June 2026, reported by VoxelMatters on Jun 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Zrzut-ekranu-2026-06-17-164707-150x150.png
+Read more ? https://www.voxelmatters.com/zellerfeld-acquires-volumental-german-3d-printed-footwear-platform-gains-a-database-of-66-million-scanned-feet
 
-🏠 Wells Fargo named as preferred home mortgage lender for 3D printed homes constructed by ICON
-The collaboration between the two firms, they say, expands access to financing for buyers of ICON homes.
-Reported by TCT Magazine on Jun 16, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/WF-Red-and-Yellow-Sign-Outside.png
-Read more ? https://www.tctmagazine.com/wells-fargo-named-as-preferred-home-mortgage-lender-for-3d-printed-homes-constructed-by-icon
+🖨 Nano Dimension set to pivot away from additive manufacturing as Infinite Epigenetics merger explored
+Nano has gradually been divesting many of its additive manufacturing investments, with Desktop Metal, Fabrica, and Markforged, as well as its flagship Additively Manufactured Electronics business, all being sold off...
+Reported by TCT Magazine on Jun 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/NNDM_BIG-01b3a703.png
+Read more ? https://www.tctmagazine.com/nano-dimension-set-to-pivot-away-from-additive-manufacturing-as-infinite-epigenetics-merger-explored
 
-💻 Markforged introduces Onyx GF chopped glass fibre-filled nylon material
-Onyx GF is available immediately in red, yellow, blue, green, grey, and white, and will address the requirements of modern visual management systems, per Markforged.
-Reported by TCT Magazine on Jun 16, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/Untitled-design--44--1.png
-Read more ? https://www.tctmagazine.com/markforged-introduces-onyx-gf-chopped-glass-fibre-filled-nylon-material
+🚀 Beehive Industries to install 30 EOS M4 ONYX machines in $50m investment in metal 3D printing
+The fleet of machines will support the production of the company's flagship Frenzy 8 engine line.
+Reported by TCT Magazine on Jun 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/Production-Version-of-Beehive-Industries----Frenzy----8-Engine-1.jpg
+Read more ? https://www.tctmagazine.com/beehive-industries-to-install-30-eos-m4-onyx-machines-in-50m-investment-in-metal-3d-printing
 
-🚀 CosmicMaker space 3D printing business emerges after successful test flights
-Photocentric has received support from the UK Space Agency via ESA’s BSGN program, and won three grants to manufacture and validate its CosmicMaker 3D printer.
-Reported by TCT Magazine on Jun 16, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/-Silicon-carbide-3D-printed-parts.png
-Read more ? https://www.tctmagazine.com/cosmicmaker-space-3d-printing-business-emerges-after-successful-test-flights
+📰 Markforged adds color to Onyx material family with new glass fiber-filled nylon
+Markforged has released Onyx GF, a chopped glass fiber-filled nylon that extends the company’s Onyx material family by offering functional color as a built-in property rather than a secondary finish.
+… The post Markforged adds color to Onyx material family with new glass fiber-filled nylon appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Markforged-Onyx-GF-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/markforged-adds-color-to-onyx-material-family-with-new-glass-fiber-filled-nylon
 
-🏠 Maldives resort installs 3D printed clay reef structures
-Anantara Dhigu Maldives Resort has placed 13 flower-shaped reef structures in its surrounding lagoon, produced by reef restoration company rrreefs using 3D printed fired terracotta clay, steel reinforcement, and a …...
-Reported by VoxelMatters on Jun 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Maldives-3D-printed-clay-reef-05-150x150.jpg
-Read more ? https://www.voxelmatters.com/maldives-resort-installs-3d-printed-clay-reef-structures
+🚀 Hi3D Enhances Its Maker Toolkit, Targeting the Gap Between AI and Printing
+Hi3D, the browser-based AI model generation platform built on its proprietary Sparc3D engine, has rolled out a suite of new Maker features aimed at one of the most persistent friction points in consumer 3D printing:...
+The centerpiece of the release…, reported by 3D Printing Industry on Jun 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/split-to-print-780x470.jpg-150x100.avif
+Read more ? https://3dprintingindustry.com/news/hi3d-enhances-its-maker-toolkit-targeting-the-gap-between-ai-and-printing-252390
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
