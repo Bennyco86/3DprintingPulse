@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #164 - 2026-06-20
+## Stories
 
 🚨 Bambu Lab Wants Home 3D Printing to Feel Less Like a Workshop with PLA Pure
 As desktop 3D printers become increasingly common in homes, Bambu Lab is focusing attention on something beyond print speed and hardware features.
@@ -48,9 +46,3 @@ Read more ? https://3dprint.com/327105/foundation-alloy-raises-22m-for-solid-sta
 China’s additive manufacturing (AM) industry has spent years trying to reduce its reliance on foreign technology.
 In polymer 3D printing, domestic companies have already become major players, reported by 3DPrint.com on Jun 19, 2026.
 Read more ? https://3dprint.com/326656/am-asia-watch-chinas-3d-printing-boom-is-creating-a-new-class-of-micro-manufacturers
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
