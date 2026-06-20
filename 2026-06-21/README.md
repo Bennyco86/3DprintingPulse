@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-21
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #165 - 2026-06-21
+## Stories
 
 🔥 California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ - Cowboy State Daily
 California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ Cowboy State Daily
@@ -48,9 +46,3 @@ Read more ? https://news.google.com/rss/articles/CBMikgFBVV95cUxORkIxNzhYZ2NPMFh
 Salamanca student showcases advanced design skills with 3D printed school-themed coasters Olean Star
 Reported by Google News - 3D Printing on Jun 20, 2026.
 Read more ? https://news.google.com/rss/articles/CBMixwFBVV95cUxNSk44YWktcmExV1JFT1FUcTQwWlVXTTQtSkEwZGcxaWZPY3B2bkYzMElvNGJpclRKellSNkc5dUtBREFmWXNCMThmdUE1ZFBoUlVqUjg1eUVHUEpoN3UtM09Kb2gzY20wbVdHSTJZQWN0cFJCSngxLTU2NnhQYmxGS3d4R21UYzdqQ1hrcXUxdDREMmtyenNyTEE1Z3VtNFlqZDVxZ0g1My13eXdKWUpXcGYtT0NwODFydF9wZ1k0STVPNXVzYUQ4?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

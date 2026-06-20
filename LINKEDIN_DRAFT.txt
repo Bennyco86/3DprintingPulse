@@ -1,50 +1,50 @@
-﻿# 3D PRINTING PULSE #164 - 2026-06-20
+﻿# 3D PRINTING PULSE #165 - 2026-06-21
 
-🚨 Bambu Lab Wants Home 3D Printing to Feel Less Like a Workshop with PLA Pure
-As desktop 3D printers become increasingly common in homes, Bambu Lab is focusing attention on something beyond print speed and hardware features.
-This week, the company launched a new filament,, reported by 3DPrint.com on Jun 19, 2026.
-🔗 Read more: https://3dprint.com/327181/bambu-lab-wants-home-3d-printing-to-feel-less-like-a-workshop
+🔥 California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ - Cowboy State Daily
+California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ Cowboy State Daily
+Reported by Google News - 3D Printing on Jun 20, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXFBaEZRbTVna3d1Q0NWOVVneWtvQ3FGbDVpSVk5b2dIMlNWdEZpdGdhcHByUlRBSDY3cW9WNVdxRjNxdGRyS000SnFENTRaQ2VVdkxzSGM0MFdhWkh2eW1aVHlFOFhlOTh2UDFZNjdaYUVWemRoMHd0RUJQUWdoMS1Xb0QzOFlCdkNOQTl3M0hXN0g0TndJeHZBUWp2X2Zfa3I0NE5qZHFlM3FZY2c?oc=5
 
-🖨 Nikon SLM Solutions and NB Additive form North American partnership
-Nikon SLM Solutions and NB Additive have formed a strategic partnership to expand access to industrial metal additive manufacturing systems and build out integrated production workflows across North America.
-The … The post Nikon SLM Solutions and NB Additive form North American partnership appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Nikon-SLM-Solutions-and-NB-Additive-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nikon-slm-solutions-and-nb-additive-form-north-american-partnership
+🚀 Xometry adds materials, expert consultations and one-click reordering to its injection molding platform
+Xometry has rolled out a series of updates to its injection molding platform, targeting engineers and sourcing teams looking for faster, more consistent procurement workflows across high-volume production industries,...
+Reported by VoxelMatters on Jun 20, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2021/12/xometry-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/xometry-adds-materials-expert-consultations-and-one-click-reordering-to-its-injection-molding-platform
 
-🏠 AML3D delivers two ARCEMY X printers to Newport News Shipbuilding
-In October 2025, Australian AM company AML3D received an order from Newport News Shipbuilding (NNS) worth upwards of $3 million (AU$4.5M) for two custom ARCEMY X metal 3D printers.
-Now, … The post AML3D delivers two ARCEMY X printers to Newport News Shipbuilding appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/01/arcemy-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/aml3d-delivers-two-arcemy-x-printers-to-newport-news-shipbuilding
+🚀 Newcastle University and Vindolanda use 3D scanning to reproduce Roman board game
+Researchers at Newcastle University’s School of Engineering worked with the Vindolanda Charitable Trust to produce a 3D printed replica of a Roman game board excavated at the Vindolanda Roman fort … The post...
+Reported by VoxelMatters on Jun 20, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Newcastle-Uni-Roman-Board-Games-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/newcastle-university-and-vindolanda-use-3d-scanning-to-reproduce-roman-board-game
 
-🚀 SHINING 3D Dental launches Ceramix-Nano chairside 3D printer
-SHINING 3D Dental has released the Ceramix-Nano, a chairside dental 3D printer capable of producing permanent ceramic crowns, veneers, inlays, onlays, and Maryland bridges within a single patient appointment.
-The … The post SHINING 3D Dental launches Ceramix-Nano chairside 3D printer appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/SHINING-3D-Ceramix-Nano-Capsule-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/shining-3d-dental-launches-ceramix-nano-chairside-3d-printer
+🚀 Australia Is Turning to 3D Printing to Secure Its Industrial Foundation
+A new policy report from the Australian Strategic Policy Institute (ASPI), authored by Steven Camilleri, co-founder and CTO of metal 3D printing company SPEE3D, argues that national resilience is not a political...
+Titled Make Stuff Here… Or Else, the report introduces the concept of the “Sovereignty Countdown”: the measured window…, reported by 3D Printing Industry on Jun 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-16.49.43-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/australia-is-turning-to-3d-printing-to-secure-its-industrial-foundation-252432
 
-💻 Why small-batch alloy development is becoming strategically important again
-In many important materials programs, the first useful quantity is much smaller.
-A research team may need enough powder to compare three or four variations of a new composition, reported by VoxelMatters on Jun 19, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/image-88-150x150.png
-🔗 Read more: https://www.voxelmatters.com/why-small-batch-alloy-development-is-becoming-strategically-important-again
+🏠 Havelar Prints a Public Building in Nine Days and Delivers It on Budget
+Portuguese firm Havelar erected a 500 m² recycling center office at the Ecocentro de Perafita in Porto for the Matosinhos municipality using a COBOD BOD2 3D printer, a four-person crew, and nine working days.
+More unusually still, the project came in on budget, a feat the partners themselves described as rare for public works in…, reported by 3D Printing Industry on Jun 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Havelar-x-COBOD_1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/havelar-prints-a-public-building-in-nine-days-and-delivers-it-on-budget-252428
 
-📰 NAMI and MBK Global sign agreement to expand additive manufacturing across the Gulf
-Saudi Arabia’s National Innovation Industrial Company (NAMI) and Qatar-based MBK Global have signed a strategic framework agreement to develop advanced industrial solutions across the Gulf region, with additive...
-Reported by VoxelMatters on Jun 19, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/NAMI-MBK-Global-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nami-and-mbk-global-sign-agreement-to-expand-additive-manufacturing-across-the-gulf
+💻 IMTS 2026 to Host Nine Conferences, Including New Industrial AI Event
+The International Manufacturing Technology Show (IMTS) 2026 will feature an expanded conference program spanning nine events and more than 90 sessions, with new additions targeting industrial artificial intelligence,...
+The show runs September 14–19 at McCormick Place in Chicago, reported by 3D Printing Industry on Jun 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/IMTS-Conference-2024-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/imts-2026-to-host-nine-conferences-including-new-industrial-ai-event-252443
 
-💻 Foundation Alloy Raises $22M in Series A for Solid State Molybdenum
-Foundation Alloy has just raised $22 million in Series A financing.
-The alloy company is trying to create a platform that will enable the solid state manufacturing of alloys, reported by 3DPrint.com on Jun 19, 2026.
-🔗 Read more: https://3dprint.com/327105/foundation-alloy-raises-22m-for-solid-state-molybdenum
+🖨 China's New 3D Printing Method Can Print Something Almost Instantly - SlashGear
+China's New 3D Printing Method Can Print Something Almost Instantly SlashGear
+Reported by Google News - 3D Printing on Jun 20, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMikgFBVV95cUxORkIxNzhYZ2NPMFhpZXh4Z2lhbUpVWlE0d05yTWpuTFNrOWt6QlU3SnhsRkoyMTVxdy1DeXltWXpzZXVIMkY3UWpPdS1fMjc3SEpJdExidkdFdEY3MHRNX1I1ckt4NUkwRi10RHU2NC0xZkw5dVZoNDlMSzN3R01oaG92WXVLSW5LTTdwNEZmdkJjUQ?oc=5
 
-🖨 AM Asia Watch: China’s 3D Printing Boom Is Creating a New Class of Micro-Manufacturers
-China’s additive manufacturing (AM) industry has spent years trying to reduce its reliance on foreign technology.
-In polymer 3D printing, domestic companies have already become major players, reported by 3DPrint.com on Jun 19, 2026.
-🔗 Read more: https://3dprint.com/326656/am-asia-watch-chinas-3d-printing-boom-is-creating-a-new-class-of-micro-manufacturers
+📰 Salamanca student showcases advanced design skills with 3D printed school-themed coasters - Olean Star
+Salamanca student showcases advanced design skills with 3D printed school-themed coasters Olean Star
+Reported by Google News - 3D Printing on Jun 20, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMixwFBVV95cUxNSk44YWktcmExV1JFT1FUcTQwWlVXTTQtSkEwZGcxaWZPY3B2bkYzMElvNGJpclRKellSNkc5dUtBREFmWXNCMThmdUE1ZFBoUlVqUjg1eUVHUEpoN3UtM09Kb2gzY20wbVdHSTJZQWN0cFJCSngxLTU2NnhQYmxGS3d4R21UYzdqQ1hrcXUxdDREMmtyenNyTEE1Z3VtNFlqZDVxZ0g1My13eXdKWUpXcGYtT0NwODFydF9wZ1k0STVPNXVzYUQ4?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Bambu Lab Wants Home 3D Printing to Feel Less Like a Workshop with PLA Pure" because it highlights where practical 3D printing innovation is moving next. Read it here: https://3dprint.com/327181/bambu-lab-wants-home-3d-printing-to-feel-less-like-a-workshop | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ - Cowboy State Daily" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXFBaEZRbTVna3d1Q0NWOVVneWtvQ3FGbDVpSVk5b2dIMlNWdEZpdGdhcHByUlRBSDY3cW9WNVdxRjNxdGRyS000SnFENTRaQ2VVdkxzSGM0MFdhWkh2eW1aVHlFOFhlOTh2UDFZNjdaYUVWemRoMHd0RUJQUWdoMS1Xb0QzOFlCdkNOQTl3M0hXN0g0TndJeHZBUWp2X2Zfa3I0NE5qZHFlM3FZY2c?oc=5 | Explore more: https://www.quality3ds.com/
