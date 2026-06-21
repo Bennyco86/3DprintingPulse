@@ -1,50 +1,47 @@
-﻿# 3D PRINTING PULSE #165 - 2026-06-21
+﻿# 3D PRINTING PULSE #166 - 2026-06-22
 
-🔥 California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ - Cowboy State Daily
-California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ Cowboy State Daily
+📷 SHINING 3D’s EinScan Libre used to digitize sculpture collection at Bremen’s Afroasiatic Gallery
+Okyena Collective, a Bremen-based creative studio founded by digital archivist and 3D artist Fara-Farai Awindor and fine artist Merci Ewuresi, has used SHINING 3D‘s EinScan Libre all-in-one laser 3D scanner … The...
+Reported by VoxelMatters on Jun 21, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Standalone-3D-scanning-cultural-heritage-artifacts-inside-Afroasiatic-Gallery-in-Bremen-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/shining-3ds-einscan-libre-used-to-digitize-sculpture-collection-at-bremens-afroasiatic-gallery
+
+🚀 AIMMS gives US Marines metal additive manufacturing capability at the point of need
+Engineers at the Naval Surface Warfare Center, Carderock Division, have developed a transportable manufacturing system giving US Marines the ability to fabricate and repair metal components in forward-deployed...
+Reported by VoxelMatters on Jun 21, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Marine-Corps-AIMMS-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/aimms-gives-us-marines-metal-additive-manufacturing-capability-at-the-point-of-need
+
+📰 Goal! 3D Printing for the 2026 FIFA World Cup
+The 2026 FIFA World Cup officially kicked off in Mexico City on June 11th.
+It’s the largest FIFA tournament in history, with 48 teams competing over 104 matches, reported by 3DPrint.com on Jun 21, 2026.
+🔗 Read more: https://3dprint.com/327427/goal-3d-printing-for-2026-fifa-world-cup
+
+📰 4D Printing Tech Is Here And It's Turning Waste Into Machines - Yahoo Tech
+4D Printing Tech Is Here And It's Turning Waste Into Machines Yahoo Tech
+Reported by Google News - 3D Printing on Jun 21, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUd6THk4UkhYMUtvZ0tKR1Rlem1TNGJMZjdELUdWbFhMaWFJME5iaW5ScmJzYUR0T0lYanI5czBpaVNtN2sxN205RlhiMXg2elNScEt6dlBETEkyRmhaSDZ2RlROWXRWZVYxNzR5eHV1SmpJWjdxMTY1ejJwSnhRMS1wTWYzNE9vXzkzaUlR?oc=5
+
+🖨 Flashforge Adventurer 5M 3D Printer Hits Lowest Price at $133 - games.gg
+Flashforge Adventurer 5M 3D Printer Hits Lowest Price at $133 games.gg
+Reported by Google News - 3D Printing on Jun 21, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMibEFVX3lxTE5XeUx4VDNhNl9oXzZ6dk9HRUIwRGs3MlhwaXZ5SHRFV21lM0ZsNUxTYV9jaUp3Ri12bEJYQUtDb2lfWldkSWRqYUVxMjFsUW0wYmdWOGtmaXpxX2RTQ0hLbG9vOWh3emtzZnllVA?oc=5
+
+📰 3D printed batteries could solve the battery anxiety for your gadgets - Digital Trends
+3D printed batteries could solve the battery anxiety for your gadgets Digital Trends
 Reported by Google News - 3D Printing on Jun 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXFBaEZRbTVna3d1Q0NWOVVneWtvQ3FGbDVpSVk5b2dIMlNWdEZpdGdhcHByUlRBSDY3cW9WNVdxRjNxdGRyS000SnFENTRaQ2VVdkxzSGM0MFdhWkh2eW1aVHlFOFhlOTh2UDFZNjdaYUVWemRoMHd0RUJQUWdoMS1Xb0QzOFlCdkNOQTl3M0hXN0g0TndJeHZBUWp2X2Zfa3I0NE5qZHFlM3FZY2c?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDkwenRTZ05DRFhRTjN4WE14aGp1Nm9oMDR6ZjQxMTRzdEtoejNHdGlseGJwTzJxV21HZWNreUN4VEZ1cDFfakJLdkVwNno4c3J1YWFtTHczNXBJNkhBZl9OQVdBUG5Fa2pxaURIX0swT0hwVFVnLVV1akhzM3JXTTNBNHI0VXpxYlR6bEVHMW9lTzBZOHhqcVhKUENCX3pNWW5IZEE3b1kzeDlONUJV?oc=5
 
-🚀 Xometry adds materials, expert consultations and one-click reordering to its injection molding platform
-Xometry has rolled out a series of updates to its injection molding platform, targeting engineers and sourcing teams looking for faster, more consistent procurement workflows across high-volume production industries,...
-Reported by VoxelMatters on Jun 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2021/12/xometry-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/xometry-adds-materials-expert-consultations-and-one-click-reordering-to-its-injection-molding-platform
-
-🚀 Newcastle University and Vindolanda use 3D scanning to reproduce Roman board game
-Researchers at Newcastle University’s School of Engineering worked with the Vindolanda Charitable Trust to produce a 3D printed replica of a Roman game board excavated at the Vindolanda Roman fort … The post...
-Reported by VoxelMatters on Jun 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Newcastle-Uni-Roman-Board-Games-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/newcastle-university-and-vindolanda-use-3d-scanning-to-reproduce-roman-board-game
-
-🚀 Australia Is Turning to 3D Printing to Secure Its Industrial Foundation
-A new policy report from the Australian Strategic Policy Institute (ASPI), authored by Steven Camilleri, co-founder and CTO of metal 3D printing company SPEE3D, argues that national resilience is not a political...
-Titled Make Stuff Here… Or Else, the report introduces the concept of the “Sovereignty Countdown”: the measured window…, reported by 3D Printing Industry on Jun 20, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Screenshot-2026-06-19-at-16.49.43-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/australia-is-turning-to-3d-printing-to-secure-its-industrial-foundation-252432
-
-🏠 Havelar Prints a Public Building in Nine Days and Delivers It on Budget
-Portuguese firm Havelar erected a 500 m² recycling center office at the Ecocentro de Perafita in Porto for the Matosinhos municipality using a COBOD BOD2 3D printer, a four-person crew, and nine working days.
-More unusually still, the project came in on budget, a feat the partners themselves described as rare for public works in…, reported by 3D Printing Industry on Jun 20, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Havelar-x-COBOD_1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/havelar-prints-a-public-building-in-nine-days-and-delivers-it-on-budget-252428
-
-💻 IMTS 2026 to Host Nine Conferences, Including New Industrial AI Event
-The International Manufacturing Technology Show (IMTS) 2026 will feature an expanded conference program spanning nine events and more than 90 sessions, with new additions targeting industrial artificial intelligence,...
-The show runs September 14–19 at McCormick Place in Chicago, reported by 3D Printing Industry on Jun 20, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/IMTS-Conference-2024-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/imts-2026-to-host-nine-conferences-including-new-industrial-ai-event-252443
-
-🖨 China's New 3D Printing Method Can Print Something Almost Instantly - SlashGear
-China's New 3D Printing Method Can Print Something Almost Instantly SlashGear
+📰 A&amp;C 3D Printing opens in Luverne - Luverne Journal
+A&amp;C 3D Printing opens in Luverne Luverne Journal
 Reported by Google News - 3D Printing on Jun 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikgFBVV95cUxORkIxNzhYZ2NPMFhpZXh4Z2lhbUpVWlE0d05yTWpuTFNrOWt6QlU3SnhsRkoyMTVxdy1DeXltWXpzZXVIMkY3UWpPdS1fMjc3SEpJdExidkdFdEY3MHRNX1I1ckt4NUkwRi10RHU2NC0xZkw5dVZoNDlMSzN3R01oaG92WXVLSW5LTTdwNEZmdkJjUQ?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUZjcmtJS3Fsa3l1bXlSREtuSVJpV0I5SFpleEJlbFJ0VWxqUTBIZHJ4YzdaZmcxOUpCUG5BSHRpMldSNnJRT2hKcUIzcTNxRllWY0xDUk1FR3V0bm5ZanBkdFRSOThaN1drWVRBOVd0dGZiZXc0bkZ4Tkk0dWhGQzh3?oc=5
 
-📰 Salamanca student showcases advanced design skills with 3D printed school-themed coasters - Olean Star
-Salamanca student showcases advanced design skills with 3D printed school-themed coasters Olean Star
+🖨 Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day - IGN
+Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day IGN
 Reported by Google News - 3D Printing on Jun 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMixwFBVV95cUxNSk44YWktcmExV1JFT1FUcTQwWlVXTTQtSkEwZGcxaWZPY3B2bkYzMElvNGJpclRKellSNkc5dUtBREFmWXNCMThmdUE1ZFBoUlVqUjg1eUVHUEpoN3UtM09Kb2gzY20wbVdHSTJZQWN0cFJCSngxLTU2NnhQYmxGS3d4R21UYzdqQ1hrcXUxdDREMmtyenNyTEE1Z3VtNFlqZDVxZ0g1My13eXdKWUpXcGYtT0NwODFydF9wZ1k0STVPNXVzYUQ4?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkZMNVVvVnVZVGIyQjhnRzM3UVdwSjI4UFpDNTh5NFFkeVN2ZFdHM1lXR3h0cFVwWjY5QTZMTGs3U1REaGJzaVRvTk05OXVWY3J1ME9MTFZYaFhIY0hBLVpsa0RKUHBzWjlxNmZCR0xxb1NHZUF2VWJJXzBBamh4MmtSMjNadw?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "California, New York Aim To Ban 3D Printers That Can Make ‘Ghost Guns’ - Cowboy State Daily" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMirgFBVV95cUxOSXFBaEZRbTVna3d1Q0NWOVVneWtvQ3FGbDVpSVk5b2dIMlNWdEZpdGdhcHByUlRBSDY3cW9WNVdxRjNxdGRyS000SnFENTRaQ2VVdkxzSGM0MFdhWkh2eW1aVHlFOFhlOTh2UDFZNjdaYUVWemRoMHd0RUJQUWdoMS1Xb0QzOFlCdkNOQTl3M0hXN0g0TndJeHZBUWp2X2Zfa3I0NE5qZHFlM3FZY2c?oc=5 | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day - IGN" because it highlights where practical 3D printing innovation is moving next. Source: https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkZMNVVvVnVZVGIyQjhnRzM3UVdwSjI4UFpDNTh5NFFkeVN2ZFdHM1lXR3h0cFVwWjY5QTZMTGs3U1REaGJzaVRvTk05OXVWY3J1ME9MTFZYaFhIY0hBLVpsa0RKUHBzWjlxNmZCR0xxb1NHZUF2VWJJXzBBamh4MmtSMjNadw?oc=5 | Complete rundown: https://www.quality3ds.com/

@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-22
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #166 - 2026-06-22
+## Stories
 
 📷 SHINING 3D’s EinScan Libre used to digitize sculpture collection at Bremen’s Afroasiatic Gallery
 Okyena Collective, a Bremen-based creative studio founded by digital archivist and 3D artist Fara-Farai Awindor and fine artist Merci Ewuresi, has used SHINING 3D‘s EinScan Libre all-in-one laser 3D scanner … The...
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUZjcmtJS3Fsa3l
 Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day IGN
 Reported by Google News - 3D Printing on Jun 20, 2026.
 Read more ? https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkZMNVVvVnVZVGIyQjhnRzM3UVdwSjI4UFpDNTh5NFFkeVN2ZFdHM1lXR3h0cFVwWjY5QTZMTGs3U1REaGJzaVRvTk05OXVWY3J1ME9MTFZYaFhIY0hBLVpsa0RKUHBzWjlxNmZCR0xxb1NHZUF2VWJJXzBBamh4MmtSMjNadw?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
