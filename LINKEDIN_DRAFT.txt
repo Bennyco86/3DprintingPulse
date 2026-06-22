@@ -1,47 +1,52 @@
-﻿# 3D PRINTING PULSE #166 - 2026-06-22
+﻿# 3D PRINTING PULSE #167 - 2026-06-23
 
-📷 SHINING 3D’s EinScan Libre used to digitize sculpture collection at Bremen’s Afroasiatic Gallery
-Okyena Collective, a Bremen-based creative studio founded by digital archivist and 3D artist Fara-Farai Awindor and fine artist Merci Ewuresi, has used SHINING 3D‘s EinScan Libre all-in-one laser 3D scanner … The...
-Reported by VoxelMatters on Jun 21, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Standalone-3D-scanning-cultural-heritage-artifacts-inside-Afroasiatic-Gallery-in-Bremen-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/shining-3ds-einscan-libre-used-to-digitize-sculpture-collection-at-bremens-afroasiatic-gallery
+♻️ 3DPOD 303: 6K Additive CEO Frank Roberts on Premium and Sustainable Metal AM Powder
+6K Additive is roaring ahead with a recycling solution for metals.
+Their path from scrap to powder is helping the US to be more resilient, produce powder locally and perhaps, reported by 3DPrint.com on Jun 22, 2026.
+🔗 Read more: https://3dprint.com/326058/3dpod-303-6k-additive-ceo-frank-roberts-on-premium-and-sustainable-metal-am-powder
 
-🚀 AIMMS gives US Marines metal additive manufacturing capability at the point of need
-Engineers at the Naval Surface Warfare Center, Carderock Division, have developed a transportable manufacturing system giving US Marines the ability to fabricate and repair metal components in forward-deployed...
-Reported by VoxelMatters on Jun 21, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Marine-Corps-AIMMS-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/aimms-gives-us-marines-metal-additive-manufacturing-capability-at-the-point-of-need
+📰 Phase3D closes oversubscribed $2.9 million funding round
+The company says the investment marks a 'deliberate and exciting' new chapter for Phase3D, with a plan in place to move from a 'high-mix custom build model to standardised product manufacturing at scale.'
+Reported by TCT Magazine on Jun 22, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/PHASE3D_DAY02_122-1.jpg
+🔗 Read more: https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round
 
-📰 Goal! 3D Printing for the 2026 FIFA World Cup
-The 2026 FIFA World Cup officially kicked off in Mexico City on June 11th.
-It’s the largest FIFA tournament in history, with 48 teams competing over 104 matches, reported by 3DPrint.com on Jun 21, 2026.
-🔗 Read more: https://3dprint.com/327427/goal-3d-printing-for-2026-fifa-world-cup
+🏠 Malaysia set for “first” 3D construction printing standards framework
+V3D Asia Ltd and its commercial arm, Nuvah Sdn Bhd, have entered into a collaboration with SIRIM Academy Sdn Bhd to develop what the companies claim is Malaysia’s first set … The post Malaysia set for “first” 3D...
+Reported by VoxelMatters on Jun 22, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/V3D-Asia-Nuvah-SIRIM-Academy-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/malaysia-set-for-first-3d-construction-printing-standards-framework
 
-📰 4D Printing Tech Is Here And It's Turning Waste Into Machines - Yahoo Tech
-4D Printing Tech Is Here And It's Turning Waste Into Machines Yahoo Tech
-Reported by Google News - 3D Printing on Jun 21, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUd6THk4UkhYMUtvZ0tKR1Rlem1TNGJMZjdELUdWbFhMaWFJME5iaW5ScmJzYUR0T0lYanI5czBpaVNtN2sxN205RlhiMXg2elNScEt6dlBETEkyRmhaSDZ2RlROWXRWZVYxNzR5eHV1SmpJWjdxMTY1ejJwSnhRMS1wTWYzNE9vXzkzaUlR?oc=5
+🏠 500m² 3D printed recycling center erected in Portugal
+As Portugal gears up to face Uzbekistan in the 2026 World Cup tomorrow, there is also other excitement on the home front, particularly for fans of 3D printing.
+Portuguese 3D … The post 500m² 3D printed recycling center erected in Portugal appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/cobod-portugal-recycling-center-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/500m%c2%b2-3d-printed-recycling-center-erected-in-portugal
 
-🖨 Flashforge Adventurer 5M 3D Printer Hits Lowest Price at $133 - games.gg
-Flashforge Adventurer 5M 3D Printer Hits Lowest Price at $133 games.gg
-Reported by Google News - 3D Printing on Jun 21, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMibEFVX3lxTE5XeUx4VDNhNl9oXzZ6dk9HRUIwRGs3MlhwaXZ5SHRFV21lM0ZsNUxTYV9jaUp3Ri12bEJYQUtDb2lfWldkSWRqYUVxMjFsUW0wYmdWOGtmaXpxX2RTQ0hLbG9vOWh3emtzZnllVA?oc=5
+📰 Continuous Composites to support U.S. Army DEVCOM Aviation and Missile Center via multi-year contract
+Continuous Composites is assessing opportunities to apply its CF3D technology, advanced materials, and fibre-steered design capabilities within the Precision Strike Missile architecture.
+Reported by TCT Magazine on Jun 22, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/image--34-.png
+🔗 Read more: https://www.tctmagazine.com/continuous-composites-to-support-u-s-army-devcom-aviation-and-missile-center-via-multi-year-contract
 
-📰 3D printed batteries could solve the battery anxiety for your gadgets - Digital Trends
-3D printed batteries could solve the battery anxiety for your gadgets Digital Trends
-Reported by Google News - 3D Printing on Jun 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTDkwenRTZ05DRFhRTjN4WE14aGp1Nm9oMDR6ZjQxMTRzdEtoejNHdGlseGJwTzJxV21HZWNreUN4VEZ1cDFfakJLdkVwNno4c3J1YWFtTHczNXBJNkhBZl9OQVdBUG5Fa2pxaURIX0swT0hwVFVnLVV1akhzM3JXTTNBNHI0VXpxYlR6bEVHMW9lTzBZOHhqcVhKUENCX3pNWW5IZEE3b1kzeDlONUJV?oc=5
+🚀 Solukon launches new software to support 'growing complexity' of 3D printed parts
+"SPR-Pathfinder PRO reflects years of listening to the market and advancing our software in step with the most demanding AM applications."
+Reported by TCT Magazine on Jun 22, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/PM_Pathfinder-PRO_2026_MT-Siemens-2048x1152.jpg
+🔗 Read more: https://www.tctmagazine.com/solukon-launches-new-software-to-support-growing-complexity-of-3d-printed-parts
 
-📰 A&amp;C 3D Printing opens in Luverne - Luverne Journal
-A&amp;C 3D Printing opens in Luverne Luverne Journal
-Reported by Google News - 3D Printing on Jun 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiggFBVV95cUxNYUZjcmtJS3Fsa3l1bXlSREtuSVJpV0I5SFpleEJlbFJ0VWxqUTBIZHJ4YzdaZmcxOUpCUG5BSHRpMldSNnJRT2hKcUIzcTNxRllWY0xDUk1FR3V0bm5ZanBkdFRSOThaN1drWVRBOVd0dGZiZXc0bkZ4Tkk0dWhGQzh3?oc=5
+📰 ExOne targets small foundries with S-Print Pro sand binder jetting system
+ExOne has released the S-Print Pro, a compact industrial sand binder jetting system it says is built for small and mid-sized foundries, pattern makers, and print service providers that have … The post ExOne targets...
+Reported by VoxelMatters on Jun 22, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/ExOne-S-Print-Pro-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/exone-targets-small-foundries-with-s-print-pro-sand-binder-jetting-system
 
-🖨 Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day - IGN
-Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day IGN
-Reported by Google News - 3D Printing on Jun 20, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkZMNVVvVnVZVGIyQjhnRzM3UVdwSjI4UFpDNTh5NFFkeVN2ZFdHM1lXR3h0cFVwWjY5QTZMTGs3U1REaGJzaVRvTk05OXVWY3J1ME9MTFZYaFhIY0hBLVpsa0RKUHBzWjlxNmZCR0xxb1NHZUF2VWJJXzBBamh4MmtSMjNadw?oc=5
+🦺 ScolioLife integrates 3D printing and AI platform into care model
+ScolioLife, an international scoliosis and spinal rehabilitation organization based in Singapore, is planning a full integration of 3D printing and artificial intelligence into its clinical operations, combining...
+Reported by VoxelMatters on Jun 22, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/ScolioLife-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/scoliolife-integrates-3d-printing-and-ai-platform-into-care-model
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Bambu 3D Printers Are on Sale at Best Buy Ahead of Amazon Prime Day - IGN" because it highlights where practical 3D printing innovation is moving next. Source: https://news.google.com/rss/articles/CBMihgFBVV95cUxOMkZMNVVvVnVZVGIyQjhnRzM3UVdwSjI4UFpDNTh5NFFkeVN2ZFdHM1lXR3h0cFVwWjY5QTZMTGs3U1REaGJzaVRvTk05OXVWY3J1ME9MTFZYaFhIY0hBLVpsa0RKUHBzWjlxNmZCR0xxb1NHZUF2VWJJXzBBamh4MmtSMjNadw?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "500m² 3D printed recycling center erected in Portugal" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Story link: https://www.voxelmatters.com/500m%c2%b2-3d-printed-recycling-center-erected-in-portugal | Full pulse: https://www.quality3ds.com/

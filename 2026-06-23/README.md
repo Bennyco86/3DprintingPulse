@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-23
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #167 - 2026-06-23
+## Stories
 
 ♻️ 3DPOD 303: 6K Additive CEO Frank Roberts on Premium and Sustainable Metal AM Powder
 6K Additive is roaring ahead with a recycling solution for metals.
@@ -50,9 +48,3 @@ ScolioLife, an international scoliosis and spinal rehabilitation organization ba
 Reported by VoxelMatters on Jun 22, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/ScolioLife-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/scoliolife-integrates-3d-printing-and-ai-platform-into-care-model
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
