@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-24
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #168 - 2026-06-24
+## Stories
 
 💻 Zellerfeld cites manufacturing-grade data quality in Volumental investment
 Custom-fit footwear has been technically achievable for years, yet it has remained a niche offering.
@@ -51,9 +49,3 @@ AMPOWER and TAAG have partnered to address the disconnect between market intelli
 AMPOWER, founded in Hamburg in 2017 by Dr, reported by 3D Printing Industry on Jun 23, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/Additive-Manufacturing-150x100.png
 Read more ? https://3dprintingindustry.com/news/ampower-and-taag-partner-to-link-am-market-intelligence-with-industrial-production-expertise-252478
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

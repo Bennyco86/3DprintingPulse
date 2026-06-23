@@ -1,52 +1,53 @@
-﻿# 3D PRINTING PULSE #167 - 2026-06-23
+﻿# 3D PRINTING PULSE #168 - 2026-06-24
 
-♻️ 3DPOD 303: 6K Additive CEO Frank Roberts on Premium and Sustainable Metal AM Powder
-6K Additive is roaring ahead with a recycling solution for metals.
-Their path from scrap to powder is helping the US to be more resilient, produce powder locally and perhaps, reported by 3DPrint.com on Jun 22, 2026.
-🔗 Read more: https://3dprint.com/326058/3dpod-303-6k-additive-ceo-frank-roberts-on-premium-and-sustainable-metal-am-powder
+💻 Zellerfeld cites manufacturing-grade data quality in Volumental investment
+Custom-fit footwear has been technically achievable for years, yet it has remained a niche offering.
+According to Zellerfeld, the obstacle has not been print technology — it has been data … The post Zellerfeld cites manufacturing-grade data quality in Volumental investment appeared first on VoxelMatters - The heart...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Volumental-scanner-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/zellerfeld-cites-manufacturing-grade-data-quality-in-volumental-investment
 
-📰 Phase3D closes oversubscribed $2.9 million funding round
-The company says the investment marks a 'deliberate and exciting' new chapter for Phase3D, with a plan in place to move from a 'high-mix custom build model to standardised product manufacturing at scale.'
-Reported by TCT Magazine on Jun 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/PHASE3D_DAY02_122-1.jpg
-🔗 Read more: https://www.tctmagazine.com/phase3d-closes-oversubscribed-2-9-million-funding-round
+💻 River Luminaire, lighting made using Haddy’s LFAM
+Montreal-based lighting company Eureka, a part of the Acuity Brands Lighting portfolio, has released a new series of light fixtures.
+Called River Luminaire, the series continues the company’s tradition of … The post River Luminaire, lighting made using Haddy’s LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/river-luminaire-2-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/river-luminaire-lighting-made-using-haddys-lfam
 
-🏠 Malaysia set for “first” 3D construction printing standards framework
-V3D Asia Ltd and its commercial arm, Nuvah Sdn Bhd, have entered into a collaboration with SIRIM Academy Sdn Bhd to develop what the companies claim is Malaysia’s first set … The post Malaysia set for “first” 3D...
-Reported by VoxelMatters on Jun 22, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/V3D-Asia-Nuvah-SIRIM-Academy-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/malaysia-set-for-first-3d-construction-printing-standards-framework
+🖨 Solukon releases SPR-Pathfinder PRO for high-complexity LPBF depowdering
+Solukon has released SPR-Pathfinder PRO, a substantially upgraded version of its depowdering simulation software for laser powder bed fusion parts.
+The release targets manufacturers producing high-complexity metal components — including … The post Solukon releases SPR-Pathfinder PRO for high-complexity LPBF depowdering appeared first on VoxelMatters - The heart...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Solukon-SPR-Pathfinder-PRO-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/solukon-releases-spr-pathfinder-pro-for-high-complexity-lpbf-depowdering
 
-🏠 500m² 3D printed recycling center erected in Portugal
-As Portugal gears up to face Uzbekistan in the 2026 World Cup tomorrow, there is also other excitement on the home front, particularly for fans of 3D printing.
-Portuguese 3D … The post 500m² 3D printed recycling center erected in Portugal appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/cobod-portugal-recycling-center-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/500m%c2%b2-3d-printed-recycling-center-erected-in-portugal
+🏠 Additive Manufacturing Cuts Months to Weeks for Royal Navy in Australia
+When Royal Australian Navy submarine HMS Anson required replacement components during a routine Submarine Maintenance Period (SMP) at HMAS Stirling, the conventional supply chain wasn’t an option.
+British defence technology QinetiQ stepped in, using additive manufacturing to design, produce, and deliver the parts in four weeks, a process that would typically take months or years, reported by 3D Printing Industry on Jun 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-23.15.55-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/additive-manufacturing-cuts-months-to-weeks-for-royal-navy-in-australia-252461
 
-📰 Continuous Composites to support U.S. Army DEVCOM Aviation and Missile Center via multi-year contract
-Continuous Composites is assessing opportunities to apply its CF3D technology, advanced materials, and fibre-steered design capabilities within the Precision Strike Missile architecture.
-Reported by TCT Magazine on Jun 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/image--34-.png
-🔗 Read more: https://www.tctmagazine.com/continuous-composites-to-support-u-s-army-devcom-aviation-and-missile-center-via-multi-year-contract
+🖨 Stratasys Targets Rail Certification Gap with New Flame-Retardant FDM Material
+Additive manufacturing has long promised to transform how rail operators manage spare parts, yet certification hurdles have kept most materials on the sideline.
+Stratasys is addressing that gap directly with the release of FDM PA6/66-GF30-FR, a flame-retardant, glass-fiber-reinforced nylon developed specifically for end-use production in rail and transit environments, reported by 3D Printing Industry on Jun 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/STRP059_Stratasys_PA6_66_rail_handle_train-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/stratasys-targets-rail-certification-gap-with-new-flame-retardant-fdm-material-252458
 
-🚀 Solukon launches new software to support 'growing complexity' of 3D printed parts
-"SPR-Pathfinder PRO reflects years of listening to the market and advancing our software in step with the most demanding AM applications."
-Reported by TCT Magazine on Jun 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/PM_Pathfinder-PRO_2026_MT-Siemens-2048x1152.jpg
-🔗 Read more: https://www.tctmagazine.com/solukon-launches-new-software-to-support-growing-complexity-of-3d-printed-parts
+🚀 Markforged Launches Onyx GF for Factory Floor Visual Management
+FDM 3D printer manufacturer Markforged has announced Onyx GF, a chopped glass fiber-filled nylon that adds functional color to its established Onyx material family.
+Available in six colors — red, yellow, blue, green, gray, and white — the material is aimed at manufacturers who use color-coded tooling and fixtures for error-proofing, hazard signaling, and…, reported by 3D Printing Industry on Jun 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Onyx-GF-Hero-Image-3840x2160-1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/markforged-launches-onyx-gf-for-factory-floor-visual-management-252473
 
-📰 ExOne targets small foundries with S-Print Pro sand binder jetting system
-ExOne has released the S-Print Pro, a compact industrial sand binder jetting system it says is built for small and mid-sized foundries, pattern makers, and print service providers that have … The post ExOne targets...
-Reported by VoxelMatters on Jun 22, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/ExOne-S-Print-Pro-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/exone-targets-small-foundries-with-s-print-pro-sand-binder-jetting-system
+📰 Anantara Dhigu and rrreefs Install 3D Printed Reef Structures in the Maldives
+Anantara Dhigu Maldives Resort, nestled in South Malé Atoll, has installed 13 flower-shaped reef structures on its lagoon floor in partnership with Swiss reef restoration company rrreefs, an effort to counter coral...
+The Theyra Maa installation, built from 3D printed fired terracotta clay and…, reported by 3D Printing Industry on Jun 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/1781496413612-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/anantara-dhigu-and-rrreefs-install-3d-printed-reef-structures-in-the-maldives-252453
 
-🦺 ScolioLife integrates 3D printing and AI platform into care model
-ScolioLife, an international scoliosis and spinal rehabilitation organization based in Singapore, is planning a full integration of 3D printing and artificial intelligence into its clinical operations, combining...
-Reported by VoxelMatters on Jun 22, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/ScolioLife-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/scoliolife-integrates-3d-printing-and-ai-platform-into-care-model
+📰 AMPOWER and TAAG Partner to Link AM Market Intelligence with Industrial Production Expertise
+AMPOWER and TAAG have partnered to address the disconnect between market intelligence and industrial production in the additive manufacturing (AM) sector.
+AMPOWER, founded in Hamburg in 2017 by Dr, reported by 3D Printing Industry on Jun 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Additive-Manufacturing-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/ampower-and-taag-partner-to-link-am-market-intelligence-with-industrial-production-expertise-252478
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "500m² 3D printed recycling center erected in Portugal" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Story link: https://www.voxelmatters.com/500m%c2%b2-3d-printed-recycling-center-erected-in-portugal | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Zellerfeld cites manufacturing-grade data quality in Volumental investment" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/zellerfeld-cites-manufacturing-grade-data-quality-in-volumental-investment | Full coverage: https://www.quality3ds.com/
