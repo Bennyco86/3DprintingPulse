@@ -2,55 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #168 - 2026-06-24
+### 3D PRINTING PULSE #169 - 2026-06-25
 
-💻 Zellerfeld cites manufacturing-grade data quality in Volumental investment
-Custom-fit footwear has been technically achievable for years, yet it has remained a niche offering.
-According to Zellerfeld, the obstacle has not been print technology — it has been data … The post Zellerfeld cites manufacturing-grade data quality in Volumental investment appeared first on VoxelMatters - The heart...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Volumental-scanner-150x150.jpg
-Read more ? https://www.voxelmatters.com/zellerfeld-cites-manufacturing-grade-data-quality-in-volumental-investment
+🔥 This 11-Year-Old Used Her Savings for a Bambu Lab Printer, Now It's a Viral Family Business - All3DP
+This 11-Year-Old Used Her Savings for a Bambu Lab Printer, Now It's a Viral Family Business All3DP
+Reported by Google News - 3D Printing on Jun 24, 2026.
+Read more ? https://news.google.com/rss/articles/CBMisAFBVV95cUxQc3hMVDVqcmxXbkpwb0FFZ2FWTmo4THFDdld0cnlMUHBmTHFySl9XeEcxcmViVEJkM0xveHBLekJlaHNWby0yeHlYemotcnJodmZmZWFMeVh0VUt6NGZ4X2ZKYi1BeFFoTGNVeVdZRFVTYTZPeUNrbnJ2WUw3SUg3dWgxNXcyelhKRl9JSzFrcFVZTEdENHNiOTZ2UE9zVTV4Q3QzdktsQ2JqM0NnT0ZrNQ?oc=5
 
-💻 River Luminaire, lighting made using Haddy’s LFAM
-Montreal-based lighting company Eureka, a part of the Acuity Brands Lighting portfolio, has released a new series of light fixtures.
-Called River Luminaire, the series continues the company’s tradition of … The post River Luminaire, lighting made using Haddy’s LFAM appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/river-luminaire-2-150x150.jpeg
-Read more ? https://www.voxelmatters.com/river-luminaire-lighting-made-using-haddys-lfam
+🚨 E3D launches Bastion coated gears for Bambu Lab printers
+UK-based extrusion system specialist E3D has launched Bastion Coated Gears, a hardened steel extruder gear and hobb upgrade for Bambu Lab desktop 3D printers.
+The new components are compatible with the Bambu Lab X1C, X1E, P1P, and P1S, reported by 3D Printing Industry on Jun 24, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/E3d-150x100.png
+Read more ? https://3dprintingindustry.com/news/e3d-launches-bastion-coated-gears-for-bambu-lab-printers-252504
 
-🖨 Solukon releases SPR-Pathfinder PRO for high-complexity LPBF depowdering
-Solukon has released SPR-Pathfinder PRO, a substantially upgraded version of its depowdering simulation software for laser powder bed fusion parts.
-The release targets manufacturers producing high-complexity metal components — including … The post Solukon releases SPR-Pathfinder PRO for high-complexity LPBF depowdering appeared first on VoxelMatters - The heart...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Solukon-SPR-Pathfinder-PRO-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/solukon-releases-spr-pathfinder-pro-for-high-complexity-lpbf-depowdering
+🚨 Elegoo expands the Centauri 2 series with two new models. Multicolor printing starting at $299 USD.
+Centauri 2 and Centauri 2 Combo address growing demand for accessible 4-color printing Elegoo has announced the launch of two new printers from the Centauri 2 series: the Centauri 2 … The post Elegoo expands the...
+Multicolor printing starting at $299 USD, reported by VoxelMatters on Jun 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Official-Poster-150x150.jpg
+Read more ? https://www.voxelmatters.com/elegoo-expands-the-centauri-2-series-with-two-new-models-multicolor-printing-starting-at-299-usd
 
-🏠 Additive Manufacturing Cuts Months to Weeks for Royal Navy in Australia
-When Royal Australian Navy submarine HMS Anson required replacement components during a routine Submarine Maintenance Period (SMP) at HMAS Stirling, the conventional supply chain wasn’t an option.
-British defence technology QinetiQ stepped in, using additive manufacturing to design, produce, and deliver the parts in four weeks, a process that would typically take months or years, reported by 3D Printing Industry on Jun 23, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-23.15.55-150x100.png
-Read more ? https://3dprintingindustry.com/news/additive-manufacturing-cuts-months-to-weeks-for-royal-navy-in-australia-252461
+🚨 Bambu Lab Quietly Launches Fleet Hub for Custom Printer Fleet Integration - All3DP
+Bambu Lab Quietly Launches Fleet Hub for Custom Printer Fleet Integration All3DP
+Reported by Google News - 3D Printing on Jun 24, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXd6RkhrYmIycUptTUNVa3ZOdktTN1c5MkFFSXdONHNNUmdhMjRmdHJ3SmlfR0NoRUFnNDk4Rk8yWEZZaVpzWktNUVpwSnplNXRtQUFpMV9NZVBwTS1GbE1CYXoxTzhIQU52bmFMc2lSODRMZ085QUR6Q3dJaGM3Tm96X01qYl9MTVBibVREcldrTGl6Njh5QjNZNA?oc=5
 
-🖨 Stratasys Targets Rail Certification Gap with New Flame-Retardant FDM Material
-Additive manufacturing has long promised to transform how rail operators manage spare parts, yet certification hurdles have kept most materials on the sideline.
-Stratasys is addressing that gap directly with the release of FDM PA6/66-GF30-FR, a flame-retardant, glass-fiber-reinforced nylon developed specifically for end-use production in rail and transit environments, reported by 3D Printing Industry on Jun 23, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/STRP059_Stratasys_PA6_66_rail_handle_train-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/stratasys-targets-rail-certification-gap-with-new-flame-retardant-fdm-material-252458
+📰 Elkem Silicones rebrands as Bluestar Silicones following acquisition
+Elkem Silicones has rebranded as Bluestar Silicones, reverting to the name the business carried from 2007 to 2017 following the completion of Bluestar’s acquisition of the majority of Elkem’s silicones … The post...
+Reported by VoxelMatters on Jun 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/IMG_4615-150x150.jpeg
+Read more ? https://www.voxelmatters.com/elkem-silicones-rebrands-as-bluestar-silicones-following-acquisition
 
-🚀 Markforged Launches Onyx GF for Factory Floor Visual Management
-FDM 3D printer manufacturer Markforged has announced Onyx GF, a chopped glass fiber-filled nylon that adds functional color to its established Onyx material family.
-Available in six colors — red, yellow, blue, green, gray, and white — the material is aimed at manufacturers who use color-coded tooling and fixtures for error-proofing, hazard signaling, and…, reported by 3D Printing Industry on Jun 23, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/Onyx-GF-Hero-Image-3840x2160-1-150x100.png
-Read more ? https://3dprintingindustry.com/news/markforged-launches-onyx-gf-for-factory-floor-visual-management-252473
+🚀 Titan America launches xForm3D concrete 3D printing products
+"Innovations like xForm3D will help expand what’s possible for the built environment.”
+Reported by TCT Magazine on Jun 24, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/concrete-print-4-1024x768.jpg
+Read more ? https://www.tctmagazine.com/titan-america-launches-xform3d-concrete-3d-printing-products
 
-📰 Anantara Dhigu and rrreefs Install 3D Printed Reef Structures in the Maldives
-Anantara Dhigu Maldives Resort, nestled in South Malé Atoll, has installed 13 flower-shaped reef structures on its lagoon floor in partnership with Swiss reef restoration company rrreefs, an effort to counter coral...
-The Theyra Maa installation, built from 3D printed fired terracotta clay and…, reported by 3D Printing Industry on Jun 23, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/1781496413612-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/anantara-dhigu-and-rrreefs-install-3d-printed-reef-structures-in-the-maldives-252453
+🖨 Massivit targets defence with RapidWings composite manufacturing platform
+"RapidWings marks a strategic milestone for Massivit as we pivot from providing industrial 3D printers to delivering a much-needed defence manufacturing platform."
+Reported by TCT Magazine on Jun 24, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/RapidWings-by-Massivit-2400x1350.jpg
+Read more ? https://www.tctmagazine.com/massivit-targets-defence-with-rapidwings-composite-manufacturing-platform
 
-📰 AMPOWER and TAAG Partner to Link AM Market Intelligence with Industrial Production Expertise
-AMPOWER and TAAG have partnered to address the disconnect between market intelligence and industrial production in the additive manufacturing (AM) sector.
-AMPOWER, founded in Hamburg in 2017 by Dr, reported by 3D Printing Industry on Jun 23, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/Additive-Manufacturing-150x100.png
-Read more ? https://3dprintingindustry.com/news/ampower-and-taag-partner-to-link-am-market-intelligence-with-industrial-production-expertise-252478
+🖨 Phase3D raises $2.9M to expand in-situ inspection for metal additive manufacturing
+Phase3D has closed a $2.9 million oversubscribed funding round led by Quest Venture Partners.
+Alongside the close, Ray Farrell joined the Phase3D board of directors, bringing more than 25 years … The post Phase3D raises $2.9M to expand in-situ inspection for metal additive manufacturing appeared first on, reported by VoxelMatters on Jun 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/06/Phase3D-group-150x150.jpg
+Read more ? https://www.voxelmatters.com/phase3d-raises-2-9m-to-expand-in-situ-inspection-for-metal-additive-manufacturing
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
