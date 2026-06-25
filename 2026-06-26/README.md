@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-26
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #170 - 2026-06-26
+## Stories
 
 🔥 3D Printing Market Size Is Set to Hit $135 Billion by 2033 - vocal.media
 3D Printing Market Size Is Set to Hit $135 Billion by 2033 vocal.media
@@ -49,9 +47,3 @@ Lumafield believes Neptune Performance and Triton Performance turn X-ray CT into
 Reported by TCT Magazine on Jun 25, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/Lumafield.jpg
 Read more ? https://www.tctmagazine.com/lumafield-promises-continuous-stream-of-quality-intelligence-with-new-x-ray-ct-platforms
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
