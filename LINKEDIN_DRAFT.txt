@@ -1,51 +1,53 @@
-﻿# 3D PRINTING PULSE #170 - 2026-06-26
+﻿# 3D PRINTING PULSE #171 - 2026-06-27
 
-🔥 3D Printing Market Size Is Set to Hit $135 Billion by 2033 - vocal.media
-3D Printing Market Size Is Set to Hit $135 Billion by 2033 vocal.media
-Reported by Google News - 3D Printing on Jun 25, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxPc21EcThNTGE3c1dJeDJvWWJzOVVmN092T2h6Y09kX0F2NDRQbzJVcGFrRjVVMjRRMEI0dDVOMUcwVkVWb21wd2JCVmdJemFaQk9ISkxQYVB4Z1hqMWwzSVFuQlR4UldwRHllX1g4ZFFrd2p3ekdkSHVvc0pYYjl0eHJJS3dGdlJfRW5WdmxoX2g?oc=5
+🚀 Beehive Orders 30 New EOS M4 ONYX Printers in $50M Deal
+US-based propulsion manufacturer Beehive Industries has signed an agreement to buy 30 EOS M4 ONYX metal 3D printers for $50 million.
+The systems will be installed at the company’s Colorado and Tennessee facilities over the next 12 months, raising Beehive’s total fleet of EOS metal 3D printers to 50, reported by 3D Printing Industry on Jun 26, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Frenzy-Profile-View-2-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/beehive-orders-30-new-eos-m4-onyx-printers-in-50m-deal-252595
 
-🚨 ELEGOO launches Centauri 2 Series 3D printers - Engineering.com
-ELEGOO launches Centauri 2 Series 3D printers Engineering.com
-Reported by Google News - 3D Printing on Jun 25, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMif0FVX3lxTE1kR1ByN0c0NkNzNkpaaHNfMHkteTc4UDhqd3hHNnpkNDhmMXJyeWsxQkhxVjlESkN0VTA1R29VOVNkcjJGSFlILThsWXB1XzBydkZLR0M0U0ZrZGlZMXo5MVpvMjlJaDg3LURONWlQOXdCWjVSQ0lBZDhLODJtX0U?oc=5
+🖨 QinetiQ installs dockside additive manufacturing facility at Royal Navy submarine base
+Defense technology company QinetiQ has established an additive manufacturing facility at HM Naval Base Clyde in Faslane, Scotland, designed to produce submarine components on demand and deliver them dockside to … The...
+Reported by VoxelMatters on Jun 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/QinetiQ-Royal-Navy-submarine-base-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/qinetiq-installs-dockside-additive-manufacturing-facility-at-royal-navy-submarine-base
 
-📰 CU Boulder researchers find seaweed derivative makes earthen materials viable for 3D printing
-Researchers at the University of Colorado Boulder have identified sodium alginate — a seaweed-derived compound used in food manufacturing — as an additive that makes natural earthen materials like clay … The post CU...
-Reported by VoxelMatters on Jun 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/CU-Boulder-natural-materials-03-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/cu-boulder-researchers-find-seaweed-derivative-makes-earthen-materials-viable-for-3d-printing
+🚀 DSH Technologies launches membership program targeting yield and downtime in powder metallurgy
+DSH Technologies, a Pineville, North Carolina-based provider of debinding and sintering services, has introduced DSH Advantage, a monthly membership program designed to give metal parts manufacturers direct access to...
+Reported by VoxelMatters on Jun 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/DSH-Technologies-membership-program-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/dsh-technologies-launches-membership-program-targeting-yield-and-downtime-in-powder-metallurgy
 
-💻 Duondolo, a modern rocking chair made using LFAM 3D printing
-When one thinks of a rocking chair, one generally thinks of a creaky wooden chair sat on a porch or in the corner of a nursery.
-Not designer Valentina Bottani, … The post Duondolo, a modern rocking chair made using LFAM 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/3d-printed-rocking-chair-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/duondolo-a-modern-rocking-chair-made-using-lfam-3d-printing
+🚀 NCAME Partners with 6K Additive to Close the Data Gap Holding Back Cold Spray Repair
+Researchers at Auburn University’s National Center for Additive Manufacturing Excellence (NCAME) have launched a study with metal powder producer 6K Additive to evaluate how cold spray feedstock materials perform...
+“This project is about understanding…, reported by 3D Printing Industry on Jun 26, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/NCAME_6KAdditive-7-of-131-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/ncame-partners-with-6k-additive-to-close-the-data-gap-holding-back-cold-spray-repair-252571
 
-🖨 DLA’s Columbus test center cuts fixture lead times with FDM
-The Defense Logistics Agency (DLA) Weapons Support Product Test Center (PTC) in Columbus, Ohio, has reduced testing fixture production times from several weeks or months to as little as six … The post DLA’s Columbus...
-Reported by VoxelMatters on Jun 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/DLA-Product-Test-Center-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/dlas-columbus-test-center-cuts-fixture-lead-times-with-fdm
+💻 Aalto University and Stanford Test a New Architecture for 6G Surfaces
+Researchers at Stanford University and Aalto University have built and tested a 3D printed panel that simultaneously handles six wireless signals across different frequencies, angles, and polarizations, boosting...
+The research was conducted by Mohammad M, reported by 3D Printing Industry on Jun 26, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/41467_2026_73019_Fig1_HTML-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/aalto-university-and-stanford-test-a-new-architecture-for-6g-surfaces-252578
 
-💻 Research project aims to unlock additive manufacturing for Australian maritime and defence supply chain
-"We can help manufacturers make faster, more informed decisions about where additive manufacturing can deliver measurable benefits."
+🏠 Application spotlight: FDM technology enables 88% cost-per-part reduction for replacement C-17 lavatory parts
+United States Air Force Maintenance Squadrons deployed a Stratasys F900 machine and Antero 800NA to produce the components.
+Reported by TCT Magazine on Jun 26, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/lavatory-floor-plan-with-f900-3d-printer.png
+🔗 Read more: https://www.tctmagazine.com/application-spotlight-fdm-technology-enables-88-cost-per-part-reduction-for-replacement-c-17-lavatory-parts
+
+🚀 SLM co-inventor &amp; Nikon SLM Chief Engineer Dieter Schwarze retires
+Schwarze completes a more than 40-year career which was dedicated to developing and advancing metal additive manufacturing technology.
 Reported by TCT Magazine on Jun 25, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/Austal_CoE_AMCRC-Project1.jpg
-🔗 Read more: https://www.tctmagazine.com/research-project-aims-to-unlock-additive-manufacturing-for-australian-maritime-and-defence-supply-chain
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/1650313.png
+🔗 Read more: https://www.tctmagazine.com/slm-co-inventor-nikon-slm-chief-engineer-dieter-schwarze-retires
 
-💻 3D Print Gallery’s Fourth Exhibition Puts Sustainability and the Ocean at Centre Stage
-Haarlem’s 3D Print Gallery is preparing to open its fourth exhibition this July, titled “An Ocean of Possibilities for Sustainability.” The show, running from 1 July for three months at De Koepel brings together four...
-The exhibition is an initiative…, reported by 3D Printing Industry on Jun 25, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-18.51.20-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/3d-print-gallerys-fourth-exhibition-puts-sustainability-and-the-ocean-at-centre-stage-252520
-
-📰 Lumafield promises 'continuous stream of quality intelligence' with new X-ray CT platforms
-Lumafield believes Neptune Performance and Triton Performance turn X-ray CT into a 'continuous thread of quality intelligence' from prototype to high-volume production.
-Reported by TCT Magazine on Jun 25, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/Lumafield.jpg
-🔗 Read more: https://www.tctmagazine.com/lumafield-promises-continuous-stream-of-quality-intelligence-with-new-x-ray-ct-platforms
+📰 3YOURMIND &amp; Phillips Corporation participate in Rim of the Pacific international military exercise
+The 3YOURMIND and Phillips Corporation efforts will validate a "C2 - command control" system for production orchestration to support the U.S.
+Department of War’s vision of delivering critical parts at the point of need, reported by TCT Magazine on Jun 25, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/USS_20Essex_20Conducts_20Amphibious_20Assault_20Operations_20During_20RIMPAC_202022_20-_20PO2_20Donita_20Burke-1.png
+🔗 Read more: https://www.tctmagazine.com/3yourmind-phillips-corporation-participate-in-rim-of-the-pacific-international-military-exercise
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "ELEGOO launches Centauri 2 Series 3D printers - Engineering.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMif0FVX3lxTE1kR1ByN0c0NkNzNkpaaHNfMHkteTc4UDhqd3hHNnpkNDhmMXJyeWsxQkhxVjlESkN0VTA1R29VOVNkcjJGSFlILThsWXB1XzBydkZLR0M0U0ZrZGlZMXo5MVpvMjlJaDg3LURONWlQOXdCWjVSQ0lBZDhLODJtX0U?oc=5 | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "Beehive Orders 30 New EOS M4 ONYX Printers in $50M Deal" because it highlights where practical 3D printing innovation is moving next. Source: https://3dprintingindustry.com/news/beehive-orders-30-new-eos-m4-onyx-printers-in-50m-deal-252595 | Complete rundown: https://www.quality3ds.com/

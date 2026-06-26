@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-27
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #171 - 2026-06-27
+## Stories
 
 🚀 Beehive Orders 30 New EOS M4 ONYX Printers in $50M Deal
 US-based propulsion manufacturer Beehive Industries has signed an agreement to buy 30 EOS M4 ONYX metal 3D printers for $50 million.
@@ -51,9 +49,3 @@ The 3YOURMIND and Phillips Corporation efforts will validate a "C2 - command con
 Department of War’s vision of delivering critical parts at the point of need, reported by TCT Magazine on Jun 25, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/USS_20Essex_20Conducts_20Amphibious_20Assault_20Operations_20During_20RIMPAC_202022_20-_20PO2_20Donita_20Burke-1.png
 Read more ? https://www.tctmagazine.com/3yourmind-phillips-corporation-participate-in-rim-of-the-pacific-international-military-exercise
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
