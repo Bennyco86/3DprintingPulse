@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-28
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #172 - 2026-06-28
+## Stories
 
 🚨 Bambu Lab Launches PLA Pure, a New Filament Engineered for Safer Home Printing
 Shenzhen-based desktop 3D printer manufacturer Bambu Lab has introduced PLA Pure, a new filament developed for consumer 3D printing environments where safety, air quality and material traceability are priorities.
@@ -51,9 +49,3 @@ CECIMO, the European Association of Manufacturing Technologies, has officially u
 The initiative marks a deliberate structural shift, transforming CECIMO’s longstanding but internally-focused AM activities into an outward-facing, inclusive ecosystem with a distinct European identity, reported by 3D Printing Industry on Jun 27, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2025/07/1744278675291-150x100.jpeg
 Read more ? https://3dprintingindustry.com/news/cecimo-launches-am-europe-to-unify-the-continents-additive-manufacturing-ecosystem-252600
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
