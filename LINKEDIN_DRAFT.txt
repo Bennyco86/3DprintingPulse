@@ -1,53 +1,47 @@
-﻿# 3D PRINTING PULSE #172 - 2026-06-28
+﻿# 3D PRINTING PULSE #173 - 2026-06-29
 
-🚨 Bambu Lab Launches PLA Pure, a New Filament Engineered for Safer Home Printing
-Shenzhen-based desktop 3D printer manufacturer Bambu Lab has introduced PLA Pure, a new filament developed for consumer 3D printing environments where safety, air quality and material traceability are priorities.
-The launch is positioned as a response to growing demand for cleaner, more transparent materials as desktop printers become increasingly common in homes, shared spaces and…, reported by 3D Printing Industry on Jun 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/image1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/bambu-lab-launches-pla-pure-a-new-filament-engineered-for-safer-home-printing-252515
+🔥 Fitbit Air Users Can Now 3D Print Their Own Custom Bands - Yahoo Tech
+Fitbit Air Users Can Now 3D Print Their Own Custom Bands Yahoo Tech
+Reported by Google News - 3D Printing on Jun 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHJ2ZFFUa2VQcmdSdG0yeFdMWDZ2WWh6SjJBTFE3UkpZRW9OSjJiSHhJa3A3a3hHSXR4Yks5aEVTbVFfQjlZTzIzOHVDM21EZnpKWWhFb2l5UzhmUUNRU21Fc0oxejZiRzlBS2gtaXFTWFhVRHpvZ2xuMVZZdnl6aUZSVG0yWXM?oc=5
 
-💻 Continuum Powders publishes circular manufacturing playbook backed by Rice University powder benchmarking
-Independent testing by Rice University’s Particle Flow &amp; Tribology Laboratory showed that reclaimed M247 nickel superalloy powder achieved superior additive manufacturing suitability scores compared to two widely...
-Reported by VoxelMatters on Jun 27, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Continuum-Powders-Playbook-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/continuum-powders-publishes-circular-manufacturing-playbook-backed-by-rice-university-powder-benchmarking
+🚀 Austal, Curtin University and AMCRC launch $600,000 additive manufacturing framework
+Australian shipbuilder Austal, Curtin University and the Additive Manufacturing Cooperative Research Centre (AMCRC) have commenced a $600,000 collaborative research project aimed at building a systematic framework...
+Reported by VoxelMatters on Jun 28, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Austal_CoE_AMCRC-Project2-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/austal-curtin-university-and-amcrc-launch-600000-additive-manufacturing-framework
 
-🖨 Phase3D Closes $2.9M Funding Round for Metal AM Inspection
-Chicago-based 3D printing quality assurance software developer Phase3D, has closed a $2.9 million funding round.
-Quest Venture Partners led the raise, with participation from Trinity Capital, Kinisis Ventures, Leroy Street Capital Partners, Asimov Ventures, and others, reported by 3D Printing Industry on Jun 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Artboard_1-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/phase3d-closes-2-9m-funding-round-for-metal-am-inspection-252618
+🏠 Minimal Matter uses 3D printed terracotta to explore biology-inspired construction
+Designer Rameshwari Jonnalagedda has developed Minimal Matter, a system of 3D printed terracotta modules that draws on the mathematics of minimal surfaces — geometries found in soap films, leaf veins, … The post...
+Reported by VoxelMatters on Jun 28, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/3D-printed-terracotta-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/minimal-matter-uses-3d-printed-terracotta-to-explore-biology-inspired-construction
 
-🖨 3YOURMIND, Phillips Corporation Join NPS Experiment at RIMPAC 2026
-3D printing software developer 3YOURMIND and Phillips Corporation Federal Division are participating in a distributed manufacturing experiment organized by the Naval Postgraduate School (NPS) as part of the biennial...
-The experiment, conducted through the NPS Consortium for…, reported by 3D Printing Industry on Jun 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/3YOURMIND-Manufacturing-Ecosystem-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/3yourmind-phillips-corporation-join-nps-experiment-at-rimpac-2026-252631
+🖨 How One Artist Is Using 3D Printing to Tell Stories About the Ocean
+Artist Kimberly Callas sees something different when she looks at a 3D printer.
+Where others see a machine for making parts, she sees a way to tell stories about the, reported by 3DPrint.com on Jun 28, 2026.
+🔗 Read more: https://3dprint.com/327659/how-one-artist-is-using-3d-printing-to-tell-stories-about-the-ocean
 
-🏠 AML3D Commissions First Two ARCEMY X Systems at NNS
-Australian 3D printer manufacturer AML3D has commissioned two large-scale ARCEMY X metal additive manufacturing (AM) systems at Newport News Shipbuilding (NNS), finalizing an initial approximately AU$4.5 million (approx.
-US$3.2 million) order, reported by 3D Printing Industry on Jun 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/2026-06-19-AL3-FIRST-ARCEMY-SYSTEMS-OPERATIONAL-US-MILITARY-SHIPBUILDER-1536x960-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/aml3d-commissions-first-two-arcemy-x-systems-at-nns-252636
+📰 Channel Your Inner Slimer with This Ghostbusters Ice Cream Pint Holder 3D Print - Ghostbusters News
+Channel Your Inner Slimer with This Ghostbusters Ice Cream Pint Holder 3D Print Ghostbusters News
+Reported by Google News - 3D Printing on Jun 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMivAFBVV95cUxNN09VZXdKbE01enhDOTdKekQyQkt4Tl85ZkJsWFVralFxbFVQbDBCSWx5UzRkX2Qwbms5QzBheUI1X1ZhYThlcElTLVJLelhJaGNLSWxuaDl2QVBTM2tlNXdkbDNRVzN5ay1kUmdUNTgxQWNtNERxbkpGMlROWXNUVl9OZGNrZHlFRkdYMm1tV1FtdFZqR21ramFfbFlQM0dqMzdWZzBUVlFTVV85Smc5b0FmcmtVZnZVS2JrRw?oc=5
 
-🚀 ExOne Launches S-Print Pro: Technical Specifications and Pricing
-ExOne has launched the S-Print Pro, a sand binder jetting (BJT) system designed for smaller foundries and pattern shops that have historically been priced out of industrial additive manufacturing (AM).
-The machine fits in under 12 m² of floor space and is positioned as the company’s affordable entry point for production-grade sand 3D printing, reported by 3D Printing Industry on Jun 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/X1_Machine_S-Print_Pro_Operator_in_front_of_machine_IMG-0213-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/exone-launches-s-print-pro-technical-specifications-and-pricing-252623
+🖨 3D printers becoming popular for hobbies and especially in work lab - Avoyelles Today
+3D printers becoming popular for hobbies and especially in work lab Avoyelles Today
+Reported by Google News - 3D Printing on Jun 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMioAFBVV95cUxOamxrQzAtVXNhWkRadlZINjlhZ29NU0JKLTk0emwxWEx6V19VSm9iUnFwRmpFODZ2eE0tTEFPaUY4WHFuam1WNE1KMklYUlRfMDM5TXFRUXR3bVoycG9SdjBmTEc2eVZJTFI4M1Q1ZzBqY1dwUzhueVZ5Tm5Ld0dtYll3V2RhbWU4U2ZHUFBTYUxOZ3Mya0lPc1hTTXlKTFlI?oc=5
 
-🏠 Titan America introduces patented 3D printable concrete xForm3D
-Titan America SA has introduced xForm3D, a US-patented 3D printable concrete technology developed to support automated construction methods across residential, commercial, infrastructure, and coastal applications.
-The Norfolk, Virginia-based company says … The post Titan America introduces patented 3D printable concrete xForm3D appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Titan-xForm3D-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/titan-america-introduces-patented-3d-printable-concrete-xform3d
+🚀 AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting — parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU - Tom's Hardware
+AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting — parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU Tom's Hardware
+Reported by Google News - 3D Printing on Jun 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiigJBVV95cUxPVmZlQWJSOTdIMHBjdzJ0dzI3MklIYVByUkFpZ0pEZ2h5OU14YkM0XzJqUmVCWXJORkkyNEZlQi1tM09LdEt1MWI1MjV6UTFtMU1sSXRIU2xUVlJQczNfcUtHM2ZTZ1FoQ0lvaWFVM0VrTUdJZlBzNXY1NkhGdS0zZ3YyRVU3RGI3NWI5NHlPdWJzWVRxX2FwNHpWeFFSYkM3bEZObDQyX21CdlNjSUVRaHVjNFpFcXRqTzJGZjdjOTlVeWY2WFNVVmpNTWNyemdxSWpDTS1NNFFuS2pPRHlWSHdOUEg4bkY1Y3VPTGZsWFg1M09VZ1U5UmhEXzg1S0dsZDlrMFlGZDZXQQ?oc=5
 
-🚀 CECIMO Launches AM-Europe to Unify the Continent’s Additive Manufacturing Ecosystem
-CECIMO, the European Association of Manufacturing Technologies, has officially unveiled AM-Europe, a dedicated continental platform designed to consolidate and amplify the additive manufacturing (AM) sector’s...
-The initiative marks a deliberate structural shift, transforming CECIMO’s longstanding but internally-focused AM activities into an outward-facing, inclusive ecosystem with a distinct European identity, reported by 3D Printing Industry on Jun 27, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/07/1744278675291-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/cecimo-launches-am-europe-to-unify-the-continents-additive-manufacturing-ecosystem-252600
+📰 I'm 3D printing something useful every day for a month—here are the 4 projects I'm starting with - How-To Geek
+I'm 3D printing something useful every day for a month—here are the 4 projects I'm starting with How-To Geek
+Reported by Google News - 3D Printing on Jun 28, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE54MXZOUWhVdFRvNlNsMlA3eFJkZ1dmZnRNN2toM3FJNGlDTUNFam1xY3h4VTdsU0F1bGV6Qm5NWGRmbGV2LVNDQ0F3MHctQ1RLanpWQTFkZGhMWERLdzRnNFNSMmxhaUdtSlpRUDVnT0lBeE9UVXpZbzdIWQ?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Bambu Lab Launches PLA Pure, a New Filament Engineered for Safer Home Printing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://3dprintingindustry.com/news/bambu-lab-launches-pla-pure-a-new-filament-engineered-for-safer-home-printing-252515 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Fitbit Air Users Can Now 3D Print Their Own Custom Bands - Yahoo Tech" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHJ2ZFFUa2VQcmdSdG0yeFdMWDZ2WWh6SjJBTFE3UkpZRW9OSjJiSHhJa3A3a3hHSXR4Yks5aEVTbVFfQjlZTzIzOHVDM21EZnpKWWhFb2l5UzhmUUNRU21Fc0oxejZiRzlBS2gtaXFTWFhVRHpvZ2xuMVZZdnl6aUZSVG0yWXM?oc=5 | Full coverage: https://www.quality3ds.com/

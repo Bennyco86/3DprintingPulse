@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-29
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #173 - 2026-06-29
+## Stories
 
 🔥 Fitbit Air Users Can Now 3D Print Their Own Custom Bands - Yahoo Tech
 Fitbit Air Users Can Now 3D Print Their Own Custom Bands Yahoo Tech
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMiigJBVV95cUxPVmZlQWJSOTdIMHB
 I'm 3D printing something useful every day for a month—here are the 4 projects I'm starting with How-To Geek
 Reported by Google News - 3D Printing on Jun 28, 2026.
 Read more ? https://news.google.com/rss/articles/CBMie0FVX3lxTE54MXZOUWhVdFRvNlNsMlA3eFJkZ1dmZnRNN2toM3FJNGlDTUNFam1xY3h4VTdsU0F1bGV6Qm5NWGRmbGV2LVNDQ0F3MHctQ1RLanpWQTFkZGhMWERLdzRnNFNSMmxhaUdtSlpRUDVnT0lBeE9UVXpZbzdIWQ?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
