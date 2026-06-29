@@ -1,47 +1,53 @@
-﻿# 3D PRINTING PULSE #173 - 2026-06-29
+﻿# 3D PRINTING PULSE #174 - 2026-06-30
 
-🔥 Fitbit Air Users Can Now 3D Print Their Own Custom Bands - Yahoo Tech
-Fitbit Air Users Can Now 3D Print Their Own Custom Bands Yahoo Tech
-Reported by Google News - 3D Printing on Jun 28, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHJ2ZFFUa2VQcmdSdG0yeFdMWDZ2WWh6SjJBTFE3UkpZRW9OSjJiSHhJa3A3a3hHSXR4Yks5aEVTbVFfQjlZTzIzOHVDM21EZnpKWWhFb2l5UzhmUUNRU21Fc0oxejZiRzlBS2gtaXFTWFhVRHpvZ2xuMVZZdnl6aUZSVG0yWXM?oc=5
+💻 Danish brand hand bends 3D printed seats to push large-scale extrusion post processing boundaries
+Danish design studio Oberdoerfer &amp; Krebs has presented two 3D printed seating pieces at Ukurant, a group show of emerging designers held during 3daysofdesign in Copenhagen.
+The Bend Chair and … The post Danish brand hand bends 3D printed seats to push large-scale extrusion post processing boundaries appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/3D-printed-hand-finished-seats-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/danish-brand-hand-bends-3d-printed-seats-to-push-large-scale-extrusion-post-processing-boundaries
 
-🚀 Austal, Curtin University and AMCRC launch $600,000 additive manufacturing framework
-Australian shipbuilder Austal, Curtin University and the Additive Manufacturing Cooperative Research Centre (AMCRC) have commenced a $600,000 collaborative research project aimed at building a systematic framework...
-Reported by VoxelMatters on Jun 28, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Austal_CoE_AMCRC-Project2-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/austal-curtin-university-and-amcrc-launch-600000-additive-manufacturing-framework
+💻 NNSA’s Aires Tide marks first tangible result of Genesis Mission using AI and AM
+The Department of Energy’s National Nuclear Security Administration (NNSA) has unveiled Aires Tide, a proof-of-concept flight test vehicle developed through a combination of artificial intelligence, high-performance...
+… The post NNSA’s Aires Tide marks first tangible result of Genesis Mission using AI and AM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/NNSA-Announces-Aires-Tide-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nnsas-aires-tide-marks-first-tangible-result-of-genesis-mission-using-ai-and-am
 
-🏠 Minimal Matter uses 3D printed terracotta to explore biology-inspired construction
-Designer Rameshwari Jonnalagedda has developed Minimal Matter, a system of 3D printed terracotta modules that draws on the mathematics of minimal surfaces — geometries found in soap films, leaf veins, … The post...
-Reported by VoxelMatters on Jun 28, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/3D-printed-terracotta-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/minimal-matter-uses-3d-printed-terracotta-to-explore-biology-inspired-construction
+📰 Valland turns automotive scrap aluminium into LPBF feedstock in ToZero project
+The ToZero project—full name: Towards Zero Waste in Aluminum BiW Manufacturing—completed its final review after achieving its core objective: determining whether aluminum scrap from body-in-white automotive...
+Reported by VoxelMatters on Jun 29, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/tozero-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/valland-turns-automotive-scrap-aluminium-into-lpbf-feedstock-in-tozero-project
 
-🖨 How One Artist Is Using 3D Printing to Tell Stories About the Ocean
-Artist Kimberly Callas sees something different when she looks at a 3D printer.
-Where others see a machine for making parts, she sees a way to tell stories about the, reported by 3DPrint.com on Jun 28, 2026.
-🔗 Read more: https://3dprint.com/327659/how-one-artist-is-using-3d-printing-to-tell-stories-about-the-ocean
+🦺 AFIT doctoral student builds custom 3D printer to produce radiation detectors for USAF
+A project sponsored by the Department of Energy’s National Nuclear Security Administration Defense Nuclear Nonproliferation Research and Development (NNSA DNN R&amp;D) program at Oak Ridge National Laboratory has applied...
+Reported by VoxelMatters on Jun 29, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/DoE-ORNL-Custom-Radiation-Detectors-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/afit-doctoral-student-builds-custom-3d-printer-to-produce-radiation-detectors-for-usaf
 
-📰 Channel Your Inner Slimer with This Ghostbusters Ice Cream Pint Holder 3D Print - Ghostbusters News
-Channel Your Inner Slimer with This Ghostbusters Ice Cream Pint Holder 3D Print Ghostbusters News
-Reported by Google News - 3D Printing on Jun 28, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMivAFBVV95cUxNN09VZXdKbE01enhDOTdKekQyQkt4Tl85ZkJsWFVralFxbFVQbDBCSWx5UzRkX2Qwbms5QzBheUI1X1ZhYThlcElTLVJLelhJaGNLSWxuaDl2QVBTM2tlNXdkbDNRVzN5ay1kUmdUNTgxQWNtNERxbkpGMlROWXNUVl9OZGNrZHlFRkdYMm1tV1FtdFZqR21ramFfbFlQM0dqMzdWZzBUVlFTVV85Smc5b0FmcmtVZnZVS2JrRw?oc=5
+💻 AMAA 2026: Why the UK MOD Is Betting Big on AM
+When a warship cannot leave port because a decades-old part no longer exists anywhere in the supply chain, the daily cost to the taxpayer is in millions.
+The UK Ministry of Defence (MOD) has spent £6.25M on Project Tampa (including up to £5M with industry), a four-spiral defense additive manufacturing program designed to address obsolescence…, reported by 3D Printing Industry on Jun 29, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/amaa-2026-why-the-uk-mod-is-betting-big-on-am-252305
 
-🖨 3D printers becoming popular for hobbies and especially in work lab - Avoyelles Today
-3D printers becoming popular for hobbies and especially in work lab Avoyelles Today
-Reported by Google News - 3D Printing on Jun 28, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMioAFBVV95cUxOamxrQzAtVXNhWkRadlZINjlhZ29NU0JKLTk0emwxWEx6V19VSm9iUnFwRmpFODZ2eE0tTEFPaUY4WHFuam1WNE1KMklYUlRfMDM5TXFRUXR3bVoycG9SdjBmTEc2eVZJTFI4M1Q1ZzBqY1dwUzhueVZ5Tm5Ld0dtYll3V2RhbWU4U2ZHUFBTYUxOZ3Mya0lPc1hTTXlKTFlI?oc=5
+💻 The Royal Navy’s Additive Manufacturing Push for Submarine Readiness
+The UK’s Submarine Delivery Group, part of the Defence Nuclear Enterprise, has moved additive manufacturing from experimental tool to frontline maintenance capability, deploying on-site 3D printing workshops at HM...
+The SDG Additive Manufacturing team,…, reported by 3D Printing Industry on Jun 29, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/s960_FLEET-20260624-XT0077-049-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/the-royal-navys-additive-manufacturing-push-for-submarine-readiness-252653
 
-🚀 AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting — parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU - Tom's Hardware
-AMD engineer 3D-prints Steam Machine-a-like with diagonal mobo mounting — parts include a Mini ITX motherboard, RTX 5060, and a flex ATX PSU Tom's Hardware
-Reported by Google News - 3D Printing on Jun 28, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiigJBVV95cUxPVmZlQWJSOTdIMHBjdzJ0dzI3MklIYVByUkFpZ0pEZ2h5OU14YkM0XzJqUmVCWXJORkkyNEZlQi1tM09LdEt1MWI1MjV6UTFtMU1sSXRIU2xUVlJQczNfcUtHM2ZTZ1FoQ0lvaWFVM0VrTUdJZlBzNXY1NkhGdS0zZ3YyRVU3RGI3NWI5NHlPdWJzWVRxX2FwNHpWeFFSYkM3bEZObDQyX21CdlNjSUVRaHVjNFpFcXRqTzJGZjdjOTlVeWY2WFNVVmpNTWNyemdxSWpDTS1NNFFuS2pPRHlWSHdOUEg4bkY1Y3VPTGZsWFg1M09VZ1U5UmhEXzg1S0dsZDlrMFlGZDZXQQ?oc=5
+📰 DLA’s Product Test Center Cuts Testing Times with 3D Printing Capability
+The Defense Logistics Agency Weapons Support Product Test Center in Columbus, Ohio has integrated additive manufacturing into its quality assurance operations, reducing fixture production times from months to hours...
+The facility tests around 3,000 items per year across its electronics and mechanical labs, with a 30-day window…, reported by 3D Printing Industry on Jun 29, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/260518-D-PJ986-9755-150x100.avif
+🔗 Read more: https://3dprintingindustry.com/news/dlas-product-test-center-cuts-testing-times-with-3d-printing-capability-252667
 
-📰 I'm 3D printing something useful every day for a month—here are the 4 projects I'm starting with - How-To Geek
-I'm 3D printing something useful every day for a month—here are the 4 projects I'm starting with How-To Geek
-Reported by Google News - 3D Printing on Jun 28, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE54MXZOUWhVdFRvNlNsMlA3eFJkZ1dmZnRNN2toM3FJNGlDTUNFam1xY3h4VTdsU0F1bGV6Qm5NWGRmbGV2LVNDQ0F3MHctQ1RLanpWQTFkZGhMWERLdzRnNFNSMmxhaUdtSlpRUDVnT0lBeE9UVXpZbzdIWQ?oc=5
+💻 Eureka’s River Luminaire Brings 3D Printing to Decorative Lighting
+Montreal-based lighting manufacturer Eureka, part of the Acuity Brands portfolio, has introduced the River Luminaire series, a collection of 13 decorative lighting fixtures.
+For the first time, Eureka has incorporated large-format additive manufacturing (LFAM) into its product lineup, partnering with Florida-based Haddy to realize shapes and textures that traditional manufacturing simply, reported by 3D Printing Industry on Jun 29, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/714805721_1710094530476107_4035646693637674753_n-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/eurekas-river-luminaire-brings-3d-printing-to-decorative-lighting-252649
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Fitbit Air Users Can Now 3D Print Their Own Custom Bands - Yahoo Tech" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHJ2ZFFUa2VQcmdSdG0yeFdMWDZ2WWh6SjJBTFE3UkpZRW9OSjJiSHhJa3A3a3hHSXR4Yks5aEVTbVFfQjlZTzIzOHVDM21EZnpKWWhFb2l5UzhmUUNRU21Fc0oxejZiRzlBS2gtaXFTWFhVRHpvZ2xuMVZZdnl6aUZSVG0yWXM?oc=5 | Full coverage: https://www.quality3ds.com/
+Today's standout topic: "Danish brand hand bends 3D printed seats to push large-scale extrusion post processing boundaries" because it highlights where practical 3D printing innovation is moving next. Story: https://www.voxelmatters.com/danish-brand-hand-bends-3d-printed-seats-to-push-large-scale-extrusion-post-processing-boundaries | Explore more: https://www.quality3ds.com/

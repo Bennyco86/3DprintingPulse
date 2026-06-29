@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-06-30
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #174 - 2026-06-30
+## Stories
 
 💻 Danish brand hand bends 3D printed seats to push large-scale extrusion post processing boundaries
 Danish design studio Oberdoerfer & Krebs has presented two 3D printed seating pieces at Ukurant, a group show of emerging designers held during 3daysofdesign in Copenhagen.
@@ -51,9 +49,3 @@ Montreal-based lighting manufacturer Eureka, part of the Acuity Brands portfolio
 For the first time, Eureka has incorporated large-format additive manufacturing (LFAM) into its product lineup, partnering with Florida-based Haddy to realize shapes and textures that traditional manufacturing simply, reported by 3D Printing Industry on Jun 29, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/714805721_1710094530476107_4035646693637674753_n-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/eurekas-river-luminaire-brings-3d-printing-to-decorative-lighting-252649
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
