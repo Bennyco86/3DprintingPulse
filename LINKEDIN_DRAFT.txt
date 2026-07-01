@@ -1,53 +1,53 @@
-﻿# 3D PRINTING PULSE #175 - 2026-07-01
+﻿# 3D PRINTING PULSE #176 - 2026-07-02
 
-📰 Rameshwari Jonnalagedda Builds 3D Printed Terracotta Modules Designed to Be Colonized by Nature
-Designer Rameshwari Jonnalagedda has created Minimal Matter, a system of 3D printed terracotta components built around the mathematics of minimal surfaces, the same geometric principles found in soap films, leaf...
-Rather than producing a single fixed object, Jonnalagedda has built a flexible framework: depending on how its geometry is tuned, the…, reported by 3D Printing Industry on Jun 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/1707227219699-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/rameshwari-jonnalagedda-builds-3d-printed-terracotta-modules-designed-to-be-colonized-by-nature-252711
+🚀 Formnext to launch inaugural Defence Summit in November 2026
+Formnext, the international exhibition for additive manufacturing and modern production technologies, will host the first Formnext Defence Summit on November 17, 2026, alongside its main exhibition running November...
+Reported by VoxelMatters on Jul 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Formnext-Defence-Summit-2026-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/formnext-to-launch-inaugural-defence-summit-in-november-2026
 
-🦺 IU Health opens FDA-cleared 3D printing studio in Indianapolis innovation district
-Indiana University Health has opened a dedicated 3D print studio at the 16 Tech Innovation District in Indianapolis, making the facility among the first hospital-based, FDA-cleared 3D printing programs in … The post...
-Reported by VoxelMatters on Jun 30, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/IU-Health-3D-printing-lab-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/iu-health-opens-fda-cleared-3d-printing-studio-in-indianapolis-innovation-district
+📰 AMUG names Toyota’s Dallas Martin president for 2026–2027 board term
+The Additive Manufacturing Users Group (AMUG), a member-driven additive manufacturing nonprofit, has filled five leadership roles on its 2026–2027 Board of Directors through member elections and board appointments.
+William “Dallas” … The post AMUG names Toyota’s Dallas Martin president for 2026–2027 board term appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/AMUG-board-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/amug-names-toyotas-dallas-martin-president-for-2026-2027-board-term
 
-🚀 Velo3D opening 289k-sq-ft facility in Livermore to triple metal AM production
-Citing a growth in demand from the aerospace and defense sectors, metal AM company Velo3D is opening a new production facility in Livermore, California.
-The site, which spans 289,000 square … The post Velo3D opening 289k-sq-ft facility in Livermore to triple metal AM production appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/New_Livermore_Facility_Aerial-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/velo3d-opening-289k-sq-ft-facility-livermore-triple-metal-am-production
-
-🚀 AMAA 2026: Authentise Targets Technical Data Package Bottleneck with AI-Driven Workflow Tool
-In additive manufacturing (AM) in aerospace and defense, documentation overhead is one of the most persistent barriers to getting parts into production.
-Boeing was sitting on a substantial backlog of technical data packages for casting and 3D printed parts, at a cost its engineering teams could no longer absorb, reported by 3D Printing Industry on Jun 30, 2026.
+🚀 AMAA 2026: Northrop’s Single Piece Tanks Created a New Certification Challenge
+In additive manufacturing for space hardware, the parts easiest to print are often the hardest to certify.
+A forging and a weld seam unified into one printed piece sounds like pure upside, until someone has to prove it will not fail under pressure in orbit, reported by 3D Printing Industry on Jul 01, 2026.
 🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/amaa-2026-authentise-targets-technical-data-package-bottleneck-with-ai-driven-workflow-tool-252685
+🔗 Read more: https://3dprintingindustry.com/news/amaa-2026-northrops-single-piece-tanks-created-a-new-certification-challenge-252513
 
-🚀 Unsupervised, Strong, and Scalable: The New Era of Factory-Floor 3D Printing
-There’s a jig sitting in a drawer at most aerospace and automotive shops.
-Making it meant calling a machinist, waiting weeks, and paying for a block of aluminum to be carved down into something used maybe 50 times before the design changed, reported by 3D Printing Industry on Jun 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/ONE5x_Wide_BuzorHoldsPrint_1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/unsupervised-strong-and-scalable-the-new-era-of-factory-floor-3d-printing-252186
+🚀 Beehive Industries acquires two Cincinnati machine shops to scale Frenzy engine production
+Beehive Industries has acquired the assets of two Greater Cincinnati machine shops, Able Tool Corporation and its subsidiary Planet Products Corporation, as the US propulsion manufacturer expands its precision...
+Reported by VoxelMatters on Jul 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Beehive-acquires-Able-and-Planet-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/beehive-industries-acquires-two-cincinnati-machine-shops-to-scale-frenzy-engine-production
 
-🚀 AMAA 2026: NASA JPL details 3D printed lattice design for Mars Sample Return impact protection
-With AMAA: Aerospace, Space &amp; Defense returning to place mission-critical additive manufacturing applications under the spotlight, our pre-event series returns to focus on speakers from across the sector examining...
-Among them is Ryan Watkins, a Research Engineer specializing in mechanics at NASA Jet Propulsion…, reported by 3D Printing Industry on Jun 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/03/PIA26706_Fig_A-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/amaa-2026-nasa-jpl-details-3d-printed-lattice-design-for-mars-sample-return-impact-protection-252696
+🚀 NNSA Unveils Aires Tide, Its First AI-Designed Flight Vehicle Under the Genesis Mission
+A new flight test vehicle from the Department of Energy’s National Nuclear Security Administration (NNSA) shows what happens when AI, supercomputing, and 3D printing get folded into a single design pipeline.
+Called Aires Tide, the proof-of-concept aircraft was engineered to test whether national security hardware can move from blueprint to airborne test article on a…, reported by 3D Printing Industry on Jul 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/KCNMO_printing_display_model__9HI0831-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/nnsa-unveils-aires-tide-its-first-ai-designed-flight-vehicle-under-the-genesis-mission-252727
 
-🏠 Empa Uses 3D Printing to Repair Cracked Bridges Without Replacing Them
-Swiss Federal Laboratories for Materials Science and Technology (Empa) researchers are using Wire Arc Additive Manufacturing to repair fatigue cracks in bridges and steel structures, printing customized metal...
-The process, known as WAAM, works by feeding a welding wire through a robotic arm that deposits…, reported by 3D Printing Industry on Jun 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/868bee47-1218-41d1-9f4f-98badd2566a4-150x100.avif
-🔗 Read more: https://3dprintingindustry.com/news/empa-uses-3d-printing-to-repair-cracked-bridges-without-replacing-them-252698
+🚀 SUNLU launches AMS Lite Heater and giveaways for 13th anniversary
+This month Chinese 3D printing materials supplier SUNLU is celebrating its 13th anniversary, and there is real cause to celebrate.
+The company, which counts over 25 million products sold and … The post SUNLU launches AMS Lite Heater and giveaways for 13th anniversary appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/sunlu-ams-list-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/sunlu-launches-ams-lite-heater-and-giveaways-for-13th-anniversary
 
-🚀 NSF Grant Funds True 3D Nanoprinting at UC Santa Barbara
-UC Santa Barbara has secured $1.15 million from the National Science Foundation to acquire a nanoscale 3D printing system based on two-photon photolithography (2PP), technology that moves additive manufacturing...
-The grant, led by electrical and computer engineering professor Galan Moody alongside four…, reported by 3D Printing Industry on Jun 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/moody-brian-illo-uc-santa-barbara-150x100.avif
-🔗 Read more: https://3dprintingindustry.com/news/nsf-grant-funds-true-3d-nanoprinting-at-uc-santa-barbara-252690
+🦺 SHINING 3D Dental’s Ceramix-Nano Takes Chairside Printing to a New Level
+SHINING 3D Dental, dental division of Chinese company SHINING 3D, officially brought the Ceramix-Nano to market on June 18, stepping into the growing race for compact, clinic-ready ceramic printers with a device that...
+The machine produces crowns, veneers, inlays, onlays, and…, reported by 3D Printing Industry on Jun 30, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/content-1-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/shining-3d-dentals-ceramix-nano-takes-chairside-printing-to-a-new-level-252674
+
+🚀 Massivit Launches RapidWings to Fix Defense’s Composite Bottleneck
+Israel-based Massivit has unveiled RapidWings, a global network of local, on-demand sovereign production facilities designed to overcome composite manufacturing bottlenecks in defense.
+Already operational in Israel, the network is now actively recruiting certified manufacturers in the US and Europe, reported by 3D Printing Industry on Jun 30, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/Intl-Launch-RW-1-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/massivit-launches-rapidwings-to-fix-defenses-composite-bottleneck-252682
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Rameshwari Jonnalagedda Builds 3D Printed Terracotta Modules Designed to Be Colonized by Nature" because it highlights where practical 3D printing innovation is moving next. Read it here: https://3dprintingindustry.com/news/rameshwari-jonnalagedda-builds-3d-printed-terracotta-modules-designed-to-be-colonized-by-nature-252711 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Formnext to launch inaugural Defence Summit in November 2026" because it highlights where practical 3D printing innovation is moving next. Story: https://www.voxelmatters.com/formnext-to-launch-inaugural-defence-summit-in-november-2026 | Explore more: https://www.quality3ds.com/

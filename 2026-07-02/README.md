@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-02
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #176 - 2026-07-02
+## Stories
 
 🚀 Formnext to launch inaugural Defence Summit in November 2026
 Formnext, the international exhibition for additive manufacturing and modern production technologies, will host the first Formnext Defence Summit on November 17, 2026, alongside its main exhibition running November...
@@ -51,9 +49,3 @@ Israel-based Massivit has unveiled RapidWings, a global network of local, on-dem
 Already operational in Israel, the network is now actively recruiting certified manufacturers in the US and Europe, reported by 3D Printing Industry on Jun 30, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/Intl-Launch-RW-1-150x100.webp
 Read more ? https://3dprintingindustry.com/news/massivit-launches-rapidwings-to-fix-defenses-composite-bottleneck-252682
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
