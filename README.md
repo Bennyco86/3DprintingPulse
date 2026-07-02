@@ -2,55 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #176 - 2026-07-02
+### 3D PRINTING PULSE #177 - 2026-07-03
 
-🚀 Formnext to launch inaugural Defence Summit in November 2026
-Formnext, the international exhibition for additive manufacturing and modern production technologies, will host the first Formnext Defence Summit on November 17, 2026, alongside its main exhibition running November...
-Reported by VoxelMatters on Jul 01, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Formnext-Defence-Summit-2026-150x150.jpg
-Read more ? https://www.voxelmatters.com/formnext-to-launch-inaugural-defence-summit-in-november-2026
+♻️ Valland’s ToZero Project Turns Scrap Into 3D Printable Metal
+Italian additive manufacturer Valland, together with the Politecnico di Torino, the Politecnico di Bari, and the Fontana Group, has confirmed under Italy’s Accordi per l’Innovazione-backed ToZero project that...
+Reported by 3D Printing Industry on Jul 02, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/1782200377526-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/vallands-tozero-project-turns-scrap-into-3d-printable-metal-252779
 
-📰 AMUG names Toyota’s Dallas Martin president for 2026–2027 board term
-The Additive Manufacturing Users Group (AMUG), a member-driven additive manufacturing nonprofit, has filled five leadership roles on its 2026–2027 Board of Directors through member elections and board appointments.
-William “Dallas” … The post AMUG names Toyota’s Dallas Martin president for 2026–2027 board term appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/AMUG-board-150x150.jpg
-Read more ? https://www.voxelmatters.com/amug-names-toyotas-dallas-martin-president-for-2026-2027-board-term
+📰 ASTM publishes strategic guide for certifying AM parts in defense
+ASTM International’s Additive Manufacturing Center of Excellence (AM CoE) has published a Strategic Guide to Certification of Additively Manufactured Parts in Defence Applications, developed jointly with the United...
+Reported by VoxelMatters on Jul 02, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/ASTM-UK-Army-Boat-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/astm-publishes-strategic-guide-for-certifying-am-parts-in-defense
 
-🚀 AMAA 2026: Northrop’s Single Piece Tanks Created a New Certification Challenge
-In additive manufacturing for space hardware, the parts easiest to print are often the hardest to certify.
-A forging and a weld seam unified into one printed piece sounds like pure upside, until someone has to prove it will not fail under pressure in orbit, reported by 3D Printing Industry on Jul 01, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png
-Read more ? https://3dprintingindustry.com/news/amaa-2026-northrops-single-piece-tanks-created-a-new-certification-challenge-252513
+🦺 30 women receive 3D printed breast scaffolds in BellaSeno clinical trials
+Germany-based medtech company BellaSeno is developing solutions that could change the the standards for breast restoration and augmentation surgery.
+Using a combination of biomaterials, additive manufacturing, and a proprietary scaffold … The post 30 women receive 3D printed breast scaffolds in BellaSeno clinical trials appeared first on VoxelMatters - The heart...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/bellaseno-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/30-women-receive-3d-printed-breast-scaffolds-in-bellaseno-clinical-trials
 
-🚀 Beehive Industries acquires two Cincinnati machine shops to scale Frenzy engine production
-Beehive Industries has acquired the assets of two Greater Cincinnati machine shops, Able Tool Corporation and its subsidiary Planet Products Corporation, as the US propulsion manufacturer expands its precision...
-Reported by VoxelMatters on Jul 01, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Beehive-acquires-Able-and-Planet-150x150.jpg
-Read more ? https://www.voxelmatters.com/beehive-industries-acquires-two-cincinnati-machine-shops-to-scale-frenzy-engine-production
+🚀 Conflux Technology & Dallara working to enable liquid hydrogen-powered endurance racing
+The two companies are co-developing an advanced liquid hydrogen-to-coolant heat exchanger for a next-generation hydrogen internal combustion engine (ICE) endurance race car.
+Reported by TCT Magazine on Jul 02, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Press-Release-Listing-Image-3.png
+Read more ? https://www.tctmagazine.com/conflux-technology-dallara-working-to-enable-liquid-hydrogen-powered-endurance-racing
 
-🚀 NNSA Unveils Aires Tide, Its First AI-Designed Flight Vehicle Under the Genesis Mission
-A new flight test vehicle from the Department of Energy’s National Nuclear Security Administration (NNSA) shows what happens when AI, supercomputing, and 3D printing get folded into a single design pipeline.
-Called Aires Tide, the proof-of-concept aircraft was engineered to test whether national security hardware can move from blueprint to airborne test article on a…, reported by 3D Printing Industry on Jul 01, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/KCNMO_printing_display_model__9HI0831-1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/nnsa-unveils-aires-tide-its-first-ai-designed-flight-vehicle-under-the-genesis-mission-252727
+🚀 Velo3D launches additive manufacturing facility with capacity for 100+ metal 3D printers
+The company says the site boasts nearly 10 million cubic feet of production space.
+Reported by TCT Magazine on Jul 02, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Velo3D_New_Production_Facility.jpg
+Read more ? https://www.tctmagazine.com/velo3d-launches-additive-manufacturing-facility-with-capacity-for-100-metal-3d-printers
 
-🚀 SUNLU launches AMS Lite Heater and giveaways for 13th anniversary
-This month Chinese 3D printing materials supplier SUNLU is celebrating its 13th anniversary, and there is real cause to celebrate.
-The company, which counts over 25 million products sold and … The post SUNLU launches AMS Lite Heater and giveaways for 13th anniversary appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/sunlu-ams-list-150x150.jpg
-Read more ? https://www.voxelmatters.com/sunlu-launches-ams-lite-heater-and-giveaways-for-13th-anniversary
+💻 US Navy aims to cut F/A-18 composite repair times in half with 3D printed patches
+The US Navy is testing a 3D printed composite patch repair method it said could cut F/A-18 Super Hornet repair times by roughly 50%, with plans to flight-test the process … The post US Navy aims to cut F/A-18...
+Reported by VoxelMatters on Jul 02, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Navy-Hornet-repair-times-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/us-navy-aims-to-cut-f-a-18-composite-repair-times-in-half-with-3d-printed-patches
 
-🦺 SHINING 3D Dental’s Ceramix-Nano Takes Chairside Printing to a New Level
-SHINING 3D Dental, dental division of Chinese company SHINING 3D, officially brought the Ceramix-Nano to market on June 18, stepping into the growing race for compact, clinic-ready ceramic printers with a device that...
-The machine produces crowns, veneers, inlays, onlays, and…, reported by 3D Printing Industry on Jun 30, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/content-1-150x100.webp
-Read more ? https://3dprintingindustry.com/news/shining-3d-dentals-ceramix-nano-takes-chairside-printing-to-a-new-level-252674
+🚀 Rocket Lab to Buy Iridium in New Deal, Forming Vertically Integrated Space Company
+Nasdaq-listed launch and space systems company Rocket Lab Corporation and global satellite network operator Iridium Communications have signed a definitive agreement for Rocket Lab to acquire Iridium, valuing Iridium...
+The combination creates a single,…, reported by 3D Printing Industry on Jul 02, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/rocket-lab-and-iridium-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/rocket-lab-to-buy-iridium-in-new-deal-forming-vertically-integrated-space-company-252775
 
-🚀 Massivit Launches RapidWings to Fix Defense’s Composite Bottleneck
-Israel-based Massivit has unveiled RapidWings, a global network of local, on-demand sovereign production facilities designed to overcome composite manufacturing bottlenecks in defense.
-Already operational in Israel, the network is now actively recruiting certified manufacturers in the US and Europe, reported by 3D Printing Industry on Jun 30, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/Intl-Launch-RW-1-150x100.webp
-Read more ? https://3dprintingindustry.com/news/massivit-launches-rapidwings-to-fix-defenses-composite-bottleneck-252682
+🚀 Google Opens Up the Fitbit Air for DIY 3D Printed Customization
+Google is opening up its newest wearable to the maker community, releasing hardware blueprints for the Fitbit Air just weeks after its launch and inviting owners to design and 3D print their own accessories.
+The move builds on the device’s already-swappable design, and independent makers have already started publishing printable projects, with Google now extending…, reported by 3D Printing Industry on Jul 02, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/unnamed-150x100.webp
+Read more ? https://3dprintingindustry.com/news/google-opens-up-the-fitbit-air-for-diy-3d-printed-customization-252770
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
