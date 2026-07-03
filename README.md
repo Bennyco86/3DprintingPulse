@@ -2,55 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #177 - 2026-07-03
+### 3D PRINTING PULSE #178 - 2026-07-04
 
-♻️ Valland’s ToZero Project Turns Scrap Into 3D Printable Metal
-Italian additive manufacturer Valland, together with the Politecnico di Torino, the Politecnico di Bari, and the Fontana Group, has confirmed under Italy’s Accordi per l’Innovazione-backed ToZero project that...
-Reported by 3D Printing Industry on Jul 02, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/1782200377526-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/vallands-tozero-project-turns-scrap-into-3d-printable-metal-252779
+♻️ ToZero project demonstrates recycling of aluminium scrap into 3D printing powder - AL Circle
+ToZero project demonstrates recycling of aluminium scrap into 3D printing powder AL Circle
+Reported by Google News - 3D Printing on Jul 03, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWWlrNURGNmlXc3kzeEN4cmRMMXVtelVva3hSaU5rVVVNMGhNVHdlcEFVODVrbm5DRjl0TlQya0wxMHNyX2RORS1nZGhZazR1THkzQ1VmY0dISG44QlBHYUp0UExwRklKUkRSdmYwNHdJeWFiTmlwSHRBQWhwUXZpSFE1SGp4RmJmUGxvYl9KZkxfQTlMQmtGMFRBSlh4WEV0RTBRTEtoTkswaWRMd2RGaFI0OHBxVkpm?oc=5
 
-📰 ASTM publishes strategic guide for certifying AM parts in defense
-ASTM International’s Additive Manufacturing Center of Excellence (AM CoE) has published a Strategic Guide to Certification of Additively Manufactured Parts in Defence Applications, developed jointly with the United...
-Reported by VoxelMatters on Jul 02, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/ASTM-UK-Army-Boat-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/astm-publishes-strategic-guide-for-certifying-am-parts-in-defense
+♻️ SDU Explores Cutting Chemical Use in Metal Recycling for Additive Manufacturing - 3D Printing Industry
+SDU Explores Cutting Chemical Use in Metal Recycling for Additive Manufacturing 3D Printing Industry
+Reported by Google News - 3D Printing on Jul 03, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMWV1X1RUbnA3ZS1aaEY4aThvR2xLM3ZESV9wNmE0SnMwSVNlOHd5WTdrY1RTTEFtRXJwNko5QnQyV1VBRktpeUJGSEI3QkxwTzNBUFFWVFFyRk9TdjNITzN3VkM2QWtvSXpNTEVzS2ZqMzVybG50R1RzQzRPYUFhZVc5b3p5ZGZzYnFnNGhGQjkwcEl6S21SV3hQb2xKQ2hlcmNxa0pfdkxwLWV1N2hFZ0p0dFVSblF2Z0JDU1llTUg?oc=5
 
-🦺 30 women receive 3D printed breast scaffolds in BellaSeno clinical trials
-Germany-based medtech company BellaSeno is developing solutions that could change the the standards for breast restoration and augmentation surgery.
-Using a combination of biomaterials, additive manufacturing, and a proprietary scaffold … The post 30 women receive 3D printed breast scaffolds in BellaSeno clinical trials appeared first on VoxelMatters - The heart...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/bellaseno-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/30-women-receive-3d-printed-breast-scaffolds-in-bellaseno-clinical-trials
+📰 AMPERA completes first full-scale 3D printed reactor module
+AMPERA has completed production of its first full-scale, 3D printed nuclear reactor module, a step in the Florida-based company’s plan to build a subcritical, solid-state, factory-built thorium nuclear reactor.
+The … The post AMPERA completes first full-scale 3D printed reactor module appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Ampera-3D-printed-nuclear-reactor-module-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/ampera-completes-first-full-scale-3d-printed-reactor-module
 
-🚀 Conflux Technology & Dallara working to enable liquid hydrogen-powered endurance racing
-The two companies are co-developing an advanced liquid hydrogen-to-coolant heat exchanger for a next-generation hydrogen internal combustion engine (ICE) endurance race car.
-Reported by TCT Magazine on Jul 02, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Press-Release-Listing-Image-3.png
-Read more ? https://www.tctmagazine.com/conflux-technology-dallara-working-to-enable-liquid-hydrogen-powered-endurance-racing
+💻 Tripo AI raises $150 million in Series A3 round with backers from automotive, gaming, and technology
+Tripo AI closed a Series A3 financing round of more than $150 million, drawing investors from the automotive, gaming, internet, and technology sectors, which the company described as a reflection … The post Tripo AI...
+Reported by VoxelMatters on Jul 03, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Picture_08_8K-Texture-150x150.jpg
+Read more ? https://www.voxelmatters.com/tripo-ai-raises-150-million-in-series-a3-round-with-backers-from-automotive-gaming-and-technology
 
-🚀 Velo3D launches additive manufacturing facility with capacity for 100+ metal 3D printers
-The company says the site boasts nearly 10 million cubic feet of production space.
-Reported by TCT Magazine on Jul 02, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Velo3D_New_Production_Facility.jpg
-Read more ? https://www.tctmagazine.com/velo3d-launches-additive-manufacturing-facility-with-capacity-for-100-metal-3d-printers
+🖨 How Freefly Systems uses SLS 3D printing for its video drones
+Based in Washington state, Freefly Systems is a company that specializes in camera movement systems.
+In other words, they make specialized drones for capturing aerial footage, reported by VoxelMatters on Jul 03, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/freefly-3d-printing-3-150x150.jpeg
+Read more ? https://www.voxelmatters.com/how-freefly-systems-uses-sls-3d-printing-for-its-video-drones
 
-💻 US Navy aims to cut F/A-18 composite repair times in half with 3D printed patches
-The US Navy is testing a 3D printed composite patch repair method it said could cut F/A-18 Super Hornet repair times by roughly 50%, with plans to flight-test the process … The post US Navy aims to cut F/A-18...
-Reported by VoxelMatters on Jul 02, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Navy-Hornet-repair-times-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/us-navy-aims-to-cut-f-a-18-composite-repair-times-in-half-with-3d-printed-patches
+🦺 IU Health Brings 3D Printed Surgical Models In-House
+Nonprofit healthcare system located in the U.S.
+Indiana University Health has officially opened its upgraded 3D Print Studio at the 16 Tech Innovation District, marking the occasion with a ceremonial ribbon cutting, reported by 3D Printing Industry on Jul 03, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/pediatric-heart-150x100.webp
+Read more ? https://3dprintingindustry.com/news/iu-health-brings-3d-printed-surgical-models-in-house-252828
 
-🚀 Rocket Lab to Buy Iridium in New Deal, Forming Vertically Integrated Space Company
-Nasdaq-listed launch and space systems company Rocket Lab Corporation and global satellite network operator Iridium Communications have signed a definitive agreement for Rocket Lab to acquire Iridium, valuing Iridium...
-The combination creates a single,…, reported by 3D Printing Industry on Jul 02, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/rocket-lab-and-iridium-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/rocket-lab-to-buy-iridium-in-new-deal-forming-vertically-integrated-space-company-252775
+🖨 Velo3D Doubles Down on Domestic Manufacturing with Massive Expansion
+Metal additive manufacturing company Velo3D has unveiled plans for a 288,747-square-foot production campus in Livermore, California, positioning the site as its future manufacturing hub.
+The project ranks among the largest metal 3D printing facility developments on the continent and is scheduled to come online before the end of 2026, reported by 3D Printing Industry on Jul 03, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/image-1-150x100.png
+Read more ? https://3dprintingindustry.com/news/velo3d-doubles-down-on-domestic-manufacturing-with-massive-expansion-252819
 
-🚀 Google Opens Up the Fitbit Air for DIY 3D Printed Customization
-Google is opening up its newest wearable to the maker community, releasing hardware blueprints for the Fitbit Air just weeks after its launch and inviting owners to design and 3D print their own accessories.
-The move builds on the device’s already-swappable design, and independent makers have already started publishing printable projects, with Google now extending…, reported by 3D Printing Industry on Jul 02, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/unnamed-150x100.webp
-Read more ? https://3dprintingindustry.com/news/google-opens-up-the-fitbit-air-for-diy-3d-printed-customization-252770
+📰 Alpine and Lacoste’s one-off A290 Rallye features ERPRO 3D printed seat structures
+Alpine and Lacoste incorporated 3D printed lattice structures into the rally seats of a one-off car built for their new collaboration, the two French companies confirmed.
+ERPRO produced the additively … The post Alpine and Lacoste’s one-off A290 Rallye features ERPRO 3D printed seat structures appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Alpine-Lacoste-A290-Rallye-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/alpine-lacoste-3d-printed-seat-structures
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
