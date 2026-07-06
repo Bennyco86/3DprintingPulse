@@ -2,55 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #179 - 2026-07-05
+### 3D PRINTING PULSE #181 - 2026-07-07
 
-📰 UC Santa Barbara secures $1.15m NSF grant for two-photon 3D nanoprinting system
-UC Santa Barbara (UCSB) has received a $1.15 million grant from the National Science Foundation (NSF) to purchase a 3D rapid nanoprinting system based on two-photon photolithography.
-The equipment will … The post UC Santa Barbara secures $1.15m NSF grant for two-photon 3D nanoprinting system appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/UCSB-NSF-grant-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/uc-santa-barbara-secures-1-15m-nsf-grant-for-two-photon-3d-nanoprinting-system
+💻 Blockchain-IoT system developed for securing VAT photopolymerization sensor data
+Researchers at Marwadi University and Parul University in India, working with a collaborator at King Khalid University in Saudi Arabia, have built and tested a blockchain-based system for securing sensor … The post...
+Reported by VoxelMatters on Jul 06, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Blockchain-IoT-VAT-photopolymerization-sensor-data-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/blockchain-iot-system-developed-for-securing-vat-photopolymerization-sensor-data
 
-📰 3D printing on full show at 2026 Tour de France start
-3D printing has been a regular feature on the elite-level WorldTour cycling stage for some time now, with saddles being one of the most high-profile (and easy to spot) applications.
-… The post 3D printing on full show at 2026 Tour de France start appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Tour-de-France-tech-Pinarello-Bolide-F-05-150x150.jpg
-Read more ? https://www.voxelmatters.com/3d-printing-on-full-show-at-2026-tour-de-france-start
+📰 Cyborg cockroaches fitted with 3D printed underwater suits
+A team of researchers from NTU Singapore and Waseda University in Japan have developed a 3D printed diving suit that enables cyborg cockroaches to survive underwater on missions.
+“That enables … The post Cyborg cockroaches fitted with 3D printed underwater suits appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/cyborg-insects-2-150x150.jpg
+Read more ? https://www.voxelmatters.com/cyborg-cockroaches-fitted-with-3d-printed-underwater-suits
 
-🖨 OTUS receives a Bambu Lab grant through the Let’s Make It Fund
-OTUS Project, the American research initiative focused on flying drones through the interiors of tornadoes, announced that it has officially received sponsorship from Bambu Lab under the Let’s Make It … The post OTUS...
-Reported by VoxelMatters on Jul 04, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Zrzut-ekranu-2026-07-03-195146-150x150.png
-Read more ? https://www.voxelmatters.com/otus-receives-a-bambu-lab-grant-through-the-lets-make-it-fund
+📰 Addidex Connect draws 170 robotic 3D printing practitioners in Haarlem
+Around 170 practitioners from across the international additive manufacturing community gathered at 3D Makers Zone in Haarlem on June 30 and July 1 for the first edition of Addidex Connect, … The post Addidex Connect...
+Reported by VoxelMatters on Jul 06, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Addidex-13-150x150.jpg
+Read more ? https://www.voxelmatters.com/addidex-connect-draws-170-robotic-3d-printing-practitioners-in-haarlem
 
-💻 Australian SMEs Offered up to AU$75,000 in Co-Funding to Test Additive Manufacturing
-Australia’s Additive Manufacturing Cooperative Research Centre (AMCRC) has unveiled its STARTER Project Funding Program, a AU$3.25 million (approx.
-US$2.25 million) initiative announced in Melbourne on 1 July 2026 aimed at accelerating additive manufacturing uptake among Australian small and medium-sized enterprises and start-ups, reported by 3D Printing Industry on Jul 04, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/3D_Printer-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/australian-smes-offered-up-to-au75000-in-co-funding-to-test-additive-manufacturing-252824
+🚀 No Markers, No Wires, No Wasted Time: Next-Gen Industrial Measurement
+The new scanner combines 0.02 mm single-frame accuracy, Wi-Fi 6 wireless operation, and marker-free optical tracking to support industrial inspection, reverse engineering, and on-site measurement.
+Reported by TCT Magazine on Jul 06, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Move-With-Freedom--2-.png
+Read more ? https://www.tctmagazine.com/no-markers-no-wires-no-wasted-time-next-gen-industrial-measurement
 
-🚀 Beehive Industries Buys Two Cincinnati Machine Shops
-US-based propulsion manufacturer Beehive Industries has acquired the assets of Able Tool Corporation and its subsidiary Planet Products Corporation, two precision machine shops in the Greater Cincinnati area.
-The deal lands as the company’s Frenzy engine moves into full-rate production, following a year of ground and high-altitude testing of the Frenzy 8 and a $29.7…, reported by 3D Printing Industry on Jul 04, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/Able-and-Planet-Acquisition-Graphic-150x100.webp
-Read more ? https://3dprintingindustry.com/news/beehive-industries-buys-two-cincinnati-machine-shops-252831
+🖨 SHINING 3D scanning helps Hyunion cut sheet metal inspection costs
+Liuzhou Hyunion Automotive Components, a subsidiary of Hyunion Holding Co., Ltd.
+and a Tier-1 supplier to SAIC-GM-Wuling, has replaced part of its fixture-based quality checks with 3D scanning equipment from … The post SHINING 3D scanning helps Hyunion cut sheet metal inspection costs appeared, reported by VoxelMatters on Jul 06, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/SHINING-3D-Hyunion-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/shining-3d-scanning-helps-hyunion-cut-sheet-metal-inspection-costs
 
-🏠 Application spotlight: In-house 3D printing enables design flexibility & cost savings for Challenger 3 battle tank air ducting
-RBSL deployed a miniFactory Ignite material extrusion system to produce the Crew Temperature Control System parts.
-Reported by TCT Magazine on Jul 03, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/06/printed-part-1-1.png
-Read more ? https://www.tctmagazine.com/application-spotlight-in-house-3d-printing-enables-design-flexibility-cost-savings-for-challenger-3-battle-tank-air-ducting
+🚀 VoxelMatters Aerospace AM Focus 2026 eBook
+Welcome to VoxelMatters’ Aerospace AM eBook, where we look at the latest trends and innovations at the intersection of additive manufacturing and aerospace.
+Comprising civil aviation, space, and defense, the … The post VoxelMatters Aerospace AM Focus 2026 eBook appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Aerospace-AM-2026-eBook-Feature-Image-150x150.png
+Read more ? https://www.voxelmatters.com/voxelmatters-aerospace-am-focus-2026-ebook
 
-🚀 Australian SME funding launches to fast-track additive manufacturing adoption
-“The STARTER Project Funding Program gives businesses a practical pathway to work alongside researchers, test ideas and evaluate how additive manufacturing can improve efficiency, flexibility and competitiveness.”
-Reported by TCT Magazine on Jul 03, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/3D-Printer.jpg
-Read more ? https://www.tctmagazine.com/australian-sme-funding-launches-to-fast-track-additive-manufacturing-adoption
+💻 Formnext Asia Shenzhen adds Maker Day and channel matching to 2026 program
+Formnext Asia Shenzhen’s 2026 edition will extend its additive manufacturing program beyond the show floor, introducing two new formats aimed at the communities and sales channels through which 3D printing … The post...
+Reported by VoxelMatters on Jul 06, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2025/08/Formnext_Asia_Shenzhen_2025_IMG_8708-2-150x150.jpg
+Read more ? https://www.voxelmatters.com/formnext-asia-shenzhen-adds-maker-day-and-channel-matching-to-2026-program
 
-🚀 3D printing as a service, Makr3D opens beta for founders
-Makr3D, a 3D printing fulfilment platform launched by Yorkshire3D Limited in Huddersfield, opened its beta phase for founding sellers on June 25, 2026.
-The company prints, performs quality control, packs, … The post 3D printing as a service, Makr3D opens beta for founders appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Zrzut-ekranu-2026-07-02-192656-150x150.png
-Read more ? https://www.voxelmatters.com/3d-printing-as-a-service-makr3d-opens-beta-for-founders
+🚀 AMAA 2026: NASA Turns Rocket Alloys Into Flight Ready Hardware Through Iterative Post Processing
+A combustion chamber with undetected flaws, or a nozzle with clogged internal channels observed during a hot fire test, can set a rocket programme back months.
+At NASA‘s Marshall Space Flight Center, that risk has pushed engineers to treat additive manufacturing in aerospace as an integrated chain of design, build and post processing steps, where…, reported by 3D Printing Industry on Jul 06, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png
+Read more ? https://3dprintingindustry.com/news/amaa-2026-nasa-turns-rocket-alloys-into-flight-ready-hardware-through-iterative-post-processing-252724
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
