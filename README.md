@@ -2,55 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #181 - 2026-07-07
+### 3D PRINTING PULSE #182 - 2026-07-08
 
-💻 Blockchain-IoT system developed for securing VAT photopolymerization sensor data
-Researchers at Marwadi University and Parul University in India, working with a collaborator at King Khalid University in Saudi Arabia, have built and tested a blockchain-based system for securing sensor … The post...
-Reported by VoxelMatters on Jul 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Blockchain-IoT-VAT-photopolymerization-sensor-data-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/blockchain-iot-system-developed-for-securing-vat-photopolymerization-sensor-data
+🚀 Beehive Industries orders multiple Nikon SLM Solutions NXG 600E systems
+After placing the biggest order of EOS Onyx metal AM systems, Beehive Industries, an American provider of additively enabled manufacturing solutions for space and A&D, placed a multi-unit, self-funded order … The...
+Reported by VoxelMatters on Jul 07, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/2024_Nikon_SLM_NXG600E_MediumShot_WithoutReflection_Top_Right_290_S-150x150.webp
+Read more ? https://www.voxelmatters.com/beehive-industries-orders-multiple-nikon-slm-solutions-nxg-600e-systems
 
-📰 Cyborg cockroaches fitted with 3D printed underwater suits
-A team of researchers from NTU Singapore and Waseda University in Japan have developed a 3D printed diving suit that enables cyborg cockroaches to survive underwater on missions.
-“That enables … The post Cyborg cockroaches fitted with 3D printed underwater suits appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/cyborg-insects-2-150x150.jpg
-Read more ? https://www.voxelmatters.com/cyborg-cockroaches-fitted-with-3d-printed-underwater-suits
+🚀 adidas BB.01 Additive basketball shoes launch next week
+Sportswear giant adidas has been ramping up its use of 3D printing for footwear, not only with its CLIMACOOL sneakers, but also with performance shoe models for various sports, including … The post adidas BB.01...
+Reported by VoxelMatters on Jul 07, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/adidas-basketball-1-150x150.jpeg
+Read more ? https://www.voxelmatters.com/adidas-bb-01-additive-basketball-shoes-launch-next-week
 
-📰 Addidex Connect draws 170 robotic 3D printing practitioners in Haarlem
-Around 170 practitioners from across the international additive manufacturing community gathered at 3D Makers Zone in Haarlem on June 30 and July 1 for the first edition of Addidex Connect, … The post Addidex Connect...
-Reported by VoxelMatters on Jul 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Addidex-13-150x150.jpg
-Read more ? https://www.voxelmatters.com/addidex-connect-draws-170-robotic-3d-printing-practitioners-in-haarlem
+📰 EOS expands aluminum alloy portfolio through partnership with Constellium
+EOS has entered into a strategic partnership with Constellium, an aluminum alloy developer, to expand its aluminum materials lineup for additive manufacturing.
+As part of the deal, EOS has added … The post EOS expands aluminum alloy portfolio through partnership with Constellium appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Constellium-and-EOS-agreement-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/eos-expands-aluminum-alloy-portfolio-through-partnership-with-constellium
 
-🚀 No Markers, No Wires, No Wasted Time: Next-Gen Industrial Measurement
-The new scanner combines 0.02 mm single-frame accuracy, Wi-Fi 6 wireless operation, and marker-free optical tracking to support industrial inspection, reverse engineering, and on-site measurement.
-Reported by TCT Magazine on Jul 06, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Move-With-Freedom--2-.png
-Read more ? https://www.tctmagazine.com/no-markers-no-wires-no-wasted-time-next-gen-industrial-measurement
+🦺 Protolabs qualifies Medical White resin on Axtra3D’s Lumia X1 platform
+Protolabs launched Medical White (MED-WHT 10) for production on Axtra3D‘s Lumia X1 Hi-Speed SLA platform, powered by Hybrid PhotoSynthesis technology.
+The material became immediately available through Protolabs’ digital manufacturing services, … The post Protolabs qualifies Medical White resin on Axtra3D’s Lumia X1 platform appeared first on VoxelMatters - The...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/medical-white-axtra-protolabs-e1783356267836-150x150.jpg
+Read more ? https://www.voxelmatters.com/protolabs-qualifies-medical-white-resin-on-axtra3ds-lumia-x1-platform
 
-🖨 SHINING 3D scanning helps Hyunion cut sheet metal inspection costs
-Liuzhou Hyunion Automotive Components, a subsidiary of Hyunion Holding Co., Ltd.
-and a Tier-1 supplier to SAIC-GM-Wuling, has replaced part of its fixture-based quality checks with 3D scanning equipment from … The post SHINING 3D scanning helps Hyunion cut sheet metal inspection costs appeared, reported by VoxelMatters on Jul 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/SHINING-3D-Hyunion-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/shining-3d-scanning-helps-hyunion-cut-sheet-metal-inspection-costs
+🚀 Heading to Farnborough International Airshow? Meet the AeroDef Additive Manufacturing Community first.
+Farnborough International Airshow will bring the global aerospace, aviation, space, and defence industries to the UK from 20–24 July 2026.
+But before the sector gathers on the show floor, the additive manufacturing community has an opportunity to connect around one of the most important questions facing aerospace and defence manufacturing today: how, reported by 3D Printing Industry on Jul 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/AMAA-2026-AM-for-Aerospace-Defense-and-Space-150x100.png
+Read more ? https://3dprintingindustry.com/news/heading-to-farnborough-international-airshow-meet-the-aerodef-additive-manufacturing-community-first-252896
 
-🚀 VoxelMatters Aerospace AM Focus 2026 eBook
-Welcome to VoxelMatters’ Aerospace AM eBook, where we look at the latest trends and innovations at the intersection of additive manufacturing and aerospace.
-Comprising civil aviation, space, and defense, the … The post VoxelMatters Aerospace AM Focus 2026 eBook appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Aerospace-AM-2026-eBook-Feature-Image-150x150.png
-Read more ? https://www.voxelmatters.com/voxelmatters-aerospace-am-focus-2026-ebook
+🚀 AMAA 2026: Safran Scales Additive Manufacturing Across Flight-Critical Engine Parts
+Eighteen months of casting and welding, compressed into three weeks on a single machine.
+That is what additive manufacturing in aerospace now means in practice at one of the sector’s largest groups, reported by 3D Printing Industry on Jul 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/AMAA-2026-AM-for-Aerospace-Defense-and-Space-1-150x100.png
+Read more ? https://3dprintingindustry.com/news/amaa-2026-safran-scales-additive-manufacturing-across-flight-critical-engine-parts-252495
 
-💻 Formnext Asia Shenzhen adds Maker Day and channel matching to 2026 program
-Formnext Asia Shenzhen’s 2026 edition will extend its additive manufacturing program beyond the show floor, introducing two new formats aimed at the communities and sales channels through which 3D printing … The post...
-Reported by VoxelMatters on Jul 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2025/08/Formnext_Asia_Shenzhen_2025_IMG_8708-2-150x150.jpg
-Read more ? https://www.voxelmatters.com/formnext-asia-shenzhen-adds-maker-day-and-channel-matching-to-2026-program
+💻 Why New US Tariffs Matter More for UK Manufacturers Than the Rate Suggests
+The Manufacturing Technologies Association (MTA) said new US import duties of 10% to 12.5% on British exports could become a “tipping point” for manufacturers already facing high industrial energy costs and higher...
+The association warned the added costs could undermine the commercial viability of some contracts in the American market, reported by 3D Printing Industry on Jul 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2024/07/Manufacturing-Technologies-Association-Logo.-Image-via-the-MTA-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/why-new-us-tariffs-matter-more-for-uk-manufacturers-than-the-rate-suggests-252883
 
-🚀 AMAA 2026: NASA Turns Rocket Alloys Into Flight Ready Hardware Through Iterative Post Processing
-A combustion chamber with undetected flaws, or a nozzle with clogged internal channels observed during a hot fire test, can set a rocket programme back months.
-At NASA‘s Marshall Space Flight Center, that risk has pushed engineers to treat additive manufacturing in aerospace as an integrated chain of design, build and post processing steps, where…, reported by 3D Printing Industry on Jul 06, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/AMAA-Banner-2024-full-size-1200-x-627-px-1440-x-810-px-150x100.png
-Read more ? https://3dprintingindustry.com/news/amaa-2026-nasa-turns-rocket-alloys-into-flight-ready-hardware-through-iterative-post-processing-252724
+📰 AMUG names new board leadership for 2026–2027 term
+The Additive Manufacturing Users Group (AMUG) has confirmed its board of directors for the 2026–2027 term, combining newly elected members with two board appointments.
+The five incoming leaders join four continuing board members, with terms beginning July 1, 2026, at a moment when several of AM’s most experienced volunteers are stepping into higher-profile roles within…, reported by 3D Printing Industry on Jul 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/AMUG_Board_2026-2027-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/amug-names-new-board-leadership-for-2026-2027-term-252862
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
