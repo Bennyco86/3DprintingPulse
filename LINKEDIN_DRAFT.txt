@@ -1,53 +1,53 @@
-﻿# 3D PRINTING PULSE #182 - 2026-07-08
+﻿# 3D PRINTING PULSE #183 - 2026-07-09
 
-🚀 Beehive Industries orders multiple Nikon SLM Solutions NXG 600E systems
-After placing the biggest order of EOS Onyx metal AM systems, Beehive Industries, an American provider of additively enabled manufacturing solutions for space and A&amp;D, placed a multi-unit, self-funded order … The...
-Reported by VoxelMatters on Jul 07, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/2024_Nikon_SLM_NXG600E_MediumShot_WithoutReflection_Top_Right_290_S-150x150.webp
-🔗 Read more: https://www.voxelmatters.com/beehive-industries-orders-multiple-nikon-slm-solutions-nxg-600e-systems
+🔥 AMufacture Identifies Procurement as a Major Defense Challenge
+Portsmouth-based 3D print contract manufacturer AMufacture has called on the government to overhaul defense procurement, warning that slow, traditional purchasing processes could prevent UK manufacturers from...
+The response puts a specific industrial lens on a policy document that commits £5 billion to autonomous systems but leaves open…, reported by 3D Printing Industry on Jul 08, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/07/A-3D-printed-drones-with-Bambu-Lab-3D-printer-in-the-background.-Photo-via-the-British-Army-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/amufacture-identifies-procurement-as-a-major-defense-challenge-252927
 
-🚀 adidas BB.01 Additive basketball shoes launch next week
-Sportswear giant adidas has been ramping up its use of 3D printing for footwear, not only with its CLIMACOOL sneakers, but also with performance shoe models for various sports, including … The post adidas BB.01...
-Reported by VoxelMatters on Jul 07, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/adidas-basketball-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/adidas-bb-01-additive-basketball-shoes-launch-next-week
+🚨 Formlabs plans three new printer platforms in the next 12 months after a record quarter
+Formlabs closed its strongest quarter to date last June, solar Q2 2026, setting company records across several categories: total sales, hardware sales, non-hardware sales, services sales, and SLS sales, the … The...
+Reported by VoxelMatters on Jul 08, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/fusex3-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/formlabs-plans-three-new-printer-platforms-in-the-next-12-months-after-a-record-q3-2026
 
-📰 EOS expands aluminum alloy portfolio through partnership with Constellium
-EOS has entered into a strategic partnership with Constellium, an aluminum alloy developer, to expand its aluminum materials lineup for additive manufacturing.
-As part of the deal, EOS has added … The post EOS expands aluminum alloy portfolio through partnership with Constellium appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Constellium-and-EOS-agreement-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/eos-expands-aluminum-alloy-portfolio-through-partnership-with-constellium
-
-🦺 Protolabs qualifies Medical White resin on Axtra3D’s Lumia X1 platform
-Protolabs launched Medical White (MED-WHT 10) for production on Axtra3D‘s Lumia X1 Hi-Speed SLA platform, powered by Hybrid PhotoSynthesis technology.
-The material became immediately available through Protolabs’ digital manufacturing services, … The post Protolabs qualifies Medical White resin on Axtra3D’s Lumia X1 platform appeared first on VoxelMatters - The...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/medical-white-axtra-protolabs-e1783356267836-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/protolabs-qualifies-medical-white-resin-on-axtra3ds-lumia-x1-platform
-
-🚀 Heading to Farnborough International Airshow? Meet the AeroDef Additive Manufacturing Community first.
-Farnborough International Airshow will bring the global aerospace, aviation, space, and defence industries to the UK from 20–24 July 2026.
-But before the sector gathers on the show floor, the additive manufacturing community has an opportunity to connect around one of the most important questions facing aerospace and defence manufacturing today: how, reported by 3D Printing Industry on Jul 07, 2026.
+🚀 AMAA 2026: SMS From Shipyard to Production Floor WAAM’s Role
+Interested in the future of manufacturing?
+Don’t miss Additive Manufacturing Advantage: Aerospace, Space and Defense 2026, taking place on July 9th, reported by 3D Printing Industry on Jul 08, 2026.
 🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/AMAA-2026-AM-for-Aerospace-Defense-and-Space-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/heading-to-farnborough-international-airshow-meet-the-aerodef-additive-manufacturing-community-first-252896
+🔗 Read more: https://3dprintingindustry.com/news/amaa-2026-sms-from-shipyard-to-production-floor-waams-role-252890
 
-🚀 AMAA 2026: Safran Scales Additive Manufacturing Across Flight-Critical Engine Parts
-Eighteen months of casting and welding, compressed into three weeks on a single machine.
-That is what additive manufacturing in aerospace now means in practice at one of the sector’s largest groups, reported by 3D Printing Industry on Jul 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/AMAA-2026-AM-for-Aerospace-Defense-and-Space-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/amaa-2026-safran-scales-additive-manufacturing-across-flight-critical-engine-parts-252495
+🖨 MX3D Says Framatome Facility Marks ‘New Era’ for Nuclear WAAM
+French nuclear energy business Framatome has inaugurated a 6,000 m2 additive manufacturing center in Romans-sur-Isère, France.
+The facility, which opened on July 2, produces metal components for the primary circuits of French nuclear reactors using wire arc additive manufacturing (WAAM) systems supplied by Amsterdam-based MX3D, reported by 3D Printing Industry on Jul 08, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/MX3D-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/mx3d-says-framatome-facility-marks-new-era-for-nuclear-waam-252919
 
-💻 Why New US Tariffs Matter More for UK Manufacturers Than the Rate Suggests
-The Manufacturing Technologies Association (MTA) said new US import duties of 10% to 12.5% on British exports could become a “tipping point” for manufacturers already facing high industrial energy costs and higher...
-The association warned the added costs could undermine the commercial viability of some contracts in the American market, reported by 3D Printing Industry on Jul 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2024/07/Manufacturing-Technologies-Association-Logo.-Image-via-the-MTA-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/why-new-us-tariffs-matter-more-for-uk-manufacturers-than-the-rate-suggests-252883
+📰 CurifyLabs Secures $14M to Bring Personalized Medicine to More Pharmacies
+Helsinki-based health technology firm CurifyLabs has closed a $14 million Series A round to grow its automated system for producing personalized medications.
+The round was co-led by Sandwater and HealthCap, with Tesi and existing backers including Lifeline Ventures joining, alongside participation from U.S, reported by 3D Printing Industry on Jul 08, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/1783291084414-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/curifylabs-secures-14m-to-bring-personalized-medicine-to-more-pharmacies-252934
 
-📰 AMUG names new board leadership for 2026–2027 term
-The Additive Manufacturing Users Group (AMUG) has confirmed its board of directors for the 2026–2027 term, combining newly elected members with two board appointments.
-The five incoming leaders join four continuing board members, with terms beginning July 1, 2026, at a moment when several of AM’s most experienced volunteers are stepping into higher-profile roles within…, reported by 3D Printing Industry on Jul 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/AMUG_Board_2026-2027-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/amug-names-new-board-leadership-for-2026-2027-term-252862
+📰 University of Utah researchers print 3D shapes in a single 20-second laser shot
+University of Utah researchers have developed a 3D printing method that forms an object in about 20 seconds, a process that can take hours using other laser-based printing techniques.
+The … The post University of Utah researchers print 3D shapes in a single 20-second laser shot appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/University-of-Utah-researchers-print-3D-shapes-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/university-of-utah-researchers-print-3d-shapes-in-a-single-20-second-laser-shot
+
+🚀 Luyten opens early reservations for Ascend A27 tower crane printer
+Luyten has opened early reservations for the Ascend A27, a system that converts tower cranes into robotic concrete 3D printers, following the platform’s earlier global launch.
+The Australian construction robotics … The post Luyten opens early reservations for Ascend A27 tower crane printer appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/Zrzut-ekranu-2026-06-13-154022-150x150.png
+🔗 Read more: https://www.voxelmatters.com/luyten-opens-early-reservations-for-ascend-a27-tower-crane-printer
+
+📰 Massivit opens facility in Barcelona to support RapidWings platform
+RapidWings is based on Massivit's proprietary Cast-In-Motion (CIM) technology and is designed to speed up production lead times for composite tooling.
+Reported by TCT Magazine on Jul 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Opening-of-Europe-Service-Center-to-Support-RapidWings-Platform-CREDIT-Massivit-Reduced-1.png
+🔗 Read more: https://www.tctmagazine.com/massivit-opens-facility-in-barcelona-to-support-rapidwings-platform
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Beehive Industries orders multiple Nikon SLM Solutions NXG 600E systems" because it highlights where practical 3D printing innovation is moving next. Source: https://www.voxelmatters.com/beehive-industries-orders-multiple-nikon-slm-solutions-nxg-600e-systems | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Formlabs plans three new printer platforms in the next 12 months after a record quarter" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://www.voxelmatters.com/formlabs-plans-three-new-printer-platforms-in-the-next-12-months-after-a-record-q3-2026 | Full pulse: https://www.quality3ds.com/
