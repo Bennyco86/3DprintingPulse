@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-10
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #184 - 2026-07-10
+## Stories
 
 💻 AMufacture CEO says company can help deliver UK’s £5bn drone investment plan
 The CEO of AMufacture, a Portsmouth-based additive manufacturing contract manufacturer, has said the company is well positioned to help deliver the UK government’s Defense Investment Plan (DIP), which includes £5 …...
@@ -51,9 +49,3 @@ Kentstrapper, a Florence-based 3D printer manufacturer operating since 2011, lau
 Reported by VoxelMatters on Jul 09, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Zrzut-ekranu-2026-07-08-010528-150x150.png
 Read more ? https://www.voxelmatters.com/kentstrapper-launches-mille-an-industrial-fff-printer-with-a-one-cubic-meter-build-volume
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
