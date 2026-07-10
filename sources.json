@@ -16,5 +16,8 @@
   { "name": "Google News - 3D Printing", "url": "https://news.google.com/rss/search?q=3d%20printing&hl=en-US&gl=US&ceid=US:en" },
   { "name": "Google News - 3D Printing Viral", "url": "https://news.google.com/rss/search?q=3d%20printing%20viral%20OR%20controversy%20OR%20backlash%20OR%20ban&hl=en-US&gl=US&ceid=US:en" },
   { "name": "Google News - Filament Recycling", "url": "https://news.google.com/rss/search?q=3d%20printing%20filament%20recycling%20OR%20filament%20recycler%20OR%20creality%20m1&hl=en-US&gl=US&ceid=US:en" },
-  { "name": "Google News - Ynet 3D Printing", "url": "https://news.google.com/rss/search?q=3d%20printing%20site:ynet.co.il&hl=en-US&gl=US&ceid=US:en" }
+  { "name": "Google News - Ynet 3D Printing", "url": "https://news.google.com/rss/search?q=3d%20printing%20site:ynet.co.il&hl=en-US&gl=US&ceid=US:en" },
+  { "name": "Google News - New Printer Releases", "url": "https://news.google.com/rss/search?q=(creality%20OR%20sovol%20OR%20bambu%20OR%20elegoo%20OR%20qidi%20OR%20anycubic)%20%223d%20printer%22%20(launch%20OR%20announce%20OR%20unveil%20OR%20tease%20OR%20reveal)&hl=en-US&gl=US&ceid=US:en" },
+  { "name": "Google News - Hotend Swap Toolchanger", "url": "https://news.google.com/rss/search?q=%223d%20printer%22%20(%22hotend%20swap%22%20OR%20toolchanger%20OR%20%22tool%20changer%22%20OR%20%22swappable%20hotend%22%20OR%20bondtech%20indx)&hl=en-US&gl=US&ceid=US:en" },
+  { "name": "Google News - 3D Scanners", "url": "https://news.google.com/rss/search?q=%223d%20scanner%22%20OR%20revopoint%20OR%20einscan%20OR%20%223d%20scanning%20software%22&hl=en-US&gl=US&ceid=US:en" }
 ]

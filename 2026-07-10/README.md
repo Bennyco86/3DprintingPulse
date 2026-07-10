@@ -2,41 +2,39 @@
 
 ## Stories
 
-💻 AMufacture CEO says company can help deliver UK’s £5bn drone investment plan
-The CEO of AMufacture, a Portsmouth-based additive manufacturing contract manufacturer, has said the company is well positioned to help deliver the UK government’s Defense Investment Plan (DIP), which includes £5 …...
-Reported by VoxelMatters on Jul 09, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/AMufacture-UK-defense-dividend-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/amufacture-ceo-says-company-can-help-deliver-uks-5bn-drone-investment-plan
+🚨 State of INDX – July 2026 Update: Founder’s Edition Shipping + What’s Next
+The Bondtech INDX Founder’s Edition is out in the wild - huge congrats to our friends from Bondtech!
+:-) With that milestone behind us, we’re moving to the next phase: shipping the “standard” INDX Conversion Kit for CORE One/+, reported by Prusa Blog on Jul 03, 2026.
+Image ? https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/07/f36f75c4-indx_july_2026_update__2222x1031-698x325.jpg
+Read more ? https://blog.prusa3d.com/indx_july_2026_update_137377
 
-🦺 Auxilium bioprints first kidney and liver tissues in space
-California-based Auxilium Biotechnologies has achieved a significant milestone: its AMP-1 orbital bioprinter has successfully bioprinted kidney and liver tissues in space.
-The 3D bioprinter was installed aboard the International Space … The post Auxilium bioprints first kidney and liver tissues in space appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Bioprinted_Liver_Tissue-150x150.jpeg
-Read more ? https://www.voxelmatters.com/auxilium-bioprints-first-kidney-and-liver-tissues-in-space
+🚨 Revopoint introduces the Trackit SR, a new 3D scanner with Intelligent Optical Tracking - 3DVF
+Revopoint introduces the Trackit SR, a new 3D scanner with Intelligent Optical Tracking 3DVF
+Reported by Google News - 3D Scanners on Jul 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEZCajVCRll4aWlab3BWdzR5bTViLWtXeXgwY3BlbW9DbFYtVFgxaDdQa2IxOEQ5cHJRUWo1bGZ0cWJkMGZqT2VzeGNub0lZMW9kMUxsVGg3RVRmbjVmX3p3eEg5MDd6Q3hvQ3FsSXR4cDJ6M3N2UXJqajZjaVFYZVZ1TnFlS0JKSV90WFVZSW9qOFBfVHo1enhUNGJ6YS1vSkREUWo4bktDV2c?oc=5
 
-📰 CRP UniqTrust provides 'digital identity' to 3D printed parts
-"It is no longer enough for a part to be expertly made - it must be able to prove its own identity and conformity at any point in its life cycle.”
-Reported by TCT Magazine on Jul 09, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/CRP-UniqTrust_2026.png
-Read more ? https://www.tctmagazine.com/crp-uniqtrust-provides-digital-identity-to-3d-printed-parts
+📷 A 1,700-Year-Old Board Game Is Being Played Again Thanks to 3D Scanning and Printing
+A stone board used nearly two millennia ago by the inhabitants of Roman Britain has been given a new lease on life thanks to 3D technology.
+The project was developed by researchers at Newcastle University in collaboration with the Vindolanda…, reported by 3D Natives on Jul 09, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/07/Roman-board-game-cover.jpg
+Read more ? https://www.3dnatives.com/en/3d-printed-roman-board-game-09072026
 
-📷 MedScan 3D founder Jacqui O'Connor: 'If investment came to our door, we would definitely consider it.'
-Last month MedScan 3D was named the winner of the start-up pitch competition at MedTech Innovation Expo 2026.
-Reported by TCT Magazine on Jul 09, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Image--4--1.jpeg
-Read more ? https://www.tctmagazine.com/medscan-3d-founder-jacqui-oconnor-if-investment-came-to-our-door-we-would-definitely-consider-it
+📷 The Maker’s Toolbox: Creality Sermoon P1 3D Scanner - Hackster.io
+The Maker’s Toolbox: Creality Sermoon P1 3D Scanner Hackster.io
+Reported by Google News - 3D Scanners on Jul 03, 2026.
+Read more ? https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW5LaWo5V1psUkpRamlEOFJkS1BCeDBGXzlCR0VmanI5M1IzU1BXZTZmellzU3dVMDBZelp3bHAxbEIteVdkS29EcGtZaVJvOVRpQ1RaRHFmamtqeXNHT21GRWYwSnBwc2FlbHl4Z01vWUx4c0x1elBXS2tvYWNYX2RHbmVXMktfeEF2RUgyYVhfdlVkTkdF0gGcAUFVX3lxTE9LeTdIZmR3RGR5cExhUGV3aklEOVlDcDNlUG5Md29VQXBwOWxHWkVrWnlKUFozUXZ2dmNHb2lPNWREMXRRRFNZTHRMclktaXNUZ29UR0tkQmpsTWhpVFhQSEJWS251VGpHX3FRbTllQ0NYVzRJbEN4UHVxWFphS1JRRUFVMDdMU2djejhMQ2ZxUUkxenBCYnE2TlBwMw?oc=5
 
-🚀 Venus Aerospace raises $91m Series B to scale 3D printed detonation engine
-Venus Aerospace has closed a $91 million Series B round led by Mercury Fund, a Houston-based venture capital firm, with participation from investors including Lockheed Martin Ventures.
-The round follows … The post Venus Aerospace raises $91m Series B to scale 3D printed detonation engine appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Venus-Aerospace-Series-B-Funding-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/venus-aerospace-raises-91m-series-b-to-scale-3d-printed-detonation-engine
+💻 New Maker Day and Dealer Matching at Formnext Asia Shenzhen
+Formnext Asia Shenzhen is adding a dedicated maker day and an international dealer matching session to its 2026 program, both aimed at communities that sit outside its traditional industrial exhibitor base.
+The event runs August 26 to 28, 2026 at the Shenzhen World Exhibition and Convention Center, reported by 3D Printing Industry on Jul 10, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/01/Fairground5-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/new-maker-day-and-dealer-matching-at-formnext-asia-shenzhen-252964
 
-🦺 Space bioprinting milestone signals "new way of developing regenerative medicine"
-"By taking advantage of the unique conditions in space, researchers can create life science products that cannot be manufactured on Earth."
-Reported by TCT Magazine on Jul 09, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Bioprinted-Liver-Tissue.jpeg
-Read more ? https://www.tctmagazine.com/space-bioprinting-milestone-signals-new-way-of-developing-regenerative-medicine
+🖨 Hyliion deploys metal additive manufacturing to deliver more efficient power generation
+CEO Thomas Healy recently joined the Additive Insight podcast.
+Reported by TCT Magazine on Jul 10, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/KARNO-Beta-design-high-polish-render-1.png
+Read more ? https://www.tctmagazine.com/hyliion-deploys-metal-additive-manufacturing-to-deliver-more-efficient-power-generation
 
 🖨 DAIHEN enters metal 3D printing with the ArcBuilder 3D
 DAIHEN, a Japanese heavy-electrical manufacturer with roughly $1.5 billion in annual sales, unveiled the ArcBuilder 3D, its first product in metal additive manufacturing, and has begun accepting orders.
@@ -44,8 +42,8 @@ The system … The post DAIHEN enters metal 3D printing with the ArcBuilder 3D a
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/daihen-20260701-02-1280-720-e1783565745437-150x150.jpg
 Read more ? https://www.voxelmatters.com/daihen-enters-metal-3d-printing-with-the-arcbuilder-3d
 
-🚀 Kentstrapper launches Mille, an industrial FFF printer with a one-cubic-meter build volume
-Kentstrapper, a Florence-based 3D printer manufacturer operating since 2011, launched sales of Mille on July 6, 2026, an industrial FFF printer with a 1000 × 1000 × 1000 mm build … The post Kentstrapper launches...
+🖨 Coogee Titanium and University of Queensland to test locally made titanium
+Coogee Titanium is partnering with the University of Queensland (UQ) on an AU$677,000 (US$469,000) research project to determine whether its locally produced TiRO powder can support a sovereign titanium supply … The...
 Reported by VoxelMatters on Jul 09, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Zrzut-ekranu-2026-07-08-010528-150x150.png
-Read more ? https://www.voxelmatters.com/kentstrapper-launches-mille-an-industrial-fff-printer-with-a-one-cubic-meter-build-volume
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/AMCRC-Coogee-UQ-titanium-150x150.jpg
+Read more ? https://www.voxelmatters.com/coogee-titanium-and-university-of-queensland-to-test-locally-made-titanium

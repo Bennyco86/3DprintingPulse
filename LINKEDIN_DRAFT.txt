@@ -1,53 +1,50 @@
-﻿# 3D PRINTING PULSE #184 - 2026-07-10
+﻿# 3D PRINTING PULSE #185 - 2026-07-11
 
-💻 AMufacture CEO says company can help deliver UK’s £5bn drone investment plan
-The CEO of AMufacture, a Portsmouth-based additive manufacturing contract manufacturer, has said the company is well positioned to help deliver the UK government’s Defense Investment Plan (DIP), which includes £5 …...
-Reported by VoxelMatters on Jul 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/AMufacture-UK-defense-dividend-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/amufacture-ceo-says-company-can-help-deliver-uks-5bn-drone-investment-plan
+🔥 Nottingham and Berkeley researchers curb overcuring defects in volumetric 3D printing
+Researchers at the University of Nottingham and the University of California, Berkeley, have developed a resin chemistry that curbs the overheating responsible for warped and fused parts in computed axial … The post...
+Reported by VoxelMatters on Jul 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/volumetric-3D-printing-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nottingham-and-berkeley-researchers-curb-overcuring-defects-in-volumetric-3d-printing
 
-🦺 Auxilium bioprints first kidney and liver tissues in space
-California-based Auxilium Biotechnologies has achieved a significant milestone: its AMP-1 orbital bioprinter has successfully bioprinted kidney and liver tissues in space.
-The 3D bioprinter was installed aboard the International Space … The post Auxilium bioprints first kidney and liver tissues in space appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Bioprinted_Liver_Tissue-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/auxilium-bioprints-first-kidney-and-liver-tissues-in-space
+🚨 Revopoint Trackit SR: Tracking 3D scanner for launch with discount code cheaper - 3Druck.com
+Revopoint Trackit SR: Tracking 3D scanner for launch with discount code cheaper 3Druck.com
+Reported by Google News - 3D Scanners on Jul 06, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnFCanFBcGNKMlM3cVF6VFg5TFlmWUZFTERkMm1ER0prdEFCU0hxLWN5eWpmamxvT1NlNFNJZmw0ZUZjQWZkeDJheVJjSFFHdDRwQy1NUXBpSTVuN29fZFE2SXVnTE5YdWQ4V3ZDTklsa2Y5OXQtU000bENLRnRERnlVa0FEUm12cmY4akh1SGdCY1hGek5mQU5mckZzNC1hMmxmeTl1Z0dBc2Itek1JZ2kyWTBfd052?oc=5
 
-📰 CRP UniqTrust provides 'digital identity' to 3D printed parts
-"It is no longer enough for a part to be expertly made - it must be able to prove its own identity and conformity at any point in its life cycle.”
-Reported by TCT Magazine on Jul 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/CRP-UniqTrust_2026.png
-🔗 Read more: https://www.tctmagazine.com/crp-uniqtrust-provides-digital-identity-to-3d-printed-parts
+🚨 Prusa and Bondtech: INDX Conversion Kit for CORE One goes into production - 3Druck.com
+Prusa and Bondtech: INDX Conversion Kit for CORE One goes into production 3Druck.com
+Reported by Google News - Hotend Swap Toolchanger on Jul 06, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3pTa24wbUJMVmRlb0dNclhqNkxNWHc4ck1EVExaQ19mT0sxLU5MX0FCQm5RVThzdDlWWV9aUGh5TEJzTzFfV3JCeGUzR0tveGtBb1gxWkFlMlFoaTQ2QWVPVVltYlVNcHRHUzFWNk9UR1lDc1Fia0R2bUJRR1JWZ0JSa19wblZkdmpxdGZidzI3blNZSXhvakdNVWwydTE4Zm5PbHR5M3lfQm9reUhVNV84ZlE3WWRLay1V?oc=5
 
-📷 MedScan 3D founder Jacqui O'Connor: 'If investment came to our door, we would definitely consider it.'
-Last month MedScan 3D was named the winner of the start-up pitch competition at MedTech Innovation Expo 2026.
-Reported by TCT Magazine on Jul 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Image--4--1.jpeg
-🔗 Read more: https://www.tctmagazine.com/medscan-3d-founder-jacqui-oconnor-if-investment-came-to-our-door-we-would-definitely-consider-it
+📷 I wasn't sure the Creality Sermoon P1 Scanner would handle shiny objects – then this happened - Creative Bloq
+I wasn't sure the Creality Sermoon P1 Scanner would handle shiny objects – then this happened Creative Bloq
+Reported by Google News - 3D Scanners on Jul 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMivwFBVV95cUxONTl1T0FsZGIxTGFKMXlTanN1RzhLd0EtM2tJdVg2ZmQ5RExHRVRLclRFcTRORzFHUVBGX2E3NmsySU80RWlUMWwwUUhHNmpYS1YyNUEtQ3RCMWFudUx2dXJraVdHY3lsM3hSeGRCRVVjcGowd3RzTm45TGQyNGloY1E0ZlpLZW5QTGMzREdiS2FreHhxM0JmTVBuTmtidlM2azBpcGFGN1c0WEhuS2x0QkFfZVo0bmpwdlJlc09nNA?oc=5
 
-🚀 Venus Aerospace raises $91m Series B to scale 3D printed detonation engine
-Venus Aerospace has closed a $91 million Series B round led by Mercury Fund, a Houston-based venture capital firm, with participation from investors including Lockheed Martin Ventures.
-The round follows … The post Venus Aerospace raises $91m Series B to scale 3D printed detonation engine appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Venus-Aerospace-Series-B-Funding-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/venus-aerospace-raises-91m-series-b-to-scale-3d-printed-detonation-engine
+💻 Proxima Fusion raises €411 million to build Europe’s fusion demonstrator
+Proxima Fusion closed a €411 million ($468 million) Series A2 financing round on July 7, 2026, pushing its valuation to €2.4 billion ($2.7 billion) and making it Europe’s best-funded fusion … The post Proxima Fusion...
+Reported by VoxelMatters on Jul 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Proxima_Fusion_Stellarator_683da92aca71d268d0b8e972_Copy-of-2025-02-05_Proxima_Fusion_FV_0248-min-1-1-780x470-1-150x150.webp
+🔗 Read more: https://www.voxelmatters.com/proxima-fusion-raises-e411-million-to-build-europes-fusion-demonstrator
 
-🦺 Space bioprinting milestone signals "new way of developing regenerative medicine"
-"By taking advantage of the unique conditions in space, researchers can create life science products that cannot be manufactured on Earth."
-Reported by TCT Magazine on Jul 09, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Bioprinted-Liver-Tissue.jpeg
-🔗 Read more: https://www.tctmagazine.com/space-bioprinting-milestone-signals-new-way-of-developing-regenerative-medicine
+🖨 How Ferrita customized a Mercedes Benz SLR McLaren exhaust using Wire-LMD
+Ferrita Sweden AB is a Swedish company that develops and manufactures advanced technical solutions in sound attenuation, vibration, thermal insulation and exhaust gas purification, such as catalyst and particle...
+The metal additive manufacturing technology developed by Meltio—which involves using a laser to melt a metal wire using a welding technique—has been validated by…, reported by 3D Printing Industry on Jul 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/ferrita-1.bmp
+🔗 Read more: https://3dprintingindustry.com/news/how-ferrita-customized-a-mercedes-benz-slr-mclaren-exhaust-using-wire-lmd-252968
 
-🖨 DAIHEN enters metal 3D printing with the ArcBuilder 3D
-DAIHEN, a Japanese heavy-electrical manufacturer with roughly $1.5 billion in annual sales, unveiled the ArcBuilder 3D, its first product in metal additive manufacturing, and has begun accepting orders.
-The system … The post DAIHEN enters metal 3D printing with the ArcBuilder 3D appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/daihen-20260701-02-1280-720-e1783565745437-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/daihen-enters-metal-3d-printing-with-the-arcbuilder-3d
+💻 Zaha Hadid Architects Prints a Six-Meter Tower for Terminal Expo
+The Tech Lab of Zaha Hadid Architects (ZHA) has completed a six-meter-tall 3D printed model of an air traffic control tower, produced for the practice’s ZHAviation exhibition stand at Passenger Terminal Expo 2026 in...
+Built from an original ZHA tower design, the installation ranks among the most technically demanding fabrication efforts the Lab has…, reported by 3D Printing Industry on Jul 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/Zaha_Hadid_Architects_Passenger_Terminal_Expo_2026-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/zaha-hadid-architects-prints-a-six-meter-tower-for-terminal-expo-252975
 
-🚀 Kentstrapper launches Mille, an industrial FFF printer with a one-cubic-meter build volume
-Kentstrapper, a Florence-based 3D printer manufacturer operating since 2011, launched sales of Mille on July 6, 2026, an industrial FFF printer with a 1000 × 1000 × 1000 mm build … The post Kentstrapper launches...
-Reported by VoxelMatters on Jul 09, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Zrzut-ekranu-2026-07-08-010528-150x150.png
-🔗 Read more: https://www.voxelmatters.com/kentstrapper-launches-mille-an-industrial-fff-printer-with-a-one-cubic-meter-build-volume
+💻 Homberger brings AMF zero-point clamping system to AM post-processing
+Homberger, the Genoa-based Italian distributor of AMF (Andreas Maier Fellbach) clamping technology, presented its zero-point clamping system for substrate plates, positioning the module as a fix for one of additive …...
+Reported by VoxelMatters on Jul 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/1_addittive_manufacturing-150x150.webp
+🔗 Read more: https://www.voxelmatters.com/homberger-brings-amf-zero-point-clamping-system-to-additive-manufacturing-post-processing
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "AMufacture CEO says company can help deliver UK’s £5bn drone investment plan" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.voxelmatters.com/amufacture-ceo-says-company-can-help-deliver-uks-5bn-drone-investment-plan | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "I wasn't sure the Creality Sermoon P1 Scanner would handle shiny objects – then this happened - Creative Bloq" because it highlights where practical 3D printing innovation is moving next. Story: https://news.google.com/rss/articles/CBMivwFBVV95cUxONTl1T0FsZGIxTGFKMXlTanN1RzhLd0EtM2tJdVg2ZmQ5RExHRVRLclRFcTRORzFHUVBGX2E3NmsySU80RWlUMWwwUUhHNmpYS1YyNUEtQ3RCMWFudUx2dXJraVdHY3lsM3hSeGRCRVVjcGowd3RzTm45TGQyNGloY1E0ZlpLZW5QTGMzREdiS2FreHhxM0JmTVBuTmtidlM2azBpcGFGN1c0WEhuS2x0QkFfZVo0bmpwdlJlc09nNA?oc=5 | Explore more: https://www.quality3ds.com/

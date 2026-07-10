@@ -17,9 +17,10 @@ MAX_ITEM_AGE_HOURS = 36
 MAJOR_RELEASE_MAX_ITEM_AGE_HOURS = 240
 REQUIRED_CATEGORIES = ["viral_controversial"]
 PREFERRED_CATEGORY_TARGETS = {
-    "major_printer_release": 1,
-    "viral_controversial": 2,
-    "recycling": 2,
+    "major_printer_release": 3,
+    "scanners": 2,
+    "software": 1,
+    "recycling": 1,
 }
 BLOCKLIST_TITLE_PHRASES = ["news briefs"]
 MIN_SOURCE_SCORE = 1
@@ -33,16 +34,19 @@ NON_ENGLISH_URL_PATH_HINTS = (
 )
 MAJOR_RELEASE_BRANDS = {
     "bambu", "prusa", "creality", "elegoo", "ultimaker", "formlabs",
-    "snapmaker", "qidi", "raise3d", "anycubic", "ankermake"
+    "snapmaker", "qidi", "raise3d", "anycubic", "ankermake", "sovol",
+    "revopoint", "shining 3d", "einscan", "bondtech"
 }
 MAJOR_RELEASE_TERMS = {
     "launch", "launches", "launched", "reveal", "reveals", "revealed",
     "announce", "announces", "announced", "introduce", "introduces",
     "introduced", "unveil", "unveils", "unveiled", "new printer",
-    "next-gen", "next generation", "flagship"
+    "next-gen", "next generation", "flagship", "tease", "teases",
+    "teased", "teaser", "new scanner"
 }
 MAJOR_RELEASE_MODEL_HINTS = {
-    "a2l", "x2d", "h2d", "u1", "x1e", "x1 carbon", "p2s"
+    "a2l", "x2d", "h2d", "u1", "x1e", "x1 carbon", "p2s",
+    "creality k3", "m1d", "indx"
 }
 MAJOR_RELEASE_SPEC_NOTES = {
     "x2d": "Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system."
@@ -76,17 +80,23 @@ CATEGORY_KEYWORDS = {
         "firestorm", "criticized", "unsafe", "fails", "defect", "recall",
         "voc", "hepa14"
     ],
+    "scanners": [
+        "scanner", "3d scan", "3d scanning", "metrology", "lidar",
+        "revopoint", "einscan", "einstar", "shining 3d", "photogrammetry",
+        "point cloud", "structured light", "scan-to-cad", "scan to cad",
+        "mesh cleanup", "scan cleanup"
+    ],
     "printers": [
         "printer", "fdm", "resin", "sla", "sls", "slm", "metal",
         "build volume", "nozzle", "filament", "bambu", "creality",
-        "prusa", "elegoo", "sovol", "ultimaker", "formlabs"
-    ],
-    "scanners": [
-        "scanner", "scan", "metrology", "lidar"
+        "prusa", "elegoo", "sovol", "ultimaker", "formlabs",
+        "hotend swap", "swappable hotend", "toolchanger", "tool changer",
+        "tool-changer", "multi-tool", "bondtech", "indx"
     ],
     "software": [
         "software", "slicer", "ai", "automation", "simulation", "workflow",
-        "firmware", "cad", "cam"
+        "firmware", "cad", "cam", "mesh processing", "mesh editing",
+        "reverse engineering"
     ]
 }
 
@@ -105,7 +115,10 @@ CATEGORY_EMOJI = {
 
 CATEGORY_PRIORITY = {
     "major_printer_release": 5,
-    "viral_controversial": 2,
+    "scanners": 3,
+    "printers": 2,
+    "software": 1,
+    "viral_controversial": 1,
     "recycling": 1,
 }
 
@@ -469,6 +482,11 @@ def is_major_printer_release(item):
         or "dual nozzle" in text
         or "hotend" in text
         or "heated chamber" in text
+        or "scanner" in text
+        or "3d scanning" in text
+        or "toolchanger" in text
+        or "tool changer" in text
+        or "tool-changer" in text
     )
     return has_brand and ((has_release_term and has_printer_context) or has_model_hint)
 
@@ -495,6 +513,23 @@ def major_release_signature_from_text(text):
 def major_release_signature(item):
     text = f"{item.get('title', '')} {item.get('summary', '')}"
     return major_release_signature_from_text(text)
+
+
+def run_level_major_signature(item):
+    """Signature for deduping releases within a single run.
+
+    Falls back to brand-only so the same announcement covered by several
+    outlets (with no known model hint) is still collapsed to one story.
+    Not used against history, where brand-only would be too aggressive.
+    """
+    signature = major_release_signature(item)
+    if signature:
+        return signature
+    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+    for candidate in sorted(MAJOR_RELEASE_BRANDS, key=len, reverse=True):
+        if candidate in text:
+            return f"{candidate}:*"
+    return ""
 
 
 def major_release_spec_note(item):
@@ -762,7 +797,7 @@ def select_stories(items, seen_history):
         if any(title_topics_overlap(topic_tokens, used) for used in used_title_topic_tokens):
             return False
         if item.get("category") == "major_printer_release":
-            signature = major_release_signature(item)
+            signature = run_level_major_signature(item)
             if signature and signature in used_major_signatures:
                 return False
         return True
@@ -774,7 +809,7 @@ def select_stories(items, seen_history):
         if item.get("title_topic_tokens"):
             used_title_topic_tokens.add(item["title_topic_tokens"])
         if item.get("category") == "major_printer_release":
-            signature = major_release_signature(item)
+            signature = run_level_major_signature(item)
             if signature:
                 used_major_signatures.add(signature)
 

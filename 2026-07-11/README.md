@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #185 - 2026-07-11
+## Stories
 
 🔥 Nottingham and Berkeley researchers curb overcuring defects in volumetric 3D printing
 Researchers at the University of Nottingham and the University of California, Berkeley, have developed a resin chemistry that curbs the overheating responsible for warped and fused parts in computed axial … The post...
@@ -48,9 +46,3 @@ Homberger, the Genoa-based Italian distributor of AMF (Andreas Maier Fellbach) c
 Reported by VoxelMatters on Jul 10, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/1_addittive_manufacturing-150x150.webp
 Read more ? https://www.voxelmatters.com/homberger-brings-amf-zero-point-clamping-system-to-additive-manufacturing-post-processing
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
