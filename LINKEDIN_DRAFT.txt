@@ -1,50 +1,50 @@
-﻿# 3D PRINTING PULSE #185 - 2026-07-11
+﻿# 3D PRINTING PULSE #186 - 2026-07-12
 
-🔥 Nottingham and Berkeley researchers curb overcuring defects in volumetric 3D printing
-Researchers at the University of Nottingham and the University of California, Berkeley, have developed a resin chemistry that curbs the overheating responsible for warped and fused parts in computed axial … The post...
-Reported by VoxelMatters on Jul 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/volumetric-3D-printing-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nottingham-and-berkeley-researchers-curb-overcuring-defects-in-volumetric-3d-printing
+🚨 Bambu Lab Turns Filament Sales into Earthquake Relief for Venezuela
+Chinese 3D printer manufacturer Bambu Lab is launching a 48-hour community fundraising drive for Venezuela’s earthquake recovery, running from July 13 at 8:00 a.m.
+through July 15, 2026, reported by 3D Printing Industry on Jul 11, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/image3-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/bambu-lab-turns-filament-sales-into-earthquake-relief-for-venezuela-252989
 
-🚨 Revopoint Trackit SR: Tracking 3D scanner for launch with discount code cheaper - 3Druck.com
-Revopoint Trackit SR: Tracking 3D scanner for launch with discount code cheaper 3Druck.com
+🚨 Revopoint Launches Trackit SR, a Wireless Intelligent Optical Tracking 3D Scanner with Industrial-grade Accuracy - The National Law Review
+Revopoint Launches Trackit SR, a Wireless Intelligent Optical Tracking 3D Scanner with Industrial-grade Accuracy The National Law Review
 Reported by Google News - 3D Scanners on Jul 06, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnFCanFBcGNKMlM3cVF6VFg5TFlmWUZFTERkMm1ER0prdEFCU0hxLWN5eWpmamxvT1NlNFNJZmw0ZUZjQWZkeDJheVJjSFFHdDRwQy1NUXBpSTVuN29fZFE2SXVnTE5YdWQ4V3ZDTklsa2Y5OXQtU000bENLRnRERnlVa0FEUm12cmY4akh1SGdCY1hGek5mQU5mckZzNC1hMmxmeTl1Z0dBc2Itek1JZ2kyWTBfd052?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHV6VkxhMXFiZ1lZeTZGQkdOaERJc0ZhUXpJYmNJUVZjenFqTFlVRmV3Rl9HeFNVNXJ1LW0zSEZvalJSREthdnV0cEY4R05SQjVBQWVUZGphRHlZQjdwUkwzaFctRDltQ2h4VWxZempLOHFCY050Ny03TDg2N3dkSjAwc1B4b1pkYXZ2Nzd5ekowWHNhdTFTTTdDT0dpR19hYnlXTmtqX05TbFg2SHow?oc=5
 
-🚨 Prusa and Bondtech: INDX Conversion Kit for CORE One goes into production - 3Druck.com
-Prusa and Bondtech: INDX Conversion Kit for CORE One goes into production 3Druck.com
-Reported by Google News - Hotend Swap Toolchanger on Jul 06, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3pTa24wbUJMVmRlb0dNclhqNkxNWHc4ck1EVExaQ19mT0sxLU5MX0FCQm5RVThzdDlWWV9aUGh5TEJzTzFfV3JCeGUzR0tveGtBb1gxWkFlMlFoaTQ2QWVPVVltYlVNcHRHUzFWNk9UR1lDc1Fia0R2bUJRR1JWZ0JSa19wblZkdmpxdGZidzI3blNZSXhvakdNVWwydTE4Zm5PbHR5M3lfQm9reUhVNV84ZlE3WWRLay1V?oc=5
+📷 New TSA 3D airport scanners may be a problem for your carry-on bags - Bergen Record
+New TSA 3D airport scanners may be a problem for your carry-on bags Bergen Record
+Reported by Google News - 3D Scanners on Jul 11, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVnZaVEtjU3NYSGZXa1k2d0E1TkRuU2RiaE5YZzUzdjRoTDZFRFVkSGdZclNSTFNKSjY0S0REZVV4Ums1U2tJcGhHMjJxLTFldTl6REtTNWd5RGNnMHAtRmc2Z0ZyNDZfd2ZvWWNVelJWYW5ZYjR5OS1sY0FCXzZVNWptbnhjN0dFQ05iYkxzSGV6RzYxTGg1Wi1LSTJBMDJOcXo1NjdscFBpZmE4VS1ONU8yUHBWVU5mWUhMZUIxQk4xb2p5Sl9keWFWZ0VXSFRs?oc=5
 
-📷 I wasn't sure the Creality Sermoon P1 Scanner would handle shiny objects – then this happened - Creative Bloq
-I wasn't sure the Creality Sermoon P1 Scanner would handle shiny objects – then this happened Creative Bloq
-Reported by Google News - 3D Scanners on Jul 01, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMivwFBVV95cUxONTl1T0FsZGIxTGFKMXlTanN1RzhLd0EtM2tJdVg2ZmQ5RExHRVRLclRFcTRORzFHUVBGX2E3NmsySU80RWlUMWwwUUhHNmpYS1YyNUEtQ3RCMWFudUx2dXJraVdHY3lsM3hSeGRCRVVjcGowd3RzTm45TGQyNGloY1E0ZlpLZW5QTGMzREdiS2FreHhxM0JmTVBuTmtidlM2azBpcGFGN1c0WEhuS2x0QkFfZVo0bmpwdlJlc09nNA?oc=5
+💻 3DCeram Sinto and Avignon Ceramic detail ceramic 3D printing partnership in new video
+3DCeram Sinto has released a video detailing a co-development partnership with Avignon Ceramic, a French ceramic injection molding (CIM) manufacturer that has expanded into ceramic 3D printing since 2017.
+The … The post 3DCeram Sinto and Avignon Ceramic detail ceramic 3D printing partnership in new video appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/3DCeram-Sinto-and-Avignon-Ceramic-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/3dceram-sinto-and-avignon-ceramic-detail-ceramic-3d-printing-partnership-in-new-video
 
-💻 Proxima Fusion raises €411 million to build Europe’s fusion demonstrator
-Proxima Fusion closed a €411 million ($468 million) Series A2 financing round on July 7, 2026, pushing its valuation to €2.4 billion ($2.7 billion) and making it Europe’s best-funded fusion … The post Proxima Fusion...
-Reported by VoxelMatters on Jul 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Proxima_Fusion_Stellarator_683da92aca71d268d0b8e972_Copy-of-2025-02-05_Proxima_Fusion_FV_0248-min-1-1-780x470-1-150x150.webp
-🔗 Read more: https://www.voxelmatters.com/proxima-fusion-raises-e411-million-to-build-europes-fusion-demonstrator
+🖨 Beehive Industries Bets Big on Ultra-Large-Format Metal AM with Multi-Unit NXG 600E Order
+Denver-based Beehive Industries has placed a multi-unit order for NXG 600E metal 3D printers from Nikon SLM Solutions, part of Nikon Advanced Manufacturing.
+The purchase is entirely self-funded and gives the company a capability that remains scarce in the United States: ultra-large-format laser powder bed fusion capacity, reported by 3D Printing Industry on Jul 11, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/11/nxg-600e-serial-production-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/beehive-industries-bets-big-on-ultra-large-format-metal-am-with-multi-unit-nxg-600e-order-252995
 
-🖨 How Ferrita customized a Mercedes Benz SLR McLaren exhaust using Wire-LMD
-Ferrita Sweden AB is a Swedish company that develops and manufactures advanced technical solutions in sound attenuation, vibration, thermal insulation and exhaust gas purification, such as catalyst and particle...
-The metal additive manufacturing technology developed by Meltio—which involves using a laser to melt a metal wire using a welding technique—has been validated by…, reported by 3D Printing Industry on Jul 10, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/ferrita-1.bmp
-🔗 Read more: https://3dprintingindustry.com/news/how-ferrita-customized-a-mercedes-benz-slr-mclaren-exhaust-using-wire-lmd-252968
+💻 Tripo AI raises $150M in Series A3  round
+3D foundation model developer Tripo AI has closed a $150 million Series A3 funding round, drawing investment from companies across the automotive, gaming, internet, and technology sectors.
+Geely Capital was among the automotive-side backers, joined by other strategic investors from that sector, reported by 3D Printing Industry on Jul 11, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/Segv2-Visual-Demo-1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/tripo-ai-raises-150m-in-series-a3-round-253013
 
-💻 Zaha Hadid Architects Prints a Six-Meter Tower for Terminal Expo
-The Tech Lab of Zaha Hadid Architects (ZHA) has completed a six-meter-tall 3D printed model of an air traffic control tower, produced for the practice’s ZHAviation exhibition stand at Passenger Terminal Expo 2026 in...
-Built from an original ZHA tower design, the installation ranks among the most technically demanding fabrication efforts the Lab has…, reported by 3D Printing Industry on Jul 10, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/Zaha_Hadid_Architects_Passenger_Terminal_Expo_2026-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/zaha-hadid-architects-prints-a-six-meter-tower-for-terminal-expo-252975
+💻 Phillips Corporation renames Hybrid division Phillips Advanced Manufacturing Solutions
+Phillips Corporation has renamed its Hybrid division Phillips Advanced Manufacturing Solutions (AMS) and promoted Brian Kristaponis to president of the unit.
+The Hanover, Maryland-based manufacturing technology supplier said the new … The post Phillips Corporation renames Hybrid division Phillips Advanced Manufacturing Solutions appeared first on VoxelMatters - The heart...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Phillips-Advanced-Manufacturing-Solutions-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/phillips-corporation-renames-hybrid-division-phillips-advanced-manufacturing-solutions
 
-💻 Homberger brings AMF zero-point clamping system to AM post-processing
-Homberger, the Genoa-based Italian distributor of AMF (Andreas Maier Fellbach) clamping technology, presented its zero-point clamping system for substrate plates, positioning the module as a fix for one of additive …...
-Reported by VoxelMatters on Jul 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/1_addittive_manufacturing-150x150.webp
-🔗 Read more: https://www.voxelmatters.com/homberger-brings-amf-zero-point-clamping-system-to-additive-manufacturing-post-processing
+🖨 Kentstrapper Releases the 1 Cubic Meter Material Extrusion Mille System for €40,000
+Kentstrapper makes Material Extrusion systems in Italy.
+Now the firm has released the 1,000 × 1,000 × 1,000 mm build volume Mille system, reported by 3DPrint.com on Jul 10, 2026.
+🔗 Read more: https://3dprint.com/328422/kentstrapper-releases-the-mille-1-cubic-meter-material-extrusion-system-for-e40000
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "I wasn't sure the Creality Sermoon P1 Scanner would handle shiny objects – then this happened - Creative Bloq" because it highlights where practical 3D printing innovation is moving next. Story: https://news.google.com/rss/articles/CBMivwFBVV95cUxONTl1T0FsZGIxTGFKMXlTanN1RzhLd0EtM2tJdVg2ZmQ5RExHRVRLclRFcTRORzFHUVBGX2E3NmsySU80RWlUMWwwUUhHNmpYS1YyNUEtQ3RCMWFudUx2dXJraVdHY3lsM3hSeGRCRVVjcGowd3RzTm45TGQyNGloY1E0ZlpLZW5QTGMzREdiS2FreHhxM0JmTVBuTmtidlM2azBpcGFGN1c0WEhuS2x0QkFfZVo0bmpwdlJlc09nNA?oc=5 | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "Bambu Lab Turns Filament Sales into Earthquake Relief for Venezuela" because it highlights where practical 3D printing innovation is moving next. Source: https://3dprintingindustry.com/news/bambu-lab-turns-filament-sales-into-earthquake-relief-for-venezuela-252989 | Complete rundown: https://www.quality3ds.com/

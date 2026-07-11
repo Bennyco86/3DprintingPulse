@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-12
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #186 - 2026-07-12
+## Stories
 
 🚨 Bambu Lab Turns Filament Sales into Earthquake Relief for Venezuela
 Chinese 3D printer manufacturer Bambu Lab is launching a 48-hour community fundraising drive for Venezuela’s earthquake recovery, running from July 13 at 8:00 a.m.
@@ -48,9 +46,3 @@ Read more ? https://www.voxelmatters.com/phillips-corporation-renames-hybrid-div
 Kentstrapper makes Material Extrusion systems in Italy.
 Now the firm has released the 1,000 × 1,000 × 1,000 mm build volume Mille system, reported by 3DPrint.com on Jul 10, 2026.
 Read more ? https://3dprint.com/328422/kentstrapper-releases-the-mille-1-cubic-meter-material-extrusion-system-for-e40000
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
