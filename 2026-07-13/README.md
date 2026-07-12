@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-13
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #187 - 2026-07-13
+## Stories
 
 🚨 Why Elegoo Chose Emoji® to Introduce More People to 3D Printing
 When Elegoo unveiled the world’s first officially licensed emoji®-themed 3D printer, it wasn’t just launching another version of an existing machine.
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTJDN1ItYWhQNjF
 Two US states introduce legislation to prevent production of guns on 3D printers Notebookcheck
 Reported by Google News - 3D Printing on Jul 12, 2026.
 Read more ? https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZzBTLUFfeFI0a05veGR4V0hiamdsa0RIeFFodFlXb1FOakZhdTExQlNmeGZWcUI1SVctUVBpZWZVNDZsNFJWMU5tcVVxWWF6VDBubGZWZU45YWpMMFUzNVBBMm5ncS1HdGQ0QkhGMEJiM0hPRGpGVGpNTWQtdEl1VmYtYmV5bF9VRV96ZTVYMjdFZE9jZ1FMeFNXR1gtRTNJejJ6WjRXYlFHeVNUUURsd1h2ZTFPbzdpbDhRUWdUeDQ0YUE?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

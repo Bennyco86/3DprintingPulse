@@ -1,50 +1,47 @@
-﻿# 3D PRINTING PULSE #186 - 2026-07-12
+﻿# 3D PRINTING PULSE #187 - 2026-07-13
 
-🚨 Bambu Lab Turns Filament Sales into Earthquake Relief for Venezuela
-Chinese 3D printer manufacturer Bambu Lab is launching a 48-hour community fundraising drive for Venezuela’s earthquake recovery, running from July 13 at 8:00 a.m.
-through July 15, 2026, reported by 3D Printing Industry on Jul 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/image3-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/bambu-lab-turns-filament-sales-into-earthquake-relief-for-venezuela-252989
+🚨 Why Elegoo Chose Emoji® to Introduce More People to 3D Printing
+When Elegoo unveiled the world’s first officially licensed emoji®-themed 3D printer, it wasn’t just launching another version of an existing machine.
+The company was testing a much bigger idea by, reported by 3DPrint.com on Jul 12, 2026.
+🔗 Read more: https://3dprint.com/328302/why-elegoo-chose-emoji-to-introduce-more-people-to-3d-printing
 
-🚨 Revopoint Launches Trackit SR, a Wireless Intelligent Optical Tracking 3D Scanner with Industrial-grade Accuracy - The National Law Review
-Revopoint Launches Trackit SR, a Wireless Intelligent Optical Tracking 3D Scanner with Industrial-grade Accuracy The National Law Review
-Reported by Google News - 3D Scanners on Jul 06, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirwFBVV95cUxNcHV6VkxhMXFiZ1lZeTZGQkdOaERJc0ZhUXpJYmNJUVZjenFqTFlVRmV3Rl9HeFNVNXJ1LW0zSEZvalJSREthdnV0cEY4R05SQjVBQWVUZGphRHlZQjdwUkwzaFctRDltQ2h4VWxZempLOHFCY050Ny03TDg2N3dkSjAwc1B4b1pkYXZ2Nzd5ekowWHNhdTFTTTdDT0dpR19hYnlXTmtqX05TbFg2SHow?oc=5
+💻 This open-source Tinkercad alternative is my new favorite way to design 3D prints in a browser - How-To Geek
+This open-source Tinkercad alternative is my new favorite way to design 3D prints in a browser How-To Geek
+Reported by Google News - 3D Printing on Jul 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMimAFBVV95cUxOMGYzLVpPbzBueUNCQW8taGxEbXBQemxVQmw1MHVzZlBQZ0Q1ckhmUXpqaE5SWmR2eHBsU0labGhtSG5YcjZ0Q3lXZmFYYTFBNFhVTUJzTEtaenRwbnpKY2pLNmxDX1VRYnQ5V0JCaFREU0dzS0phelNYZWh2b2ctTmFYTTN5SlhhZkhoWEF6eEJZQnNGR0pwVg?oc=5
 
-📷 New TSA 3D airport scanners may be a problem for your carry-on bags - Bergen Record
-New TSA 3D airport scanners may be a problem for your carry-on bags Bergen Record
-Reported by Google News - 3D Scanners on Jul 11, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVnZaVEtjU3NYSGZXa1k2d0E1TkRuU2RiaE5YZzUzdjRoTDZFRFVkSGdZclNSTFNKSjY0S0REZVV4Ums1U2tJcGhHMjJxLTFldTl6REtTNWd5RGNnMHAtRmc2Z0ZyNDZfd2ZvWWNVelJWYW5ZYjR5OS1sY0FCXzZVNWptbnhjN0dFQ05iYkxzSGV6RzYxTGg1Wi1LSTJBMDJOcXo1NjdscFBpZmE4VS1ONU8yUHBWVU5mWUhMZUIxQk4xb2p5Sl9keWFWZ0VXSFRs?oc=5
+🏠 USS Essex uses embarked 3D printers to cut supply chain delays
+Wasp-class amphibious assault ship USS Essex (LHD 2) and Combat Logistics Battalion 13, 13th Marine Expeditionary Unit, are using embarked 3D printers to produce replacement parts and tools rather than … The post USS...
+Reported by VoxelMatters on Jul 12, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/USS-Essex-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/uss-essex-uses-embarked-3d-printers-to-cut-supply-chain-delays
 
-💻 3DCeram Sinto and Avignon Ceramic detail ceramic 3D printing partnership in new video
-3DCeram Sinto has released a video detailing a co-development partnership with Avignon Ceramic, a French ceramic injection molding (CIM) manufacturer that has expanded into ceramic 3D printing since 2017.
-The … The post 3DCeram Sinto and Avignon Ceramic detail ceramic 3D printing partnership in new video appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/3DCeram-Sinto-and-Avignon-Ceramic-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/3dceram-sinto-and-avignon-ceramic-detail-ceramic-3d-printing-partnership-in-new-video
+🚀 Dash-CAE to display LFAM-enabled carbon monocoque at Goodwood
+Dash-CAE, a UK-based engineering and composites specialist, is displaying its Large Format Additive Manufacturing-enabled tooling and composite production process at the Goodwood Festival of Speed this weekend.
+The company has … The post Dash-CAE to display LFAM-enabled carbon monocoque at Goodwood appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/DASH-CAE-Goodwood-2026_01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/dash-cae-to-display-lfam-enabled-carbon-monocoque-at-goodwood
 
-🖨 Beehive Industries Bets Big on Ultra-Large-Format Metal AM with Multi-Unit NXG 600E Order
-Denver-based Beehive Industries has placed a multi-unit order for NXG 600E metal 3D printers from Nikon SLM Solutions, part of Nikon Advanced Manufacturing.
-The purchase is entirely self-funded and gives the company a capability that remains scarce in the United States: ultra-large-format laser powder bed fusion capacity, reported by 3D Printing Industry on Jul 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/11/nxg-600e-serial-production-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/beehive-industries-bets-big-on-ultra-large-format-metal-am-with-multi-unit-nxg-600e-order-252995
+🖨 Stop treating your 3D printer like a vending machine for other people's models - How-To Geek
+Stop treating your 3D printer like a vending machine for other people's models How-To Geek
+Reported by Google News - 3D Printing on Jul 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTctb21TS2o4cDFxVVU3UTBkNDZCWjZTT1ViZDB3OW9nWGJod213SHVFc2oyQzAwTDNQYnJiU1ZzX2paR053RkFpU0lMbjY5WGdQWHl2RGtqVWJqZHNNNkFlWlJXSlc4Um5seFpURUpHdDQwTTNRT3BhaWd0RG5zNnVSbFZSMDNXZWU5WDlwaGJkbHF3MzdHeWFhVy16djZkSTBKcGRlVQ?oc=5
 
-💻 Tripo AI raises $150M in Series A3  round
-3D foundation model developer Tripo AI has closed a $150 million Series A3 funding round, drawing investment from companies across the automotive, gaming, internet, and technology sectors.
-Geely Capital was among the automotive-side backers, joined by other strategic investors from that sector, reported by 3D Printing Industry on Jul 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/Segv2-Visual-Demo-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/tripo-ai-raises-150m-in-series-a3-round-253013
+🖨 54 Fun And Useful Things People Printed With Their 3D Printers - AOL.com
+54 Fun And Useful Things People Printed With Their 3D Printers AOL.com
+Reported by Google News - 3D Printing on Jul 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTE9wRjdLa0NkUG9QdXZZRmw3VzJSUUc3dGNLOC1va0xyZ2xhbXNSYVNFbnlnYTVXUzdUS2JzclBEZ0ZGSkVXQzRJa3ZZbF9VemxjWFJLZGM4YVYtOF9Na1BHNEZTUWRBUHVtdVJtVFN2dnZhWEMxN1FIWWdiQnBxUQ?oc=5
 
-💻 Phillips Corporation renames Hybrid division Phillips Advanced Manufacturing Solutions
-Phillips Corporation has renamed its Hybrid division Phillips Advanced Manufacturing Solutions (AMS) and promoted Brian Kristaponis to president of the unit.
-The Hanover, Maryland-based manufacturing technology supplier said the new … The post Phillips Corporation renames Hybrid division Phillips Advanced Manufacturing Solutions appeared first on VoxelMatters - The heart...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Phillips-Advanced-Manufacturing-Solutions-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/phillips-corporation-renames-hybrid-division-phillips-advanced-manufacturing-solutions
+🖨 China's 'digital kids' drive surging popularity of 3D printers - Nikkei Asia
+China's 'digital kids' drive surging popularity of 3D printers Nikkei Asia
+Reported by Google News - 3D Printing on Jul 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTJDN1ItYWhQNjFRNmpaY2RSb2xGYjFESko0SGRNUEo0eXhaR0VFck5qQks3bnc4S3M0Q2U2YXJMSlVrdkpEbGRjTnhfUXVqSnVDTFQwTDM2OEZrY0o1T3pDU1RUaWtFRWd5RXJFVlpYa1pBSXRRcHh1WEhjZ3M2SDBEd1FUcjBKU1hqMW5tMnpFVnZMNElPM3U3QS00TzRxRFlxNQ?oc=5
 
-🖨 Kentstrapper Releases the 1 Cubic Meter Material Extrusion Mille System for €40,000
-Kentstrapper makes Material Extrusion systems in Italy.
-Now the firm has released the 1,000 × 1,000 × 1,000 mm build volume Mille system, reported by 3DPrint.com on Jul 10, 2026.
-🔗 Read more: https://3dprint.com/328422/kentstrapper-releases-the-mille-1-cubic-meter-material-extrusion-system-for-e40000
+🖨 Two US states introduce legislation to prevent production of guns on 3D printers - Notebookcheck
+Two US states introduce legislation to prevent production of guns on 3D printers Notebookcheck
+Reported by Google News - 3D Printing on Jul 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZzBTLUFfeFI0a05veGR4V0hiamdsa0RIeFFodFlXb1FOakZhdTExQlNmeGZWcUI1SVctUVBpZWZVNDZsNFJWMU5tcVVxWWF6VDBubGZWZU45YWpMMFUzNVBBMm5ncS1HdGQ0QkhGMEJiM0hPRGpGVGpNTWQtdEl1VmYtYmV5bF9VRV96ZTVYMjdFZE9jZ1FMeFNXR1gtRTNJejJ6WjRXYlFHeVNUUURsd1h2ZTFPbzdpbDhRUWdUeDQ0YUE?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Bambu Lab Turns Filament Sales into Earthquake Relief for Venezuela" because it highlights where practical 3D printing innovation is moving next. Source: https://3dprintingindustry.com/news/bambu-lab-turns-filament-sales-into-earthquake-relief-for-venezuela-252989 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Why Elegoo Chose Emoji® to Introduce More People to 3D Printing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://3dprint.com/328302/why-elegoo-chose-emoji-to-introduce-more-people-to-3d-printing | Full pulse: https://www.quality3ds.com/
