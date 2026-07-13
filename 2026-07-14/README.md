@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-14
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #188 - 2026-07-14
+## Stories
 
 🔥 New SUNLU AMS Lite Heater Keeps Filament Dry for Better Print Quality
 A twelve-hour overnight print can turn out fine, or it can come back stringy and inconsistent with no change to the slicer settings that would explain why.
@@ -50,9 +48,3 @@ BigRep SE’s management board and supervisory board approved the sale of BigRep
 Reported by VoxelMatters on Jul 13, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2020/03/bigrep-3d-printers-150x150.jpg
 Read more ? https://www.voxelmatters.com/bigrep-se-de-lists-and-liquidates-parent-company-bigrep-gmbh
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
