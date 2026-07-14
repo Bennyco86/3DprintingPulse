@@ -2,54 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #188 - 2026-07-14
+### 3D PRINTING PULSE #189 - 2026-07-15
 
-🔥 New SUNLU AMS Lite Heater Keeps Filament Dry for Better Print Quality
-A twelve-hour overnight print can turn out fine, or it can come back stringy and inconsistent with no change to the slicer settings that would explain why.
-The usual cause is moisture, reported by 3D Printing Industry on Jul 13, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/画板-13-16_9-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/new-sunlu-ams-lite-heater-keeps-filament-dry-for-better-print-quality-252790
+🔥 Sciperio Patents Pump for Dispensing High-Viscosity Materials in AM
+A newly patented pump from Sciperio, the R&D arm of nScrypt, is built to let additive manufacturing (AM) systems dispense materials with viscosities above 1 million centipoise, a range Sciperio says has been...
+Patent and Trademark Office (USPTO) issued Patent No, reported by 3D Printing Industry on Jul 14, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/Sciperio-150x100.png
+Read more ? https://3dprintingindustry.com/news/sciperio-patents-pump-for-dispensing-high-viscosity-materials-in-am-253087
 
-🚨 Sovol M1D: Can This $1,199 7-Color IDEX Toolchanger Truly End Filament Waste? - All3DP
-Sovol M1D: Can This $1,199 7-Color IDEX Toolchanger Truly End Filament Waste?
-Reported by Google News - 3D Printing on Jul 13, 2026.
-Read more ? https://news.google.com/rss/articles/CBMimwFBVV95cUxQd3h5cjNPV2U2RDM2M2R2MVAtZmtxMER6OEJXNW5hZmh0STZmREkxYzV5VmRQNEVyNHRacGJ3aEN1SWxLQm01WWJNNWlVRzJiOWx5NzNBSjcycEo4ZDlSSlNubzQtYnZ6ZndnTk1QUGxHeVR3X2dCZDhoNGlYenVSM1dMamJXRXRBcV92SUgtbVBrb1BJU1F1eGhBRQ?oc=5
+🚨 Multimaterial 3D printing system Prusa INDX in first test - 3Druck.com
+Multimaterial 3D printing system Prusa INDX in first test 3Druck.com
+Reported by Google News - Hotend Swap Toolchanger on Jul 14, 2026.
+Read more ? https://news.google.com/rss/articles/CBMirgFBVV95cUxQQS1LekEwV3lQZXpiYnhCc28wLTZKX0FIbmlKYkhtTnBVX2pYRHQ0bktNbTF2Q29PWUhNT3Y0NWxJdDFoc0ItT0xBcUFFakw2a0poc09PTTNERmtsVTlzRk10NXJKVDZpN3hoNnlsaFhzYTJUTG93VGk1bjBaTHhKcFlSanlQYy1aUHZVRGZrWlRKUHl3dk4zRlQ4YU5oeUR4c0MxMnJTemc0OFBqSFE?oc=5
 
-💻 UK football club markets kits with full-color 3D printing
-Professional football clubs are increasingly trying to capitalize on kit collecting crazes and gaining new fans internationally by marketing their merchandise in creative ways.
-In 2021, for instance, Italy’s Venezia … The post UK football club markets kits with full-color 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/mimaki-football-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/uk-foot-ball-club-markets-full-color-3d-printing
+💻 Adidas Prints BB.01, Becomes the World’s First 3D Basketball Shoe
+Adidas Basketball has revealed the BB.01, the opening product of Project: Radical Athlete Perception (R.A.P.) and the brand’s first performance basketball shoe built on the platform.
+Positioned as a new approach to making athletic footwear, Project: R.A.P, reported by 3D Printing Industry on Jul 14, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/727522_v3-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/adidas-prints-bb-01-becomes-the-worlds-first-3d-basketball-shoe-253043
 
-🖨 The Top PEEK and ULTEM FDM 3D Printers on the Market
-Additive manufacturing users are increasingly looking for technical materials that meet their requirements and constraints.
-As a result, we have seen the materials market grow exponentially in recent years, with the aim of offering higher-performance solutions, reported by 3D Natives on Jul 13, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/07/The-Top-PEEK-and-ULTEM-FDM-3D-Printers-on-the-Market-Cover-2.jpg
-Read more ? https://www.3dnatives.com/en/ranking-3d-printers-peek-ultem020520184
+🖨 Mears Machine orders fifth Velo3D Sapphire XC to expand production capacity
+Mears Machine Corporation has ordered its fifth Velo3D Sapphire XC metal additive manufacturing system, with options to purchase two additional units, Velo3D has confirmed.
+The Fremont, California-based printer maker said … The post Mears Machine orders fifth Velo3D Sapphire XC to expand production capacity appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Velo3D-Mears-Corp-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/mears-machine-orders-fifth-velo3d-sapphire-xc-to-expand-production-capacity
 
-📰 EPFL researchers build fracture and fatigue resistant 3D printed elastomer
-Researchers at the École Polytechnique Fédérale de Lausanne (EPFL) have reported a 3D printable elastomer that combines high resistance to fracture with high resistance to fatigue, addressing a tradeoff that … The...
-Reported by VoxelMatters on Jul 13, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Tough-elastomers-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/epfl-researchers-build-fracture-and-fatigue-resistant-3d-printed-elastomer
+🖨 Protolabs expands CNC machining and MJF 3D printing for drone manufacturing
+Protolabs, a US-based digital manufacturing service provider, has expanded its CNC machining and Multi Jet Fusion (MJF) 3D printing capabilities for commercial and defense drone manufacturers.
+The company is targeting applications requiring rapid design changes, customized hardware, lightweight components, and low-volume production, reported by 3D Printing Industry on Jul 14, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/Protolabs-CNC_Milling_1-1-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/protolabs-expands-cnc-machining-and-mjf-3d-printing-for-drone-manufacturing-253060
 
-🦺 Liqcreate’s Bio-Med Flex Now Enables Flexible and Sterilizable 3D Printed Parts
-Netherlands-based independent 3D printing resin manufacturer Liqcreate has launched Bio-Med Flex, a clear flexible photopolymer resin designed for sterilizable, biocompatible medical and biomedical applications.
-This matters because being able to meet this set of requirements in clinical prototyping labs has been quite difficult, reported by 3D Printing Industry on Jul 13, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/Liqcreate1-150x100.png
-Read more ? https://3dprintingindustry.com/news/liqcreates-bio-med-flex-now-enables-flexible-and-sterilizable-3d-printed-parts-253035
+💻 RIMPAC running largest-ever U.S. military test combining 3D printing with drone delivery
+Department of Defense is running its largest-ever combined test of 3D printing and autonomous drone delivery during the 2026 Rim of the Pacific (RIMPAC) exercise this month, pairing … The post RIMPAC running...
+military test combining 3D printing with drone delivery appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/RIMPAC-2026_02-150x150.jpg
+Read more ? https://www.voxelmatters.com/rimpac-running-largest-ever-u-s-military-test-combining-3d-printing-with-drone-delivery
 
-🚀 SHINING 3D expand its Metrology Day seminar series across four countries in 2026
-SHINING 3D hosted Metrology Day events in Chonburi, Thailand; Tampa, Florida; Querétaro, Mexico; and Brisbane, Australia, during the first half of 2026, extending a seminar series the company launched to … The post...
-Reported by VoxelMatters on Jul 13, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/SHINING-3D-Metrology-Day-2026_03-150x150.jpeg
-Read more ? https://www.voxelmatters.com/shining-3d-expand-its-metrology-day-seminar-series-across-four-countries-in-2026
+🖨 Webinar Explores Metal Binder Jetting High-Temperature M247LC for Production
+High-temperature nickel-based superalloys like MAR-M 247LC (M247LC), the low-carbon version of MAR-M 247, are used for casting in some of the most demanding applications in the world, including gas turbines,...
+Reported by 3DPrint.com on Jul 14, 2026.
+Read more ? https://3dprint.com/328859/webinar-explores-metal-binder-jetting-high-temperature-m247lc-for-production
 
-📰 BigRep SE de-lists and liquidates parent company BigRep GmbH
-BigRep SE’s management board and supervisory board approved the sale of BigRep GmbH, the company’s German operating subsidiary, to De Krassny GmbH, Koehler Invest GmbH, and HAGE Holding GmbH, according … The post...
-Reported by VoxelMatters on Jul 13, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2020/03/bigrep-3d-printers-150x150.jpg
-Read more ? https://www.voxelmatters.com/bigrep-se-de-lists-and-liquidates-parent-company-bigrep-gmbh
+🖨 The Complete Guide to Direct Ink Writing
+Direct ink writing (DIW) is an extrusion-based additive manufacturing technique where ink is extruded through a fine nozzle that follows a digitally defined path to build a three-dimensional structure layer by layer.
+One of the key characteristics of this technique…, reported by 3D Natives on Jul 13, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2025/12/DIW_cover.jpg
+Read more ? https://www.3dnatives.com/en/direct-ink-writing-guide-23122025
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
