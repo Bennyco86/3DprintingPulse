@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-16
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #190 - 2026-07-16
+## Stories
 
 🔥 Xbox Series X Cat Problem Inspires Viral 3D-Printed ‘Hostile Architecture’ Fix - ColombiaOne.com
 Xbox Series X Cat Problem Inspires Viral 3D-Printed ‘Hostile Architecture’ Fix ColombiaOne.com
@@ -47,9 +45,3 @@ Researchers at the University of Waterloo’s Department of Chemistry have built
 … The post University of Waterloo researchers 3D print contact lenses in 20 minutes appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/3D-printed-contact-lenses-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/university-of-waterloo-researchers-3d-print-contact-lenses-in-20-minutes
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
