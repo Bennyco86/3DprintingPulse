@@ -2,51 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #190 - 2026-07-16
+### 3D PRINTING PULSE #191 - 2026-07-17
 
-🔥 Xbox Series X Cat Problem Inspires Viral 3D-Printed ‘Hostile Architecture’ Fix - ColombiaOne.com
-Xbox Series X Cat Problem Inspires Viral 3D-Printed ‘Hostile Architecture’ Fix ColombiaOne.com
-Reported by Google News - 3D Printing on Jul 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMickFVX3lxTE1pUDN2OUlsb2t0Vk1uV3lwb3d5OWlDeVBpMG4wZHB0XzZlR04wdGY3c3FkVElsQVRyRjJITGRtQVVCNmhVY0VDN0FIa3FRNTljUW53TUx4dDgyZnhKR3o2NEFFY3VSVzZ2UkxQUEpNOUgwQQ?oc=5
+💻 BMW says 'automated, digitally networked process chains' key to scaling additive manufacturing
+The automotive company is focusing on scalable applications, enhancing automation and maturing newer technologies, particularly Wire Arc Additive Manufacturing, into series production.
+Reported by TCT Magazine on Jul 16, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/additive-manufacturing-1280x720-v2.jpeg
+Read more ? https://www.tctmagazine.com/bmw-says-automated-digitally-networked-process-chains-key-to-scaling-additive-manufacturing
 
-🚨 Save 35% on Anycubic's flagship 3D printers - Creative Bloq
-Save 35% on Anycubic's flagship 3D printers Creative Bloq
-Reported by Google News - 3D Printing on Jul 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFJ6TzAxYWtyTjJ3S3NaNmctdzZtTlA5YUdWXzhGUVIzTks3c2N5a3lDRDdnSC1Xd2ZPM3RVYVFvb3ljREVWRld1M1pvbzBmdERYOXdUUHh6d3pXQ25NQ1g0bDRuMEg2RWFSeGlVa2p0TVhjUDNNRTVpS1BhbV9xV2VyNndSV054VUJsc3oyQVJ1ZUsxMUprRg?oc=5
+🖨 Print Your Own Gear: Inside the Insta360 × Bambu Lab Luna Ultra Challenge
+Insta360 and Bambu Lab’s MakerWorld have teamed up on the Luna Ultra Design Challenge, a global call for makers, designers, and creators to dream up fresh accessories, mods, and concepts for the Luna Ultra,...
+The competition puts more than US$11,000 in prizes on the table, giving entrants a chance…, reported by 3D Printing Industry on Jul 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/z03_2w-150x100.png
+Read more ? https://3dprintingindustry.com/news/print-your-own-gear-inside-the-insta360-x-bambu-lab-luna-ultra-challenge-253124
 
-🚨 Revopoint Introduces Wireless Marker-Free Trackit SR 3D Scanner - Metrology and Quality News
-Revopoint Introduces Wireless Marker-Free Trackit SR 3D Scanner Metrology and Quality News
-Reported by Google News - 3D Scanners on Jul 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMikAFBVV95cUxNVTZ3aFJTWmFwNmZDQ1hQYVdZOVctLWxCZ3hBNURJYXMzVEhoc0J0b0doaWJKQTlvYmt2RjJfSV9XQTliR3l0MUtaRndfVWt1TDZXajl6ZVFmbFZEYnlITGxPejhubUttOFRCSzBqMmpEUmpGdWZiTW96c2tpMjR2a2Z3Z2NkTEFjM3BYdnBmaEM?oc=5
+💻 WAAM-based Vipra AM shows the power of application-first development
+For over a decade, Italian company Caracol has developed and honed its large-scale robotic additive manufacturing technology, first with a focus on the thermoplastic and composite segment (with its Heron … The post...
+Reported by VoxelMatters on Jul 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/caracol-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/waam-based-vipra-am-shows-the-power-of-application-first-development
 
-💻 Freemelt joins Proxima Fusion’s Alpha Alliance for tungsten fusion parts
-Freemelt signed a Memorandum of Understanding with Proxima Fusion GmbH, the German stellarator developer, and became a member of the Alpha Alliance, a group of industrial companies and research institutes … The post...
-Reported by VoxelMatters on Jul 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Alpha-150x150.jpg
-Read more ? https://www.voxelmatters.com/freemelt-joins-proxima-fusions-alpha-alliance-for-tungsten-fusion-parts
+💻 USS Essex Prints Its Own Parts at Sea: RIMPAC 2026
+At sea, a broken component can’t simply be reordered and delivered the next morning.
+Some items take weeks to reach a deployed ship, and others are no longer produced at all, reported by 3D Printing Industry on Jul 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/1000w_q95-150x100.webp
+Read more ? https://3dprintingindustry.com/news/uss-essex-prints-its-own-parts-at-sea-rimpac-2026-253121
 
-🖨 6K Additive appoints Ampere ALLOYS as European distributor of metal powders
-AMPERE Alloys is described by 6K Additive as being a specialist in metals and ferro-alloys, with extensive distribution logistics, regional expertise, and a robust commercial network.
-Reported by TCT Magazine on Jul 15, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/6K---UniMelt-high-quality-image_Re.jpg
-Read more ? https://www.tctmagazine.com/6k-additive-appoints-ampere-alloys-as-european-distributor-of-metal-powders
+🚀 Trinity researchers 3D print Ireland’s first cement-free geopolymer
+Researchers at Trinity College Dublin’s School of Engineering have demonstrated Ireland’s first cement-free, 3D printed geopolymer, working with construction technology firm Harcourt Technologies Ltd.
+The trial was held at HTL.Tech’s … The post Trinity researchers 3D print Ireland’s first cement-free geopolymer appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Irish-cement-free-geopolymer-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/trinity-researchers-3d-print-irelands-first-cement-free-geopolymer
 
-🖨 Johns Hopkins researchers develop thermal framework for stable aluminum metal extrusion
-Researchers at Johns Hopkins University have established a thermally informed, simulation-guided process framework that stabilizes metal extrusion additive manufacturing of thin-walled aluminum alloy structures,...
-Reported by VoxelMatters on Jul 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/John-Hopkins-aluminum-extrusion-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/johns-hopkins-researchers-develop-thermal-framework-for-stable-aluminum-metal-extrusion
+📰 Cross Industry Dynamics 3D prints mini hypercar prototype for Lil Zoomers
+When Lil Zoomers, a company that specializes in premium electric karts with full-vehicle architectures, approached Colorado-based Cross Industry Dynamics with an idea and a tight timeline, the manufacturer was up …...
+Reported by VoxelMatters on Jul 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/caracol-cross-industry-dynamics-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/cross-industry-dynamics-3d-prints-mini-hypercar-prototype-for-lil-zoomers
 
-🖨 Ugee Releases AI-Powered Funbox 3D Printer for Kids
-ugee has released the Funbox, a 3D printer for kids.
-The company is a part of Hanvon Ugee Technology Group, a manufacturer and distributor of drawing tablets under the ugee,, reported by 3DPrint.com on Jul 15, 2026.
-Read more ? https://3dprint.com/327741/ugee-releases-funbox-3d-printer-for-kids
+🚀 How Ursa Major is taking AM hypersonic , one layer at a time
+Ursa Major is moving through a run of milestones that highlight its emergence as a prime mover in U.S.
+propulsion manufacturing, reported by VoxelMatters on Jul 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Ursa-Major_Lynx_color2_250115.00_02_13_12.Still021-150x150.jpg
+Read more ? https://www.voxelmatters.com/how-ursa-major-is-taking-am-hypersonic-one-layer-at-a-time
 
-📰 University of Waterloo researchers 3D print contact lenses in 20 minutes
-Researchers at the University of Waterloo’s Department of Chemistry have built a digital manufacturing platform that produces patient-specific contact lenses in as little as 20 minutes, according to the university.
-… The post University of Waterloo researchers 3D print contact lenses in 20 minutes appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/3D-printed-contact-lenses-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/university-of-waterloo-researchers-3d-print-contact-lenses-in-20-minutes
+📰 Concordia researchers 4D print wind turbine blades without molds
+Researchers at Concordia University have developed a manufacturing method that produces curved blades for vertical-axis wind turbines (VAWTs) from flat carbon-fiber composite panels, removing the need for the complex...
+Reported by VoxelMatters on Jul 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Concordia-4D-printed-wind-turbine-blades-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/concordia-researchers-4d-print-wind-turbine-blades-without-molds
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
