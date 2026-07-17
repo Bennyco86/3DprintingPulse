@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-18
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #192 - 2026-07-18
+## Stories
 
 💻 Concordia researchers use 4D printing of composites to produce wind turbine blades on flat molds
 Researchers at Concordia University have developed an inverse 4D printing of composites method for producing curved vertical-axis wind turbine blades from carbon fiber-reinforced epoxy.
@@ -50,9 +48,3 @@ Kind Designs, a Miami-based coastal infrastructure startup, has closed an oversu
 The round valued Kind … The post Kind Designs closes $10 million round to scale 3D printed living seawalls appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Kind_Designs_Team-150x150.jpg
 Read more ? https://www.voxelmatters.com/kind-designs-closes-10-million-round-to-scale-3d-printed-living-seawalls
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

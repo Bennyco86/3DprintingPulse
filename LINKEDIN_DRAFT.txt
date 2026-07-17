@@ -1,53 +1,52 @@
-﻿# 3D PRINTING PULSE #191 - 2026-07-17
+﻿# 3D PRINTING PULSE #192 - 2026-07-18
 
-💻 BMW says 'automated, digitally networked process chains' key to scaling additive manufacturing
-The automotive company is focusing on scalable applications, enhancing automation and maturing newer technologies, particularly Wire Arc Additive Manufacturing, into series production.
-Reported by TCT Magazine on Jul 16, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/additive-manufacturing-1280x720-v2.jpeg
-🔗 Read more: https://www.tctmagazine.com/bmw-says-automated-digitally-networked-process-chains-key-to-scaling-additive-manufacturing
+💻 Concordia researchers use 4D printing of composites to produce wind turbine blades on flat molds
+Researchers at Concordia University have developed an inverse 4D printing of composites method for producing curved vertical-axis wind turbine blades from carbon fiber-reinforced epoxy.
+The process forms the blades on a flat mold, removing the need for tooling that matches the final curved geometry, reported by 3D Printing Industry on Jul 17, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/image-6-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds-253156
 
-🖨 Print Your Own Gear: Inside the Insta360 × Bambu Lab Luna Ultra Challenge
-Insta360 and Bambu Lab’s MakerWorld have teamed up on the Luna Ultra Design Challenge, a global call for makers, designers, and creators to dream up fresh accessories, mods, and concepts for the Luna Ultra,...
-The competition puts more than US$11,000 in prizes on the table, giving entrants a chance…, reported by 3D Printing Industry on Jul 16, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/z03_2w-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/print-your-own-gear-inside-the-insta360-x-bambu-lab-luna-ultra-challenge-253124
+♻️ ZHA 3D-prints voluptuous chair from recycled plastic - Dezeen
+ZHA 3D-prints voluptuous chair from recycled plastic Dezeen
+Reported by Google News - 3D Printing on Jul 17, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMidkFVX3lxTE95X1pXajBUQ3pPZTBSbXdlYVM5WVlRZy15TUJDLXJVOU5WLUNLenFlNTBSY0ZJMDdNUmx4UFJtR0gzMXdqTVFqVFRHNkVSQ3lFQjN4Tlh5UzNSaXIzYlVsejNBSXRKNXk4OExURUY4TEVPN2ExRWc?oc=5
 
-💻 WAAM-based Vipra AM shows the power of application-first development
-For over a decade, Italian company Caracol has developed and honed its large-scale robotic additive manufacturing technology, first with a focus on the thermoplastic and composite segment (with its Heron … The post...
-Reported by VoxelMatters on Jul 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/caracol-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/waam-based-vipra-am-shows-the-power-of-application-first-development
+💻 Wraith Systems scales production of F-35 desktop pilot training system with AM
+Before a pilot is ready to take to the air, extensive training must be carried out, much of which involves hands-on tools and simulators.
+For instance, pilots-in-training gain skills and … The post Wraith Systems scales production of F-35 desktop pilot training system with AM appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/wraith-systems-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/wraith-systems-scales-production-of-f-35-desktop-pilot-training-system-with-am
 
-💻 USS Essex Prints Its Own Parts at Sea: RIMPAC 2026
-At sea, a broken component can’t simply be reordered and delivered the next morning.
-Some items take weeks to reach a deployed ship, and others are no longer produced at all, reported by 3D Printing Industry on Jul 16, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/1000w_q95-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/uss-essex-prints-its-own-parts-at-sea-rimpac-2026-253121
+🖨 ugee Enters 3D Printing with the Funbox, a Fully Enclosed FDM Printer Built for Kids and Beginners
+ugee, known for its drawing tablets and digital creation tools, is moving into additive manufacturing.
+The company’s first 3D printer is built specifically for kids aged 4 to 12, though it’s really aimed at anyone who wants a machine that…, reported by 3D Natives on Jul 16, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/07/ugee-Cover-Photo.jpg
+🔗 Read more: https://www.3dnatives.com/en/ugee-funbox-kids-3d-printer-15072026
 
-🚀 Trinity researchers 3D print Ireland’s first cement-free geopolymer
-Researchers at Trinity College Dublin’s School of Engineering have demonstrated Ireland’s first cement-free, 3D printed geopolymer, working with construction technology firm Harcourt Technologies Ltd.
-The trial was held at HTL.Tech’s … The post Trinity researchers 3D print Ireland’s first cement-free geopolymer appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Irish-cement-free-geopolymer-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/trinity-researchers-3d-print-irelands-first-cement-free-geopolymer
+🏠 MIT optimizes concrete 3D printing for manufacturability
+Researchers at MIT have developed a design framework that optimizes concrete structures while accounting for the physical limits of 3D printers.
+The research also reveals that printer hardware, not concrete, is the key bottleneck to achieving lighter structures, reported by 3D Printing Industry on Jul 17, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/mit-cee-concrete-bridge-tackowiak-schemmer-00-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/mit-optimizes-concrete-3d-printing-for-manufacturability-253179
 
-📰 Cross Industry Dynamics 3D prints mini hypercar prototype for Lil Zoomers
-When Lil Zoomers, a company that specializes in premium electric karts with full-vehicle architectures, approached Colorado-based Cross Industry Dynamics with an idea and a tight timeline, the manufacturer was up …...
-Reported by VoxelMatters on Jul 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/caracol-cross-industry-dynamics-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/cross-industry-dynamics-3d-prints-mini-hypercar-prototype-for-lil-zoomers
+🚀 SWISSto12 Raises $70M to keep pace with multi-orbit demand
+Swiss satellite and payload maker SWISSto12 has closed a $70 million (€61 million) Series C, funding it says will expand manufacturing as orders climb across commercial and government customers.
+The Series C lands after a stretch of steep revenue gains, reported by 3D Printing Industry on Jul 17, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/HummingSat_dramatic-1-1024x577-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/swissto12-raises-70m-to-keep-pace-with-multi-orbit-demand-253161
 
-🚀 How Ursa Major is taking AM hypersonic , one layer at a time
-Ursa Major is moving through a run of milestones that highlight its emergence as a prime mover in U.S.
-propulsion manufacturing, reported by VoxelMatters on Jul 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Ursa-Major_Lynx_color2_250115.00_02_13_12.Still021-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/how-ursa-major-is-taking-am-hypersonic-one-layer-at-a-time
+🏠 MIT framework bakes 3D concrete printer limits into structural optimization
+MIT researchers have developed a framework for designing 3D printed concrete structures that builds a printer’s physical limitations directly into the structural optimization process, producing designs a machine can...
+Reported by VoxelMatters on Jul 17, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/MIT-3D-printed-bridge-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/mit-framework-bakes-3d-concrete-printer-limits-into-structural-optimization
 
-📰 Concordia researchers 4D print wind turbine blades without molds
-Researchers at Concordia University have developed a manufacturing method that produces curved blades for vertical-axis wind turbines (VAWTs) from flat carbon-fiber composite panels, removing the need for the complex...
-Reported by VoxelMatters on Jul 16, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Concordia-4D-printed-wind-turbine-blades-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/concordia-researchers-4d-print-wind-turbine-blades-without-molds
+🏠 Kind Designs closes $10 million round to scale 3D printed living seawalls
+Kind Designs, a Miami-based coastal infrastructure startup, has closed an oversubscribed $10 million Pre-Series A funding round to scale production of its 3D printed Living Seawalls.
+The round valued Kind … The post Kind Designs closes $10 million round to scale 3D printed living seawalls appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Kind_Designs_Team-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/kind-designs-closes-10-million-round-to-scale-3d-printed-living-seawalls
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Print Your Own Gear: Inside the Insta360 × Bambu Lab Luna Ultra Challenge" because it highlights where practical 3D printing innovation is moving next. Source: https://3dprintingindustry.com/news/print-your-own-gear-inside-the-insta360-x-bambu-lab-luna-ultra-challenge-253124 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "ZHA 3D-prints voluptuous chair from recycled plastic - Dezeen" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Story link: https://news.google.com/rss/articles/CBMidkFVX3lxTE95X1pXajBUQ3pPZTBSbXdlYVM5WVlRZy15TUJDLXJVOU5WLUNLenFlNTBSY0ZJMDdNUmx4UFJtR0gzMXdqTVFqVFRHNkVSQ3lFQjN4Tlh5UzNSaXIzYlVsejNBSXRKNXk4OExURUY4TEVPN2ExRWc?oc=5 | Full pulse: https://www.quality3ds.com/
