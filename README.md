@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #192 - 2026-07-18
+### 3D PRINTING PULSE #193 - 2026-07-19
 
-💻 Concordia researchers use 4D printing of composites to produce wind turbine blades on flat molds
-Researchers at Concordia University have developed an inverse 4D printing of composites method for producing curved vertical-axis wind turbine blades from carbon fiber-reinforced epoxy.
-The process forms the blades on a flat mold, removing the need for tooling that matches the final curved geometry, reported by 3D Printing Industry on Jul 17, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/image-6-150x100.png
-Read more ? https://3dprintingindustry.com/news/concordia-researchers-use-4d-printing-of-composites-to-produce-wind-turbine-blades-on-flat-molds-253156
+💻 VACCO delivers additively manufactured valve for U.S. Navy submarine fleet
+VACCO Industries has manufactured and delivered a pressure-regulating valve produced through additive manufacturing to support the U.S.
+Navy’s submarine fleet sustainment program, reported by VoxelMatters on Jul 18, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/VACCO-US-Navy-submarine-valve-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/vacco-delivers-additively-manufactured-valve-for-u-s-navy-submarine-fleet
 
-♻️ ZHA 3D-prints voluptuous chair from recycled plastic - Dezeen
-ZHA 3D-prints voluptuous chair from recycled plastic Dezeen
-Reported by Google News - 3D Printing on Jul 17, 2026.
-Read more ? https://news.google.com/rss/articles/CBMidkFVX3lxTE95X1pXajBUQ3pPZTBSbXdlYVM5WVlRZy15TUJDLXJVOU5WLUNLenFlNTBSY0ZJMDdNUmx4UFJtR0gzMXdqTVFqVFRHNkVSQ3lFQjN4Tlh5UzNSaXIzYlVsejNBSXRKNXk4OExURUY4TEVPN2ExRWc?oc=5
+🖨 Velo3D inaugurates Forge 1 production campus in Livermore, California
+Metal additive manufacturing company Velo3D marked the opening of its new Livermore, California, production campus this week with a ribbon-cutting ceremony attended by customers, partners, suppliers, investors, and...
+Reported by VoxelMatters on Jul 18, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/velo3d-opening-150x150.jpg
+Read more ? https://www.voxelmatters.com/velo3d-inaugurates-forge-1-production-campus-in-livermore-california
 
-💻 Wraith Systems scales production of F-35 desktop pilot training system with AM
-Before a pilot is ready to take to the air, extensive training must be carried out, much of which involves hands-on tools and simulators.
-For instance, pilots-in-training gain skills and … The post Wraith Systems scales production of F-35 desktop pilot training system with AM appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/wraith-systems-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/wraith-systems-scales-production-of-f-35-desktop-pilot-training-system-with-am
+🖨 EOS discontinues the FORMIGA platform after nearly 20 years
+EOS discontinued its FORMIGA line of SLS systems, ending new sales of a platform that had been in production since 2006.
+The German manufacturer notified customers in a letter that … The post EOS discontinues the FORMIGA platform after nearly 20 years appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2024/02/System_FORMIGA_P_110_FDR_links_BGwhite-150x150.png
+Read more ? https://www.voxelmatters.com/eos-discontinued-the-formiga-platform-after-nearly-20-years
 
-🖨 ugee Enters 3D Printing with the Funbox, a Fully Enclosed FDM Printer Built for Kids and Beginners
-ugee, known for its drawing tablets and digital creation tools, is moving into additive manufacturing.
-The company’s first 3D printer is built specifically for kids aged 4 to 12, though it’s really aimed at anyone who wants a machine that…, reported by 3D Natives on Jul 16, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/07/ugee-Cover-Photo.jpg
-Read more ? https://www.3dnatives.com/en/ugee-funbox-kids-3d-printer-15072026
+🚀 Fortastra and Hadrian partner on AM for satellite programs
+Spacecraft developer Fortastra and manufacturing company Hadrian signed a memorandum of understanding to explore the application of advanced manufacturing methods to Fortastra’s satellite development programs.
+The partnership establishes a framework … The post Fortastra and Hadrian partner on AM for satellite programs appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/home-methodology-robot-test-150x150.jpg
+Read more ? https://www.voxelmatters.com/fortastra-and-hadrian-partner-on-am-for-satellite-programs
 
-🏠 MIT optimizes concrete 3D printing for manufacturability
-Researchers at MIT have developed a design framework that optimizes concrete structures while accounting for the physical limits of 3D printers.
-The research also reveals that printer hardware, not concrete, is the key bottleneck to achieving lighter structures, reported by 3D Printing Industry on Jul 17, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/mit-cee-concrete-bridge-tackowiak-schemmer-00-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/mit-optimizes-concrete-3d-printing-for-manufacturability-253179
+🦺 A new silicone lets 3D printers turn out custom-fit contact lenses
+A team at the University of Waterloo has built a digital manufacturing system that prints custom contact lenses in roughly 20 minutes, raising the prospect that a patient could be measured, have a lens designed, and...
+The approach pairs a purpose-built silicone material with additive manufacturing, and…, reported by 3D Printing Industry on Jul 18, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/sci-221-26_-_3d_printing_rigid_contact_lens_article_photos_-_shirley_tang-12-150x100.avif
+Read more ? https://3dprintingindustry.com/news/a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses-253165
 
-🚀 SWISSto12 Raises $70M to keep pace with multi-orbit demand
-Swiss satellite and payload maker SWISSto12 has closed a $70 million (€61 million) Series C, funding it says will expand manufacturing as orders climb across commercial and government customers.
-The Series C lands after a stretch of steep revenue gains, reported by 3D Printing Industry on Jul 17, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/HummingSat_dramatic-1-1024x577-1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/swissto12-raises-70m-to-keep-pace-with-multi-orbit-demand-253161
+🦺 NIHR grant funds new 3D printing lab at Sheffield Teaching Hospitals
+A 3D printing lab producing medical models for surgical training, simulation and patient-specific anatomical modeling has opened at Sheffield Teaching Hospitals NHS Foundation Trust in the UK, funded through a … The...
+Reported by VoxelMatters on Jul 18, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Sheffield-3D-hospital-lab-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/nihr-grant-funds-new-3d-printing-lab-at-sheffield-teaching-hospitals
 
-🏠 MIT framework bakes 3D concrete printer limits into structural optimization
-MIT researchers have developed a framework for designing 3D printed concrete structures that builds a printer’s physical limitations directly into the structural optimization process, producing designs a machine can...
-Reported by VoxelMatters on Jul 17, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/MIT-3D-printed-bridge-150x150.jpg
-Read more ? https://www.voxelmatters.com/mit-framework-bakes-3d-concrete-printer-limits-into-structural-optimization
+📰 LightForce names Erica Rogers as CEO as expansion plans scale
+LightForce Orthodontics has appointed Erica Rogers as chief executive officer, the Boston-based company has confirmed, as it moves from validating its 3D printed bracket technology toward commercial scale.
+Rogers succeeds … The post LightForce names Erica Rogers as CEO as expansion plans scale appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Erica-Roberts-Lightforce-CEO-appointment-150x150.jpg
+Read more ? https://www.voxelmatters.com/lightforce-names-erica-rogers-as-ceo-as-expansion-plans-scale
 
-🏠 Kind Designs closes $10 million round to scale 3D printed living seawalls
-Kind Designs, a Miami-based coastal infrastructure startup, has closed an oversubscribed $10 million Pre-Series A funding round to scale production of its 3D printed Living Seawalls.
-The round valued Kind … The post Kind Designs closes $10 million round to scale 3D printed living seawalls appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Kind_Designs_Team-150x150.jpg
-Read more ? https://www.voxelmatters.com/kind-designs-closes-10-million-round-to-scale-3d-printed-living-seawalls
+🖨 4 filaments that make your 3D prints look like metal without costing a fortune - How-To Geek
+4 filaments that make your 3D prints look like metal without costing a fortune How-To Geek
+Reported by Google News - 3D Printing on Jul 18, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimAFBVV95cUxOZTlVY1lHbFNsY0JzQUZzQ3pNR29xR3JfV2RKMTlXcG1mVzM0TUpxVU82aDZKc0FYd1hpdnk3bDJXc21oUDNXWGJJd3dfaW5MNnFJZURyNmhxRFlseDhzYWVmRlV0dDZzYXhiWW5KencyU0lHLXBRZXZQV3dwdVdOeVFwOTZaa2lvN19LT1E3dUdUZ2w1c0JBRQ?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
