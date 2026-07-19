@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #194 - 2026-07-20
+## Stories
 
 🔥 California’s push to ban technology used for ‘ghost guns’ finds unlikely foe in Hollywood - Los Angeles Times
 California’s push to ban technology used for ‘ghost guns’ finds unlikely foe in Hollywood Los Angeles Times
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMigwFBVV95cUxPMmlfRVAyVWlWTk1
 I’ve Never Used a 3D Printer Before.
 Is This One for Kids as Easy to Use as It Claims, reported by Google News - 3D Printing on Jul 18, 2026.
 Read more ? https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTdkWkt2WlVxV0RTeFJzRGVuRlE3Qk5adjZrRDhjWFZ5NWM2b2J5aktkbm5tT3lqeU1qb0FTR2ZlNWNsZzhhS3JLTVRjXzJBWUVtM2V2YjBsUjR4aDhNNElxQzFjTlJWYkVVQmNnLVBRNHduUkNiSWVBaXZHOEN2alVPV18?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

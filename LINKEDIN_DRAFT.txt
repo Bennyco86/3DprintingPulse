@@ -1,52 +1,47 @@
-﻿# 3D PRINTING PULSE #193 - 2026-07-19
+﻿# 3D PRINTING PULSE #194 - 2026-07-20
 
-💻 VACCO delivers additively manufactured valve for U.S. Navy submarine fleet
-VACCO Industries has manufactured and delivered a pressure-regulating valve produced through additive manufacturing to support the U.S.
-Navy’s submarine fleet sustainment program, reported by VoxelMatters on Jul 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/VACCO-US-Navy-submarine-valve-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/vacco-delivers-additively-manufactured-valve-for-u-s-navy-submarine-fleet
+🔥 California’s push to ban technology used for ‘ghost guns’ finds unlikely foe in Hollywood - Los Angeles Times
+California’s push to ban technology used for ‘ghost guns’ finds unlikely foe in Hollywood Los Angeles Times
+Reported by Google News - 3D Printing on Jul 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2N0UHdOdXFVWlh5SWtUNENpV3J3MDRwZTdOOWZnM0pEVkhrbGMybGhldU1YUzdTejE0aEFXamhuOGhocGtsTm5oM0RnYll5aGxob1JHTmtFcVJaSkNQRWtCMjBTLXlBVW1Rdm5kTzNGazJ1NzFiZGVqRWc1M2VINVM2RndwakZ3cGtwSFFyVFBqSFhqVkQ0MGVkYVJQM1BuNnpHR2hGMFI?oc=5
 
-🖨 Velo3D inaugurates Forge 1 production campus in Livermore, California
-Metal additive manufacturing company Velo3D marked the opening of its new Livermore, California, production campus this week with a ribbon-cutting ceremony attended by customers, partners, suppliers, investors, and...
-Reported by VoxelMatters on Jul 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/velo3d-opening-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/velo3d-inaugurates-forge-1-production-campus-in-livermore-california
+📷 China’s stone-inscription rubbing restrictions see conservators turn to 3D scanning
+China’s National Cultural Heritage Administration introduced regulations restricting traditional rubbing practices on stone inscriptions, citing the physical damage the technique causes to steles and carved surfaces.
+In response, 3D scanning … The post China’s stone-inscription rubbing restrictions see conservators turn to 3D scanning appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Shining-3D-Chinese-stone-scanning-04-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/chinas-stone-inscription-rubbing-restrictions-see-conservators-turn-to-3d-scanning
 
-🖨 EOS discontinues the FORMIGA platform after nearly 20 years
-EOS discontinued its FORMIGA line of SLS systems, ending new sales of a platform that had been in production since 2006.
-The German manufacturer notified customers in a letter that … The post EOS discontinues the FORMIGA platform after nearly 20 years appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2024/02/System_FORMIGA_P_110_FDR_links_BGwhite-150x150.png
-🔗 Read more: https://www.voxelmatters.com/eos-discontinued-the-formiga-platform-after-nearly-20-years
+🚀 USACE turns dredged Mobile Bay sediment into 3D printed oyster reefs
+Army Corps of Engineers (USACE) is converting sediment dredged from Mobile Bay’s navigation channels into 3D printed reef structures aimed at restoring oyster habitat and strengthening coastal resilience … The post...
+Reported by VoxelMatters on Jul 19, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/USACE-oyster-reefs-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/usace-turns-dredged-mobile-bay-sediment-into-3d-printed-oyster-reefs
 
-🚀 Fortastra and Hadrian partner on AM for satellite programs
-Spacecraft developer Fortastra and manufacturing company Hadrian signed a memorandum of understanding to explore the application of advanced manufacturing methods to Fortastra’s satellite development programs.
-The partnership establishes a framework … The post Fortastra and Hadrian partner on AM for satellite programs appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/home-methodology-robot-test-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/fortastra-and-hadrian-partner-on-am-for-satellite-programs
+🖨 Personalized Pharma 3D Printers: CurifyLabs Announces Its Aurum Printer and Platform - Trend Hunter
+Personalized Pharma 3D Printers: CurifyLabs Announces Its Aurum Printer and Platform Trend Hunter
+Reported by Google News - 3D Printing on Jul 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9USHYxcGlfMVF6REJCSVFxc1FkQ0hGREJrUEpMaVJ1aGJHS3BrZWx0SllraDRHQmpZa2N6Q1M2NGZvS3BjSzQ0SjFiOXhfZmFFYU5PRmprTlpxb0xl?oc=5
 
-🦺 A new silicone lets 3D printers turn out custom-fit contact lenses
-A team at the University of Waterloo has built a digital manufacturing system that prints custom contact lenses in roughly 20 minutes, raising the prospect that a patient could be measured, have a lens designed, and...
-The approach pairs a purpose-built silicone material with additive manufacturing, and…, reported by 3D Printing Industry on Jul 18, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/sci-221-26_-3d_printing_rigid_contact_lens_article_photos-_shirley_tang-12-150x100.avif
-🔗 Read more: https://3dprintingindustry.com/news/a-new-silicone-lets-3d-printers-turn-out-custom-fit-contact-lenses-253165
+🖨 Bambu Lab is making 3D printers feel like iPhones, and that’s going to be a problem - MakeUseOf
+Bambu Lab is making 3D printers feel like iPhones, and that’s going to be a problem MakeUseOf
+Reported by Google News - 3D Printing on Jul 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHJidjE2S3JCV0NocHJmQ2p1R1J3cV9oNjlRUGFKODZNSWRnRm9LSVRzRVExX2JRUFlhR0N1R2V1aFZSYm83SjUwR0Zfa0hLZ2xraGZRQ3dPZWpSQXJQSm5IdDJDQXctYzJRSU1lNGtqYmtvNU9hODRub2QwcExDeHR3?oc=5
 
-🦺 NIHR grant funds new 3D printing lab at Sheffield Teaching Hospitals
-A 3D printing lab producing medical models for surgical training, simulation and patient-specific anatomical modeling has opened at Sheffield Teaching Hospitals NHS Foundation Trust in the UK, funded through a … The...
-Reported by VoxelMatters on Jul 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Sheffield-3D-hospital-lab-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nihr-grant-funds-new-3d-printing-lab-at-sheffield-teaching-hospitals
+🖨 Creality K2 SE 3D printer price slashed by 17%, now under $250 — grab a competitive entry-level high-speed multicolor device at a bargain price - Tom's Hardware
+Creality K2 SE 3D printer price slashed by 17%, now under $250 — grab a competitive entry-level high-speed multicolor device at a bargain price Tom's Hardware
+Reported by Google News - 3D Printing on Jul 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinAJBVV95cUxQZlBaWXJGYjJySnBRci1ZZnFpVno2WnBsVTU0cUlfTnhSM3NLWXFIUmJ5Q1RVYy1ERFI3WWdYeXFJdC0yRDZ2OFpGZVBhZE9GTWlpT2x2bmZFRUxZV0NnYnhQa1JnU2FEZ0xMYllrZnFzcUV1NmJmVnYwX0t2VUEtVXZ4TFBLMUltNkNBd0JnRGFoaGxtbTFDVGFGME44dHE2YW1rN21kejQzcmwtWkR6R1drd2pxQ2dVby1ScEpvOGstSHUzd3lTNTgtbWhBbFFPT1FhRDcxNmhvTXIwY1R6NmVJazBGMTV5alJibHB0X2RHeDk4RnNaRkNMVW9yYUlCZEtCYU40dE45UVFnNmVWbDhhdXV6elZBOURZdQ?oc=5
 
-📰 LightForce names Erica Rogers as CEO as expansion plans scale
-LightForce Orthodontics has appointed Erica Rogers as chief executive officer, the Boston-based company has confirmed, as it moves from validating its 3D printed bracket technology toward commercial scale.
-Rogers succeeds … The post LightForce names Erica Rogers as CEO as expansion plans scale appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Erica-Roberts-Lightforce-CEO-appointment-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lightforce-names-erica-rogers-as-ceo-as-expansion-plans-scale
+🖨 I wasn't expecting results like this from a $299 budget 3D printer - How-To Geek
+I wasn't expecting results like this from a $299 budget 3D printer How-To Geek
+Reported by Google News - 3D Printing on Jul 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMigwFBVV95cUxPMmlfRVAyVWlWTk1Odi03UzNYaGU3QU5WYm9jS3JpeDNKMWp1Sk5HS3k3MXdabThGb2xhMWtvZ2d4T2MxOW9zYWhHN1RyZ0RzUVpVTTZrSVZpQkxnZ1UyUm5DYjR4ZTZkbDV4Ukx3NE5WbHNTRjFDTllFdC1kUVJ5VXBCQQ?oc=5
 
-🖨 4 filaments that make your 3D prints look like metal without costing a fortune - How-To Geek
-4 filaments that make your 3D prints look like metal without costing a fortune How-To Geek
-Reported by Google News - 3D Printing on Jul 18, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimAFBVV95cUxOZTlVY1lHbFNsY0JzQUZzQ3pNR29xR3JfV2RKMTlXcG1mVzM0TUpxVU82aDZKc0FYd1hpdnk3bDJXc21oUDNXWGJJd3dfaW5MNnFJZURyNmhxRFlseDhzYWVmRlV0dDZzYXhiWW5KencyU0lHLXBRZXZQV3dwdVdOeVFwOTZaa2lvN19LT1E3dUdUZ2w1c0JBRQ?oc=5
+🖨 I’ve Never Used a 3D Printer Before. Is This One for Kids as Easy to Use as It Claims? - CNET
+I’ve Never Used a 3D Printer Before.
+Is This One for Kids as Easy to Use as It Claims, reported by Google News - 3D Printing on Jul 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMihAFBVV95cUxOcTdkWkt2WlVxV0RTeFJzRGVuRlE3Qk5adjZrRDhjWFZ5NWM2b2J5aktkbm5tT3lqeU1qb0FTR2ZlNWNsZzhhS3JLTVRjXzJBWUVtM2V2YjBsUjR4aDhNNElxQzFjTlJWYkVVQmNnLVBRNHduUkNiSWVBaXZHOEN2alVPV18?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "VACCO delivers additively manufactured valve for U.S. Navy submarine fleet" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/vacco-delivers-additively-manufactured-valve-for-u-s-navy-submarine-fleet | Full coverage: https://www.quality3ds.com/
+Today's standout topic: "California’s push to ban technology used for ‘ghost guns’ finds unlikely foe in Hollywood - Los Angeles Times" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ2N0UHdOdXFVWlh5SWtUNENpV3J3MDRwZTdOOWZnM0pEVkhrbGMybGhldU1YUzdTejE0aEFXamhuOGhocGtsTm5oM0RnYll5aGxob1JHTmtFcVJaSkNQRWtCMjBTLXlBVW1Rdm5kTzNGazJ1NzFiZGVqRWc1M2VINVM2RndwakZ3cGtwSFFyVFBqSFhqVkQ0MGVkYVJQM1BuNnpHR2hGMFI?oc=5 | Explore more: https://www.quality3ds.com/
