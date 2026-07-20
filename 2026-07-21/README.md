@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-21
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #195 - 2026-07-21
+## Stories
 
 🔥 Lawmakers want to ban 3-D-printed guns. Hollywood, teachers and tech fight back - Los Angeles Times
 Lawmakers want to ban 3-D-printed guns.
@@ -49,9 +47,3 @@ The Advanced Design and 3D Printing Unit (UTADI 3D) at Hospital Universitario 12
 Reported by VoxelMatters on Jul 20, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Madrid-hospital-3D-printers-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/madrid-hospital-3d-printing-unit-becomes-first-in-spain-with-dual-manufacturing-license
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
