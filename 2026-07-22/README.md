@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-22
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #196 - 2026-07-22
+## Stories
 
 📷 A 3D scanner for electromagnetic fields - Technology Org
 A 3D scanner for electromagnetic fields Technology Org
@@ -48,9 +46,3 @@ Designer Laura Civetti, who works at the intersection of computational design, d
 Described as a “data-driven clothing research methodology”, the project takes a more holistic approach to garment design, not only taking into account fit and look, … The post Adaptive System: Laura Civetti designs, reported by VoxelMatters on Jul 21, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Image_02-150x150.jpg
 Read more ? https://www.voxelmatters.com/adaptive-system-laura-civetti-designs-3d-printed-fashion-inspired-by-skin
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

@@ -1,51 +1,50 @@
-﻿# 3D PRINTING PULSE #195 - 2026-07-21
+﻿# 3D PRINTING PULSE #196 - 2026-07-22
 
-🔥 Lawmakers want to ban 3-D-printed guns. Hollywood, teachers and tech fight back - Los Angeles Times
-Lawmakers want to ban 3-D-printed guns.
-Hollywood, teachers and tech fight back Los Angeles Times, reported by Google News - 3D Printing on Jul 19, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMickFVX3lxTFBmaVpKSUJ4UjNWOWJmcXl4LUdkTkRjUEoycHFSUFlIa0xTNzlJRnhORC1aVXlCNmRqZ0ZjTGE1X2NVZURNYmlkVklhUUJING81SURlWmkyV2xSZUxqZXJBSi1yRC11RzU5WVZ5QmNpWkZ6dw?oc=5
+📷 A 3D scanner for electromagnetic fields - Technology Org
+A 3D scanner for electromagnetic fields Technology Org
+Reported by Google News - 3D Scanners on Jul 21, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVNWWHM1Y3o2YlIwOHR6Z0d4U1d0bnpmRXJWalNfcTFLZUZPSjBJMmQtUGFiRmNPUi1iVmNVV1RsbGtPVm1CVmh4bXVaTmlQTVhnSURGSlB2S3V5d2QybGY3U01jQmNLY3RxM2wtblR5bUU5SjMxTFhPSlhTN3RaR0c5ZkQ?oc=5
 
-📷 Railway manufacturers turn to non-contact 3D scanning for faster quality inspection
-Railway manufacturers producing high-speed trains, metro vehicles and freight rolling stock are increasingly turning to high-precision 3D scanning to inspect components, replacing manual and contact-based measurement...
-Reported by VoxelMatters on Jul 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/SHINING-3D-railway-manufacturer-scanning-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/railway-manufacturers-turn-to-non-contact-3d-scanning-for-faster-quality-inspection
+💻 Meshy raises $400 million Series B at $1.5 billion valuation
+Meshy, a startup developing generative artificial intelligence for 3D modeling, raised $400 million in a Series B round at a $1.5 billion valuation.
+IDG Capital, Matrix Partners China, and Monolith Management led the round, joined by existing shareholders Granite Asia, HongShan, BAI Capital, and Source Code Capital, who oversubscribed their allocations, reported by VoxelMatters on Jul 21, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/meshy-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/meshy-raises-400-million-series-b-at-1-5-billion-valuation
 
-💻 VFX companies push back against California’s 3D printed firearm bill
-As lawmakers across the globe wrestle with how to manage the rise in illegal 3D printed firearms (aka ghost guns), the state of California is taking one of the strictest … The post VFX companies push back against...
-Reported by VoxelMatters on Jul 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/ghost-gun-2-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/vfx-companies-push-back-against-californias-3d-printed-firearm-bill
+♻️ Boone County Public Library Foundation receives $5,000 grant for 3D printing recycling project - LINK nky
+Boone County Public Library Foundation receives $5,000 grant for 3D printing recycling project LINK nky
+Reported by Google News - 3D Printing on Jul 21, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlJWR2xVYy1rT1BxN1FKcmdaYUFQLThPbnFqc0RYZTZrUUw4WDRTckM1RU5IQ1NDbVFWNHp5MGxTVU53RFVpRXNTSldkZ25Ya3h1ZmNMOW44eGp0SFlYLThfaVl5bzN5NnBwdDBMalZFLWJRMGF1RTN4NVVJN2FHcVp1SDdQZGRQYXZsSUVyU0R6bUlnTFM0eXJldF9iZ1E0M3c?oc=5
 
-🖨 #251 'How can I trust it faster?' Additive Assurance CCO David Menzies on enabling confidence in AM
-David Menzies details the core capabilities of AMiRIS, Additive Assurance's partnership with Nikon SLM solutions, and how the company hopes to keep pace with metal AM hardware providers as they scale their technology.
-Reported by TCT Magazine on Jul 20, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Additive-Insight-Re-Design--26--1.png
-🔗 Read more: https://www.tctmagazine.com/podcasts/251-how-can-i-trust-it-faster-additive-assurance-cco-david-menzies-on-enabling-confidence-in-am-2
+💻 Anduril and Archer unveil autonomous VTOL platform built for defense and commercial use
+Anduril Industries and Archer Aviation (NYSE: ACHR) unveiled a jointly developed autonomous VTOL aircraft platform at Farnborough on July 20, 2026, designed to serve both defense and commercial missions from a single...
+Anduril showed the defense variant, named Thunder, a Group 5 autonomous attack rotorcraft built to add combat power alongside current and … The post Anduril and Archer unveil autonomous VTOL platform built for, reported by VoxelMatters on Jul 21, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Halo-Commercial-Variant-Front-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/anduril-and-archer-unveil-autonomous-vtol-platform-built-for-defense-and-commercial-use
 
-🖨 The State of the Desktop Filament Market 2026, Part 1: Facehugging AI
-As many as ten million desktop 3D printers may be sold this year.
-This makes the desktop filament market potentially a significant business, reported by 3DPrint.com on Jul 20, 2026.
-🔗 Read more: https://3dprint.com/328704/the-state-of-the-desktop-filament-market-2026-part-1-facehugging-ai
+💻 BMW Group pushes 3D printing toward full industrial series production
+The BMW Group is turning additive manufacturing from a prototyping tool into a standing pillar of its industrial production, with the first vehicle components made by Wire Arc Additive Manufacturing (WAAM) scheduled...
+The push is being run out of the company’s Additive Manufacturing Campus (AMC) in Oberschleissheim, north of…, reported by 3D Printing Industry on Jul 21, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/additive-manufacturing-1280x720-v5-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/bmw-group-pushes-3d-printing-toward-full-industrial-series-production-253175
 
-📰 Queen’s University researchers open-source a $100 3D printed flow battery cell
-A postdoctoral researcher at Queen’s University Belfast has developed a 3D printed flow battery cell that costs roughly £74 ($100) to build, after finding that a commercial version for his … The post Queen’s...
-Reported by VoxelMatters on Jul 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Queens-University-Belfast-3D-printed-battery-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/queens-university-researchers-open-source-a-100-3d-printed-flow-battery-cell
+🖨 3DPOD 307: Wire Arc AM with Peter Richards, Deep Manufacturing
+Peter Richards is the CEO of Deep Manufacturing, a supremely ambitious company deploying DED to build underwater habitats.
+Additionally, the company makes pressure vessels and large certified metal structures for, reported by 3DPrint.com on Jul 21, 2026.
+🔗 Read more: https://3dprint.com/327876/3dpod-307-wire-arc-am-with-peter-richards-deep-manufacturing
 
-🚀 Skyroot’s Vikram-1 reaches orbit with 3D printed rocket engines
-Skyroot Aerospace’s Vikram-1 rocket lifted off from the Indian Space Research Organization’s Satish Dhawan Space Center in Sriharikota on July 18, 2026, reaching a 450-kilometer low Earth orbit in a … The post...
-Reported by VoxelMatters on Jul 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/1784193745250-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/skyroots-vikram-1-reaches-orbit-with-3d-printed-rocket-engines
+📰 Lithoz reports 40% ceramic material revenue growth for first half of 2026
+Ceramic AM pioneer Lithoz has reported a 40% year-over-year increase in revenue from its ceramic materials for lithography-based ceramic manufacturing (LCM) printing at the end of the second quarter of 2026.
+The increase has prompted an upward revision to Lithoz’s full-year outlook, and the company has attributed the growth to rising demand from contract manufacturers … The post Lithoz reports 40% ceramic material, reported by VoxelMatters on Jul 21, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Lithoz-2026-growth-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lithoz-reports-40-ceramic-material-revenue-growth-for-first-half-of-2026
 
-🦺 Madrid hospital 3D printing unit becomes first in Spain with dual manufacturing license
-The Advanced Design and 3D Printing Unit (UTADI 3D) at Hospital Universitario 12 de Octubre in Madrid has expanded its manufacturing license and secured certification under the UNE-EN ISO 13485:2018 … The post Madrid...
-Reported by VoxelMatters on Jul 20, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Madrid-hospital-3D-printers-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/madrid-hospital-3d-printing-unit-becomes-first-in-spain-with-dual-manufacturing-license
+📰 Adaptive System: Laura Civetti designs 3D printed fashion inspired by skin
+Designer Laura Civetti, who works at the intersection of computational design, digital fabrication, and fashion, is exploring the dynamism of the body and skin in her latest project Adaptive System.
+Described as a “data-driven clothing research methodology”, the project takes a more holistic approach to garment design, not only taking into account fit and look, … The post Adaptive System: Laura Civetti designs, reported by VoxelMatters on Jul 21, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Image_02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/adaptive-system-laura-civetti-designs-3d-printed-fashion-inspired-by-skin
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Lawmakers want to ban 3-D-printed guns. Hollywood, teachers and tech fight back - Los Angeles Times" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMickFVX3lxTFBmaVpKSUJ4UjNWOWJmcXl4LUdkTkRjUEoycHFSUFlIa0xTNzlJRnhORC1aVXlCNmRqZ0ZjTGE1X2NVZURNYmlkVklhUUJING81SURlWmkyV2xSZUxqZXJBSi1yRC11RzU5WVZ5QmNpWkZ6dw?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Boone County Public Library Foundation receives $5,000 grant for 3D printing recycling project - LINK nky" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Story link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQTlJWR2xVYy1rT1BxN1FKcmdaYUFQLThPbnFqc0RYZTZrUUw4WDRTckM1RU5IQ1NDbVFWNHp5MGxTVU53RFVpRXNTSldkZ25Ya3h1ZmNMOW44eGp0SFlYLThfaVl5bzN5NnBwdDBMalZFLWJRMGF1RTN4NVVJN2FHcVp1SDdQZGRQYXZsSUVyU0R6bUlnTFM0eXJldF9iZ1E0M3c?oc=5 | Full pulse: https://www.quality3ds.com/
