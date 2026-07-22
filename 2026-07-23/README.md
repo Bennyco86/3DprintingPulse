@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-23
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #197 - 2026-07-23
+## Stories
 
 🚨 Creality Pika pocket 3D scanner with up to 0.03mm accuracy, marker-free scanning launched - Notebookcheck
 Creality Pika pocket 3D scanner with up to 0.03mm accuracy, marker-free scanning launched Notebookcheck
@@ -49,9 +47,3 @@ Read more ? https://3dprintingindustry.com/news/gravity-pull-systems-updates-paa
 Reported by TCT Magazine on Jul 22, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/DragonFly-IV-Inside-View-1.webp
 Read more ? https://www.tctmagazine.com/nano-dimension-appoints-interim-ceo
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
