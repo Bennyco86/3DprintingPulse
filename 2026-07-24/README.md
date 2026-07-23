@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-24
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #198 - 2026-07-24
+## Stories
 
 🔥 Small temperature shifts, big quality gains: Manchester maps the defect physics of molten metal deposition
 A few degrees at the nozzle can decide whether a 3D printed aluminum part comes out sound or riddled with pores.
@@ -49,9 +47,3 @@ A Weibo post from tipster Fixed Focus Digital claims Apple has not finalized the
 The company is reportedly weighing liquid metal against 3D printing, with a decision expected by the end of July, reported by 3D Printing Industry on Jul 23, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2025/11/ezgif-4dcf108d08fc53f0-150x100.gif
 Read more ? https://3dprintingindustry.com/news/new-leak-on-iphone-ultra-hinge-exposes-key-contradictions-253246
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

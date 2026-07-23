@@ -1,51 +1,51 @@
-﻿# 3D PRINTING PULSE #197 - 2026-07-23
+﻿# 3D PRINTING PULSE #198 - 2026-07-24
 
-🚨 Creality Pika pocket 3D scanner with up to 0.03mm accuracy, marker-free scanning launched - Notebookcheck
-Creality Pika pocket 3D scanner with up to 0.03mm accuracy, marker-free scanning launched Notebookcheck
-Reported by Google News - 3D Printing on Jul 22, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2ZWUWljbmtzVHVldk83b2h6WXNJME9wYnllQ1Z4aTZOTjVsX2lrMzJhcGo0dDlUZWtzZWtsVTBWc3lkVWhla2dhTzd5Wmh3VW5aak9fd0R5ckt4NUR2RWcwSEMzb1Bqenp0LUo4M1NZVjZiODRaaG1yTExNNlNXaVY3M0hUbmdHN3dkUVhGSmd5c3ZBQjJ0RU1jUk1lZlBBeW5wYzdwRHItU3NPZTFNbzBlMlA0SGMxeWpVby1GWS0tOTdmVTFxWWdpamYyUQ?oc=5
+🔥 Small temperature shifts, big quality gains: Manchester maps the defect physics of molten metal deposition
+A few degrees at the nozzle can decide whether a 3D printed aluminum part comes out sound or riddled with pores.
+That is the central finding of a new study from The University of Manchester, published in Materials &amp; Design, which pins down how the thermal conditions of molten metal deposition (MMD) govern defects and…, reported by 3D Printing Industry on Jul 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/1920_newinsightscouldhelpimprovequalityof3d-printedaluminiumcomponents-cropf-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/small-temperature-shifts-big-quality-gains-manchester-maps-the-defect-physics-of-molten-metal-deposition-253230
 
-📷 Creality Pika Pocket-Sized AI 3D Scanner Goes on Sale at $699 - TechPowerUp
-Creality Pika Pocket-Sized AI 3D Scanner Goes on Sale at $699 TechPowerUp
-Reported by Google News - 3D Printing on Jul 22, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMioAFBVV95cUxNbk15TFFfRDFJZTI3cXBOYUpacHRCbnhjSFJyY2NadjVwRW9qX09ZaFE4NGpTMi1XTEprT09ZV21Ib1hKdnIwRG5aSkptblB5OW5FRHkzSlBLTWNrSGhfQ0NUaWJ6dkwyY2Jtc3RsY2pZQ1l6SzBFY0xRdlFjbkY3Qjd6OU5zTTF5OW5wbl9RQ1o0ekEwWGdycXhUdDNBNEh30gGmAUFVX3lxTE5PYmZIckJIU0JwUl9fQV9qMkdqRkpjS09kNjAtNG9JV0txR2Nnblc3VU14QkxmMHd0a0VRLXE2THVKSnM0MVBpZEtRMjNuREtIQjUxbUF6QkctZk91STlONWhGbURXaE1KQUhjV0lpLTR0QVJ6aE1TSm84RTg0dGN5Mmx4MlliTnZpQTUzTUJqUi1Md05YZkdMVWNWYWhBU1g5QzhEZ1E?oc=5
+🚨 Prusament PA11 Natural: The perfect choice for printing gears and moving parts
+Back in 2022, when we launched PA11 Carbon Fiber, we didn’t have any enclosed 3D printers with heating strong enough to support materials like pure polyamides.
+Sure, small parts were printable, but the failure rate was high, reported by Prusa Blog on Jul 23, 2026.
+🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/07/82b10102-prusament_pa11-natural_blog-698x325.jpg
+🔗 Read more: https://blog.prusa3d.com/prusament-pa11-natural-material-with-extreme-mechanical-and-chemical-resistance_137458
 
-💻 Beehive Industries announces $70 million expansion
-"This expansion allows us to pair our advanced additive manufacturing technology with the deep technical expertise found there."
-Reported by TCT Magazine on Jul 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Beehive-Ohio-news.jpg
-🔗 Read more: https://www.tctmagazine.com/beehive-industries-announces-70-million-expansion
+🚨 Creality unveils Pika handheld 3D scanner with AI-powered scanning and 0.03mm accuracy - Digital Reviews Network
+Creality unveils Pika handheld 3D scanner with AI-powered scanning and 0.03mm accuracy Digital Reviews Network
+Reported by Google News - 3D Scanners on Jul 22, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxOdENUekFTLWNibUozU3ZiZ0pxSENBRUhCamxSOUhQYi10NkYyb0lCTGNFamNpVzRmcmwwUGdIb0hHcmxtZ3pjeEtjZFFGQjA2d05TQmg0TE5xWTRQVzAzdTF3Z19VZ0ZIVDgySHZNMHFIdHBNTkN0NkphenFNYVFhd3dtMENXc0tJX19MbWFNSXduaW1LUEtObndUNzRhNjQ?oc=5
 
-🖨 Sinterit to sell DyeMansion post-processing systems alongside BIANCO2 SLS 3D printer
-Sinterit is now selling DyeMansion’s VX1 vapour smoothing system, as well other DyeMansion products like the DM60 colouring system, as part of its BIANCO2 offering.BIANCO2 is Sinterit’s latest powder bed fusion 3D...
-Reported by TCT Magazine on Jul 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/DyeMansion_VX1_22.jpg
-🔗 Read more: https://www.tctmagazine.com/sinterit-to-sell-dyemansion-post-processing-systems-alongside-bianco2-sls-3d-printer
+📷 Save 10% on the brand-new Creality Pika 3D scanner — easily scan models and textures for $629 - Tom's Hardware
+Save 10% on the brand-new Creality Pika 3D scanner — easily scan models and textures for $629 Tom's Hardware
+Reported by Google News - 3D Printing on Jul 23, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWGJhdWlybWVQdjlIUzI4Y3hVbzdham9aa0VrWkdtdlBZd0RBMEZZcVVjSzRfTEs1MlZkTUR0ZHNxQ0trV19CaTVERjVxRnJQdFppeEZ6dXF2SjdkdGdDeExJa19WdnAtdlN1Y2pOdkhQZmRMN2dtTktqVUxDb1I4anFYcGJjdFBrOHZFSE9iUXlKUEU5S2ZESzc3bGFMT1VOcTllRWFGbHdweGJmay1iQ0k3Zm1ZQjBvME5SZ08yb1ZHS2JLZlFMdUJTYVNLWEJxdjNWWnoyMXBYZHFVdjhVVHd6aw?oc=5
 
-🖨 USS Theodore Roosevelt deploys ADDiTEC HYBRiD-X system in Exercise Rim of the Pacific 2026
-It represents the first time a containerised manufacturing platform able to produce and repair critical metal components has been deployed aboard a US Navy aircraft carrier.
-Reported by TCT Magazine on Jul 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/260617-N-UA586-1056-1.png
-🔗 Read more: https://www.tctmagazine.com/uss-theodore-roosevelt-deploys-additec-hybrid-x-system-in-exercise-rim-of-the-pacific-2026
+💻 Tekna’s titanium powder orders from a U.S. defense customer rise sixfold
+Tekna has received a further titanium powder order from a U.S.
+contract manufacturer that supplies precision components to defense OEMs, which takes the customer’s combined 2026 order value above CAD $3 million, reported by VoxelMatters on Jul 23, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Tekna-US-defense-orders-2026-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/teknas-titanium-powder-orders-from-a-u-s-defense-customer-rise-sixfold
 
-🖨 CONTEXT: Industrial Growth and Entry-Level Boom Reshape AM Market
-Market intelligence firm CONTEXT has published its Q1 2026 analysis of global 3D printer shipments, and the numbers point to an industry growing fast but unevenly.
-Total hardware system revenues rose 32% Y/Y, industrial shipments climbed 18% across all major regions, and the sub-$2,500 desktop category now generates more revenue than every other price class…, reported by 3D Printing Industry on Jul 22, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/Chart2-Quarterly-Global-Industrial-3D-Printer-System-Unit-Shipments-and-Growth-by-Region-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/context-industrial-growth-and-entry-level-boom-reshape-am-market-253208
+🖨 HeyGears Unveils its G1 Series on Kickstarter Starting at $1,999
+If you’ve ever tried to produce a full-color figurine or a one-off branded product on a desktop 3D printer, you already know the routine.
+You print in a single color, then spend hours hand-painting, curing, sealing, and hoping the finish doesn’t look like a craft project, reported by 3D Printing Industry on Jul 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/img_v3_0213s_68e24336-e953-4d2b-aa44-09b71df4163g-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/heygears-unveils-its-g1-series-on-kickstarter-starting-at-1999-253289
 
-🖨 Gravity Pull Systems Updates PAAM Software
-Additive manufacturing (AM) software provider Gravity Pull Systems has released an updated version of its Personal AM Assistant (PAAM) software, built to automate toolpath optimization for metal laser powder bed...
-According to the company, the tool is intended to help AM users detect, measure, and reduce risks tied to toolpath behavior before…, reported by 3D Printing Industry on Jul 22, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2021/01/Screenshot-261-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/gravity-pull-systems-updates-paam-software-253242
+🖨 Sinterit and DyeMansion partner on compact SLS post-processing workflow
+Sinterit, a Polish manufacturer of selective laser sintering systems, has partnered with polymer post-processing specialist DyeMansion to offer an integrated printing, vapor smoothing and coloring workflow for...
+Under the agreement, Sinterit will sell DyeMansion’s VX1 vapor smoothing system directly to its customers, reported by 3D Printing Industry on Jul 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/image-19-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/sinterit-and-dyemansion-partner-on-compact-sls-post-processing-workflow-253279
 
-💻 Nano Dimension appoints interim CEO
-"Throughout this process, we remain committed to serving our customers, partners, employees, and shareholders."
-Reported by TCT Magazine on Jul 22, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/DragonFly-IV-Inside-View-1.webp
-🔗 Read more: https://www.tctmagazine.com/nano-dimension-appoints-interim-ceo
+🔥 New Leak on iPhone Ultra Hinge Exposes Key Contradictions
+A Weibo post from tipster Fixed Focus Digital claims Apple has not finalized the hinge manufacturing technology for its first foldable iPhone, widely expected to be called the iPhone Ultra.
+The company is reportedly weighing liquid metal against 3D printing, with a decision expected by the end of July, reported by 3D Printing Industry on Jul 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/11/ezgif-4dcf108d08fc53f0-150x100.gif
+🔗 Read more: https://3dprintingindustry.com/news/new-leak-on-iphone-ultra-hinge-exposes-key-contradictions-253246
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Creality Pika pocket 3D scanner with up to 0.03mm accuracy, marker-free scanning launched - Notebookcheck" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2ZWUWljbmtzVHVldk83b2h6WXNJME9wYnllQ1Z4aTZOTjVsX2lrMzJhcGo0dDlUZWtzZWtsVTBWc3lkVWhla2dhTzd5Wmh3VW5aak9fd0R5ckt4NUR2RWcwSEMzb1Bqenp0LUo4M1NZVjZiODRaaG1yTExNNlNXaVY3M0hUbmdHN3dkUVhGSmd5c3ZBQjJ0RU1jUk1lZlBBeW5wYzdwRHItU3NPZTFNbzBlMlA0SGMxeWpVby1GWS0tOTdmVTFxWWdpamYyUQ?oc=5 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Creality unveils Pika handheld 3D scanner with AI-powered scanning and 0.03mm accuracy - Digital Reviews Network" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMinwFBVV95cUxOdENUekFTLWNibUozU3ZiZ0pxSENBRUhCamxSOUhQYi10NkYyb0lCTGNFamNpVzRmcmwwUGdIb0hHcmxtZ3pjeEtjZFFGQjA2d05TQmg0TE5xWTRQVzAzdTF3Z19VZ0ZIVDgySHZNMHFIdHBNTkN0NkphenFNYVFhd3dtMENXc0tJX19MbWFNSXduaW1LUEtObndUNzRhNjQ?oc=5 | Full pulse: https://www.quality3ds.com/
