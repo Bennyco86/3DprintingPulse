@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-25
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #199 - 2026-07-25
+## Stories
 
 💻 3D printed chair by Nagami and ZHA inspired by echoes
 If someone were to ask you to envision an echo physically, what would you imagine?
@@ -48,9 +46,3 @@ HT-PLA Pro has been developed to address the ‘key limitations of conventional 
 Reported by TCT Magazine on Jul 24, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Untitled-design--48-.png
 Read more ? https://www.tctmagazine.com/polymaker-launches-ht-pla-pro-3d-printing-filament
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
