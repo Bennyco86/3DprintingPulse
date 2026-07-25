@@ -2,52 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #199 - 2026-07-25
+### 3D PRINTING PULSE #200 - 2026-07-26
 
-💻 3D printed chair by Nagami and ZHA inspired by echoes
-If someone were to ask you to envision an echo physically, what would you imagine?
-An echo can be described as a reflection of sound, so what would that come to look like in a geometry, reported by VoxelMatters on Jul 24, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Echo_Chair_-_ZHA_X_Nagami_-_White_-_006_-_photo_in_environment_-_WEB-150x150.jpeg
-Read more ? https://www.voxelmatters.com/3d-printed-chair-by-nagami-and-zha-inspired-by-echoes
+🚨 ELEGOO launches H1 HT Filament Dryer With 85°C drying
+ELEGOO, a growing consumer 3D printer hardware company based in Shenzhen, China, launched its first filament dryer, the H1 HT, on July 24, 2026.
+The device dries filament at temperatures up to 85°C and was built for open compatibility with FDM 3D printers across brands, reported by VoxelMatters on Jul 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Key-Visual-scaled-e1785007252803-150x150.jpg
+Read more ? https://www.voxelmatters.com/elegoo-launches-h1-ht-filament-dryer-with-85c-drying
 
-♻️ Unique Speaker Art: Gary the Snail from SpongeBob Transformed with 3D Printing and Recycled Tech - freeyork
-Unique Speaker Art: Gary the Snail from SpongeBob Transformed with 3D Printing and Recycled Tech freeyork
-Reported by Google News - 3D Printing on Jul 24, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiakFVX3lxTFB0RWM1WTRyc1B0VWtxUDVwejhNaVVTdU13VXpwWWZoaC1paURuVjdNaEhLdFhGRmtnSTBzeXJqalR5MWJpa2U0dzF6Mm5LSnJicHVUQWJ3VUx4RVVMcDZQaXR1QlVNUENia2c?oc=5
+💻 Lutheran Services turns to 3D printing for low-cost aged care aids - VoxelMatters
+Lutheran Services turns to 3D printing for low-cost aged care aids VoxelMatters
+Reported by Google News - 3D Printing on Jul 25, 2026.
+Read more ? https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGpIQjRDTktXQlIzRVVUN0U5NW9aX3RnTFg5STBlZlNvai04SDREZ1VMRWdmV184eEYtNFNQOTNCTWt6M1I1cnNIVWR1bUV2VGtFOWdFUjFSNVFzWEU4dFVWRFhfUnhkZVhxZVp2TGN5dHVzOXJLMVBOYmRZWnU2TndRQllqM3Rsa05ldUZUOWI1Ulk5YldnUnBBTjPSAaIBQVVfeXFMUGVrWGpVUmJ2YjZWSDJROTZ2X01hNlE1NVFYZmdsb1QtN0VpMzBWWWg5RFFfb0pOTk9MY2YzOHFGMzVTUnBzNi1qb1RJNlB1VzhCbUNnMmx6NllmczBPM1VQWkJoR2pTRFNOS2o3WGJpUTYwYnBHMUpBUk5DSHdwc2F5M3Y2QlBtaG01RlJzLVlnWWVTRHlmd3lpU3RMZ3dxSTl3?oc=5
 
-💻 Meshy raises nearly $400M at $1.5B valuation in largest AI 3D round to date
-A generative AI platform focused on 3D content Meshy has closed a Series B of nearly $400 million at a $1.5 billion valuation, labeled as the largest round raised by a company built specifically for AI 3D generation...
-The round drew participation from every existing investor alongside new…, reported by 3D Printing Industry on Jul 24, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/20260717012711EDT_image_1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/meshy-raises-nearly-400m-at-1-5b-valuation-in-largest-ai-3d-round-to-date-253294
+🦺 Aspect Biosystems expanding cellular medicine work with $79 million government funding
+Vancouver-based Aspect Biosystems has received a $79 million investment from the Government of Canada, supporting a $280 million multi-year project to advance its pipeline of bioengineered cellular medicines.
+The funding is being dedicated to the company’s clinical development work and strengthening of its biomanufacturing capabilities, and builds on a $200 million co-investment with the federal … The post Aspect, reported by VoxelMatters on Jul 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Aspect-Biosystems-Canadian-Government-Funding-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/aspect-biosystems-expanding-cellular-medicine-work-with-79-million-government-funding
 
-🖨 R3 Printing Bets on American-Made Industrial FFF 3D Printers
-For years, co-founders Paul Sieradzki and Petra Wood ran a 3D printing service bureau in New York.
-As they worked day to day with the printers, they experienced firsthand the, reported by 3DPrint.com on Jul 24, 2026.
-Read more ? https://3dprint.com/328270/r3-printing-bets-on-american-made-industrial-3d-printers
+🚀 Beehive Industries is building the additive-first engine factory the US needs for defense
+When Beehive Industries was founded in 2020, the United States had a propulsion challenge.
+The country’s small turbine engine supply chain ran almost entirely through investment casting and forging operations with 18-month lead times, concentrated manufacturing capacity, and virtually no ability to surge, reported by VoxelMatters on Jul 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/04/Beehive-USAF-contract-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/beehive-industries-is-building-the-additive-first-engine-factory-the-us-needs-for-defense
 
-🖨 Beyond Thermoplastics: Why JuggerBot Is Betting on Hybrid AM
-For years, thermoplastics have been the workhorse of additive manufacturing (AM).
-They are pretty easy to process, available, and compatible with many of today’s industrial 3D printers, reported by 3DPrint.com on Jul 24, 2026.
-Read more ? https://3dprint.com/327510/beyond-thermoplastics-why-juggerbot-is-betting-on-hybrid-am
-
-🖨 New Method Accelerates Color 3D Printing
-Multi-color 3D printing is notorious for being difficult to get right.
-Even with modern printers, you often end up much using more filament (and tool changes) than you would for …read more, reported by Hackaday 3D Printing on Jul 24, 2026.
-Image ? https://hackaday.com/wp-content/uploads/2026/07/megacolor.jpg
-Read more ? https://hackaday.com/2026/07/23/new-method-accelerates-color-3d-printing
-
-🖨 Flame Retardant Plastic Materials for Additive Manufacturing
-In critical applications, fire safety is non-negotiable—and 3D printing is rising to the challenge.
-In recent years, we’ve seen a surge in fire- and flame-retardant materials tailored for additive manufacturing, available as filaments, resins and powders, reported by 3D Natives on Jul 23, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2025/08/cover_materialiritardantifiamma.jpg
-Read more ? https://www.3dnatives.com/en/flame-retardant-plastics-for-additive-manufacturing-060820255
-
-🚀 Polymaker launches HT-PLA Pro 3D printing filament
-HT-PLA Pro has been developed to address the ‘key limitations of conventional high-temperature PLA,’ such as brittleness and lower layer adhesion.
+📰 Application spotlight: Threaded net standoff fasteners for water surface cleaning robots
+Sculpteo deploys MJF technology to produce water surface cleaning robot components.
 Reported by TCT Magazine on Jul 24, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Untitled-design--48-.png
-Read more ? https://www.tctmagazine.com/polymaker-launches-ht-pla-pro-3d-printing-filament
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Iadys-Oil-Skimmer-Back-View-1--1--1-1.png
+Read more ? https://www.tctmagazine.com/application-spotlight-threaded-net-standoff-fasteners-for-water-surface-cleaning-robots
+
+🚀 Additive Assurance takes metal 3D printing quality assurance to Japan
+Additive Assurance has has signed a distribution agreement with NTT DATA XAM Technologies Corp.
+(XAM) to launch its real-time quality assurance solution, AMiRIS, in the Japanese market, reported by TCT Magazine on Jul 24, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/AIMFG2.jpg
+Read more ? https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan
+
+🚀 Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform
+Lyten and Modovolo have entered a partnership naming Lyten’s PA1205 filament the primary material for Modovolo’s BFP, a modular 3D printing platform for aerospace, motorsports and industrial parts.
+The companies, based in San Jose, California, and Syracuse, New York, respectively, are positioning the deal as a step toward a domestically sourced and manufactured additive manufacturing … The post Lyten to supply, reported by VoxelMatters on Jul 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Lyten-Modovolo-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/lyten-to-supply-3d-graphene-filament-for-modovolos-bfp-printing-platform
+
+🖨 Delaware’s Printed Solid rebrands to Prusa USA - Tom's Hardware
+Delaware’s Printed Solid rebrands to Prusa USA Tom's Hardware
+Reported by Google News - 3D Printing on Jul 25, 2026.
+Read more ? https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2Z4cjF0NXg1V09iQzBrVkZsUGRiRW14S2xlOHhVQ2xiZzlxZVo1dnpYNThXODBOUGtiMHhOcFVxOEpSRWYtRnpoOUZ6eXB3XzVyVElnQTVfWTdsNTBYam9fekJMaTJLQWxNMjI2UFVmcHBWU3JwVWxXYWljWW0yMGRYNUcwQnd3NEZOVHpwVQ?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
