@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-27
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #201 - 2026-07-27
+## Stories
 
 🔥 US prodigy Cavan Sullivan becomes first to wear custom 3D-printed Adidas boots, honours Bangladeshi roots - The Business Standard
 US prodigy Cavan Sullivan becomes first to wear custom 3D-printed Adidas boots, honours Bangladeshi roots The Business Standard
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzBqLUwzVExxdHd
 What Can You Make With a 3D Printer?
 20 Creative Ideas Breaking AC News, reported by Google News - 3D Printing on Jul 25, 2026.
 Read more ? https://news.google.com/rss/articles/CBMisgFBVV95cUxQazRONHRoLVZaMzZHTEExeDY4ZkRwT0t0M2M2OXV0TjNtbWt2blREVG5IaHB6ZzNJTTFUZzJRM0ZqSDRSMmFIaXlCNmNHMXJ1VXdSWjFPUmhmdUpVc1JGQUJtM3RldGx0cUlkejZNQXMzcWlSeVNzeEIxWURGbjR6RkJUUERfdXphdHRmanpLVVUwZllGTGJLYnB2OTdFd2tQcG9PZVM4ckpwcEtBaGpURDR3?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

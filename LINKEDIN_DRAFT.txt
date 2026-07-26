@@ -1,51 +1,47 @@
-﻿# 3D PRINTING PULSE #200 - 2026-07-26
+﻿# 3D PRINTING PULSE #201 - 2026-07-27
 
-🚨 ELEGOO launches H1 HT Filament Dryer With 85°C drying
-ELEGOO, a growing consumer 3D printer hardware company based in Shenzhen, China, launched its first filament dryer, the H1 HT, on July 24, 2026.
-The device dries filament at temperatures up to 85°C and was built for open compatibility with FDM 3D printers across brands, reported by VoxelMatters on Jul 25, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Key-Visual-scaled-e1785007252803-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/elegoo-launches-h1-ht-filament-dryer-with-85c-drying
+🔥 US prodigy Cavan Sullivan becomes first to wear custom 3D-printed Adidas boots, honours Bangladeshi roots - The Business Standard
+US prodigy Cavan Sullivan becomes first to wear custom 3D-printed Adidas boots, honours Bangladeshi roots The Business Standard
+Reported by Google News - 3D Printing on Jul 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGRyOVRjdzhoTkRiYkZSTEM2ZThBZE1wMXJuNi05SUNrdVZvdkQ4V0t4M3NqSmNlTm5BSkZDdjdQUFMzdkh5ZjJlckdGOVB4VU1RU2h4cllHLUlWWDAwSTJSemJFVV93TU9oU0tBMkFSOW9YdkFUVDhFMWRUWkRfamJEa1JkUDVvUUFIekNkeUJRSTJLbWx4Z2lCLWY2M2JxVTJ6ZjdmQkxZZGUyMnN0WkZCRUdOdDJHbTRLVE04WmbSAcYBQVVfeXFMTWhYSTFtaHlrc25IRjF3TTR0bGdyQ0E3MUpYbUR3UzdRTkg1QnhEMjRXeGNXV2RnVzlwTHhYSks2RTFIZ0hiYTZycG42MTd3bW9vRXhOZmhtVVRpT3hqdTdpRloyRlN4Q1YzcEJRS19sZFFGRFNoaXBMUWVXNUNkNUZ2NDA5WVpaVTR1WEhWVGdqNnhhUzBlZlQ1ZVZTYWRLZUMyNVI4cXFFc1pycVczSlF1eUN2N3Q1MWw5a005MkNqYWhydm9B?oc=5
 
-💻 Lutheran Services turns to 3D printing for low-cost aged care aids - VoxelMatters
-Lutheran Services turns to 3D printing for low-cost aged care aids VoxelMatters
-Reported by Google News - 3D Printing on Jul 25, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGpIQjRDTktXQlIzRVVUN0U5NW9aX3RnTFg5STBlZlNvai04SDREZ1VMRWdmV184eEYtNFNQOTNCTWt6M1I1cnNIVWR1bUV2VGtFOWdFUjFSNVFzWEU4dFVWRFhfUnhkZVhxZVp2TGN5dHVzOXJLMVBOYmRZWnU2TndRQllqM3Rsa05ldUZUOWI1Ulk5YldnUnBBTjPSAaIBQVVfeXFMUGVrWGpVUmJ2YjZWSDJROTZ2X01hNlE1NVFYZmdsb1QtN0VpMzBWWWg5RFFfb0pOTk9MY2YzOHFGMzVTUnBzNi1qb1RJNlB1VzhCbUNnMmx6NllmczBPM1VQWkJoR2pTRFNOS2o3WGJpUTYwYnBHMUpBUk5DSHdwc2F5M3Y2QlBtaG01RlJzLVlnWWVTRHlmd3lpU3RMZ3dxSTl3?oc=5
+📷 Marker-Free Wireless Scanners - Trend Hunter
+Marker-Free Wireless Scanners Trend Hunter
+Reported by Google News - 3D Scanners on Jul 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZanFSa2ExSVpUd3FsVlNRUDduX0d3UFhHWUhsMXVILThUTkFDclM2ZloxQnV2WDFCYU4wb0lsX1V2SkdVN2ZFUlRnQ1Y2TzhLYlJ6UVFJckc?oc=5
 
-🦺 Aspect Biosystems expanding cellular medicine work with $79 million government funding
-Vancouver-based Aspect Biosystems has received a $79 million investment from the Government of Canada, supporting a $280 million multi-year project to advance its pipeline of bioengineered cellular medicines.
-The funding is being dedicated to the company’s clinical development work and strengthening of its biomanufacturing capabilities, and builds on a $200 million co-investment with the federal … The post Aspect, reported by VoxelMatters on Jul 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Aspect-Biosystems-Canadian-Government-Funding-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/aspect-biosystems-expanding-cellular-medicine-work-with-79-million-government-funding
+📷 Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes - CNX Software
+Creality Pika review – An affordable, portable 3D scanner with infrared and blue laser modes CNX Software
+Reported by Google News - 3D Scanners on Jul 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiygFBVV95cUxQRzdwRkw4RXlqczdPRFNLbGgzVHZRQlR3aWF3Y2ZUY2lxNE9fMUdEOHpOeHNSN0g2Mm55Y1FybThHc0FIQnVUR3JNelNDeHAxdTZTTnNQNzhYWnA4WGp2S29lM0NxOXBZSUxDOUJBQk44VGxLSVVlSUJ6YTUza2xhblJIa0VWbjVoVVN5TUF0Um9CaFRBRi1KNUpZMndiRUx3SGttTGtJTldtYW1hdlVyWUJWV3JqdTQycnlSU1hWZU45LXdBRVpyQUZR0gHSAUFVX3lxTFBIT01HT3JwOVR3elRkU2MtZUVuQUZTa1FZdFlQR1Z3SW9YQjRSZzB6WHhTbkFhTFJVWTVBSklhMzNWTjFrcFlFbEVfNVhCMjFnYXFsb0xkM2lmY0FkbHRIbzN0VXJMNVFka3hUS3hydDVNS2xDbF9XQlZvRWZtS0J1RmoxQTRUb0lhb0pQWnhJdEtsdUozN1FubXBpNXhiZ0t4TldSU2l4LVlZREhTTUIzRXBYQUVNSnRLeHlFTTd3cGtVSm03Rk9tenM1WnZ1R3BOZw?oc=5
 
-🚀 Beehive Industries is building the additive-first engine factory the US needs for defense
-When Beehive Industries was founded in 2020, the United States had a propulsion challenge.
-The country’s small turbine engine supply chain ran almost entirely through investment casting and forging operations with 18-month lead times, concentrated manufacturing capacity, and virtually no ability to surge, reported by VoxelMatters on Jul 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/04/Beehive-USAF-contract-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/beehive-industries-is-building-the-additive-first-engine-factory-the-us-needs-for-defense
+💻 NMSU’s DREAM Research Center trains K-12 teachers on 3D printing
+New Mexico State University‘s Center for Distributed Resilient and Emergent intelligence-based Additive Manufacturing (DREAM) has held its third Additive Manufacturing Personal Development (AMPD) workshop, training...
+Established in 2024 with National Science Foundation funding to support small and medium manufacturing enterprises, the DREAM Research … The post NMSU’s DREAM Research Center trains K-12 teachers on 3D printing, reported by VoxelMatters on Jul 26, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/NMSU-DREAM-3d-printing-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nmsus-dream-research-center-trains-k-12-teachers-on-3d-printing
 
-📰 Application spotlight: Threaded net standoff fasteners for water surface cleaning robots
-Sculpteo deploys MJF technology to produce water surface cleaning robot components.
-Reported by TCT Magazine on Jul 24, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Iadys-Oil-Skimmer-Back-View-1--1--1-1.png
-🔗 Read more: https://www.tctmagazine.com/application-spotlight-threaded-net-standoff-fasteners-for-water-surface-cleaning-robots
+🖨 3DEO intellectual property assets go up for sale in insolvency auction
+3DEO, Inc., the metal 3D printing company known for its Intelligent Layering binder jetting process, entered insolvency proceedings, and Insolvency Services Group solicited offers for the company’s intellectual...
+Insolvency Services Group engaged Brian Testo Associates, LLC to market the assets and received a … The post 3DEO intellectual property assets go up for sale in insolvency auction appeared first on VoxelMatters - The...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2022/01/3deo-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/3deo-intellectual-property-assets-go-up-for-sale-in-insolvency-auction
 
-🚀 Additive Assurance takes metal 3D printing quality assurance to Japan
-Additive Assurance has has signed a distribution agreement with NTT DATA XAM Technologies Corp.
-(XAM) to launch its real-time quality assurance solution, AMiRIS, in the Japanese market, reported by TCT Magazine on Jul 24, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/AIMFG2.jpg
-🔗 Read more: https://www.tctmagazine.com/additive-assurance-takes-metal-3d-printing-quality-assurance-to-japan
+🖨 Elegoo’s New H1 HT Filament Dryer Addresses Centauri Carbon 2 Concerns - Hackster.io
+Elegoo’s New H1 HT Filament Dryer Addresses Centauri Carbon 2 Concerns Hackster.io
+Reported by Google News - 3D Printing on Jul 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMisgFBVV95cUxPQUR5UzBOMHM3ejBUdkNPbVFXRlhvWEpsdE5zOHdHR1ZqTUs2cXR6VGhxc2JqSTJwM1p3MHlTdUVweTdZdlNuanV4TnAzb3F5V1h6YzBvb2ZhZEV0aXJmZFNDSkgtS0VvVmU5VUhTMGtUcW9mY1FnWm5LMmRrV3RNbFRiUlBhRVpHcUFEc0k4amh4Q2Z0WTF0bDh4WXUtb3dxT3Z4LXhJM1pVUDZtMG9TbGV30gG3AUFVX3lxTE13RXdhNlYyNWRnSU15NmZKNzdlQTBMbW1rU0QyU3ZYSlpRaHFvREZzZkU3MHhYOVl0UWdhUUw4cU1ISVFYRHVwVUJSbVFsWF9pZERSMDFhb2EyZlR2OWhUSnRJcHJKS09Dd0VZaC1JZmlzQ2pOMWQydWNmaVZFZ1ByLUpVaHJaQlQ1Vnk1N3JsQzJYZDFRNVhhOW5GcGZxVUtZeTZlSWFlaEU2WUFiNmNHUHpsdXoxNA?oc=5
 
-🚀 Lyten to supply 3D Graphene filament for Modovolo’s BFP printing platform
-Lyten and Modovolo have entered a partnership naming Lyten’s PA1205 filament the primary material for Modovolo’s BFP, a modular 3D printing platform for aerospace, motorsports and industrial parts.
-The companies, based in San Jose, California, and Syracuse, New York, respectively, are positioning the deal as a step toward a domestically sourced and manufactured additive manufacturing … The post Lyten to supply, reported by VoxelMatters on Jul 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Lyten-Modovolo-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lyten-to-supply-3d-graphene-filament-for-modovolos-bfp-printing-platform
+🖨 Lyten's graphene-enhanced filament to be integrated into Modovolo's transportable 3D printing platform - Graphene-Info
+Lyten's graphene-enhanced filament to be integrated into Modovolo's transportable 3D printing platform Graphene-Info
+Reported by Google News - 3D Printing on Jul 26, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzBqLUwzVExxdHdlLUZZQk0tSUxEQ3FvYlJPclZGZ0E1NkF5YmExY2pBdEVDY1RISUFpbUtKMkJzU2NJNDNGRTNMNjBQa001SWVfaXdhZ0RwcnRuaTUtcVBHdlZHSmdBdGVPWVVCamdPVGFHTW9qYTlPZUctSDA2dklud3J6eEcxYjMtMXV3WGI3QjdOSEdFaHZqQUlvYUt3VEs1NXA2TQ?oc=5
 
-🖨 Delaware’s Printed Solid rebrands to Prusa USA - Tom's Hardware
-Delaware’s Printed Solid rebrands to Prusa USA Tom's Hardware
-Reported by Google News - 3D Printing on Jul 25, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMijwFBVV95cUxQT2Z4cjF0NXg1V09iQzBrVkZsUGRiRW14S2xlOHhVQ2xiZzlxZVo1dnpYNThXODBOUGtiMHhOcFVxOEpSRWYtRnpoOUZ6eXB3XzVyVElnQTVfWTdsNTBYam9fekJMaTJLQWxNMjI2UFVmcHBWU3JwVWxXYWljWW0yMGRYNUcwQnd3NEZOVHpwVQ?oc=5
+🖨 What Can You Make With a 3D Printer? 20 Creative Ideas - Breaking AC News
+What Can You Make With a 3D Printer?
+20 Creative Ideas Breaking AC News, reported by Google News - 3D Printing on Jul 25, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMisgFBVV95cUxQazRONHRoLVZaMzZHTEExeDY4ZkRwT0t0M2M2OXV0TjNtbWt2blREVG5IaHB6ZzNJTTFUZzJRM0ZqSDRSMmFIaXlCNmNHMXJ1VXdSWjFPUmhmdUpVc1JGQUJtM3RldGx0cUlkejZNQXMzcWlSeVNzeEIxWURGbjR6RkJUUERfdXphdHRmanpLVVUwZllGTGJLYnB2OTdFd2tQcG9PZVM4ckpwcEtBaGpURDR3?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "ELEGOO launches H1 HT Filament Dryer With 85°C drying" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://www.voxelmatters.com/elegoo-launches-h1-ht-filament-dryer-with-85c-drying | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "US prodigy Cavan Sullivan becomes first to wear custom 3D-printed Adidas boots, honours Bangladeshi roots - The Business Standard" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGRyOVRjdzhoTkRiYkZSTEM2ZThBZE1wMXJuNi05SUNrdVZvdkQ4V0t4M3NqSmNlTm5BSkZDdjdQUFMzdkh5ZjJlckdGOVB4VU1RU2h4cllHLUlWWDAwSTJSemJFVV93TU9oU0tBMkFSOW9YdkFUVDhFMWRUWkRfamJEa1JkUDVvUUFIekNkeUJRSTJLbWx4Z2lCLWY2M2JxVTJ6ZjdmQkxZZGUyMnN0WkZCRUdOdDJHbTRLVE04WmbSAcYBQVVfeXFMTWhYSTFtaHlrc25IRjF3TTR0bGdyQ0E3MUpYbUR3UzdRTkg1QnhEMjRXeGNXV2RnVzlwTHhYSks2RTFIZ0hiYTZycG42MTd3bW9vRXhOZmhtVVRpT3hqdTdpRloyRlN4Q1YzcEJRS19sZFFGRFNoaXBMUWVXNUNkNUZ2NDA5WVpaVTR1WEhWVGdqNnhhUzBlZlQ1ZVZTYWRLZUMyNVI4cXFFc1pycVczSlF1eUN2N3Q1MWw5a005MkNqYWhydm9B?oc=5 | Full pulse: https://www.quality3ds.com/
