@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-28
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #202 - 2026-07-28
+## Stories
 
 💻 America Makes awards $10.5m to 25 teams for defense AM supplier qualification
 America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected 25 project teams to share $10.5 million in funding under the second and third groups of the Joint Additive...
@@ -50,9 +48,3 @@ Additional ROBOZE materials are now moving through qualification programs for fu
 Reported by TCT Magazine on Jul 27, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/ultem-am9085f-natural-duct-fhd-0-2.png
 Read more ? https://www.tctmagazine.com/airbus-qualifies-roboze-argo-500-hyperspeed-3d-printing-platform-for-secondary-structural-parts
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
