@@ -2,54 +2,52 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #202 - 2026-07-28
+### 3D PRINTING PULSE #203 - 2026-07-29
 
-💻 America Makes awards $10.5m to 25 teams for defense AM supplier qualification
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected 25 project teams to share $10.5 million in funding under the second and third groups of the Joint Additive...
-The funding came from the Office of the Under Secretary of War, Manufacturing … The post America Makes awards $10.5m to 25 teams for defense AM supplier qualification appeared first on VoxelMatters - The heart of...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/01/America-Makes-facility-face-150x150.jpg
-Read more ? https://www.voxelmatters.com/america-makes-awards-10-5m-to-25-teams-for-defense-am-supplier-qualification
+🔥 AI System Learns Each 3D Printer’s “Personality” to Cut Manufacturing Defects - 3D Printing Industry
+AI System Learns Each 3D Printer’s “Personality” to Cut Manufacturing Defects 3D Printing Industry
+Reported by Google News - 3D Printing on Jul 28, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiugFBVV95cUxNQW1ER0o4RDdINU9VMk1FMFpUWTg4b1B6dWItVWFkYllfMTNoWnlpS0VLa0I3XzBEN0ZHS05aYXVFU2dJWWlnbUtiMEFCdEZXOVU4MWJrQXpSOWFZenZxTUEwb1k5VzFpMVlhdnN4UEpYbUZGeTU2VzU5SFZZOVZoSEF6RUZDTGV6V1lBNHdDYzVka3IzUnlKbEd0Zl9aQ2dlZGZQU0dtN3dSd2VlQmxTYTg4T1RVdHRaTmc?oc=5
 
-🖨 3DEO IP assets up for sale as company files for insolvency
-3DEO was a parts production business that developed and applied a proprietary metal additive manufacturing process.
-Reported by TCT Magazine on Jul 27, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Saffron_NEW_NB-1.png
-Read more ? https://www.tctmagazine.com/3deo-ip-assets-up-for-sale-as-company-files-for-insolvency
+💻 3D printed zirconia part protects laser optics in semiconductor manufacturing
+In semiconductor manufacturing workflows, keeping sensitive instruments like optical systems protected from contamination is critical.
+Typically, this includes implementing one or a combination of processes, including air purging, extraction systems, or vacuum solutions, reported by VoxelMatters on Jul 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/SAC-Optical-Cap-4-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/3d-printed-zirconia-part-protects-laser-optics-in-semiconductor-manufacturing
 
-🖨 Nano Dimension’s $890 Million AI Healthcare Pivot Now Hangs in the Balance
-Last month, Israeli 3D printer manufacturer Nano Dimension signed a non-binding term sheet to merge with Infinite Epigenetics, an AI-powered preventive health and diagnostics company, in a proposed deal valued at...
-If completed, the transaction would mark the formal end of Nano’s decade-long presence in the additive manufacturing sector, and the beginning of…, reported by 3D Printing Industry on Jul 27, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2023/07/Nano-Dimension-offices-in-Munich.-Photo-by-Michael-Petch-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/nano-dimensions-890-million-ai-healthcare-pivot-now-hangs-in-the-balance-253378
+🖨 Axtra3D validates Keystone’s KeySplint Hard Clear on the Lumia.X1
+has added KeySplint Hard Clear, a dental resin from Keystone Industries, to the list of materials approved for its Lumia.X1 Hi-Speed stereolithography system, expanding the Axtra.Solutions portfolio available for the...
+The resin is formulated for post-trauma tooth immobilization and retainers, and is marketed as abrasion-resistant, biocompatible and easy to clean, reported by VoxelMatters on Jul 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Axtra3D-Keyprint-150x150.jpg
+Read more ? https://www.voxelmatters.com/axtra3d-validates-keystones-keysplint-hard-clear-on-the-lumia-x1
 
-💻 Actble’s 3D printed pointe shoes take center stage
-While many elements of ballet remain strictly traditional, there is one area where dancers are eager for innovation: the pointe shoe.
-These shoes, integral to ballet since the 19th century, feature a rigid toe box and allow dancers to stand on the tops of their toes to create seamless long lines and a weightless appearance, reported by VoxelMatters on Jul 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/actble-2-150x150.jpeg
-Read more ? https://www.voxelmatters.com/actbles-3d-printed-pointe-shoes-take-center-stage
+💻 Elementum 3D appoints Andrew Crickenberger as new CEO
+Founder Dr Jacob Nuechterlein will continue as Executive Chairman and occupy the role of Chief Strategy Officer.
+Reported by TCT Magazine on Jul 28, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/AndrewCrickenbergerheadshot.png
+Read more ? https://www.tctmagazine.com/elementum-3d-appoints-andrew-crickenberger-as-new-ceo
 
-💻 3iD adopts AM-Flow automation for post-processing at its Belgian facility
-3iD Printing, a Belgian provider of industrial 3D printing services, is installing an automated post-processing line from AM-Flow, a Netherlands-based automation supplier.
-The line combines three AM-Flow systems: AM-Feed, AM-Vision and AM-Sort, reported by VoxelMatters on Jul 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/3iDxAM-Flow-150x150.jpg
-Read more ? https://www.voxelmatters.com/3id-adopts-am-flow-automation-for-post-processing-at-its-belgian-facility
+🖨 Product Market Fit: Nikon Advanced Manufacturing CEO Hamid Zarringhalam on How Defense Demand is Pushing Metal AM to Scale
+After years in which the additive manufacturing (AM) industry gained a reputation for its hype outpacing its performance, an interesting development has emerged recently.
+In certain market segments, at least,, reported by 3DPrint.com on Jul 28, 2026.
+Read more ? https://3dprint.com/328666/product-market-fit-nikon-advanced-manufacturing-ceo-hamid-zarringhalam-on-how-defense-demand-is-pushing-metal-am-to-scale
 
-💻 Grenzebach secures 155-unit Dual Setup Stations order from EOS
-The Grenzebach Group secured an order from EOS for 155 Grenzebach Dual Setup Stations, automated production cells for additive manufacturing.
-Grenzebach Additive Solutions GmbH, spun off from the Grenzebach Group at the start of 2026, called the deal a milestone in its partnership with EOS and pointed to the growing role of automation in industrial … The, reported by VoxelMatters on Jul 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Grenzebach-Maschinen-fon.webp.2560-150x150.webp
-Read more ? https://www.voxelmatters.com/grenzebach-secures-155-unit-order-from-eos
+🖨 IMDEA Materials & Lawrence Berkeley National Laboratory Work on Making 3D Printers Print in Unison
+Spain’s IMDEA Materials Institute has worked with Lawrence Berkeley National Laboratory to detect and identify differences in different 3D printers.
+This could be important in eliminating run-to-run differences in prints and, reported by 3DPrint.com on Jul 28, 2026.
+Read more ? https://3dprint.com/329220/imdea-materials-lawrence-berkeley-national-laboratory-work-on-making-3d-printers-print-in-unison
 
-🖨 The State of the Desktop Filament Market 2026, Part 2: AI is a Fitful Day Drinking Intern
-In this series, we’re using cutting-edge AI research tools, including an unreleased deep research tool to look at the desktop 3D printing filament market.
-We’re then comparing it with our, reported by 3DPrint.com on Jul 27, 2026.
-Read more ? https://3dprint.com/328845/the-state-of-the-desktop-filament-market-2026-part-2-ai-is-a-fitful-day-drinking-intern
+🦺 UCT Prague researchers develop drug-releasing 3D printed titanium joint implants
+Researchers at the University of Chemistry and Technology (UCT) in Prague, are working with doctors from Motol University Hospital to develop a custom-made, 3D printed titanium joint implant designed to release...
+The project uses a porous internal structure, produced on one of the country’s most advanced 3D metal … The post UCT Prague researchers develop drug-releasing 3D printed titanium joint implants appeared first on, reported by VoxelMatters on Jul 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/UCT-Prague-3D-printed-titanium-joint-implant-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/uct-prague-researchers-develop-drug-releasing-3d-printed-titanium-joint-implants
 
-🚀 Airbus qualifies ROBOZE ARGO 500 HYPERSPEED 3D printing platform for secondary structural parts
-Additional ROBOZE materials are now moving through qualification programs for future aerospace applications.
-Reported by TCT Magazine on Jul 27, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/ultem-am9085f-natural-duct-fhd-0-2.png
-Read more ? https://www.tctmagazine.com/airbus-qualifies-roboze-argo-500-hyperspeed-3d-printing-platform-for-secondary-structural-parts
+🚀 Safran Aero Boosters and BMT Aerospace to 3D Print Large-Scale Titanium Components for the F135 Engine
+Belgium-based Safran Aero Boosters has signed an agreement with Pratt & Whitney to qualify and deliver large-scale, highly complex components for the F135 engine that powers the F-35 Lightning II.
+The deal was formalized at the Farnborough International Airshow on July 22, 2026, in the presence of Theo Francken, Belgium’s Minister of Defence, and Adrien…, reported by 3D Printing Industry on Jul 28, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/d8a23395-49d9-4a2c-9eb1-fb3731ffac78-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/safran-aero-boosters-and-bmt-aerospace-to-3d-print-large-scale-titanium-components-for-the-f135-engine-253366
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
