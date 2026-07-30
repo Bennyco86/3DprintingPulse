@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-07-31
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #205 - 2026-07-31
+## Stories
 
 💻 AML3D carries A$16.8 million in orders into FY2027 as US Navy demand drives expansion
 AML3D, an Australian manufacturer of wire additive manufacturing systems, is carrying A$16.8 million of orders into its 2027 financial year after its order book peaked at A$29 million during FY2026.
@@ -50,9 +48,3 @@ After more than a decade pioneering powder-based additive manufacturing with its
 The HP Industrial Filament (IF) 3D Printer 600 High Temperature (HT) is HP’s first FFF platform, a move rooted in the company’s conviction that high-temperature filament printing unlocks a…, reported by 3D Printing Industry on Jul 30, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/hero-desktop-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/hps-new-industrial-filament-3d-printer-600-ht-takes-on-advanced-polymers-253467
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
