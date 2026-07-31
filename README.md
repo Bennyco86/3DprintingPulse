@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #205 - 2026-07-31
+### 3D PRINTING PULSE #206 - 2026-08-01
 
-💻 AML3D carries A$16.8 million in orders into FY2027 as US Navy demand drives expansion
-AML3D, an Australian manufacturer of wire additive manufacturing systems, is carrying A$16.8 million of orders into its 2027 financial year after its order book peaked at A$29 million during FY2026.
-The company received A$20 million in new orders during the year, adding to the A$9 million held at the start of FY2026, reported by 3D Printing Industry on Jul 30, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/ChatGPT-Image-27-jun-2026-02_30_02-a.m-150x100.png
-Read more ? https://3dprintingindustry.com/news/aml3d-carries-a16-8-million-in-orders-into-fy2027-as-us-navy-demand-drives-expansion-253436
+🔥 MLS star Cavan Sullivan debuts adidas’ 3D printed cleats
+Despite Fifa’s recent and highly controversial private equity plan, which soccer associations all over the world have deemed a threat to the beloved sport, it’s not all bad news for soccer fans this week.
+Just months after sporting giant adidas unveiled the very first 3D printed soccer cleats, the innovative shoes have debuted in a … The post MLS star Cavan Sullivan debuts adidas’ 3D printed cleats appeared first on, reported by VoxelMatters on Jul 31, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/cavan-sullivan-adidas-150x150.jpeg
+Read more ? https://www.voxelmatters.com/mls-star-cavan-sullivan-debuts-adidas-3d-printed-cleats
 
-🖨 Meet the top companies from VoxelMatters’ Polymer AM 2026 report, and see how they’re trending
-With several companies exiting the market or divesting—BigRep, Nano Dimension, Arburg, BASF and Braskem, among others—while others are experiencing rapid growth, there’s been growing confusion about which companies...
-Getting accurate information is sometimes made harder by dubious research firms naming nonexistent players, or metal AM … The post Meet the top companies from VoxelMatters’ Polymer AM 2026 report, and see how they’re...
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/polymer-AM-market-report-150x150.jpg
-Read more ? https://www.voxelmatters.com/meet-the-top-companies-from-voxelmatters-polymer-am-2026-report-and-see-how-theyre-trending
+📷 Revopoint Trackit SR: Unboxing & First Look - YouTube
+Revopoint Trackit SR: Unboxing & First Look YouTube
+Reported by Google News - 3D Scanners on Jul 31, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaWlEydzZONnlGUFNvc25sSm5KN1JjRVlxYzBHVWFISjJKODA0aVRJWFJvdzBxeG1sUE91S3NMUldSZw?oc=5
 
-🖨 Korean Register issues significant first certification for 3D printed metal repair
-Korean Register (KR) has awarded its first manufacturing procedure certificate for additive manufacturing repair technology, certifying a process that restores damaged sections of metal structures using 3D printing...
-KR presented the certification at the AM Solutions additive manufacturing center in Daejeon, covering a process based on laser wire directed energy … The post Korean Register issues significant first certification, reported by VoxelMatters on Jul 30, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Korea-Register-3D-printed-metal-repair-certification-150x150.jpg
-Read more ? https://www.voxelmatters.com/korean-register-issues-significant-first-certification-for-3d-printed-metal-repair
+💻 UK athletes benefitting from additive manufacturing at Glasgow 2026
+Additive Manufacturing UK (AMUK) has said that significant performance benefits are being felt by athletes competing for medals at the Glasgow 2026 Commonwealth Games, thanks to the equipment in use.
+The trade association reported that additive manufacturing has evolved from a rapid prototyping tool into a production technology delivering marginal gains through lighter, stronger and … The post UK athletes, reported by VoxelMatters on Jul 31, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/AMUK-Sports-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/uk-athletes-benefitting-from-additive-manufacturing-at-glasgow-2026
 
-🖨 EOS joins consortium focused on advancing materials and technologies for hydrogen economy
-EOS will contribute to the project with its expertise in metal material development and additive manufacturing to support the reliable and efficient use of hydrogen-powered systems.
-Reported by TCT Magazine on Jul 30, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/EOS_ScanningElectronMicroscopy_Screen.jpeg
-Read more ? https://www.tctmagazine.com/eos-joins-consortium-focused-on-advancing-materials-and-technologies-for-hydrogen-economy
+🖨 DEEP DIVES | Why contract manufacturers like Divergent & Seurat developed their own metal AM technology
+TCT Group Content Manager Sam Davies explores the technical and economic drivers behind the development of proprietary AM tech at contract manufacturing organisations.
+Reported by TCT Magazine on Jul 31, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/ADDITIVE-INSIGHT--25--1.png
+Read more ? https://www.tctmagazine.com/deep-dives-do-industrial-additive-manufacturing-machines-cost-too-much-2
 
-💻 US Navy deploys 12 Phillips Hybrid Manufacturing & 12 Markforged X7 systems to support sailor training
-The equipment will be used to support Navy personnel participating in the Afloat Training Program and help develop the skilled advanced manufacturing workforce required to strengthen fleet readiness and sustainment...
-Reported by TCT Magazine on Jul 30, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/Hybrid_cnc-1-1-2048x1489-1.png
-Read more ? https://www.tctmagazine.com/us-navy-deploys-12-phillips-hybrid-manufacturing-12-markforged-x7-systems-to-support-sailor-training
+💻 RWTH Aachen releases open-source geometry library to reduce AM CAM memory requirements
+The Institute Digital Additive Production (DAP) at RWTH Aachen University has released an open-source computational geometry library for developing and optimizing additive manufacturing CAM software.
+Called DAPComputationalGeometry, or DAP-CG, the C# library provides geometry-processing algorithms for build orientation, support structure generation, nesting, slicing and scan strategy calculation, reported by 3D Printing Industry on Jul 31, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/image-25-150x100.png
+Read more ? https://3dprintingindustry.com/news/rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements-253474
 
-🖨 Continuum Powders & AM Research White Paper Argues that Circular Economics is Central to Scaling Metal AM
-Pretty much everyone is aware that, over the last several decades, Western nations have continuously ceded control over manufacturing supply chains to China.
-It has been less widely appreciated that, reported by 3DPrint.com on Jul 30, 2026.
-Read more ? https://3dprint.com/329105/continuum-amr-whitepaper-argues-that-circular-economics-is-central-to-scaling-metal-am
+🔥 Researchers 3D print photo-responsive components for dynamic light modulation
+Researchers in Poland and Italy have developed photo-responsive materials for vat photopolymerization that allow 3D printed components to dynamically alter the intensity and polarization of a laser beam.
+The materials incorporate azobenzene-based molecules whose orientation changes when exposed to polarized visible light, reported by 3D Printing Industry on Jul 31, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/image-30-150x100.png
+Read more ? https://3dprintingindustry.com/news/researchers-3d-print-photo-responsive-components-for-dynamic-light-modulation-253492
 
-🖨 All You Need to Know About Copper 3D Printing
-Known for its reddish-orange hue, copper is a popular metal due to its exceptional physical properties.
-These characteristics have made it a key material in a variety of industries, from electronics to the creation of end-use parts, reported by 3D Natives on Jul 29, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2024/11/Copper-cover1.jpeg
-Read more ? https://www.3dnatives.com/en/all-you-need-to-know-about-copper-3d-printing-131120245
+🦺 3D Systems enables first FDA-cleared implant from a point-of-care institution
+The Defense Health Agency (DHA) and Walter Reed National Military Medical Center’s 3D Medical Applications Center (3D MAC) have received U.S.
+Food and Drug Administration (FDA) premarket clearance for the 3D MAC Titanium Cranial Plate (TCP) System, reported by VoxelMatters on Jul 31, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/3D-Systems-Walter-Reed-150x150.jpg
+Read more ? https://www.voxelmatters.com/3d-systems-enables-first-fda-cleared-implant-from-a-point-of-care-institution
 
-🚀 HP’s New Industrial Filament 3D Printer 600 HT Takes on Advanced Polymers
-After more than a decade pioneering powder-based additive manufacturing with its Multi Jet Fusion (MJF) technology, HP is now entering the Fused Filament Fabrication (FFF) space.
-The HP Industrial Filament (IF) 3D Printer 600 High Temperature (HT) is HP’s first FFF platform, a move rooted in the company’s conviction that high-temperature filament printing unlocks a…, reported by 3D Printing Industry on Jul 30, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/hero-desktop-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/hps-new-industrial-filament-3d-printer-600-ht-takes-on-advanced-polymers-253467
+🚀 Fortastra taps Hadrian’s automated factories to speed up satellite production
+Spacecraft developer Fortastra is turning to automated manufacturer Hadrian to help it build satellites faster.
+The two companies signed a memorandum of understanding (MOU) this week laying the groundwork for Hadrian’s precision machining and additive manufacturing capabilities to be applied to Fortastra’s satellite programs,, reported by 3D Printing Industry on Jul 31, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/Rendering-of-Hadrians-F3-Facility-in-Mesa-AZ-150x100.avif
+Read more ? https://3dprintingindustry.com/news/fortastra-taps-hadrians-automated-factories-to-speed-up-satellite-production-253424
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
