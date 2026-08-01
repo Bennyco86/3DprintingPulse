@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #206 - 2026-08-01
+### 3D PRINTING PULSE #207 - 2026-08-02
 
-🔥 MLS star Cavan Sullivan debuts adidas’ 3D printed cleats
-Despite Fifa’s recent and highly controversial private equity plan, which soccer associations all over the world have deemed a threat to the beloved sport, it’s not all bad news for soccer fans this week.
-Just months after sporting giant adidas unveiled the very first 3D printed soccer cleats, the innovative shoes have debuted in a … The post MLS star Cavan Sullivan debuts adidas’ 3D printed cleats appeared first on, reported by VoxelMatters on Jul 31, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/cavan-sullivan-adidas-150x150.jpeg
-Read more ? https://www.voxelmatters.com/mls-star-cavan-sullivan-debuts-adidas-3d-printed-cleats
+🔥 What I Learned from a Luleå Study on Absorbance in Metal AM
+A few weeks ago, I visited Professor Alexander Kaplan at Luleå University of Technology.
+Originally from Austria, Kaplan has spent more than 20 years at the university working on the, reported by 3DPrint.com on Jul 31, 2026.
+Read more ? https://3dprint.com/327059/what-i-learned-from-a-lulea-study-on-absorbance-in-metal-am
 
-📷 Revopoint Trackit SR: Unboxing & First Look - YouTube
-Revopoint Trackit SR: Unboxing & First Look YouTube
-Reported by Google News - 3D Scanners on Jul 31, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiQkFVX3lxTFBaWlEydzZONnlGUFNvc25sSm5KN1JjRVlxYzBHVWFISjJKODA0aVRJWFJvdzBxeG1sUE91S3NMUldSZw?oc=5
+💻 Grassmayr Bell Foundry leans on 3D printing and digital tools to survive
+Grassmayr Bell Foundry, founded in Innsbruck, Austria, in 1599, has adopted 3D printing, scanning, lasers and computer simulation software to keep its centuries-old bronze-casting business running as material costs...
+The family business is now run by brothers Johannes and Peter Grassmayr, who cast bells weighing several tons for churches … The post Grassmayr Bell Foundry leans on 3D printing and digital tools to survive appeared, reported by VoxelMatters on Aug 01, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/Austrian-bell-foundry-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/grassmayr-bell-foundry-leans-on-3d-printing-and-digital-tools-to-survive
 
-💻 UK athletes benefitting from additive manufacturing at Glasgow 2026
-Additive Manufacturing UK (AMUK) has said that significant performance benefits are being felt by athletes competing for medals at the Glasgow 2026 Commonwealth Games, thanks to the equipment in use.
-The trade association reported that additive manufacturing has evolved from a rapid prototyping tool into a production technology delivering marginal gains through lighter, stronger and … The post UK athletes, reported by VoxelMatters on Jul 31, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/AMUK-Sports-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/uk-athletes-benefitting-from-additive-manufacturing-at-glasgow-2026
+🖨 3DEO Enters Insolvency, Puts Patents and Machinery Up for Auction
+3DEO, the Torrance, California metal 3D printing company behind the patented Intelligent Layering process, has filed for insolvency and put its entire intellectual property (IP) portfolio up for sale.
+Insolvency Services Group, acting as assignee for the benefit of creditors under California law, is soliciting offers for the assets, having already received a stalking horse…, reported by 3D Printing Industry on Aug 01, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2020/06/3DEO-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/3deo-enters-insolvency-puts-patents-and-machinery-up-for-auction-253432
 
-🖨 DEEP DIVES | Why contract manufacturers like Divergent & Seurat developed their own metal AM technology
-TCT Group Content Manager Sam Davies explores the technical and economic drivers behind the development of proprietary AM tech at contract manufacturing organisations.
-Reported by TCT Magazine on Jul 31, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/ADDITIVE-INSIGHT--25--1.png
-Read more ? https://www.tctmagazine.com/deep-dives-do-industrial-additive-manufacturing-machines-cost-too-much-2
+🖨 Commercialization and Innovation
+The last year or two has seen relatively affordable multi-material printers hit the market, and the question that [Tom Nardi] and I were kicking around when he was writing up …read more
+Reported by Hackaday 3D Printing on Aug 01, 2026.
+Image ? https://hackaday.com/wp-content/uploads/2018/05/printering.jpg
+Read more ? https://hackaday.com/2026/08/01/commercialization-and-innovation
 
-💻 RWTH Aachen releases open-source geometry library to reduce AM CAM memory requirements
-The Institute Digital Additive Production (DAP) at RWTH Aachen University has released an open-source computational geometry library for developing and optimizing additive manufacturing CAM software.
-Called DAPComputationalGeometry, or DAP-CG, the C# library provides geometry-processing algorithms for build orientation, support structure generation, nesting, slicing and scan strategy calculation, reported by 3D Printing Industry on Jul 31, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/image-25-150x100.png
-Read more ? https://3dprintingindustry.com/news/rwth-aachen-releases-open-source-geometry-library-to-reduce-am-cam-memory-requirements-253474
+🚀 UNO secures $8 million NSF award to launch Nebraska Center for 3D Innovation
+The University of Nebraska at Omaha (UNO) is establishing the Nebraska Center for 3D Innovation (NE3D), a new statewide research hub for developing 3D printed healthcare technology.
+The new facility is being made possible by an $8 million award from the National Science Foundation’s (NSF) Research Incubators for STEM Excellence program (E-RISE), part of the … The post UNO secures $8 million NSF, reported by VoxelMatters on Aug 01, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/UNO-NSF-funding-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/uno-secures-8-million-nsf-award-to-launch-nebraska-center-for-3d-innovation
 
-🔥 Researchers 3D print photo-responsive components for dynamic light modulation
-Researchers in Poland and Italy have developed photo-responsive materials for vat photopolymerization that allow 3D printed components to dynamically alter the intensity and polarization of a laser beam.
-The materials incorporate azobenzene-based molecules whose orientation changes when exposed to polarized visible light, reported by 3D Printing Industry on Jul 31, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/image-30-150x100.png
-Read more ? https://3dprintingindustry.com/news/researchers-3d-print-photo-responsive-components-for-dynamic-light-modulation-253492
+🚀 Fifth additive manufacturing map of Brazil counts 249 companies and institutions
+Launched on June 1, 2026, during Petrobras’ third Additive Manufacturing Workshop, the fifth edition of the Additive Manufacturing Map of Brazil from VoxelMatters’ partner Aditiva Brasil compiled the most extensive...
+Brazil has an active additive manufacturing sector, but much of that activity has been … The post Fifth additive manufacturing map of Brazil counts 249 companies and institutions appeared first on VoxelMatters - The...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/aditiva-map-brazileydeeckiavj-e1785510378531-150x150.jpg
+Read more ? https://www.voxelmatters.com/fifth-additive-manufacturing-map-of-brazil-counts-249-companies-and-institutions
 
-🦺 3D Systems enables first FDA-cleared implant from a point-of-care institution
-The Defense Health Agency (DHA) and Walter Reed National Military Medical Center’s 3D Medical Applications Center (3D MAC) have received U.S.
-Food and Drug Administration (FDA) premarket clearance for the 3D MAC Titanium Cranial Plate (TCP) System, reported by VoxelMatters on Jul 31, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/3D-Systems-Walter-Reed-150x150.jpg
-Read more ? https://www.voxelmatters.com/3d-systems-enables-first-fda-cleared-implant-from-a-point-of-care-institution
+📰 Actble and Something Added 3D Print a Pointe Shoe Built to Last Five Times Longer
+Actble, a German dancewear company founded by former ballet dancer Sophia Lindner, has built a modular pointe shoe with 3D printed inner soles that can be individually swapped out as they wear down, rather than...
+The soles are manufactured in partnership…, reported by 3D Printing Industry on Aug 01, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/image-21-150x100.png
+Read more ? https://3dprintingindustry.com/news/actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer-253442
 
-🚀 Fortastra taps Hadrian’s automated factories to speed up satellite production
-Spacecraft developer Fortastra is turning to automated manufacturer Hadrian to help it build satellites faster.
-The two companies signed a memorandum of understanding (MOU) this week laying the groundwork for Hadrian’s precision machining and additive manufacturing capabilities to be applied to Fortastra’s satellite programs,, reported by 3D Printing Industry on Jul 31, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/Rendering-of-Hadrians-F3-Facility-in-Mesa-AZ-150x100.avif
-Read more ? https://3dprintingindustry.com/news/fortastra-taps-hadrians-automated-factories-to-speed-up-satellite-production-253424
+📰 3iD Printing Bets on Automated Post-Processing to Scale Production Volumes
+3iD Printing, a Belgian industrial 3D printing service provider, is installing an automated post-processing line supplied by Netherlands-based AM-Flow, integrating three systems, AM-Feed, AM-Vision and AM-Sort, to...
+Closing the Post-Processing Bottleneck While 3D printing technology has advanced rapidly across the additive manufacturing industry, the steps that…, reported by 3D Printing Industry on Aug 01, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/07/3iDxAM-Flow-1024x535-1-150x100.png
+Read more ? https://3dprintingindustry.com/news/3id-printing-bets-on-automated-post-processing-to-scale-production-volumes-253451
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
