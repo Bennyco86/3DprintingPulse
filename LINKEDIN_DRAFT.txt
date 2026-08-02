@@ -1,52 +1,47 @@
-﻿# 3D PRINTING PULSE #207 - 2026-08-02
+﻿# 3D PRINTING PULSE #208 - 2026-08-03
 
-🔥 What I Learned from a Luleå Study on Absorbance in Metal AM
-A few weeks ago, I visited Professor Alexander Kaplan at Luleå University of Technology.
-Originally from Austria, Kaplan has spent more than 20 years at the university working on the, reported by 3DPrint.com on Jul 31, 2026.
-🔗 Read more: https://3dprint.com/327059/what-i-learned-from-a-lulea-study-on-absorbance-in-metal-am
+📷 SHINING 3D reaches Level 4 in ISO 56005 innovation and IP certification
+SHINING 3D has received Level 4 (System-Level) certification under the Innovation and Intellectual Property Management Capability evaluation based on ISO 56005, claiming to have become the first 3D vision company at...
+ISO 56005, “Innovation management — Tools and methods for intellectual property management — Guidance,” is the first international standard built to fold … The post SHINING 3D reaches Level 4 in ISO 56005 innovation, reported by VoxelMatters on Aug 02, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/SHINING-3D-ISO-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/shining-3d-reaches-level-4-in-iso-56005-innovation-and-ip-certification
 
-💻 Grassmayr Bell Foundry leans on 3D printing and digital tools to survive
-Grassmayr Bell Foundry, founded in Innsbruck, Austria, in 1599, has adopted 3D printing, scanning, lasers and computer simulation software to keep its centuries-old bronze-casting business running as material costs...
-The family business is now run by brothers Johannes and Peter Grassmayr, who cast bells weighing several tons for churches … The post Grassmayr Bell Foundry leans on 3D printing and digital tools to survive appeared, reported by VoxelMatters on Aug 01, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/Austrian-bell-foundry-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/grassmayr-bell-foundry-leans-on-3d-printing-and-digital-tools-to-survive
+💻 Sensor-embedded 3D-printed repairs could help preserve ancient pottery - Phys.org
+Sensor-embedded 3D-printed repairs could help preserve ancient pottery Phys.org
+Reported by Google News - 3D Printing on Aug 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTFA5WEZ4blFfNTdjSGJkVk5qUGIyR0NCUUJJRDI4NDZxTFA4NnlRUkNXUUQyb05sbmtTenExMm56WV9jZlQ3SWNXc05YdTh5V2RJdUFlVnZzMXdXb2NwYklLYVJqYXUyWVBVVFBXQzdmS0hCYjZjLXRVSg?oc=5
 
-🖨 3DEO Enters Insolvency, Puts Patents and Machinery Up for Auction
-3DEO, the Torrance, California metal 3D printing company behind the patented Intelligent Layering process, has filed for insolvency and put its entire intellectual property (IP) portfolio up for sale.
-Insolvency Services Group, acting as assignee for the benefit of creditors under California law, is soliciting offers for the assets, having already received a stalking horse…, reported by 3D Printing Industry on Aug 01, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2020/06/3DEO-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/3deo-enters-insolvency-puts-patents-and-machinery-up-for-auction-253432
+📰 PharmaTher and Craft Health to evaluate 3D printed peptide platform
+PharmaTher Holdings Ltd., a Toronto-based specialty pharmaceutical company, is collaborating with Singapore-based Craft Health Pte.
+to evaluate Craft Health‘s CraftMake pharmaceutical 3D printing platform for PharmaTher’s Personaliz3D Peptides partner ecosystem, reported by VoxelMatters on Aug 02, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/PharmaTher-Craft-Health-3D-printed-peptides-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/pharmather-and-craft-health-to-evaluate-3d-printed-peptide-platform
 
-🖨 Commercialization and Innovation
-The last year or two has seen relatively affordable multi-material printers hit the market, and the question that [Tom Nardi] and I were kicking around when he was writing up …read more
-Reported by Hackaday 3D Printing on Aug 01, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2018/05/printering.jpg
-🔗 Read more: https://hackaday.com/2026/08/01/commercialization-and-innovation
+🖨 If You Own a 3D Printer, You Absolutely Need to Try Hi3D - Tom's Hardware
+If You Own a 3D Printer, You Absolutely Need to Try Hi3D Tom's Hardware
+Reported by Google News - 3D Printing on Aug 02, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzUxMkpwR01YS0lCMjJRMHcwRnI1Uy1WNDlJdFBzVGxiMEJmb3pJWElFdUxZS1lYX3k0aGl3NHVWZG1ENUh5aXhBcHlFUjQ2eWE4RlZXb3p5LS1VLXE0YUhJZkJqOC1KakZjT2t2eUhHSGFHTjhHc0trbllUa0FZcnE5Rmd2OERnVmdjYlU1RS1YX3ZuMm8zdUpzQlY?oc=5
 
-🚀 UNO secures $8 million NSF award to launch Nebraska Center for 3D Innovation
-The University of Nebraska at Omaha (UNO) is establishing the Nebraska Center for 3D Innovation (NE3D), a new statewide research hub for developing 3D printed healthcare technology.
-The new facility is being made possible by an $8 million award from the National Science Foundation’s (NSF) Research Incubators for STEM Excellence program (E-RISE), part of the … The post UNO secures $8 million NSF, reported by VoxelMatters on Aug 01, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/UNO-NSF-funding-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/uno-secures-8-million-nsf-award-to-launch-nebraska-center-for-3d-innovation
+🖨 Boston-area company is reinventing metal braces with custom 3D printing - Boston 25 News
+Boston-area company is reinventing metal braces with custom 3D printing Boston 25 News
+Reported by Google News - 3D Printing on Aug 02, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGFCVERkVkVyX3BHb0lucHFRQllsV1ZBdjZOVlk5YzRPbGNDRk5PVnBXblFFckpRV3MyXzVNUVRkX1pITlh2ZWtOd3hUck05ckZqUFFnSEtwUDhjcEw4V3U4OTB6ZkszVS1FV1JBY1dhWU9VZUd0V1lEaFh4ZTc5Q2xZMTVGMjRNOHEwZ1RFelBtYUZESGxZVUd3S29mU0wyQ3JjWDBJSm1lMnl4UFFCcWpETVoxQ0FBOGVDWUw1V1NySnFpU2pTLUVJZG9ncnpZa3pFRTQwcUFyWUU?oc=5
 
-🚀 Fifth additive manufacturing map of Brazil counts 249 companies and institutions
-Launched on June 1, 2026, during Petrobras’ third Additive Manufacturing Workshop, the fifth edition of the Additive Manufacturing Map of Brazil from VoxelMatters’ partner Aditiva Brasil compiled the most extensive...
-Brazil has an active additive manufacturing sector, but much of that activity has been … The post Fifth additive manufacturing map of Brazil counts 249 companies and institutions appeared first on VoxelMatters - The...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/07/aditiva-map-brazileydeeckiavj-e1785510378531-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/fifth-additive-manufacturing-map-of-brazil-counts-249-companies-and-institutions
+🖨 'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix (Updated) - Tom's Hardware
+'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix (Updated) Tom's Hardware
+Reported by Google News - 3D Printing on Aug 02, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMigwJBVV95cUxOdGQxRmVUVXlzaUJIUXJoVnpCOWI1Vk15Nmw2QS1fLWlFOFY3UVJSTl9uS00tMS1iR05WNTRWdTRGeTJDTUhqem9xejR3RXY5SXpNbnRTNnJmTllVSkd6OHY1YWVHUUlUVndsa2hCOThnbDNLNzVJN1NRanpDeUtaZFhoVHNmME16dFZldGllTmhJN1hmaGVuV2Z3SFRxSmNEd25CVWdiSC1rdDVCY3pCa3gyMzdtcGowLWhSQkVkLTRETy1FakRQelphVU92anlfODdYclB4TmJySTViVkJXd19ESzBuUWszYjA5NWRmOUFtTG1rMjBoVFFWNUs4ckdETGhj?oc=5
 
-📰 Actble and Something Added 3D Print a Pointe Shoe Built to Last Five Times Longer
-Actble, a German dancewear company founded by former ballet dancer Sophia Lindner, has built a modular pointe shoe with 3D printed inner soles that can be individually swapped out as they wear down, rather than...
-The soles are manufactured in partnership…, reported by 3D Printing Industry on Aug 01, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/image-21-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/actble-and-something-added-3d-print-a-pointe-shoe-built-to-last-five-times-longer-253442
+🖨 UV Printer? 3D Printer? HeyGears Says “Why Not Both”? - Hackaday
+HeyGears Says “Why Not Both”?
+Reported by Google News - 3D Printing on Aug 02, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1hiek1XYndiQVpLcE1QODlETWxDdG1NdUxsTnplUi1GUE5kWVotSXR3V2JvRlJVOTV5VXZUV3BsSVJjejFXaVZFSnl0Nll0WldzYTVHTmM3YXNsSEFEdUVsRWJlNHRWTmoxanNrdUNORlk4NkNRUlJrM3JBc3RJZWZZZVNfMHhK?oc=5
 
-📰 3iD Printing Bets on Automated Post-Processing to Scale Production Volumes
-3iD Printing, a Belgian industrial 3D printing service provider, is installing an automated post-processing line supplied by Netherlands-based AM-Flow, integrating three systems, AM-Feed, AM-Vision and AM-Sort, to...
-Closing the Post-Processing Bottleneck While 3D printing technology has advanced rapidly across the additive manufacturing industry, the steps that…, reported by 3D Printing Industry on Aug 01, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/3iDxAM-Flow-1024x535-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/3id-printing-bets-on-automated-post-processing-to-scale-production-volumes-253451
+🖨 The 4 most important things in 3D printing have nothing to do with your printer - How-To Geek
+The 4 most important things in 3D printing have nothing to do with your printer How-To Geek
+Reported by Google News - 3D Printing on Aug 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUx6QVlVNVlHMWhhZGlxckgxd1ZzREtHYlVxNTd4QWNUMWNnTHBVNDNLLVE0MHhmTi1ScV81MnllcktyRG95V1hjNEE5LTZvX0hCVG00MnZJQTdQWjJlUndBSVdOY0FmUGg2SERJV1I0emRHUFJOaEIxSUhmOWh6a0FURUhfeTlDQ1RwdHBhUHIySkto?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "What I Learned from a Luleå Study on Absorbance in Metal AM" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://3dprint.com/327059/what-i-learned-from-a-lulea-study-on-absorbance-in-metal-am | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "SHINING 3D reaches Level 4 in ISO 56005 innovation and IP certification" because it highlights where practical 3D printing innovation is moving next. Story link: https://www.voxelmatters.com/shining-3d-reaches-level-4-in-iso-56005-innovation-and-ip-certification | Full pulse: https://www.quality3ds.com/

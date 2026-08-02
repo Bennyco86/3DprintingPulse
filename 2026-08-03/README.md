@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-03
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #208 - 2026-08-03
+## Stories
 
 📷 SHINING 3D reaches Level 4 in ISO 56005 innovation and IP certification
 SHINING 3D has received Level 4 (System-Level) certification under the Innovation and Intellectual Property Management Capability evaluation based on ISO 56005, claiming to have become the first 3D vision company at...
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1hiek1XYndiQVp
 The 4 most important things in 3D printing have nothing to do with your printer How-To Geek
 Reported by Google News - 3D Printing on Aug 01, 2026.
 Read more ? https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUx6QVlVNVlHMWhhZGlxckgxd1ZzREtHYlVxNTd4QWNUMWNnTHBVNDNLLVE0MHhmTi1ScV81MnllcktyRG95V1hjNEE5LTZvX0hCVG00MnZJQTdQWjJlUndBSVdOY0FmUGg2SERJV1I0emRHUFJOaEIxSUhmOWh6a0FURUhfeTlDQ1RwdHBhUHIySkto?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
