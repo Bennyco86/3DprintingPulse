@@ -2,49 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #208 - 2026-08-03
+### 3D PRINTING PULSE #209 - 2026-08-04
 
-📷 SHINING 3D reaches Level 4 in ISO 56005 innovation and IP certification
-SHINING 3D has received Level 4 (System-Level) certification under the Innovation and Intellectual Property Management Capability evaluation based on ISO 56005, claiming to have become the first 3D vision company at...
-ISO 56005, “Innovation management — Tools and methods for intellectual property management — Guidance,” is the first international standard built to fold … The post SHINING 3D reaches Level 4 in ISO 56005 innovation, reported by VoxelMatters on Aug 02, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/SHINING-3D-ISO-150x150.jpg
-Read more ? https://www.voxelmatters.com/shining-3d-reaches-level-4-in-iso-56005-innovation-and-ip-certification
+📷 3Dスキャナーが一家に一台の時代に?!【Revopoint】 Urc (yBVHRGb1U3) - Mshale
+3Dスキャナーが一家に一台の時代に?!【Revopoint】 Urc (yBVHRGb1U3) Mshale
+Reported by Google News - 3D Scanners on Aug 03, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ETk1ZWXFsdnBtYzlEUzFRMVZybzFzTzRFazVta2xfcXBPbjItMC00cFhsV1JrRlk3c2hYU21zUV81a3Z5WmNST0lNWHhnOXV4TThPdHE0Q2Fua2NQSmtaRg?oc=5
 
-💻 Sensor-embedded 3D-printed repairs could help preserve ancient pottery - Phys.org
-Sensor-embedded 3D-printed repairs could help preserve ancient pottery Phys.org
-Reported by Google News - 3D Printing on Aug 01, 2026.
-Read more ? https://news.google.com/rss/articles/CBMieEFVX3lxTFA5WEZ4blFfNTdjSGJkVk5qUGIyR0NCUUJJRDI4NDZxTFA4NnlRUkNXUUQyb05sbmtTenExMm56WV9jZlQ3SWNXc05YdTh5V2RJdUFlVnZzMXdXb2NwYklLYVJqYXUyWVBVVFBXQzdmS0hCYjZjLXRVSg?oc=5
+💻 Ukrainian designer Sofia Rousinovich presents 3D printed shoe series
+When fashion designer Sofia Rousinovich’s ALIVE streetwear collection hit the Ukrainian Fashion Week runways in FW 2019, her brand ROUSSIN seemed poised to make an impact.
+Unfortunately, the brand’s trajectory was disrupted just a couple years later by the full-scale invasion of Ukraine by Russian forces, reported by VoxelMatters on Aug 03, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/3D-printed-shoes-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/ukrainian-designer-sofia-rousinovich-presents-3d-printed-shoe-series
 
-📰 PharmaTher and Craft Health to evaluate 3D printed peptide platform
-PharmaTher Holdings Ltd., a Toronto-based specialty pharmaceutical company, is collaborating with Singapore-based Craft Health Pte.
-to evaluate Craft Health‘s CraftMake pharmaceutical 3D printing platform for PharmaTher’s Personaliz3D Peptides partner ecosystem, reported by VoxelMatters on Aug 02, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/07/PharmaTher-Craft-Health-3D-printed-peptides-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/pharmather-and-craft-health-to-evaluate-3d-printed-peptide-platform
+🖨 America Makes selects 25 suppliers for $10.5M metal AM qualification program
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected 25 project teams for a $10.5 million program intended to expand the US defense industrial base for metal additive...
+The Joint Additive Qualification for Sustainment – Supplier Qualification Groups 2 and 3 project, or JAQS-SQ, will establish common training and…, reported by 3D Printing Industry on Aug 03, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/america-makes-selects-25-suppliers-for-10-5m-metal-am-qualification-program-253527
 
-🖨 If You Own a 3D Printer, You Absolutely Need to Try Hi3D - Tom's Hardware
-If You Own a 3D Printer, You Absolutely Need to Try Hi3D Tom's Hardware
-Reported by Google News - 3D Printing on Aug 02, 2026.
-Read more ? https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzUxMkpwR01YS0lCMjJRMHcwRnI1Uy1WNDlJdFBzVGxiMEJmb3pJWElFdUxZS1lYX3k0aGl3NHVWZG1ENUh5aXhBcHlFUjQ2eWE4RlZXb3p5LS1VLXE0YUhJZkJqOC1KakZjT2t2eUhHSGFHTjhHc0trbllUa0FZcnE5Rmd2OERnVmdjYlU1RS1YX3ZuMm8zdUpzQlY?oc=5
+💻 Ricoh sells Ricoh 3D for Healthcare business
+Ricoh's decision is said to reflect its 'continued efforts to sharpen its strategic focus on process automation, workplace experience, and business process services.'
+Reported by TCT Magazine on Aug 03, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Ricoh_3D_printed_models-1.png
+Read more ? https://www.tctmagazine.com/ricoh-sells-ricoh-3d-for-healthcare-business
 
-🖨 Boston-area company is reinventing metal braces with custom 3D printing - Boston 25 News
-Boston-area company is reinventing metal braces with custom 3D printing Boston 25 News
-Reported by Google News - 3D Printing on Aug 02, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSGFCVERkVkVyX3BHb0lucHFRQllsV1ZBdjZOVlk5YzRPbGNDRk5PVnBXblFFckpRV3MyXzVNUVRkX1pITlh2ZWtOd3hUck05ckZqUFFnSEtwUDhjcEw4V3U4OTB6ZkszVS1FV1JBY1dhWU9VZUd0V1lEaFh4ZTc5Q2xZMTVGMjRNOHEwZ1RFelBtYUZESGxZVUd3S29mU0wyQ3JjWDBJSm1lMnl4UFFCcWpETVoxQ0FBOGVDWUw1V1NySnFpU2pTLUVJZG9ncnpZa3pFRTQwcUFyWUU?oc=5
+💻 America Makes and NCDMM select winners of $6 million PADAM 2.0 project call
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected the winning teams of the Powder Alloy Development for Additive Manufacturing (PADAM) 2.0 project call, a $6 million...
+The program targets the readiness, manufacturability, performance and supply chain resilience … The post America Makes and NCDMM select winners of $6 million PADAM 2.0 project call appeared first on VoxelMatters -...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2025/10/America-Makes-facility-face-150x150.jpg
+Read more ? https://www.voxelmatters.com/america-makes-and-ncdmm-select-winners-of-6-million-padam-2-0-project-call
 
-🖨 'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix (Updated) - Tom's Hardware
-'Nozzlegate' erupts as Prusa CORE One 3D printer kits arrive with soft steel nozzles — Bondtech admits machining flaws with no quick fix (Updated) Tom's Hardware
-Reported by Google News - 3D Printing on Aug 02, 2026.
-Read more ? https://news.google.com/rss/articles/CBMigwJBVV95cUxOdGQxRmVUVXlzaUJIUXJoVnpCOWI1Vk15Nmw2QS1fLWlFOFY3UVJSTl9uS00tMS1iR05WNTRWdTRGeTJDTUhqem9xejR3RXY5SXpNbnRTNnJmTllVSkd6OHY1YWVHUUlUVndsa2hCOThnbDNLNzVJN1NRanpDeUtaZFhoVHNmME16dFZldGllTmhJN1hmaGVuV2Z3SFRxSmNEd25CVWdiSC1rdDVCY3pCa3gyMzdtcGowLWhSQkVkLTRETy1FakRQelphVU92anlfODdYclB4TmJySTViVkJXd19ESzBuUWszYjA5NWRmOUFtTG1rMjBoVFFWNUs4ckdETGhj?oc=5
+🦺 Clalit-Beilinson Hospital reconstructs a patient’s chest wall with a 3D printed implant
+Surgeons at Clalit-Beilinson Hospital in Israel have removed a patient’s sternum and portions of her ribs before reconstructing her chest wall with a custom 3D printed implant, marking the first time a full 3D...
+The patient, a woman in her twenties, underwent … The post Clalit-Beilinson Hospital reconstructs a patient’s chest wall with a 3D printed implant appeared first on VoxelMatters - The heart of additive manufacturing.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/3D-sternum-and-ribs-implant-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/clalit-beilinson-hospital-reconstructs-a-patients-chest-wall-with-a-3d-printed-implant
 
-🖨 UV Printer? 3D Printer? HeyGears Says “Why Not Both”? - Hackaday
-HeyGears Says “Why Not Both”?
-Reported by Google News - 3D Printing on Aug 02, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX1hiek1XYndiQVpLcE1QODlETWxDdG1NdUxsTnplUi1GUE5kWVotSXR3V2JvRlJVOTV5VXZUV3BsSVJjejFXaVZFSnl0Nll0WldzYTVHTmM3YXNsSEFEdUVsRWJlNHRWTmoxanNrdUNORlk4NkNRUlJrM3JBc3RJZWZZZVNfMHhK?oc=5
+🚀 Koç University engineers 3D printed, sensor-embedded repairs for ancient amphorae
+Engineers and archaeologists at Koç University’s Manufacturing and Automation Research Center (MARC) and Mustafa V.
+Koç Maritime Archaeology Research Center (KUDAR) have developed an innovative conservation method that uses 3D printing to replace missing sections of archaeological amphorae, while at the same time embedding sensors, reported by VoxelMatters on Aug 03, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Sensor-embedded-3D-printed-repairs-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/koc-university-engineers-3d-printed-sensor-embedded-repairs-for-ancient-amphorae
 
-🖨 The 4 most important things in 3D printing have nothing to do with your printer - How-To Geek
-The 4 most important things in 3D printing have nothing to do with your printer How-To Geek
-Reported by Google News - 3D Printing on Aug 01, 2026.
-Read more ? https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUx6QVlVNVlHMWhhZGlxckgxd1ZzREtHYlVxNTd4QWNUMWNnTHBVNDNLLVE0MHhmTi1ScV81MnllcktyRG95V1hjNEE5LTZvX0hCVG00MnZJQTdQWjJlUndBSVdOY0FmUGg2SERJV1I0emRHUFJOaEIxSUhmOWh6a0FURUhfeTlDQ1RwdHBhUHIySkto?oc=5
+📰 National Additive Manufacturing and Innovation Company granted Military Manufacturing License by Saudi military authority
+This license authorises the National Additive Manufacturing and Innovation Company (NAMI) to engage in regulated military manufacturing activities in Saudi Arabia.
+Reported by TCT Magazine on Aug 03, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/dmp-factory-500-solution-thumbnail-2-1.png
+Read more ? https://www.tctmagazine.com/national-additive-manufacturing-and-innovation-company-granted-military-manufacturing-license-by-saudi-military-authority
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
