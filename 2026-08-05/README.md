@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-05
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #210 - 2026-08-05
+## Stories
 
 🔥 3D-printed ceramic walls for passive urban cooling - Open Access Government
 3D-printed ceramic walls for passive urban cooling Open Access Government
@@ -49,9 +47,3 @@ Backflip AI launched a CAD copilot built on a new foundation model that converts
 The tool became generally available this week as an add-in for Autodesk Fusion and as a standalone web application, reported by VoxelMatters on Aug 04, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2025/03/backflip_unnamed-780x470.jpg-150x150.jpg
 Read more ? https://www.voxelmatters.com/backflip-ai-launches-cad-copilot-that-turns-3d-scans-into-editable-models
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
