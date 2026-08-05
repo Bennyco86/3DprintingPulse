@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-06
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #211 - 2026-08-06
+## Stories
 
 🔥 3D-Printed Wall Uses Centuries-Old Principles to Combat Urban Heat - Design and Development Today
 3D-Printed Wall Uses Centuries-Old Principles to Combat Urban Heat Design and Development Today
@@ -47,9 +45,3 @@ If you search for food-safe 3D printed parts, you will find a jungle of conflict
 The reality is more nuanced than most articles suggest, reported by VoxelMatters on Aug 05, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/truesil-axtra3d-150x150.jpg
 Read more ? https://www.voxelmatters.com/how-to-3d-print-food-safe-polymer-parts-a-guide-to-food-grade-3d-printing
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
