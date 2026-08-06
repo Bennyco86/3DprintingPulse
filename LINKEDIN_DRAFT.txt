@@ -1,49 +1,50 @@
-﻿# 3D PRINTING PULSE #211 - 2026-08-06
+﻿# 3D PRINTING PULSE #212 - 2026-08-07
 
-🔥 3D-Printed Wall Uses Centuries-Old Principles to Combat Urban Heat - Design and Development Today
-3D-Printed Wall Uses Centuries-Old Principles to Combat Urban Heat Design and Development Today
+🔥 3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy - How-To Geek
+3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy How-To Geek
 Reported by Google News - 3D Printing on Aug 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWhuOTQta2dUbHFhaF9uRVIzekdRZFJCaHlkYmtRRFo1RTlKSi0ycDFia1ZkV3R0bkktb0k2ZWRseEt4WkdyMkpYNUQxODhQUHNmdHlfSzFGejFiZEVDRUxLSi1hUENrbHNlSTFKQ2tCTU9iRXFSNzFMTGE3R3g3dVB6ZW10YXFzWG91UUQzbVNuTzZMWFgxWWc5Wjk1dkUwVG83WXMwOVRaZVFKRE1JSy1ENXJEVW0zTFhYdU1GOA?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0pxOUQwdl9mbElxQ2VXWDlwN3JFTFdXQ0U4N2RKaXVVMXJVeGVxeVZZZG1RUXhLUTBvUDZTWlZQZ3hpaF9jUWg1ZW1DY2xBY2RwMjV3YlpmNVlZREhGMUl6VWl1M0JQWWxNTElraklOY0tmWFBwWWF6ZkxGbDRWMDFvYmlzZnI2S1VqUHlVN2haS2lsWHQzazVKVW9RYk5rZEE?oc=5
 
-🚨 Qidi Plus5: New enclosed 3D printer launches with 65°C chamber heating and a 370°C hotend - Notebookcheck
-Qidi Plus5: New enclosed 3D printer launches with 65°C chamber heating and a 370°C hotend Notebookcheck
-Reported by Google News - 3D Printing on Aug 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGFVLUJTMXh5N3E1d0dUbENOc1E2UXp4MkxvaTJSbnRIR3k5dVJxbEo2N2Z5T3lSby15S2h6RndHa1hZUlRnY2NnOWxsc1VHaktRZUs1VXMwdmtfZjZsNUt3bmNNWWdmZzFxTE5ET0k4TUVyV2FWSmdOazR3QWQtNHFoSG9obzNQc1ZUMHk4OUo1Y25SdFQ1Q21fQnhFZWxHaDI3YVA5VEpoMzBYVWFDYUpIYzRDdXREeEpORXluY0xrRnJDQWV6bWNheU5PZw?oc=5
+📷 Artec 3D adds a new metrology-grade laser scanner to its portfolio - 3dadept.com
+Artec 3D adds a new metrology-grade laser scanner to its portfolio 3dadept.com
+Reported by Google News - 3D Printing on Aug 06, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxQOG9rc3VtdXhkX2NKSE9JRVNMb2h6aFNnTEdBdElsQl9mdWtzNTlXVHJmS29HUzV4Y2FvbmNjZHlGRVdzdWV4bm54VXRfNkV4UW4yNXBMeXdwVUtYUVpsZ09vRGQ1aGRzZE9lb0FNSnl3UW5wQzZCWDh4MEticlVvLUFZQjA5dHRPeHEwcFVoOWw?oc=5
 
-📷 Creality's Pika Puts a Dual-Mode Laser/NIR 3D Scanner in Your Pocket — With Gaussian Splatting Soon - hackster.io
-Creality's Pika Puts a Dual-Mode Laser/NIR 3D Scanner in Your Pocket — With Gaussian Splatting Soon hackster.io
-Reported by Google News - 3D Printing on Aug 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb0FueWFDMHUzcGhpMEhOODBKXzlOb2VnYUhTX2R4czNUU1RocmNCaldtWWE0eFZWRmV1N2dpX2J3MVd1WlB6dnJPNzhuQkc1enJWcWpERE1sM1labHhpeW42ZmxBZDRpdURENHJpMXpENUFZeWEtYnE3ZEk4SDNkcDVtMWdIa05pMnFnOGhHY1NBTWJqNk94QVJRTTU2R0ZrOVN1ZDV2aXVSQ1cwVC1oTnl6b1hXU01LenBfSXF5V2NxWXdhbUhwc2tCaXNISkFzV1NfX29B?oc=5
+📷 Creality Pika: smartphone-sized 3D scanner with Gaussian-Splatting technique - 3Druck.com
+Creality Pika: smartphone-sized 3D scanner with Gaussian-Splatting technique 3Druck.com
+Reported by Google News - 3D Scanners on Aug 04, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzFrbGJUQmNrUnpEU2NVU1d0S0ZHOVo0OFAwRm9DQm9CclFib3Rpd3N3Tm55ekZZbXFiWlhaZW5maHo4aFZVLUtvYkx0dWxNZXNhZjMzUDhyS0lrNWg2a2paeFRuaUpuR2pJOGt1UHgxSVpJSVViVXp3YnFyMEU4d0ppTWZCUUJLNER2b0V0MFVXRi0temVXRlVZOWhXRXd0QXVIY1FYOXBEMjJTYU1IaWcxZVVGUW8?oc=5
 
-📷 Metrology-Grade Optical 3D Scanner - American Machinist
-Metrology-Grade Optical 3D Scanner American Machinist
-Reported by Google News - 3D Scanners on Aug 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMisgFBVV95cUxQNTNZN28xaVVYUlV5LXNWNDlvdTk5WG0xdjdodTEwblB0RWVXc2hEMDhOWkY4TEhkUl9Fa2FqN1UxRm5OMVd0SjNtU2lQb2VXNUg3V1ZRZjY1NlptcG5Db3l3RnA0MmNvUFh4UXdHOHBrUGpFTDZLeXVEb3o5bWd3UC1KTWl5RTZab3B1eXV5S3ZnTGY4VXdZYnd5MGVrbzJ6eDlZcHZUSnYwVk05X0xiYUp3?oc=5
+💻 Sinto secures ISO certification for 3D printing of technical ceramics
+"The successful certification demonstrates that we have seamlessly maintained our high quality standards throughout the ownership transition."
+Reported by TCT Magazine on Aug 06, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/07.2026_SAC-EU_ISO-Certificate.png
+🔗 Read more: https://www.tctmagazine.com/sinto-secures-iso-certification-for-3d-printing-of-technical-ceramics
 
-💻 UPM Group 3D prints 100 m² exhibition stand for EuroShop 2026
-UPM Group built a fully 3D printed exhibition stand for EuroShop 2026, the retail industry’s largest international trade fair, held in Düsseldorf, Germany.
-The roughly 100 m² installation combined 3D printed architectural structures with custom furniture pieces, all produced additively, reported by 3D Printing Industry on Aug 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/3D_printed_exhibition_booth_UPM_Group_Euroshop_2026-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/upm-group-3d-prints-100-m%c2%b2-exhibition-stand-for-euroshop-2026-253532
+🖨 Solukon to show depowdering system and simulation software at IMTS 2026
+Solukon will exhibit at IMTS 2026 in Chicago for the second consecutive year, bringing its SFM-AT350 depowdering system and the newly introduced SPR-Pathfinder PRO simulation software to the show, which runs...
+The SFM-AT350 handles metal parts up to 400 x 400 x 400 millimeters and 100 kilograms, and is built … The post Solukon to show depowdering system and simulation software at IMTS 2026 appeared first on VoxelMatters -...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Solukon-IMTS-2026-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/solukon-to-show-depowdering-system-and-simulation-software-at-imts-2026
 
-💻 New Manufacturing Observatory Tackles Industry’s Commercialization Problem
-TAAG Global and the University of Bristol Business School have announced a joint intelligence platform called the Advanced Manufacturing Observatory.
-Its aim is to provide manufacturers and investors with business model frameworks, commercial strategies, and market intelligence, reported by 3D Printing Industry on Aug 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-1-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/new-manufacturing-observatory-tackles-industrys-commercialization-problem-253560
+🖨 Rowan University partners with Phase3D to advance data-driven metal AM research, education &amp; process confidence
+The public research institution has partnered with the in-situ quality assurance technology provider in a bid to support process understanding, anomaly detection, qualification research, and hands-on education.
+Reported by TCT Magazine on Aug 06, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Phase3D-Fringe-structured-light-in-situ-monitoring-system-technology.-Photo-via-Phase3D.png
+🔗 Read more: https://www.tctmagazine.com/rowan-university-partners-with-phase3d-to-advance-data-driven-metal-am-research-education-process-confidence
 
-💻 3D printing lets Uderbekov’s UDRB sneaker come apart without glue
-Almaty-based designer Daniyar Uderbekov has released an updated version of UDRB, a modular sneaker system built around a 3D printed sole that lets the shoe be taken apart, repaired and reassembled without adhesives.
-The sole was produced through additive manufacturing using TPU, which allowed its form and cushioning to be adjusted to individual foot requirements, reported by VoxelMatters on Aug 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Modular-3D-printed-sneakers-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/3d-printing-lets-uderbekovs-udrb-sneaker-come-apart-without-glue
+🖨 Elmet Installs New System to Target Monolithic Hypersonic Heat Exchangers
+The Elmet Group’s subsidiary Elmet Technologies is installing a DMP Flex 350 Triple metal 3D printer from 3D Systems to produce heat exchangers for hypersonic vehicles.
+According to 3D Systems, the company expects to qualify and certify the system to begin production in 2026, reported by 3D Printing Industry on Aug 06, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/elmet-heat-exchanger-1.png-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers-253583
 
-💻 How to 3D print food-safe polymer parts: a guide to food-grade 3D printing
-If you search for food-safe 3D printed parts, you will find a jungle of conflicting claims and half-truths, often surrounded by marketing language that blurs the line between what is theoretically possible and what...
-The reality is more nuanced than most articles suggest, reported by VoxelMatters on Aug 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/truesil-axtra3d-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/how-to-3d-print-food-safe-polymer-parts-a-guide-to-food-grade-3d-printing
+💻 NAMI gains Saudi military manufacturing license
+Saudi Arabia’s National Additive Manufacturing and Innovation Company (NAMI) has received a Military Manufacturing License from the country’s General Authority for Military Industries (GAMI), authorizing the company...
+NAMI is now one of a limited number of companies in Saudi Arabia holding the authorization, according to … The post NAMI gains Saudi military manufacturing license appeared first on VoxelMatters - The heart of...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/NAMI-Saudi-military-manufacturing-license-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nami-gains-saudi-military-manufacturing-license
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "Qidi Plus5: New enclosed 3D printer launches with 65°C chamber heating and a 370°C hotend - Notebookcheck" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGFVLUJTMXh5N3E1d0dUbENOc1E2UXp4MkxvaTJSbnRIR3k5dVJxbEo2N2Z5T3lSby15S2h6RndHa1hZUlRnY2NnOWxsc1VHaktRZUs1VXMwdmtfZjZsNUt3bmNNWWdmZzFxTE5ET0k4TUVyV2FWSmdOazR3QWQtNHFoSG9obzNQc1ZUMHk4OUo1Y25SdFQ1Q21fQnhFZWxHaDI3YVA5VEpoMzBYVWFDYUpIYzRDdXREeEpORXluY0xrRnJDQWV6bWNheU5PZw?oc=5 | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy - How-To Geek" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0pxOUQwdl9mbElxQ2VXWDlwN3JFTFdXQ0U4N2RKaXVVMXJVeGVxeVZZZG1RUXhLUTBvUDZTWlZQZ3hpaF9jUWg1ZW1DY2xBY2RwMjV3YlpmNVlZREhGMUl6VWl1M0JQWWxNTElraklOY0tmWFBwWWF6ZkxGbDRWMDFvYmlzZnI2S1VqUHlVN2haS2lsWHQzazVKVW9RYk5rZEE?oc=5 | Complete rundown: https://www.quality3ds.com/

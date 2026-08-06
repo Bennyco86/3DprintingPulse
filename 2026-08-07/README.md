@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-07
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #212 - 2026-08-07
+## Stories
 
 🔥 3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy - How-To Geek
 3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy How-To Geek
@@ -48,9 +46,3 @@ Saudi Arabia’s National Additive Manufacturing and Innovation Company (NAMI) h
 NAMI is now one of a limited number of companies in Saudi Arabia holding the authorization, according to … The post NAMI gains Saudi military manufacturing license appeared first on VoxelMatters - The heart of...
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/NAMI-Saudi-military-manufacturing-license-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/nami-gains-saudi-military-manufacturing-license
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
