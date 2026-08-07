@@ -1,50 +1,52 @@
-﻿# 3D PRINTING PULSE #212 - 2026-08-07
+﻿# 3D PRINTING PULSE #213 - 2026-08-08
 
-🔥 3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy - How-To Geek
-3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy How-To Geek
-Reported by Google News - 3D Printing on Aug 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0pxOUQwdl9mbElxQ2VXWDlwN3JFTFdXQ0U4N2RKaXVVMXJVeGVxeVZZZG1RUXhLUTBvUDZTWlZQZ3hpaF9jUWg1ZW1DY2xBY2RwMjV3YlpmNVlZREhGMUl6VWl1M0JQWWxNTElraklOY0tmWFBwWWF6ZkxGbDRWMDFvYmlzZnI2S1VqUHlVN2haS2lsWHQzazVKVW9RYk5rZEE?oc=5
+🔥 Firestorm Labs prints more than 1,000 parts aboard USS Essex
+Firestorm Labs‘ xCell containerized manufacturing platform produced more than 1,000 parts aboard the USS Essex during a two-week transit to RIMPAC 2026 in Hawaii, marking the first maritime demonstration of its...
+The deployment was part of the Naval Postgraduate School’s (NPS) Consortium for Applied Manufacturing and Rapid Experimentation (CAMRE) RIMPAC distributed advanced … The post Firestorm Labs prints more than 1,000, reported by VoxelMatters on Aug 07, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Firestorm-USS-Essex-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/firestorm-labs-prints-more-than-1000-parts-aboard-uss-essex
 
-📷 Artec 3D adds a new metrology-grade laser scanner to its portfolio - 3dadept.com
-Artec 3D adds a new metrology-grade laser scanner to its portfolio 3dadept.com
-Reported by Google News - 3D Printing on Aug 06, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikAFBVV95cUxQOG9rc3VtdXhkX2NKSE9JRVNMb2h6aFNnTEdBdElsQl9mdWtzNTlXVHJmS29HUzV4Y2FvbmNjZHlGRVdzdWV4bm54VXRfNkV4UW4yNXBMeXdwVUtYUVpsZ09vRGQ1aGRzZE9lb0FNSnl3UW5wQzZCWDh4MEticlVvLUFZQjA5dHRPeHEwcFVoOWw?oc=5
+💻 ASTM proposes standard for ceramic AM design
+ASTM International, a global developer of standards, has set its sights on ceramic additive manufacturing.
+The organization’s additive manufacturing technologies committee has proposed a standard for guiding the design process for ceramic AM with the aim of minimizing common challenges that can occur with 3D printed, reported by VoxelMatters on Aug 07, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/lithoz-earmolds-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/astm-proposes-standard-for-ceramic-am-design
 
-📷 Creality Pika: smartphone-sized 3D scanner with Gaussian-Splatting technique - 3Druck.com
-Creality Pika: smartphone-sized 3D scanner with Gaussian-Splatting technique 3Druck.com
-Reported by Google News - 3D Scanners on Aug 04, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzFrbGJUQmNrUnpEU2NVU1d0S0ZHOVo0OFAwRm9DQm9CclFib3Rpd3N3Tm55ekZZbXFiWlhaZW5maHo4aFZVLUtvYkx0dWxNZXNhZjMzUDhyS0lrNWg2a2paeFRuaUpuR2pJOGt1UHgxSVpJSVViVXp3YnFyMEU4d0ppTWZCUUJLNER2b0V0MFVXRi0temVXRlVZOWhXRXd0QXVIY1FYOXBEMjJTYU1IaWcxZVVGUW8?oc=5
+🖨 America Makes Tackles AM Qualification Bottlenecks for Defense
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected the winning teams for Delta Qual 2.0, a $9 million project call aimed at cutting the qualification barriers that...
+defense industrial base, reported by 3D Printing Industry on Aug 07, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/America-Makes-and-NCDMM-name-winners-of-a-2M-OSW-ManTech-project-call-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/america-makes-tackles-am-qualification-bottlenecks-for-defense-253594
 
-💻 Sinto secures ISO certification for 3D printing of technical ceramics
-"The successful certification demonstrates that we have seamlessly maintained our high quality standards throughout the ownership transition."
-Reported by TCT Magazine on Aug 06, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/07.2026_SAC-EU_ISO-Certificate.png
-🔗 Read more: https://www.tctmagazine.com/sinto-secures-iso-certification-for-3d-printing-of-technical-ceramics
+🖨 Xenia backs Politecnico di Torino’s ASTRA rover with 3DF Materials filaments
+Xenia Materials is supporting ASTRA Team Polito, a student team at the Politecnico di Torino, with 3D printing filaments from its 3DF Materials range for the development of Scout, the team’s spherical lunar rover.
+The team is using Xenia’s filaments to produce the shell segment that forms Scout’s outer spherical structure, and the first results … The post Xenia backs Politecnico di Torino’s ASTRA rover with 3DF Materials, reported by VoxelMatters on Aug 07, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Xenia_ASTRA_ScoutTwo02-scaled-e1786099963164-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/xenia-backs-politecnico-di-torinos-astra-rover-with-3df-materials-filaments
 
-🖨 Solukon to show depowdering system and simulation software at IMTS 2026
-Solukon will exhibit at IMTS 2026 in Chicago for the second consecutive year, bringing its SFM-AT350 depowdering system and the newly introduced SPR-Pathfinder PRO simulation software to the show, which runs...
-The SFM-AT350 handles metal parts up to 400 x 400 x 400 millimeters and 100 kilograms, and is built … The post Solukon to show depowdering system and simulation software at IMTS 2026 appeared first on VoxelMatters -...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Solukon-IMTS-2026-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/solukon-to-show-depowdering-system-and-simulation-software-at-imts-2026
+🖨 Application spotlight: Boom Supersonic achieves 92% cost reduction in drill guide manufacture with FDM
+How Boom Supersonic is using Stratasys FDM technology to cut costs and time in fixture manufacturing.
+Reported by TCT Magazine on Aug 07, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/xb1-flight-13.png
+🔗 Read more: https://www.tctmagazine.com/application-spotlight-boom-supersonic-achieves-92-cost-reduction-in-drill-guide-manufacture-with-fdm
 
-🖨 Rowan University partners with Phase3D to advance data-driven metal AM research, education &amp; process confidence
-The public research institution has partnered with the in-situ quality assurance technology provider in a bid to support process understanding, anomaly detection, qualification research, and hands-on education.
-Reported by TCT Magazine on Aug 06, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Phase3D-Fringe-structured-light-in-situ-monitoring-system-technology.-Photo-via-Phase3D.png
-🔗 Read more: https://www.tctmagazine.com/rowan-university-partners-with-phase3d-to-advance-data-driven-metal-am-research-education-process-confidence
+💻 Cavan Sullivan Becomes First Footballer to Wear a Fully 3D Printed Boot in a Professional Match
+Philadelphia Union midfielder Cavan Sullivan made history on July 23, 2026, becoming the first footballer to wear a fully 3D printed boot in a top-level competitive match.
+The 16-year-old debuted Adidas’ Project R.A.P, reported by 3D Printing Industry on Aug 07, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-17.35.08-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match-253603
 
-🖨 Elmet Installs New System to Target Monolithic Hypersonic Heat Exchangers
-The Elmet Group’s subsidiary Elmet Technologies is installing a DMP Flex 350 Triple metal 3D printer from 3D Systems to produce heat exchangers for hypersonic vehicles.
-According to 3D Systems, the company expects to qualify and certify the system to begin production in 2026, reported by 3D Printing Industry on Aug 06, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/elmet-heat-exchanger-1.png-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/elmet-installs-new-system-to-target-monolithic-hypersonic-heat-exchangers-253583
+🖨 The Barnes Global Advisors Lands BPMI Metal AM Database Contract
+Other than workforce development, materials qualification is perhaps the greatest existing barrier to the scale-up of metal additive manufacturing (AM).
+Moreover, improving access to data on metals qualified for the, reported by 3DPrint.com on Aug 07, 2026.
+🔗 Read more: https://3dprint.com/329840/the-barnes-global-advisors-lands-bpmi-metal-am-database-contract
 
-💻 NAMI gains Saudi military manufacturing license
-Saudi Arabia’s National Additive Manufacturing and Innovation Company (NAMI) has received a Military Manufacturing License from the country’s General Authority for Military Industries (GAMI), authorizing the company...
-NAMI is now one of a limited number of companies in Saudi Arabia holding the authorization, according to … The post NAMI gains Saudi military manufacturing license appeared first on VoxelMatters - The heart of...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/NAMI-Saudi-military-manufacturing-license-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nami-gains-saudi-military-manufacturing-license
+🚀 Craft Health’s CraftMake Platform Gets a Peptide Test Run
+Specialty pharmaceutical company PharmaTher Holdings is collaborating with Craft Health Pte.
+Ltd., a Singapore-based pharmaceutical technology company, to test whether Craft Health’s CraftMake 3D printing platform can produce personalized peptide doses, reported by 3D Printing Industry on Aug 07, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/crarftmake-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/craft-healths-craftmake-platform-gets-a-peptide-test-run-253591
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "3 ways I use 3D printing to keep my photography hobby from sending me into bankruptcy - How-To Geek" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMiogFBVV95cUxPT0pxOUQwdl9mbElxQ2VXWDlwN3JFTFdXQ0U4N2RKaXVVMXJVeGVxeVZZZG1RUXhLUTBvUDZTWlZQZ3hpaF9jUWg1ZW1DY2xBY2RwMjV3YlpmNVlZREhGMUl6VWl1M0JQWWxNTElraklOY0tmWFBwWWF6ZkxGbDRWMDFvYmlzZnI2S1VqUHlVN2haS2lsWHQzazVKVW9RYk5rZEE?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Firestorm Labs prints more than 1,000 parts aboard USS Essex" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://www.voxelmatters.com/firestorm-labs-prints-more-than-1000-parts-aboard-uss-essex | Full pulse: https://www.quality3ds.com/

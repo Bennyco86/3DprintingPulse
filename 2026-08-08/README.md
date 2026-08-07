@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-08
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #213 - 2026-08-08
+## Stories
 
 🔥 Firestorm Labs prints more than 1,000 parts aboard USS Essex
 Firestorm Labs‘ xCell containerized manufacturing platform produced more than 1,000 parts aboard the USS Essex during a two-week transit to RIMPAC 2026 in Hawaii, marking the first maritime demonstration of its...
@@ -50,9 +48,3 @@ Specialty pharmaceutical company PharmaTher Holdings is collaborating with Craft
 Ltd., a Singapore-based pharmaceutical technology company, to test whether Craft Health’s CraftMake 3D printing platform can produce personalized peptide doses, reported by 3D Printing Industry on Aug 07, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/08/crarftmake-150x100.png
 Read more ? https://3dprintingindustry.com/news/craft-healths-craftmake-platform-gets-a-peptide-test-run-253591
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
