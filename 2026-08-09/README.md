@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-09
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #214 - 2026-08-09
+## Stories
 
 💻 Hyundai and Kia open first dedicated additive manufacturing facility - VoxelMatters
 Hyundai and Kia open first dedicated additive manufacturing facility VoxelMatters
@@ -47,9 +45,3 @@ Read more ? https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3JpU3ZoMzFCYzB
 Cale Loveridge's MiniPin Pinball Machines Are Printable on Almost Any 3D Printer — With One Spool Hackster.io
 Reported by Google News - 3D Printing on Aug 07, 2026.
 Read more ? https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZTJpdnh1ZHFzUHIyUnZtbXBlSGx6U1lFdmdDLWFyX3Y5S0VGcnVYZ2hwWXg0TS13UlR1dlcxdFdtRHU3VjhSSnV1MnNiNkI0cjN1Z3VfbGFOU3JsZXhRLTI5NGN0UDkzUTlibTB0WjF3blQzTXV3MUpCQ2ptSE9STW1pX0xJVlFUbVBjQXNMYmdVZmtVRHRqLWVKdWRScDF0N3JCTUFqUWMxY1d0WVQ4Ml9fLVIzMUhvM202OUQtOTEzUDJTRUkwdHg5VUZLRmY2WlNv?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

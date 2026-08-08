@@ -1,52 +1,49 @@
-﻿# 3D PRINTING PULSE #213 - 2026-08-08
+﻿# 3D PRINTING PULSE #214 - 2026-08-09
 
-🔥 Firestorm Labs prints more than 1,000 parts aboard USS Essex
-Firestorm Labs‘ xCell containerized manufacturing platform produced more than 1,000 parts aboard the USS Essex during a two-week transit to RIMPAC 2026 in Hawaii, marking the first maritime demonstration of its...
-The deployment was part of the Naval Postgraduate School’s (NPS) Consortium for Applied Manufacturing and Rapid Experimentation (CAMRE) RIMPAC distributed advanced … The post Firestorm Labs prints more than 1,000, reported by VoxelMatters on Aug 07, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Firestorm-USS-Essex-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/firestorm-labs-prints-more-than-1000-parts-aboard-uss-essex
+💻 Hyundai and Kia open first dedicated additive manufacturing facility - VoxelMatters
+Hyundai and Kia open first dedicated additive manufacturing facility VoxelMatters
+Reported by Google News - 3D Printing on Aug 08, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxPNndzQnYzTEx6bWF4RnRNVWF3T2RUZTRuUl96Y1hyQ3ZDd1NpS2EzRThYQjEwMHRQNE1yZFVHeS01bTE4TFNGR25EamoyemlpSUktV1RNZ0dCS3EyRTBZM1hONUNYNzB6Ym1GTldUOVJxZlJGNnpMUlFiZHBSdFVLN3F5QXE3M1Fla1BfWjgtRFpRWHRkelF6dTRnejRHS1HSAaQBQVVfeXFMTzJGcDlybmFjeW45NWlHQzMzMWtUVEcwNTd3UmhwTkFkSVM4anlNTEdqcTMxcmY2bEZXSHctWU0wVkdORkNJUEsyYnhUMHpQVGhoNlNnZkpqTTBXUnYwTTdKeV9tOXJYSFk0aGhLUXMycEp2Q0ZseUJnUTFsZGlWVl9YR3kyM2RuWkdVMTJKazlPU0RPRndFaF9RQWJ6WHpoMmNkSVI?oc=5
 
-💻 ASTM proposes standard for ceramic AM design
-ASTM International, a global developer of standards, has set its sights on ceramic additive manufacturing.
-The organization’s additive manufacturing technologies committee has proposed a standard for guiding the design process for ceramic AM with the aim of minimizing common challenges that can occur with 3D printed, reported by VoxelMatters on Aug 07, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/lithoz-earmolds-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/astm-proposes-standard-for-ceramic-am-design
+🖨 AMCM opens new large-format metal AM assembly site in Weilheim
+AMCM, the custom metal 3D printing systems subsidiary of EOS GmbH, has opened a new production facility in Weilheim, Germany, built in collaboration with the Bauer Group to add capacity for assembling and...
+The facility allows multiple AMCM M 450, AMCM M 4K, and AMCM M 8K systems, along … The post AMCM opens new large-format metal AM assembly site in Weilheim appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/AMCM_M8K_part-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/amcm-opens-new-large-format-metal-am-assembly-site-in-weilheim
 
-🖨 America Makes Tackles AM Qualification Bottlenecks for Defense
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have selected the winning teams for Delta Qual 2.0, a $9 million project call aimed at cutting the qualification barriers that...
-defense industrial base, reported by 3D Printing Industry on Aug 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/06/America-Makes-and-NCDMM-name-winners-of-a-2M-OSW-ManTech-project-call-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/america-makes-tackles-am-qualification-bottlenecks-for-defense-253594
+🏠 UNIST, 3DFactory to develop 3D printed ship propellers for U.S. Navy
+UNIST’s 3D Printing Convergence Technology Center and startup 3DFactory were selected for South Korea’s Ministry of Trade, Industry and Energy (MOTIE) “2026 Second Shipbuilding and Marine Industry Technology...
+The 54-month project totals 11 billion won ($7.74 million), including 8.5 billion won ($5.98 million) … The post UNIST, 3DFactory to develop 3D printed ship propellers for U.S, reported by VoxelMatters on Aug 08, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/UNIST-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/unist-3dfactory-to-develop-3d-printed-5-meter-ship-propellers-for-u-s-navy-mro-market
 
-🖨 Xenia backs Politecnico di Torino’s ASTRA rover with 3DF Materials filaments
-Xenia Materials is supporting ASTRA Team Polito, a student team at the Politecnico di Torino, with 3D printing filaments from its 3DF Materials range for the development of Scout, the team’s spherical lunar rover.
-The team is using Xenia’s filaments to produce the shell segment that forms Scout’s outer spherical structure, and the first results … The post Xenia backs Politecnico di Torino’s ASTRA rover with 3DF Materials, reported by VoxelMatters on Aug 07, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Xenia_ASTRA_ScoutTwo02-scaled-e1786099963164-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/xenia-backs-politecnico-di-torinos-astra-rover-with-3df-materials-filaments
+🚀 iAM3D launches large-format LPW Z2500 metal AM machine
+iAM3D has launched the LPW Z2500, a large-format laser directed energy deposition machine aimed at space-tech, aerospace, defense, oil and gas, heavy engineering and research applications.
+The multi-axis system offers a 2,000 x 2,000 x 2,500 mm build envelope inside a fully enclosed argon chamber designed for reactive and aerospace-grade alloys, including titanium, Inconel, tantalum … The post iAM3D, reported by VoxelMatters on Aug 07, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/iAM3D-LPW-Z2500-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/iam3d-launches-large-format-lpw-z2500-metal-am-machine
 
-🖨 Application spotlight: Boom Supersonic achieves 92% cost reduction in drill guide manufacture with FDM
-How Boom Supersonic is using Stratasys FDM technology to cut costs and time in fixture manufacturing.
-Reported by TCT Magazine on Aug 07, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/07/xb1-flight-13.png
-🔗 Read more: https://www.tctmagazine.com/application-spotlight-boom-supersonic-achieves-92-cost-reduction-in-drill-guide-manufacture-with-fdm
+🚀 University of Melbourne students fire up 3D printed rocket engine
+University of Melbourne engineering students, working with researchers from CSIRO’s Lab22, fired a 3D printed regeneratively cooled liquid bipropellant rocket engine, becoming the first Australian student team to...
+The engine, named Slinky, was developed through a University of … The post University of Melbourne students fire up 3D printed rocket engine appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Australian-rocket-engine-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/university-of-melbourne-students-fire-up-3d-printed-rocket-engine
 
-💻 Cavan Sullivan Becomes First Footballer to Wear a Fully 3D Printed Boot in a Professional Match
-Philadelphia Union midfielder Cavan Sullivan made history on July 23, 2026, becoming the first footballer to wear a fully 3D printed boot in a top-level competitive match.
-The 16-year-old debuted Adidas’ Project R.A.P, reported by 3D Printing Industry on Aug 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-17.35.08-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/cavan-sullivan-becomes-first-footballer-to-wear-a-fully-3d-printed-boot-in-a-professional-match-253603
+🖨 3D printers create new safety threat in schools - Ahwatukee Foothills News
+3D printers create new safety threat in schools Ahwatukee Foothills News
+Reported by Google News - 3D Printing on Aug 08, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3FQaTBKSGtTaDBnaXhpZnB2dXlRSTgxUHlsTm1RcHZFMmR2Y3ZUN1Vyd2ZfbmZqZ0t1clVyOEkwTTZBS1BKTlR0S2YzYlZqamprSklrdndsMFl1X05oY1dfTHpCNnFPb2pvUlA3NkRseTFfMm83dGRjSjN1THRpZzEtbW13bWZpSWNUcVBCMlZ4bWZfWDNJSW5Ebk15aURydjFiTnhSajBRUVQ2SWlSelRDLUFyZENuRmRCcUtTWW92VHAxTl8w?oc=5
 
-🖨 The Barnes Global Advisors Lands BPMI Metal AM Database Contract
-Other than workforce development, materials qualification is perhaps the greatest existing barrier to the scale-up of metal additive manufacturing (AM).
-Moreover, improving access to data on metals qualified for the, reported by 3DPrint.com on Aug 07, 2026.
-🔗 Read more: https://3dprint.com/329840/the-barnes-global-advisors-lands-bpmi-metal-am-database-contract
+🖨 Clear filament transforms cheap LED strips into high-end accent lighting for pennies - How-To Geek
+Clear filament transforms cheap LED strips into high-end accent lighting for pennies How-To Geek
+Reported by Google News - 3D Printing on Aug 07, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3JpU3ZoMzFCYzBOVXVEajhyamxtUGxCU1NMUkFkSjJaZkxiYVBfTTFubWU0N0dHeXZoMUY2cjB1X05NLS1HQmxuczJrS0NITlRLTWpvVXZWaXFMX0RKdUdPSUdla0JzZDl6NV9JVnZSZ09MbDd4V1N6OTE1QXdKYXN5NHRuUnRTTFdwZnpCNHBuTHZsT0hSX0RyWGRIUjFTbE4zWGptY29Va2YzWVI2RQ?oc=5
 
-🚀 Craft Health’s CraftMake Platform Gets a Peptide Test Run
-Specialty pharmaceutical company PharmaTher Holdings is collaborating with Craft Health Pte.
-Ltd., a Singapore-based pharmaceutical technology company, to test whether Craft Health’s CraftMake 3D printing platform can produce personalized peptide doses, reported by 3D Printing Industry on Aug 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/crarftmake-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/craft-healths-craftmake-platform-gets-a-peptide-test-run-253591
+🖨 Cale Loveridge's MiniPin Pinball Machines Are Printable on Almost Any 3D Printer — With One Spool - Hackster.io
+Cale Loveridge's MiniPin Pinball Machines Are Printable on Almost Any 3D Printer — With One Spool Hackster.io
+Reported by Google News - 3D Printing on Aug 07, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZTJpdnh1ZHFzUHIyUnZtbXBlSGx6U1lFdmdDLWFyX3Y5S0VGcnVYZ2hwWXg0TS13UlR1dlcxdFdtRHU3VjhSSnV1MnNiNkI0cjN1Z3VfbGFOU3JsZXhRLTI5NGN0UDkzUTlibTB0WjF3blQzTXV3MUpCQ2ptSE9STW1pX0xJVlFUbVBjQXNMYmdVZmtVRHRqLWVKdWRScDF0N3JCTUFqUWMxY1d0WVQ4Ml9fLVIzMUhvM202OUQtOTEzUDJTRUkwdHg5VUZLRmY2WlNv?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Firestorm Labs prints more than 1,000 parts aboard USS Essex" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://www.voxelmatters.com/firestorm-labs-prints-more-than-1000-parts-aboard-uss-essex | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Hyundai and Kia open first dedicated additive manufacturing facility - VoxelMatters" because it highlights where practical 3D printing innovation is moving next. Direct link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPNndzQnYzTEx6bWF4RnRNVWF3T2RUZTRuUl96Y1hyQ3ZDd1NpS2EzRThYQjEwMHRQNE1yZFVHeS01bTE4TFNGR25EamoyemlpSUktV1RNZ0dCS3EyRTBZM1hONUNYNzB6Ym1GTldUOVJxZlJGNnpMUlFiZHBSdFVLN3F5QXE3M1Fla1BfWjgtRFpRWHRkelF6dTRnejRHS1HSAaQBQVVfeXFMTzJGcDlybmFjeW45NWlHQzMzMWtUVEcwNTd3UmhwTkFkSVM4anlNTEdqcTMxcmY2bEZXSHctWU0wVkdORkNJUEsyYnhUMHpQVGhoNlNnZkpqTTBXUnYwTTdKeV9tOXJYSFk0aGhLUXMycEp2Q0ZseUJnUTFsZGlWVl9YR3kyM2RuWkdVMTJKazlPU0RPRndFaF9RQWJ6WHpoMmNkSVI?oc=5 | Full coverage: https://www.quality3ds.com/
