@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-10
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #215 - 2026-08-10
+## Stories
 
 💻 These 3D-printed lens adapters are a game changer for camera nerds - How-To Geek
 These 3D-printed lens adapters are a game changer for camera nerds How-To Geek
@@ -43,9 +41,3 @@ Read more ? https://news.google.com/rss/articles/CBMigwJBVV95cUxNWFV6Y0I1R1U5Sm9
 Peculiarities of Prototyping for Lightly Loaded Plastic Machine Parts Using 3D Printing Springer Nature Link
 Reported by Google News - 3D Printing on Aug 08, 2026.
 Read more ? https://news.google.com/rss/articles/CBMia0FVX3lxTE1BUnBDdDVSd1JNZzExQlZPeFg2dHRMMk9SekItUXhXMHJQa0xQeWJ2bElCT3VzekU4V2hCc3RiaWo4dExjallhcmlRY1ZpS09zNWVZdV9nd21lS29vQmFMb1ZHTGNNU2dNU3NN?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
