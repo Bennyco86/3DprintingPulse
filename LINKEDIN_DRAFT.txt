@@ -1,45 +1,51 @@
-﻿# 3D PRINTING PULSE #215 - 2026-08-10
+﻿# 3D PRINTING PULSE #216 - 2026-08-11
 
-💻 These 3D-printed lens adapters are a game changer for camera nerds - How-To Geek
-These 3D-printed lens adapters are a game changer for camera nerds How-To Geek
-Reported by Google News - 3D Printing on Aug 09, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiekFVX3lxTE5fbEd5SFFPakJUT19NcGFYQzIzZmJObHpXaXYyRThlU0pEWGxUWFpfMkphQnRFT1c3XzdSMTM1SVBIa3JUNzdVaXpmWDFES1B5dGJySFlCS3Axd0RhN1N3QWdhc3hXWXFzcm9jeW5rWkZpa0VNbEhZczlR?oc=5
+🔥 New 3D Printing System Makes Interactive Objects that Change Appearance Based on User Interaction
+Many dynamic, interactive objects change their appearance through the use of electronics, like LEDs and screens.
+But if the object is squished, twisted, or pressed too hard, or exposed to, reported by 3DPrint.com on Aug 09, 2026.
+🔗 Read more: https://3dprint.com/330110/new-3d-printing-system-makes-interactive-objects-that-change-appearance-based-on-user-interaction
 
-🖨 Elegoo’s Beginner-Friendly 3D Resin Printer Is Even Better at Less Than $200 - CNET
-Elegoo’s Beginner-Friendly 3D Resin Printer Is Even Better at Less Than $200 CNET
-Reported by Google News - 3D Printing on Aug 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMickFVX3lxTFBUY2hvMzBtU1JOYmIwbXM1aTNZVEFNSE5hTHA4SzhZSmR6Y0VrSTA5Z0lyRzZpRVFzZzJsamVzaFBhTmM4Z0VvVnpsQUplZXhRbEh0eUFWTmhjMW04eFVrLU8taHY1WF94YWtvaTJaWUZPdw?oc=5
+📷 Backflip AI Cuts Part Digitization From $1,500 to $10 With New CAD Foundation Model
+San Francisco-based Backflip AI has made its AI copilot for CAD generally available, releasing it as an add-in for Autodesk Fusion and as a standalone web application.
+The company’s second-generation foundation model converts 3D scans, STL files and other mesh data into fully editable parametric CAD models with complete feature trees, cutting the cost of…, reported by 3D Printing Industry on Aug 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/1785860684368-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/backflip-ai-cuts-part-digitization-from-1500-to-10-with-new-cad-foundation-model-253596
 
-💻 Continously Extruding 3D Printed Tubes With Compressed Air - hackaday.com
-Continously Extruding 3D Printed Tubes With Compressed Air hackaday.com
-Reported by Google News - 3D Printing on Aug 09, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMilgFBVV95cUxQZkVDV2xZRld0SDlWM2o0TTFiYW9TcFlRUDJwOVMtcDF1SHctTEV0NEppYWpqYTJoUmRlLTZsNzZGRllRWnBXMG9aclVQTFlYdmgxN0NINHQ4aHVOZURieHUtOG1xLV9UTXplaWdsN1ZNLVpNZmxoUDlPUjZpdjdVQjBUb3Ayd1FvT05za0VUdjBKZ3N5MEE?oc=5
+📷 Import Substitution: Russian Ministry of Industry and Trade Recognizes First Fully Russian 3D Scanner - www1.ru
+Import Substitution: Russian Ministry of Industry and Trade Recognizes First Fully Russian 3D Scanner www1.ru
+Reported by Google News - 3D Scanners on Aug 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQUpaZGpNMmlfRUdzMi1aTjE5RG9wcE1vR2hvampkRXdBZHdycmRyWXZVMTVYa3kyNTFuaGpqWWI5SmF5eUJzWEhsWmdJb1M2dVJYQnFZQVU4QWZreW1WZHdBTXdLdEp3Z1pDdjM1bnNtNS1acTBCQnRsb1Z2aFZpRWxPNTYzRHF1bGdfOHVlQXkzdTBHTWZ5bThSbG56LUNtQ05CVHNsMWlIWUtMVktvS0VOaFE3ejBzSmtJ0gHAAUFVX3lxTFBPeW1hS002cFFJSDVfQlJQWmM5cHdPMzJYQ2dCdTRIbVNIaTM3dzhLUG9nb3MzSFpTTERWWGZhXzRUdmluZGY0M2wtOHBzcWJSWUVhZlUwODA2WGp0eUU1c1B5SlNKdzQ5MHcwY0VUcUhiMVhNZ1NWdjVpZkcyeDY1SHRVbWtsb2RlR2FSbnVFdWZQcnJwemVTTWhNOE1MdDEwcjhiVnExanVENkROb3BVZmx5Q0M4MFo5R0M1QUxKeQ?oc=5
 
-🚀 AMCM Commissions Weilheim Facility to Expand Production of Large-Format Space Propulsion 3D Printers - satnews.com
-AMCM Commissions Weilheim Facility to Expand Production of Large-Format Space Propulsion 3D Printers satnews.com
-Reported by Google News - 3D Printing on Aug 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXE0NndJU1o2OWVNTERMelRIOFU5ZXBrTUtYN0t4TjZKUTBsb2s4NGVmb09BbUdJT3dkblFOWHBha1VpbkNPakxtcEtrdlVRMFdzalhKbVUyWERoTWJzUUZQV0lvT1RvNHVzUEV2NEIxR25Sc1Y1X1ZOV1pzRWwzTWxUempSMDhfOVE4SGNFSGVqNmFibTcwaS01b2ducjU4cTBaRzFLSlJQTW1laUU4WmNscEpMTEtHN1YtSG5YSG5EOFVtMnIta0VCN2g?oc=5
+💻 Elite Sports Show the Value of AM
+Additive Manufacturing UK (AMUK) said during the recently concluded 2026 Commonwealth Games in Glasgow that many of the performance-critical components in competition were additively manufactured.
+These parts were built into handlebars, swimming equipment, or adapted gear for para-sport athletes, reported by 3D Printing Industry on Aug 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Claire-Cashmore-Sram-blip-grip-special-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/elite-sports-show-the-value-of-am-253664
 
-📰 These 3 desk upgrades don't exist on Amazon—so I printed them instead - How-To Geek
-These 3 desk upgrades don't exist on Amazon—so I printed them instead How-To Geek
-Reported by Google News - 3D Printing on Aug 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1E3dUNqSUpjeWY2VWlVNDhIS3R1cHJmbVgwclBSYUxiMUlyYjVLUmJQdmQwSVQzd2JuSm4xdl9qTG44RFVFYXQxaEhzaGV1Smc0aW5ZQmpJVU9hcmVLN2JGa3VZR3Y0bTM1bjJhUWhxazU3MVN3Vm9YcjBqbENKQmpPbE91LTI0R1g0TWg1Tk85eVdGb1RF?oc=5
+🖨 US Air Force extends metal LFAM program with additional $9M for 3D Systems
+Back in 2023, 3D Systems entered into a ~$10.76M contract with the US Air Force to develop a large-scale metal 3D printing platform for the production of flight-ready parts at scale.
+The program, called “Large-Format Metal 3D Printer Advanced Technology Demonstrator (GEN-II DMP-1000)”, has since been extended twice: once last year with an additional $7.65M … The post US Air Force extends metal, reported by VoxelMatters on Aug 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/3d-systems-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/us-air-force-extends-metal-lfam-program-with-additional-9m-for-3d-systems
 
-📰 Error correction tech boosts the 3D printing of big composite parts - Technology Org
-Error correction tech boosts the 3D printing of big composite parts Technology Org
-Reported by Google News - 3D Printing on Aug 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOXzVfMkM5NmZuRTFJNUdTMmJDclJqcnlzbXZmWlpGRlhDSTJ2aTlsWm9PRUZpZ3kxYi0zNHNYakF0RlhUQ285alhoN1p0cVBnbDAzeHMyMHZnMUlNemVFYWkwQ3BsYnJQanRJSktONVZGVDVheTFBZ1d1YVhTYnJXNVBUOWJzTjU0RUpiVFZjNmRRY3VwZ3hmWTR0aldFaHRJcFNQRUJGR0hmQQ?oc=5
+🖨 Hydrogen’s Metal Compatibility Challenge Draws New Industry Research
+Industrial 3D printing firm EOS has joined MAT-H2, a consortium of ten organizations working to advance metallic materials and technologies that can withstand hydrogen environments.
+The consortium addresses a specific technical barrier, reported by 3D Printing Industry on Aug 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/EOS_ScanningElectronMicroscopy_Screen-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/hydrogens-metal-compatibility-challenge-draws-new-industry-research-253669
 
-📰 U.S. Marines 3D-Print Over 1,000 Parts, 12 FPV Drones Aboard USS Essex at Sea in 3.6m Waves, Then Fly Them at RIMPAC Exercises - Defense Express
-Marines 3D-Print Over 1,000 Parts, 12 FPV Drones Aboard USS Essex at Sea in 3.6m Waves, Then Fly Them at RIMPAC Exercises Defense Express
-Reported by Google News - 3D Printing on Aug 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMigwJBVV95cUxNWFV6Y0I1R1U5Sm9xMFRsa3ZJcjI0eC1odUdNR0ZsMlVJWWJ2Ty1MMEpyZE8yU1ZJTk9kNzlTWkFZTW4wRW5UbnViYTRXSmJIR2QycXdrQ3RWMkNHakFrclltT1F0S3lYbDJrUThiV2FXU1Q2M1NLdnRnU293TUd5U0FESzFsNmp2SzRKS2FXRHd5WFoySnc3TWx5QVpPZGR0MURYWjFOSHhEVHJVRkVla0podWYxdllMSEdUS0lkSlpnaTNPX0VzSC1JbHZDQ1VqYTdoZGRLLWVrOWFkaUlub3dRYjBVNnk5MmVZZm5PWGdRV25MellHQ2lxQVBfbVVYeWRz?oc=5
+🖨 Inside Hyundai Motor Group’s Additive Manufacturing Solution Center
+South Korean motor vehicle manufacturing companies Hyundai Motor and Kia have given a detailed look inside the Additive Manufacturing Solution Center (AMSC), a facility at their shared Namyang Research and...
+The AMSC is the first site Hyundai…, reported by 3D Printing Industry on Aug 10, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/gallery-0731-02-150x100.avif
+🔗 Read more: https://3dprintingindustry.com/news/inside-hyundai-motor-groups-additive-manufacturing-solution-center-253683
 
-📰 Peculiarities of Prototyping for Lightly Loaded Plastic Machine Parts Using 3D Printing - Springer Nature Link
-Peculiarities of Prototyping for Lightly Loaded Plastic Machine Parts Using 3D Printing Springer Nature Link
-Reported by Google News - 3D Printing on Aug 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMia0FVX3lxTE1BUnBDdDVSd1JNZzExQlZPeFg2dHRMMk9SekItUXhXMHJQa0xQeWJ2bElCT3VzekU4V2hCc3RiaWo4dExjallhcmlRY1ZpS09zNWVZdV9nd21lS29vQmFMb1ZHTGNNU2dNU3NN?oc=5
+💻 Amaero locks in CEO Hank Holland with 60 million CDI pay package
+Amaero Inc., listed on the Australian securities exchange as 3DA, has re-signed Chief Executive Officer and Chair Hank Holland to a four-year contract running through June 2030, ending an arrangement in which he held...
+The deal grants Holland 60 million CHESS Depositary Interests (CDIs), … The post Amaero locks in CEO Hank Holland with 60 million CDI pay package appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/02/AMAERO_Refractory-Powders-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/amaero-locks-in-ceo-hank-holland-with-60-million-cdi-pay-package
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's standout topic: "These 3D-printed lens adapters are a game changer for camera nerds - How-To Geek" because it highlights where practical 3D printing innovation is moving next. Story: https://news.google.com/rss/articles/CBMiekFVX3lxTE5fbEd5SFFPakJUT19NcGFYQzIzZmJObHpXaXYyRThlU0pEWGxUWFpfMkphQnRFT1c3XzdSMTM1SVBIa3JUNzdVaXpmWDFES1B5dGJySFlCS3Axd0RhN1N3QWdhc3hXWXFzcm9jeW5rWkZpa0VNbEhZczlR?oc=5 | Explore more: https://www.quality3ds.com/
+Big conversation driver today: "New 3D Printing System Makes Interactive Objects that Change Appearance Based on User Interaction" because it highlights where practical 3D printing innovation is moving next. Source: https://3dprint.com/330110/new-3d-printing-system-makes-interactive-objects-that-change-appearance-based-on-user-interaction | Complete rundown: https://www.quality3ds.com/

@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #216 - 2026-08-11
+## Stories
 
 🔥 New 3D Printing System Makes Interactive Objects that Change Appearance Based on User Interaction
 Many dynamic, interactive objects change their appearance through the use of electronics, like LEDs and screens.
@@ -49,9 +47,3 @@ Amaero Inc., listed on the Australian securities exchange as 3DA, has re-signed 
 The deal grants Holland 60 million CHESS Depositary Interests (CDIs), … The post Amaero locks in CEO Hank Holland with 60 million CDI pay package appeared first on VoxelMatters - The heart of additive manufacturing.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/02/AMAERO_Refractory-Powders-1-150x150.jpg
 Read more ? https://www.voxelmatters.com/amaero-locks-in-ceo-hank-holland-with-60-million-cdi-pay-package
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
