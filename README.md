@@ -2,54 +2,52 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #217 - 2026-08-12
+### 3D PRINTING PULSE #218 - 2026-08-13
 
-🔥 Continuous Composites sues Fibre Seek over continuous fiber patents
-Continuous Composites Inc.
-has filed a patent infringement lawsuit against Anisoprint S.a.r.l, reported by VoxelMatters on Aug 11, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Continuous-Composites-lawsuit-Fibre-Seek-150x150.jpg
-Read more ? https://www.voxelmatters.com/continuous-composites-sues-fibre-seek-over-continuous-fiber-patents
+🔥 America Makes elects new members to executive committee
+America Makes has elected 11 members to its Executive Committee for the 2026-28 term, with eight chosen from the institute’s non-profit, academic and industry membership sectors, and three appointed government...
+Each elected member serves a two-year term, and the body meets regularly to guide America Makes on strategy, policy and advocacy, reported by VoxelMatters on Aug 12, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2021/10/AmericaMakes-150x150.jpg
+Read more ? https://www.voxelmatters.com/america-makes-elects-new-members-to-executive-committee
 
-💻 Ingleborough Cave guides explore 3D printing to restore ancient stalactite pillar
-Guides at Ingleborough Cave in North Yorkshire, England, have been exploring whether 3D printing could help repair the ‘Pillar’, a calcite formation made up of 12-and-a-half stalactites, part of which broke off...
-The formation is estimated to have begun growing shortly after the last ice age and could be up to … The post Ingleborough Cave guides explore 3D printing to restore ancient stalactite pillar appeared first on, reported by VoxelMatters on Aug 11, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Ingleborough-Cave-3D-printing-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/ingleborough-cave-guides-explore-3d-printing-to-restore-ancient-stalactite-pillar
+📷 Upgrade Your Back-to-School Gear: Save Up to 20% on Selected Revopoint 3D Scanners - Notebookcheck
+Upgrade Your Back-to-School Gear: Save Up to 20% on Selected Revopoint 3D Scanners Notebookcheck
+Reported by Google News - 3D Scanners on Aug 12, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFdVZHVISFlJeU1nclk0bEVrSi10LW1pU2RYZDBVaWlrT0ZJd1ROSDdSVGZaU1ZPNFhKVVk3MDMyTXJxVExCYlRkYWZ5YXRpbzA2ZndJVUZOZFVsS2pURVlOQTd6UW5DVEZYMU1IYkpiRnFjSkNfOFNXb2pDcXFvRHAzVjlYWjJHc2J3Rlc1X3Q3Y21KekZUYjljV1pVUUg3bktTNTBZUWlKemZucFdFNDNkNmFnUUFqeGNFX2swblBoSHc?oc=5
 
-🖨 Stratasys to develop on-site quality assurance capabilities for F3300 & F900 3D printers via $7.8m DoW award
-The 2026 America Makes and the Department of War (DoW) Organic Industrial Base (OIB) Modernization Challenge has provided the funding, with work to commence over the next two years.
-Reported by TCT Magazine on Aug 11, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/F3300-Stratasys-FDM-3D-Printer-WEB-1.png
-Read more ? https://www.tctmagazine.com/stratasys-to-develop-on-site-quality-assurance-capabilities-for-f3300-f900-3d-printers-via-7-8m-dow-award
+📷 Save Big on Revopoint 3D Scanners This August - 3dprintingindustry.com
+Save Big on Revopoint 3D Scanners This August 3dprintingindustry.com
+Reported by Google News - 3D Printing on Aug 12, 2026.
+Read more ? https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnpFQVV5OWsyOWlKc1NNeFcwLU83bEJKNkhCQmtScWhoQWJmaGlDRVdReGs4MVhZRVJJOWR1R3VWQWJ6Nk1Pa0VMVVhpbGZhWWl1c2FGXzZ6TlA1SDVFaHNnWEprSUxCTWtQckFRWTgtalJWN3pmOEpwb1U0TnZxaXdYRHpjX3dENE82R0N3X3lEem8?oc=5
 
-🖨 3D Systems moves to next phase of US Air Force-funded large-format metal 3D printer program with $9m award
-This award represents the next planned phase of the program 3D Systems has been executing since 2023.
-Reported by TCT Magazine on Aug 11, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/factory-500-set-3_printer-image-new.png-1.png
-Read more ? https://www.tctmagazine.com/3d-systems-moves-to-next-phase-of-us-air-force-funded-large-format-metal-3d-printer-program-with-9m-award
+💻 New $6M Award Targets Tough Refractory AM Challenges
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have awarded $6 million to four project teams tasked with developing high-temperature refractory alloys for AM under the PADAM 2.0...
+The funding comes from the Air Force Research Laboratory’s Foundational Technologies Directorate (AFRL/REMD), reported by 3D Printing Industry on Aug 12, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/new-6m-award-targets-tough-refractory-am-challenges-253735
 
-🖨 MIT’s ShiftLens 3D Prints Objects That Change Their Appearance When You Use Them, Without Electronics
-Researchers at MIT have developed a design and fabrication system that produces 3D printed objects capable of switching their surface appearance in response to being pressed, slid, or turned, with no sensors,...
-Called ShiftLens, the system prints optics and mechanics together in a single pass on a multimaterial 3D printer, reported by 3D Printing Industry on Aug 11, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/08/image-1-150x100.png
-Read more ? https://3dprintingindustry.com/news/mits-shiftlens-3d-prints-objects-that-change-their-appearance-when-you-use-them-without-electronics-253675
+♻️ Recycled 3D printing waste becomes a resonant sculpture field
+Design studio Pre- and Post-, led by architect Hyojin Kwon, worked with percussionist and composer Jeremy Muller and architect and material researcher Misri Patel to build Ninefold: A Distributed Resonant Field, an...
+The team collected discarded PLA from fabrication laboratories, shredded it into … The post Recycled 3D printing waste becomes a resonant sculpture field appeared first on VoxelMatters - The heart of additive...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Recycled-3D-printing-waste-sculpture-field-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/recycled-3d-printing-waste-becomes-a-resonant-sculpture-field
 
-💻 Design-focused LFAM hub to open in Milan
-As a city that has long been recognized as a global fashion and architecture capital, it is no surprise that Milan today remains at the cutting edge of design, always embracing new modes of creating and innovative...
-This is made clear by Designtech, a Milan-based hub for design innovation, whose whole mission is … The post Design-focused LFAM hub to open in Milan appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/cofactory-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/design-focused-lfam-hub-to-open-in-milan
+🖨 Metal Powder Works appoints former Veeco Instruments Director of Operations as CCO
+Dr Ahmed El Desouky will be tasked with scaling MPW's manufacturing capacity and improving powder production yield.
+Reported by TCT Magazine on Aug 12, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/machine4.png
+Read more ? https://www.tctmagazine.com/metal-powder-works-appoints-former-veeco-instruments-director-of-operations-as-cco
 
-💻 Snowbird Technologies manufactures 316L parts aboard USS Essex during RIMPAC 2026
-Snowbird Technologies, a Florida-based developer of ruggedized manufacturing systems, has produced 316L stainless steel components aboard the USS Essex (LHD-2) during the Rim of the Pacific Exercise (RIMPAC) 2026.
-The demonstration formed part of a distributed manufacturing experiment led by the Naval Postgraduate School’s Consortium for Advanced Manufacturing Research and Education (CAMRE), reported by 3D Printing Industry on Aug 11, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/USS-Essex-Conducts-Amphibious-Assault-Operations-During-RIMPAC-2022-PO2-Donita-Burke-150x100.webp
-Read more ? https://3dprintingindustry.com/news/snowbird-technologies-manufactures-316l-parts-aboard-uss-essex-during-rimpac-2026-253695
+🖨 3D Systems Gets Further $9 Million For US Air Force Metal 3D Printing Project
+3D Systems has received an extra $9 million under the Air Force’s Large-Format Metal 3D Printer Advanced Technology Demonstrator program.
+In 2023, the firm already got $10.8 million from the, reported by 3DPrint.com on Aug 12, 2026.
+Read more ? https://3dprint.com/330221/3d-systems-gets-further-9-million-for-air-force-project
 
-🖨 What It’s Like to Be the First Patient to Wear LightForce’s 3D Printed Metal Braces
-This is Part II of our LightForce interview series.
-While Part I focused on the technology behind the company’s customized 3D printed brackets, Part II looks at what that technology, reported by 3DPrint.com on Aug 11, 2026.
-Read more ? https://3dprint.com/328246/what-its-like-to-be-the-first-patient-to-wear-lightforces-3d-printed-metal-braces
+🖨 Selective Laser Sintering (SLS) 3D Printing Guide 2026
+Selective Laser Sintering (SLS) 3D printing is a powder bed fusion process that uses a laser to fuse polymer powder into solid, functional parts layer by layer.
+SLS 3D printing works by spreading thin layers of material, selectively sintering each…, reported by 3D Natives on Aug 11, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2019/03/Eos-SLS.jpg
+Read more ? https://www.3dnatives.com/en/selective-laser-sintering100420174
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
