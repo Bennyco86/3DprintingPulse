@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-14
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #219 - 2026-08-14
+## Stories
 
 🔥 SAF Seeks Supreme Court Review in 3D Printing Lawsuit - Outdoor Wire
 SAF Seeks Supreme Court Review in 3D Printing Lawsuit Outdoor Wire
@@ -49,9 +47,3 @@ Volkmann USA, a manufacturer of powder handling equipment, is highlighting its v
 Installed upstream of one or more 3D printers, the vDryer removes absorbed moisture from metal powders and returns them…, reported by 3D Printing Industry on Aug 13, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/08/image-11-150x100.png
 Read more ? https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

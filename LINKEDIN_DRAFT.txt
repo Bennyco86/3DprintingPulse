@@ -1,50 +1,51 @@
-﻿# 3D PRINTING PULSE #218 - 2026-08-13
+﻿# 3D PRINTING PULSE #219 - 2026-08-14
 
-🔥 America Makes elects new members to executive committee
-America Makes has elected 11 members to its Executive Committee for the 2026-28 term, with eight chosen from the institute’s non-profit, academic and industry membership sectors, and three appointed government...
-Each elected member serves a two-year term, and the body meets regularly to guide America Makes on strategy, policy and advocacy, reported by VoxelMatters on Aug 12, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2021/10/AmericaMakes-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/america-makes-elects-new-members-to-executive-committee
-
-📷 Upgrade Your Back-to-School Gear: Save Up to 20% on Selected Revopoint 3D Scanners - Notebookcheck
-Upgrade Your Back-to-School Gear: Save Up to 20% on Selected Revopoint 3D Scanners Notebookcheck
-Reported by Google News - 3D Scanners on Aug 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZFdVZHVISFlJeU1nclk0bEVrSi10LW1pU2RYZDBVaWlrT0ZJd1ROSDdSVGZaU1ZPNFhKVVk3MDMyTXJxVExCYlRkYWZ5YXRpbzA2ZndJVUZOZFVsS2pURVlOQTd6UW5DVEZYMU1IYkpiRnFjSkNfOFNXb2pDcXFvRHAzVjlYWjJHc2J3Rlc1X3Q3Y21KekZUYjljV1pVUUg3bktTNTBZUWlKemZucFdFNDNkNmFnUUFqeGNFX2swblBoSHc?oc=5
-
-📷 Save Big on Revopoint 3D Scanners This August - 3dprintingindustry.com
-Save Big on Revopoint 3D Scanners This August 3dprintingindustry.com
+🔥 SAF Seeks Supreme Court Review in 3D Printing Lawsuit - Outdoor Wire
+SAF Seeks Supreme Court Review in 3D Printing Lawsuit Outdoor Wire
 Reported by Google News - 3D Printing on Aug 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMikwFBVV95cUxNZnpFQVV5OWsyOWlKc1NNeFcwLU83bEJKNkhCQmtScWhoQWJmaGlDRVdReGs4MVhZRVJJOWR1R3VWQWJ6Nk1Pa0VMVVhpbGZhWWl1c2FGXzZ6TlA1SDVFaHNnWEprSUxCTWtQckFRWTgtalJWN3pmOEpwb1U0TnZxaXdYRHpjX3dENE82R0N3X3lEem8?oc=5
+🔗 Read more: https://news.google.com/rss/articles/CBMiowFBVV95cUxObjYyX3lESVhMWktqLWNPamtCS0NPT0RRbms3My0xU01uRnE0dkRjVnZodHdZUlhYZ3FsaEQ5Z3hVc0pVVG9URmdhZWtsNGk3RzlpbFA2cExlTW9Cblh2SXcteXExZDNucDJvdTE5TzZKaGpQUDZqMXZSc01JXzZBUzFyUndmV0dzTXEydGVKaWlBaHAxU014OHFoU25JSE1BcE5Z?oc=5
 
-💻 New $6M Award Targets Tough Refractory AM Challenges
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have awarded $6 million to four project teams tasked with developing high-temperature refractory alloys for AM under the PADAM 2.0...
-The funding comes from the Air Force Research Laboratory’s Foundational Technologies Directorate (AFRL/REMD), reported by 3D Printing Industry on Aug 12, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/09/America-Makes-facility-face-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/new-6m-award-targets-tough-refractory-am-challenges-253735
+📷 I Scanned 3 Real Objects With Creality Pika 3D Scanner — The Detail Is INSANE برشلونة ضد الريال (czKIRjUOeA) - mshale.com
+I Scanned 3 Real Objects With Creality Pika 3D Scanner — The Detail Is INSANE برشلونة ضد الريال (czKIRjUOeA) mshale.com
+Reported by Google News - 3D Scanners on Aug 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUmJteFBMY0d2T3NKbVhlZ2hxS08zdDRtNEVNa1lpak1pVzVXME1jZmxUNFhWdTNXZDVuU0lVSHVyaGYtM3hVby1XUkRlMzQxOGZNRTRQNkY2QQ?oc=5
 
-♻️ Recycled 3D printing waste becomes a resonant sculpture field
-Design studio Pre- and Post-, led by architect Hyojin Kwon, worked with percussionist and composer Jeremy Muller and architect and material researcher Misri Patel to build Ninefold: A Distributed Resonant Field, an...
-The team collected discarded PLA from fabrication laboratories, shredded it into … The post Recycled 3D printing waste becomes a resonant sculpture field appeared first on VoxelMatters - The heart of additive...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Recycled-3D-printing-waste-sculpture-field-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/recycled-3d-printing-waste-becomes-a-resonant-sculpture-field
+💻 Valland 3D prints 70% more compact DB&amp;B valve for oil and gas
+In the oil and gas industry, it is vital that valve cavities be depressurized in a controlled way.
+This process requires specialized components like Double Block and Bleed (DB&amp;B) accessory valves to isolate and drain fluids safely, reported by VoxelMatters on Aug 13, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/valland-bleed-valve-1-150x150.jpeg
+🔗 Read more: https://www.voxelmatters.com/valland-3d-prints-70-more-compact-dbb-valve-for-oil-and-gas
 
-🖨 Metal Powder Works appoints former Veeco Instruments Director of Operations as CCO
-Dr Ahmed El Desouky will be tasked with scaling MPW's manufacturing capacity and improving powder production yield.
-Reported by TCT Magazine on Aug 12, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/machine4.png
-🔗 Read more: https://www.tctmagazine.com/metal-powder-works-appoints-former-veeco-instruments-director-of-operations-as-cco
+♻️ NIT Rourkela patents low-cost recycled-plastic filament system
+Researchers at the National Institute of Technology Rourkela have secured a patent for a low-cost, portable filament extrusion system that converts recycled plastic waste into composite filament for 3D printing.
+The system, built at an estimated cost of 45,000 rupees ($470), combines an extruder, a controlled cooling system and PID-based temperature controllers for precise control … The post NIT Rourkela patents low-cost, reported by VoxelMatters on Aug 13, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Indian-recycled-filament-patent-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nit-rourkela-patents-low-cost-recycled-plastic-filament-system
 
-🖨 3D Systems Gets Further $9 Million For US Air Force Metal 3D Printing Project
-3D Systems has received an extra $9 million under the Air Force’s Large-Format Metal 3D Printer Advanced Technology Demonstrator program.
-In 2023, the firm already got $10.8 million from the, reported by 3DPrint.com on Aug 12, 2026.
-🔗 Read more: https://3dprint.com/330221/3d-systems-gets-further-9-million-for-air-force-project
+🖨 Prusa refreshes its printer lineup with XL+, CORE One+ Gen 2, and CORE One L+
+Prusa Research is refreshing its entire 3D printer lineup this summer, updating the Prusa XL to the XL+ and releasing new CORE One+ (Gen 2) and CORE One L+ models.
+The refresh centers on everyday usability: cleaner print starts, better surface quality, easier operation, and a round of changes drawn directly from user and community … The post Prusa refreshes its printer lineup, reported by VoxelMatters on Aug 13, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/xl-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/prusa-refreshes-its-printer-lineup-with-xl-core-one-gen-2-and-core-one-l
 
-🖨 Selective Laser Sintering (SLS) 3D Printing Guide 2026
-Selective Laser Sintering (SLS) 3D printing is a powder bed fusion process that uses a laser to fuse polymer powder into solid, functional parts layer by layer.
-SLS 3D printing works by spreading thin layers of material, selectively sintering each…, reported by 3D Natives on Aug 11, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2019/03/Eos-SLS.jpg
-🔗 Read more: https://www.3dnatives.com/en/selective-laser-sintering100420174
+🖨 Former Apple SVP invests in Formlabs and appointed strategic advisor
+The company has also announced a series of changes to its Board of Directors, with founder and CEO Max Lobovsky becoming Chairman.
+Reported by TCT Magazine on Aug 13, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Apple_dan-riccio-begins-a-new-chapter-at-apple_01252020.jpg.news_app_ed-1.png
+🔗 Read more: https://www.tctmagazine.com/former-apple-svp-invests-in-formlabs-and-appointed-strategic-advisor
+
+🖨 Velo3D reports $20.7 million in Q2 2026 revenue, up 52.3% year over year
+Velo3D reported Q2 2026 revenue of $20.7 million, up +52.3% year over year from $13.6 million.
+Gross margin was 21.5%, compared with 11.7% in the second quarter of 2025, reported by VoxelMatters on Aug 13, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/02/Velo3D-facility-scaled-e1771411138554-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/velo3d-reports-20-7-million-in-q2-2026-revenue-up-52-3-year-over-year
+
+🖨 Volkmann highlights vDryer powder conditioning for metal AM workflows
+Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting moisture-related flowability and...
+Installed upstream of one or more 3D printers, the vDryer removes absorbed moisture from metal powders and returns them…, reported by 3D Printing Industry on Aug 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/image-11-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Recycled 3D printing waste becomes a resonant sculpture field" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Direct link: https://www.voxelmatters.com/recycled-3d-printing-waste-becomes-a-resonant-sculpture-field | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "SAF Seeks Supreme Court Review in 3D Printing Lawsuit - Outdoor Wire" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMiowFBVV95cUxObjYyX3lESVhMWktqLWNPamtCS0NPT0RRbms3My0xU01uRnE0dkRjVnZodHdZUlhYZ3FsaEQ5Z3hVc0pVVG9URmdhZWtsNGk3RzlpbFA2cExlTW9Cblh2SXcteXExZDNucDJvdTE5TzZKaGpQUDZqMXZSc01JXzZBUzFyUndmV0dzTXEydGVKaWlBaHAxU014OHFoU25JSE1BcE5Z?oc=5 | Full pulse: https://www.quality3ds.com/
