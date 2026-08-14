@@ -1,51 +1,49 @@
-﻿# 3D PRINTING PULSE #219 - 2026-08-14
+﻿# 3D PRINTING PULSE #220 - 2026-08-15
 
-🔥 SAF Seeks Supreme Court Review in 3D Printing Lawsuit - Outdoor Wire
-SAF Seeks Supreme Court Review in 3D Printing Lawsuit Outdoor Wire
-Reported by Google News - 3D Printing on Aug 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiowFBVV95cUxObjYyX3lESVhMWktqLWNPamtCS0NPT0RRbms3My0xU01uRnE0dkRjVnZodHdZUlhYZ3FsaEQ5Z3hVc0pVVG9URmdhZWtsNGk3RzlpbFA2cExlTW9Cblh2SXcteXExZDNucDJvdTE5TzZKaGpQUDZqMXZSc01JXzZBUzFyUndmV0dzTXEydGVKaWlBaHAxU014OHFoU25JSE1BcE5Z?oc=5
+🔥 Firestorm Labs 3D prints 1,000 parts and 12 flight-ready drones at sea
+Firestorm Labs printed more than 1,000 parts and built 12 flight-ready Squall FPV quadcopters inside a containerized factory aboard the USS Essex during a two-week transit to RIMPAC 2026.
+It is the first maritime run of its xCell expeditionary manufacturing platform, and the drones were subsequently flown in Hawaii by Marines from the 3rd Light…, reported by 3D Printing Industry on Aug 14, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/1785899007535-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea-253795
 
-📷 I Scanned 3 Real Objects With Creality Pika 3D Scanner — The Detail Is INSANE برشلونة ضد الريال (czKIRjUOeA) - mshale.com
-I Scanned 3 Real Objects With Creality Pika 3D Scanner — The Detail Is INSANE برشلونة ضد الريال (czKIRjUOeA) mshale.com
-Reported by Google News - 3D Scanners on Aug 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUmJteFBMY0d2T3NKbVhlZ2hxS08zdDRtNEVNa1lpak1pVzVXME1jZmxUNFhWdTNXZDVuU0lVSHVyaGYtM3hVby1XUkRlMzQxOGZNRTRQNkY2QQ?oc=5
+📷 EinScan Rigil v1.3.2: Update Brings AI-Powered Tracking and Hybrid Alignment for 3D Scanners - 3Druck.com
+EinScan Rigil v1.3.2: Update Brings AI-Powered Tracking and Hybrid Alignment for 3D Scanners 3Druck.com
+Reported by Google News - 3D Scanners on Aug 14, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0xiSk5QbEh2YUpmZ0NoWmM1WTdsU01iUF9INkVzZE9yc295ekpQMlpkOW1CbEVNMm1iSVA1NmdCc3BNRUlYUXhPeFgxNWVMRmJIWnR3U1lCU05uMzF6b1JLbFd6bFJrR0p3WmxuT2hrUG5yaktIZ0RVOWNvQkpOdTY2S2VwUDRGclp1bjRKZDVBUTVrMmFEYzN2MFBUQXlCVENSdFZEbVF0c1dObTdKTnJRMm5UaGZNdVVwaVo1NVZ1NjBqLUxqalFpVQ?oc=5
 
-💻 Valland 3D prints 70% more compact DB&amp;B valve for oil and gas
-In the oil and gas industry, it is vital that valve cavities be depressurized in a controlled way.
-This process requires specialized components like Double Block and Bleed (DB&amp;B) accessory valves to isolate and drain fluids safely, reported by VoxelMatters on Aug 13, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/valland-bleed-valve-1-150x150.jpeg
-🔗 Read more: https://www.voxelmatters.com/valland-3d-prints-70-more-compact-dbb-valve-for-oil-and-gas
+💻 Hyundai &amp; Kia Open Additive Manufacturing Solution Center in South Korea
+Hyundai Motor Group (which, in addition to owning Hyundai, holds a large ownership stake in Kia) maintains an R&amp;D center in Hwaseong, South Korea called Namyang, the company’s largest such...
+Reported by 3DPrint.com on Aug 13, 2026.
+🔗 Read more: https://3dprint.com/330242/hyundai-kia-open-additive-manufacturing-solution-center-in-south-korea
 
-♻️ NIT Rourkela patents low-cost recycled-plastic filament system
-Researchers at the National Institute of Technology Rourkela have secured a patent for a low-cost, portable filament extrusion system that converts recycled plastic waste into composite filament for 3D printing.
-The system, built at an estimated cost of 45,000 rupees ($470), combines an extruder, a controlled cooling system and PID-based temperature controllers for precise control … The post NIT Rourkela patents low-cost, reported by VoxelMatters on Aug 13, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Indian-recycled-filament-patent-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nit-rourkela-patents-low-cost-recycled-plastic-filament-system
+🖨 Lufthansa Technik 3D prints unsourceable polymer latch in titanium
+Lufthansa Technik redesigned a damage-prone polymer latch for metal 3D printing after finding it could not source the part as a standalone spare, cutting a recurring maintenance cost tied to roller shutter assemblies...
+The latch sits inside the roller shutter assembly and retains the roller brake and … The post Lufthansa Technik 3D prints unsourceable polymer latch in titanium appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Materialise-Lufthansa-Technik-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lufthansa-technik-3d-prints-unsourceable-polymer-latch-in-titanium
 
-🖨 Prusa refreshes its printer lineup with XL+, CORE One+ Gen 2, and CORE One L+
-Prusa Research is refreshing its entire 3D printer lineup this summer, updating the Prusa XL to the XL+ and releasing new CORE One+ (Gen 2) and CORE One L+ models.
-The refresh centers on everyday usability: cleaner print starts, better surface quality, easier operation, and a round of changes drawn directly from user and community … The post Prusa refreshes its printer lineup, reported by VoxelMatters on Aug 13, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/xl-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/prusa-refreshes-its-printer-lineup-with-xl-core-one-gen-2-and-core-one-l
+🖨 3D Systems Lands $9M to Complete Air Force Large-Format Metal 3D Printing Demonstrator
+3D Systems has been awarded an additional $9 million under the U.S.
+Air Force-funded Large-Format Metal 3D Printer Advanced Technology Demonstrator program, GEN-II DMP-1000, reported by 3D Printing Industry on Aug 14, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2021/02/3D-Systems-headquarters-in-Rock-Hill-South-Carolina.-Photo-via-CBRE-Group.-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/3d-systems-lands-9m-to-complete-air-force-large-format-metal-3d-printing-demonstrator-253803
 
-🖨 Former Apple SVP invests in Formlabs and appointed strategic advisor
-The company has also announced a series of changes to its Board of Directors, with founder and CEO Max Lobovsky becoming Chairman.
-Reported by TCT Magazine on Aug 13, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Apple_dan-riccio-begins-a-new-chapter-at-apple_01252020.jpg.news_app_ed-1.png
-🔗 Read more: https://www.tctmagazine.com/former-apple-svp-invests-in-formlabs-and-appointed-strategic-advisor
+🖨 The Formlabs Shuffle
+Formlabs is doing a management shuffle, pointing the firm even more surely towards an IPO or other exit event.
+For one, I just noticed that the company has a Head, reported by 3DPrint.com on Aug 14, 2026.
+🔗 Read more: https://3dprint.com/330385/formlabs-shuffle
 
-🖨 Velo3D reports $20.7 million in Q2 2026 revenue, up 52.3% year over year
-Velo3D reported Q2 2026 revenue of $20.7 million, up +52.3% year over year from $13.6 million.
-Gross margin was 21.5%, compared with 11.7% in the second quarter of 2025, reported by VoxelMatters on Aug 13, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/02/Velo3D-facility-scaled-e1771411138554-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/velo3d-reports-20-7-million-in-q2-2026-revenue-up-52-3-year-over-year
+🖨 The Formlabs X1 Versus the HP 1200: Costing, Throughput &amp; 30% Packing Density
+We are at one of the most important moments in the powder bed fusion market’s entire history.
+EOS is on the retreat, retrenching itself in higher-volume industrial systems while dropping, reported by 3DPrint.com on Aug 13, 2026.
+🔗 Read more: https://3dprint.com/329444/the-formlabs-x1-versus-the-hp-1200-costing-throughput-30-packing-density-2
 
-🖨 Volkmann highlights vDryer powder conditioning for metal AM workflows
-Volkmann USA, a manufacturer of powder handling equipment, is highlighting its vDryer vacuum drying module as an optional addition to the vLoader 250 powder conveyor, targeting moisture-related flowability and...
-Installed upstream of one or more 3D printers, the vDryer removes absorbed moisture from metal powders and returns them…, reported by 3D Printing Industry on Aug 13, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/image-11-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/volkmann-highlights-vdryer-powder-conditioning-for-metal-am-workflows-253777
+📰 LFAM applications, from sea to stage
+When we talk about large-format additive manufacturing (aka LFAM), we are not talking about a singular technology.
+Rather, the term encompasses any 3D printing technology capable of printing big parts, typically on a meter scale, reported by VoxelMatters on Aug 14, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/lfam-applications-sea-to-stage-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/lfam-applications-from-sea-to-stage
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "SAF Seeks Supreme Court Review in 3D Printing Lawsuit - Outdoor Wire" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMiowFBVV95cUxObjYyX3lESVhMWktqLWNPamtCS0NPT0RRbms3My0xU01uRnE0dkRjVnZodHdZUlhYZ3FsaEQ5Z3hVc0pVVG9URmdhZWtsNGk3RzlpbFA2cExlTW9Cblh2SXcteXExZDNucDJvdTE5TzZKaGpQUDZqMXZSc01JXzZBUzFyUndmV0dzTXEydGVKaWlBaHAxU014OHFoU25JSE1BcE5Z?oc=5 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Firestorm Labs 3D prints 1,000 parts and 12 flight-ready drones at sea" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://3dprintingindustry.com/news/firestorm-labs-3d-prints-1000-parts-and-12-flight-ready-drones-at-sea-253795 | Explore more: https://www.quality3ds.com/

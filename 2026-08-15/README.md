@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-15
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #220 - 2026-08-15
+## Stories
 
 🔥 Firestorm Labs 3D prints 1,000 parts and 12 flight-ready drones at sea
 Firestorm Labs printed more than 1,000 parts and built 12 flight-ready Squall FPV quadcopters inside a containerized factory aboard the USS Essex during a two-week transit to RIMPAC 2026.
@@ -47,9 +45,3 @@ When we talk about large-format additive manufacturing (aka LFAM), we are not ta
 Rather, the term encompasses any 3D printing technology capable of printing big parts, typically on a meter scale, reported by VoxelMatters on Aug 14, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/lfam-applications-sea-to-stage-150x150.jpg
 Read more ? https://www.voxelmatters.com/lfam-applications-from-sea-to-stage
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
