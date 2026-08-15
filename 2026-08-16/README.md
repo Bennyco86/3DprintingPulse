@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-16
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #221 - 2026-08-16
+## Stories
 
 📷 Einscan Rigil: Long-term Experience & Review - YouTube
 Einscan Rigil: Long-term Experience & Review YouTube
@@ -49,9 +47,3 @@ Seven homes are complete and several sold at Cleora, a 55-acre development in Sa
 Site infrastructure is finished, more houses are under construction, and two autonomous printing systems from RIC Robotics are running on site, reported by 3D Printing Industry on Aug 15, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/08/IMG_2269_VSCO-2-1536x2048-1-150x100.webp
 Read more ? https://3dprintingindustry.com/news/ric-robotics-printers-build-out-colorados-first-3d-printed-metro-district-253808
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
