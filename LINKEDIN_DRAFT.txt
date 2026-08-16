@@ -1,51 +1,47 @@
-﻿# 3D PRINTING PULSE #221 - 2026-08-16
+﻿# 3D PRINTING PULSE #222 - 2026-08-17
 
-📷 Einscan Rigil: Long-term Experience &amp; Review - YouTube
-Einscan Rigil: Long-term Experience &amp; Review YouTube
-Reported by Google News - 3D Scanners on Aug 15, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiQkFVX3lxTE1nRHp2UjhPYzRkbjlveFo3WThrcTRvTmVLekk2dmRrck9HNm9BMTNwYm95cUNndER4U01uRnpEODctUQ?oc=5
+🔥 3D-printing enthusiast creates ‘Flock Sock’ to blind controversial cameras, shares design — slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights - Tom's Hardware
+3D-printing enthusiast creates ‘Flock Sock’ to blind controversial cameras, shares design — slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights Tom's Hardware
+Reported by Google News - 3D Printing on Aug 16, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiqwJBVV95cUxPek1PckVLQ1g2VndhNl90c3NLUzM1WnVQNXhhVnRyRURoTGFVOU1XclBpdXZJaVU5dEFNRUc1RDZNU1lOZ0JsQkJ6YnM2YlZ6eVFMUWdpYnU2d0I1TlQzNmdybks5RmdLdnV1dXRiajhmRXFWeUQyeU9VMjliZXA3S3QzZkt4Z2FYQzZuQmpVSkdwSmlSYkhVMEttTGxjS05UNzdoS3c5Vkl5dk81T204V0luT0tkX0NIUUI0NnltYkpHbEZuaElnRHMtZjRtc1ZBZXN4WlZMRHIwVTBpUnBYdk52Z1loSENseE1CbEF4Z2g3THRETzhsdlN4RlhSMjNmYVVjMkJUTWlHX2NYbFA3MVQ5dFdEVF9qWHlQaWNlbDVRTFRJMGlad2tGbw?oc=5
 
-📷 Creality Sermoon P1 review: This ultraportable handheld 3D scanner let me scan almost any object I wanted - TechRadar
-Creality Sermoon P1 review: This ultraportable handheld 3D scanner let me scan almost any object I wanted TechRadar
-Reported by Google News - 3D Scanners on Aug 15, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMidkFVX3lxTE9BZThLdEttQ00xWEFjYk03bnBfQXdWVWtqLUdVRlFkRE5Ib3N0ejdQeHlLdHFqN2REZ1NwVlJyT2N1akZuTE1iVmZTSzBsck04bVVSOWVWUUtZMjFVb25jN2JMMWFtUlNQYWx5NkVqMzVzRy1MblE?oc=5
+📷 Black Falcon uses 3D scanning to verify rebuilt Nürburgring race car
+Black Falcon, a motorsport team based at Germany’s Nürburgring, has used SHINING 3D scanning technology to verify repairs on a race car after it suffered a serious crash during the Nürburgring 24 Hours.
+The car was rebuilt rather than replaced, and the scan data was used to confirm the repair had been carried out correctly … The post Black Falcon uses 3D scanning to verify rebuilt Nürburgring race car appeared first, reported by VoxelMatters on Aug 16, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/SHINING-3D-Black-Falcon-motorsport-04-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/black-falcon-uses-3d-scanning-to-verify-rebuilt-nurburgring-race-car
 
-💻 Guam’s GAMMA AM factory targets full operating capacity by February 2027
-The Guam Additive Materials and Manufacturing Accelerator (GAMMA) applications center will reach full operating capacity by February 2027, according to Neal Orringer, co-founder, president and board chairperson of...
-The date lands roughly 15 months after the facility’s ceremony at…, reported by 3D Printing Industry on Aug 15, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/08/An-aerial-view-of-the-U.S.-Naval-base-in-Guam.-Photo-via-the-U.S.-Navy-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/guams-gamma-am-factory-targets-full-operating-capacity-by-february-2027-253831
+💻 New Release Of 4D Additive 3D Printing Software: New Workflow For Industrial Additive Manufacturing - Textile World
+New Release Of 4D Additive 3D Printing Software: New Workflow For Industrial Additive Manufacturing Textile World
+Reported by Google News - 3D Printing on Aug 16, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUUh0RHN5TExLVjJqNFF4NTVnM251d3pVOS04NVdsRktMd2ZtRl9ZUW1EUVdSMlN4NWNDQXJKT0hya1pYaHlHQ3E0U20zNWYta29NQlhyaUV6OHVKVmxaV2pOLXV3RmQ5UnBCVjZEelNzMDNUemtMNlhJYjBSaERwTFpteXNxbkpSZ2J6QUVUZGg5U253dGxhSHlMVDlyQ0RmdDJpa3BpN1dZRTBRUTdua19mdFFqWlUxa05PRlJfcnhlVWtjaGlyeWZlSzZIR0VJLW4wUFZSVW56eC1hLVI3a3RfOFhBX1c0X2U0S2RJZHFRdnd6Tk55UE52Tlo2NV9SV3Fnc2VzX1RTSE0?oc=5
 
-🖨 Stratasys wins $7.8 million in defense funding from America Makes
-Stratasys has won $7.8 million in funding through the 2026 America Makes and Department of Defense’s Organic Industrial Base (OIB) Modernization Challenge, a program aimed at advancing additive manufacturing for...
-The 24-month award will fund development of in-situ quality assurance capabilities for Stratasys’ F3300 and F900 industrial FDM platforms, generating real-time process … The post Stratasys wins $7.8 million in, reported by VoxelMatters on Aug 15, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Stratasys-America-Makes-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/stratasys-wins-7-8-million-in-defense-funding-from-america-makes
+🚀 Carbon launches DB 4000 denture base resin for digital dentures
+Carbon has launched DB 4000, a high-impact denture base resin engineered for dental labs producing 3D printed digital dentures on the company’s M-Series printers.
+The material is FDA-cleared and compliant with ISO 20795-1, the international standard for high-impact denture base resins, reported by VoxelMatters on Aug 16, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Carbon-DB-4000-released-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/carbon-launches-db-4000-denture-base-resin-for-digital-dentures
 
-🖨 Buckley Conversions Builds a Luxury Camper Van Interior, 3D Printed Almost From Scratch
-A camper van interior built almost entirely by large-format 3D printing has come in roughly 1,500 pounds (680 kg) lighter than the plywood-and-aluminum fit-out it replaces.
-Buckley Conversions built the prototype on a 144-inch-wheelbase Mercedes-Benz eSprinter, with founder Brandon Buckley calling it “the world’s first ever 3D printed luxury van.” The saving comes from moving…, reported by 3D Printing Industry on Aug 15, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/1745530100001-1D1A0978_2_5-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/buckley-conversions-builds-a-luxury-camper-van-interior-3d-printed-almost-from-scratch-253817
+🖨 United Kingdom 3D Printers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox
+United Kingdom 3D Printers - Market Analysis, Forecast, Size, Trends and Insights IndexBox
+Reported by Google News - 3D Printing on Aug 16, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3dScDdUN3NvNkxsRG84U0s0cGpXUmpiTldDLUIyb0o4Nk0yWWxld1JKanFvQ3hOdWVjVzB6WnEtZGJlVEFRTkZPeTlrZDQzYUpVbDhNYUV2Z2NRUTFkNlZZM0hUX0RvalFraURCcDFIV0F3d2pDS3VmUW5tWS14ZVpEazM3Rk9mc0Y1aTNBXzNFWEIwSk1Cb1RzOXhScmZxYjBnbkItZzRtSnc?oc=5
 
-🏠 Serendix forms alliance with JA Mitsui Leasing
-JA Mitsui Leasing has signed a business alliance agreement with Serendix, the Nishinomiya-based startup that designs and sells 3D printed homes, to support wider adoption of 3D printed construction in Japan.
-The partnership covers financing for Serendix’s construction-use 3D printers and related equipment through JA Mitsui Leasing’s financing functions, reported by VoxelMatters on Aug 15, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Serendix-3D-printed-construction-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/serendix-forms-alliance-with-ja-mitsui-leasing
+🖨 Multi-Color Desktop 3D Printers: Creality Debuts Its SPARKX i7 Nano 3D Printer - Trend Hunter
+Multi-Color Desktop 3D Printers: Creality Debuts Its SPARKX i7 Nano 3D Printer Trend Hunter
+Reported by Google News - 3D Printing on Aug 15, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DQ3R4OXZJb29JQk5oMWtxZGIzc0lfSkdjQ2xwS1JzQkZtWnMwbWMyVEIwREZZQ0g5TmtzVm83dkt4bHhlYUhGWlRZWXJfb0NaZXV3RDROa09qbnB0RHBfV29jZXI?oc=5
 
-🚀 Haddy 3D prints the TF-179 drone boat, an uncrewed vessel
-Digital manufacturing company Haddy has produced an uncrewed vessel designated the TF-179 Drone Boat using large-format robotic additive manufacturing.
-The company did not name the customer, disclose the mission profile, or publish length, displacement, propulsion or material data for the boat, reported by 3D Printing Industry on Aug 15, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/1786126939829-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/haddy-3d-prints-the-tf-179-drone-boat-an-uncrewed-vessel-253825
+🖨 These 3D-Printed Cubes Can Cool An Entire Room With Zero Electricity - SlashGear
+These 3D-Printed Cubes Can Cool An Entire Room With Zero Electricity SlashGear
+Reported by Google News - 3D Printing on Aug 15, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0Y5SFUxTEpURVlrejBBemdwaHByT2JwQTVqZGtKTjlJWEZ3VHRkYWJKa2U0b1laYVM2YWhNWG56bnkzZDNkMmtpaDBvY2I3U2Z2WGs4NzlQQVZ0ZHBCTmFQUWhTOVRjWVF3QTBlcTFXMThmcnVTSjV1SWJkN2xsa3Jn?oc=5
 
-🏠 RIC Robotics printers build out Colorado’s first 3D printed metro district
-Seven homes are complete and several sold at Cleora, a 55-acre development in Salida, Colorado that its backers expect to become one of the world’s largest planned 3D printed residential communities.
-Site infrastructure is finished, more houses are under construction, and two autonomous printing systems from RIC Robotics are running on site, reported by 3D Printing Industry on Aug 15, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/IMG_2269_VSCO-2-1536x2048-1-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/ric-robotics-printers-build-out-colorados-first-3d-printed-metro-district-253808
+🖨 Who Owns Bambu Lab, The 3D Printer Manufacturer? - bgr.com
+Who Owns Bambu Lab, The 3D Printer Manufacturer?
+Reported by Google News - 3D Printing on Aug 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMia0FVX3lxTE1TQVplcmtJXzBfWmtvZGhyVkwtRUl6WVZIZU14ZHNHQVZIaVdOc2FuUXRTRGpPbmJHUzhkZ2xxOHR2VDFIV3FnLXhFd3AtVzdOUmg2dkNnc2daWmZVUDluUGgyMWdCWnB5ZFRV?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Creality Sermoon P1 review: This ultraportable handheld 3D scanner let me scan almost any object I wanted - TechRadar" because it highlights where practical 3D printing innovation is moving next. Source: https://news.google.com/rss/articles/CBMidkFVX3lxTE9BZThLdEttQ00xWEFjYk03bnBfQXdWVWtqLUdVRlFkRE5Ib3N0ejdQeHlLdHFqN2REZ1NwVlJyT2N1akZuTE1iVmZTSzBsck04bVVSOWVWUUtZMjFVb25jN2JMMWFtUlNQYWx5NkVqMzVzRy1MblE?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Multi-Color Desktop 3D Printers: Creality Debuts Its SPARKX i7 Nano 3D Printer - Trend Hunter" because it highlights where practical 3D printing innovation is moving next. Story link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DQ3R4OXZJb29JQk5oMWtxZGIzc0lfSkdjQ2xwS1JzQkZtWnMwbWMyVEIwREZZQ0g5TmtzVm83dkt4bHhlYUhGWlRZWXJfb0NaZXV3RDROa09qbnB0RHBfV29jZXI?oc=5 | Full pulse: https://www.quality3ds.com/

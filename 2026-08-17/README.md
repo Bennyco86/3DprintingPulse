@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-17
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #222 - 2026-08-17
+## Stories
 
 🔥 3D-printing enthusiast creates ‘Flock Sock’ to blind controversial cameras, shares design — slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights - Tom's Hardware
 3D-printing enthusiast creates ‘Flock Sock’ to blind controversial cameras, shares design — slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights Tom's Hardware
@@ -45,9 +43,3 @@ Read more ? https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0Y5SFUxTEpURVl
 Who Owns Bambu Lab, The 3D Printer Manufacturer?
 Reported by Google News - 3D Printing on Aug 13, 2026.
 Read more ? https://news.google.com/rss/articles/CBMia0FVX3lxTE1TQVplcmtJXzBfWmtvZGhyVkwtRUl6WVZIZU14ZHNHQVZIaVdOc2FuUXRTRGpPbmJHUzhkZ2xxOHR2VDFIV3FnLXhFd3AtVzdOUmg2dkNnc2daWmZVUDluUGgyMWdCWnB5ZFRV?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
