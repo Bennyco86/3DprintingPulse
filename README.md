@@ -2,49 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #222 - 2026-08-17
+### 3D PRINTING PULSE #223 - 2026-08-18
 
-🔥 3D-printing enthusiast creates ‘Flock Sock’ to blind controversial cameras, shares design — slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights - Tom's Hardware
-3D-printing enthusiast creates ‘Flock Sock’ to blind controversial cameras, shares design — slip-on cover attaches to broom handle to make it easy to put on devices placed on traffic and streetlights Tom's Hardware
-Reported by Google News - 3D Printing on Aug 16, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiqwJBVV95cUxPek1PckVLQ1g2VndhNl90c3NLUzM1WnVQNXhhVnRyRURoTGFVOU1XclBpdXZJaVU5dEFNRUc1RDZNU1lOZ0JsQkJ6YnM2YlZ6eVFMUWdpYnU2d0I1TlQzNmdybks5RmdLdnV1dXRiajhmRXFWeUQyeU9VMjliZXA3S3QzZkt4Z2FYQzZuQmpVSkdwSmlSYkhVMEttTGxjS05UNzdoS3c5Vkl5dk81T204V0luT0tkX0NIUUI0NnltYkpHbEZuaElnRHMtZjRtc1ZBZXN4WlZMRHIwVTBpUnBYdk52Z1loSENseE1CbEF4Z2g3THRETzhsdlN4RlhSMjNmYVVjMkJUTWlHX2NYbFA3MVQ5dFdEVF9qWHlQaWNlbDVRTFRJMGlad2tGbw?oc=5
+🔥 SYZMIK wins award for 3D printed lattice padding in football headband
+SYZMIK Sports’ X7c+ Protective Headband has won in the Sport Equipment Design/Innovation category at the FIT Sport Design Awards 2027, in recognition of being built around an innovative 3D printed lattice padding system.
+The lattice for the flag and 7v7 football headband, which is made from EPU 45 due to its strain-rate sensitive elastomer, is … The post SYZMIK wins award for 3D printed lattice padding in football headband appeared, reported by VoxelMatters on Aug 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Syzmik-X7c-Protective-Headband-150x150.jpg
+Read more ? https://www.voxelmatters.com/syzmik-wins-award-for-3d-printed-lattice-padding-in-football-headband
 
-📷 Black Falcon uses 3D scanning to verify rebuilt Nürburgring race car
-Black Falcon, a motorsport team based at Germany’s Nürburgring, has used SHINING 3D scanning technology to verify repairs on a race car after it suffered a serious crash during the Nürburgring 24 Hours.
-The car was rebuilt rather than replaced, and the scan data was used to confirm the repair had been carried out correctly … The post Black Falcon uses 3D scanning to verify rebuilt Nürburgring race car appeared first, reported by VoxelMatters on Aug 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/SHINING-3D-Black-Falcon-motorsport-04-150x150.jpg
-Read more ? https://www.voxelmatters.com/black-falcon-uses-3d-scanning-to-verify-rebuilt-nurburgring-race-car
+💻 Spider-Man ‘3D prints’ smartphone in latest Samsung ad
+In its latest ad campaign in collaboration with Marvel Studios, Samsung has set out to answer a very valid question: what happens to Spider-Man’s phone throughout all his crime fighting and swinging escapades around...
+The ad, which coincides with the much anticipated release of the latest instalment in the Spider-Man franchise, Spider-Man: … The post Spider-Man ‘3D prints’ smartphone in latest Samsung ad appeared first on, reported by VoxelMatters on Aug 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/spiderman-samsung-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/spider-man-3d-prints-smartphone-in-latest-samsung-ad
 
-💻 New Release Of 4D Additive 3D Printing Software: New Workflow For Industrial Additive Manufacturing - Textile World
-New Release Of 4D Additive 3D Printing Software: New Workflow For Industrial Additive Manufacturing Textile World
-Reported by Google News - 3D Printing on Aug 16, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUUh0RHN5TExLVjJqNFF4NTVnM251d3pVOS04NVdsRktMd2ZtRl9ZUW1EUVdSMlN4NWNDQXJKT0hya1pYaHlHQ3E0U20zNWYta29NQlhyaUV6OHVKVmxaV2pOLXV3RmQ5UnBCVjZEelNzMDNUemtMNlhJYjBSaERwTFpteXNxbkpSZ2J6QUVUZGg5U253dGxhSHlMVDlyQ0RmdDJpa3BpN1dZRTBRUTdua19mdFFqWlUxa05PRlJfcnhlVWtjaGlyeWZlSzZIR0VJLW4wUFZSVW56eC1hLVI3a3RfOFhBX1c0X2U0S2RJZHFRdnd6Tk55UE52Tlo2NV9SV3Fnc2VzX1RTSE0?oc=5
+♻️ Can Metal Recycling Help Scale Additive Manufacturing? Continuum and AM Research White Paper Takes a Look
+Metal additive manufacturing (AM) is growing, but making more parts also means using more metal powder.
+That raises a simple question: where will all that material come from, reported by 3DPrint.com on Aug 17, 2026.
+Read more ? https://3dprint.com/330659/can-metal-recycling-help-scale-additive-manufacturing-continuum-and-am-research-white-paper-takes-a-look
 
-🚀 Carbon launches DB 4000 denture base resin for digital dentures
-Carbon has launched DB 4000, a high-impact denture base resin engineered for dental labs producing 3D printed digital dentures on the company’s M-Series printers.
-The material is FDA-cleared and compliant with ISO 20795-1, the international standard for high-impact denture base resins, reported by VoxelMatters on Aug 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Carbon-DB-4000-released-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/carbon-launches-db-4000-denture-base-resin-for-digital-dentures
+💻 Lincsolution to develop 3D printed heat pump components
+Lincsolution, a South Korean 3D printing company, has started international research aimed at securing mass-production technology for next-generation heat pump components.
+It will be done under the Energy Technology Leadership International Joint Research project, which is backed by the Korea Institute of Energy Technology Evaluation and Planning (KETEP), reported by VoxelMatters on Aug 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Korean-heat-pump-market-150x150.jpg
+Read more ? https://www.voxelmatters.com/lincsolution-to-develop-3d-printed-heat-pump-components
 
-🖨 United Kingdom 3D Printers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox
-United Kingdom 3D Printers - Market Analysis, Forecast, Size, Trends and Insights IndexBox
-Reported by Google News - 3D Printing on Aug 16, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa3dScDdUN3NvNkxsRG84U0s0cGpXUmpiTldDLUIyb0o4Nk0yWWxld1JKanFvQ3hOdWVjVzB6WnEtZGJlVEFRTkZPeTlrZDQzYUpVbDhNYUV2Z2NRUTFkNlZZM0hUX0RvalFraURCcDFIV0F3d2pDS3VmUW5tWS14ZVpEazM3Rk9mc0Y1aTNBXzNFWEIwSk1Cb1RzOXhScmZxYjBnbkItZzRtSnc?oc=5
+💻 Wigglitz lands its first entertainment license with Winx Club
+ZB Designs, the Utah based 3D printed toy company behind the Wigglitz collectible line, has signed its first entertainment licensing deal, bringing characters from Rainbow S.p.A.’s Winx Club animated series into the...
+The companies agreed to the license after a call on June 5, and ZB Designs had physical Wigglitz Winx Club figures … The post Wigglitz lands its first entertainment license with Winx Club appeared first on, reported by VoxelMatters on Aug 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Winx_Club_Tubefall_1296x-e1786898848916-150x150.jpg
+Read more ? https://www.voxelmatters.com/wigglitz-lands-its-first-entertainment-license-with-winx-club
 
-🖨 Multi-Color Desktop 3D Printers: Creality Debuts Its SPARKX i7 Nano 3D Printer - Trend Hunter
-Multi-Color Desktop 3D Printers: Creality Debuts Its SPARKX i7 Nano 3D Printer Trend Hunter
-Reported by Google News - 3D Printing on Aug 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DQ3R4OXZJb29JQk5oMWtxZGIzc0lfSkdjQ2xwS1JzQkZtWnMwbWMyVEIwREZZQ0g5TmtzVm83dkt4bHhlYUhGWlRZWXJfb0NaZXV3RDROa09qbnB0RHBfV29jZXI?oc=5
+💻 Manufacturing Unlimited: Bringing ICAM’s advanced manufacturing stories into the field
+Hosted by the ASTM Additive Manufacturing Center of Excellence, ICAM has become a forum for the technical conversations that determine how additive and advanced manufacturing technologies move from research into use.
+Reported by TCT Magazine on Aug 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/ASTM-ICAM.jpg
+Read more ? https://www.tctmagazine.com/manufacturing-unlimited-bringing-icams-advanced-manufacturing-stories-into-the-field
 
-🖨 These 3D-Printed Cubes Can Cool An Entire Room With Zero Electricity - SlashGear
-These 3D-Printed Cubes Can Cool An Entire Room With Zero Electricity SlashGear
-Reported by Google News - 3D Printing on Aug 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0Y5SFUxTEpURVlrejBBemdwaHByT2JwQTVqZGtKTjlJWEZ3VHRkYWJKa2U0b1laYVM2YWhNWG56bnkzZDNkMmtpaDBvY2I3U2Z2WGs4NzlQQVZ0ZHBCTmFQUWhTOVRjWVF3QTBlcTFXMThmcnVTSjV1SWJkN2xsa3Jn?oc=5
+💻 #253 Intrepid Automation CEO Ben Wynne: 'I want to make AM a foundation for mass manufacturing.'
+Intrepid Automation CEO Ben Wynne on the key capabilities of Intrepid’s modular DLP technology and its focus on casting applications.
+Reported by TCT Magazine on Aug 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Additive-Insight-Re-Design--28-.png
+Read more ? https://www.tctmagazine.com/podcasts/253-intrepid-automation-ceo-ben-wynne-i-want-to-make-am-a-foundation-for-mass-manufacturing
 
-🖨 Who Owns Bambu Lab, The 3D Printer Manufacturer? - bgr.com
-Who Owns Bambu Lab, The 3D Printer Manufacturer?
-Reported by Google News - 3D Printing on Aug 13, 2026.
-Read more ? https://news.google.com/rss/articles/CBMia0FVX3lxTE1TQVplcmtJXzBfWmtvZGhyVkwtRUl6WVZIZU14ZHNHQVZIaVdOc2FuUXRTRGpPbmJHUzhkZ2xxOHR2VDFIV3FnLXhFd3AtVzdOUmg2dkNnc2daWmZVUDluUGgyMWdCWnB5ZFRV?oc=5
+🦺 VoxelMatters Ceramic AM Focus 2026 eBook
+In this edition of our AM Focus ebook, we are firing up the kilns (or sintering ovens) and turning to ceramic additive manufacturing.
+The technology segment, which comprises both traditional ceramic (i.e, reported by VoxelMatters on Aug 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Ceramic-AM-2026-eBook-Feature-Image-150x150.png
+Read more ? https://www.voxelmatters.com/voxelmatters-ceramic-am-focus-2026-ebook
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
