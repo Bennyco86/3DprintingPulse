@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-19
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #224 - 2026-08-19
+## Stories
 
 🔥 Continuous Composites Alleges Patent Infringement in Lawsuit Against FibreSeek
 Continuous Fiber 3D Printing (CF3D) technology developer Continuous Composites, Inc.
@@ -47,9 +45,3 @@ Initial efforts will focus on cobalt chrome, Ti-6Al-4V, and 17-4 stainless steel
 Reported by TCT Magazine on Aug 18, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Example_Laser-Powder-Bed-Fusion-1.jpeg
 Read more ? https://www.tctmagazine.com/continuum-mastrex-announce-metal-3d-printing-powder-validation-partnership
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

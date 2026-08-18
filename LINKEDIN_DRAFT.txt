@@ -1,52 +1,49 @@
-﻿# 3D PRINTING PULSE #223 - 2026-08-18
+﻿# 3D PRINTING PULSE #224 - 2026-08-19
 
-🔥 SYZMIK wins award for 3D printed lattice padding in football headband
-SYZMIK Sports’ X7c+ Protective Headband has won in the Sport Equipment Design/Innovation category at the FIT Sport Design Awards 2027, in recognition of being built around an innovative 3D printed lattice padding system.
-The lattice for the flag and 7v7 football headband, which is made from EPU 45 due to its strain-rate sensitive elastomer, is … The post SYZMIK wins award for 3D printed lattice padding in football headband appeared, reported by VoxelMatters on Aug 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Syzmik-X7c-Protective-Headband-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/syzmik-wins-award-for-3d-printed-lattice-padding-in-football-headband
+🔥 Continuous Composites Alleges Patent Infringement in Lawsuit Against FibreSeek
+Continuous Fiber 3D Printing (CF3D) technology developer Continuous Composites, Inc.
+(CCI) has filed a patent infringement lawsuit against three entities associated with the FibreSeek and Anisoprint brands, reported by 3D Printing Industry on Aug 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2021/07/60f9fe21f886cef2e7b4218c_website-photo-p-800-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/continuous-composites-alleges-patent-infringement-in-lawsuit-against-fibreseek-253861
 
-💻 Spider-Man ‘3D prints’ smartphone in latest Samsung ad
-In its latest ad campaign in collaboration with Marvel Studios, Samsung has set out to answer a very valid question: what happens to Spider-Man’s phone throughout all his crime fighting and swinging escapades around...
-The ad, which coincides with the much anticipated release of the latest instalment in the Spider-Man franchise, Spider-Man: … The post Spider-Man ‘3D prints’ smartphone in latest Samsung ad appeared first on, reported by VoxelMatters on Aug 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/spiderman-samsung-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/spider-man-3d-prints-smartphone-in-latest-samsung-ad
+🚨 Creality launches new affordable desktop 3D printer with built-in camera - Notebookcheck
+Creality launches new affordable desktop 3D printer with built-in camera Notebookcheck
+Reported by Google News - 3D Printing on Aug 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY210dmJlb29QeExrb2JsU2xPT0N4TEVqTURBRlNmb1NVSl9xRWN2WnUzdm9jRmNpLUpBZG9aRkd6M2FIVjFJRWxOaEVXWUk1OVFXMnV6Z3VObGtPMkNnMHplOXRZUzhVR3RiNy1xaUVxYzR3ZFVaWXFMWUs4cFRoM0xaVGVSdmd5UzVmYXpLQU00aC1aQXFUcHhVOE9DLWgzZ2I1Z1RNc2FrQlVndFlYbzdJcjdWUUtU?oc=5
 
-♻️ Can Metal Recycling Help Scale Additive Manufacturing? Continuum and AM Research White Paper Takes a Look
-Metal additive manufacturing (AM) is growing, but making more parts also means using more metal powder.
-That raises a simple question: where will all that material come from, reported by 3DPrint.com on Aug 17, 2026.
-🔗 Read more: https://3dprint.com/330659/can-metal-recycling-help-scale-additive-manufacturing-continuum-and-am-research-white-paper-takes-a-look
+📷 Revopoint Promotion: Up to 20% off select 3D scanners - Basic Tutorials
+Revopoint Promotion: Up to 20% off select 3D scanners Basic Tutorials
+Reported by Google News - 3D Scanners on Aug 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0EyUDRQNnc4SU1Xck1IQjM5ZnllMUszczNoV3ZGOUt0VkRfaDV0V2tqcjJ4ZWIyTFNpMjkza0FZY0E2NUxiMzNwZ0lFTXgwanUtVWZGRVNHUzFNUVdGQmZGSFlaN0ExRmZwbW5STFhBUXk5Ri1kVWI2T1JVeEVZa3laY2YtVGlJMFJLNGhjWQ?oc=5
 
-💻 Lincsolution to develop 3D printed heat pump components
-Lincsolution, a South Korean 3D printing company, has started international research aimed at securing mass-production technology for next-generation heat pump components.
-It will be done under the Energy Technology Leadership International Joint Research project, which is backed by the Korea Institute of Energy Technology Evaluation and Planning (KETEP), reported by VoxelMatters on Aug 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Korean-heat-pump-market-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/lincsolution-to-develop-3d-printed-heat-pump-components
+📷 Top 3D Scanner Makers In 2026: Why INSVISION Stands Out Giornale (BpMFVBFytO) - Mshale
+Top 3D Scanner Makers In 2026: Why INSVISION Stands Out Giornale (BpMFVBFytO) Mshale
+Reported by Google News - 3D Scanners on Aug 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiWkFVX3lxTFAycE1BN3JKcUhYdnlYZmR5OTduaTdKQnkxYkwwWl9HU2hfbWxiUjhOS21SU2NpRndaVFZ1MzJ6SGN5clRGQTFSbWNhbFozdzZlWFZrWm5JR0hXdw?oc=5
 
-💻 Wigglitz lands its first entertainment license with Winx Club
-ZB Designs, the Utah based 3D printed toy company behind the Wigglitz collectible line, has signed its first entertainment licensing deal, bringing characters from Rainbow S.p.A.’s Winx Club animated series into the...
-The companies agreed to the license after a call on June 5, and ZB Designs had physical Wigglitz Winx Club figures … The post Wigglitz lands its first entertainment license with Winx Club appeared first on, reported by VoxelMatters on Aug 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Winx_Club_Tubefall_1296x-e1786898848916-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/wigglitz-lands-its-first-entertainment-license-with-winx-club
+💻 General Atomics wins $5.5m America Makes call for defense aluminum data
+America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have named General Atomics Aeronautical Systems the winner of the Generation Of Technical-data for High-strength Aluminum Alloy...
+GOTHAAM aims to develop material allowables for a high-strength, 7075-T73-equivalent aluminum alloy across three classes … The post General Atomics wins $5.5m America Makes call for defense aluminum data appeared, reported by VoxelMatters on Aug 18, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/america-makes-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/general-atomics-wins-5-5m-america-makes-call-for-defense-aluminum-data
 
-💻 Manufacturing Unlimited: Bringing ICAM’s advanced manufacturing stories into the field
-Hosted by the ASTM Additive Manufacturing Center of Excellence, ICAM has become a forum for the technical conversations that determine how additive and advanced manufacturing technologies move from research into use.
-Reported by TCT Magazine on Aug 17, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/ASTM-ICAM.jpg
-🔗 Read more: https://www.tctmagazine.com/manufacturing-unlimited-bringing-icams-advanced-manufacturing-stories-into-the-field
+♻️ NIT Rourkela Patents Low-Cost Extruder for Turning Plastic Waste into 3D Printing Filament - 3D Printing Industry
+NIT Rourkela Patents Low-Cost Extruder for Turning Plastic Waste into 3D Printing Filament 3D Printing Industry
+Reported by Google News - 3D Printing on Aug 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnB2TWJqY2JBdFZ1ek5wdlJwVmdiR2ZsMFNfeU93MXVJOVdzOXpQSHJWZHFYZ18wWFBUWC1vRTJ5SGk5VldKVGVsNHJ4RUZ1NXNwOVhGNmpBaHJwT0diT3lTZXdXXzFwSG4zN09FbWthN1BkeXZFaEtZTjRBUmdwTVp0WGxQc1RVTWdzMzJQMkZfNTYtOVhra3RINjVNeGtTQTkzR3dXRmNNUkdyZ2dGczNNRkZDeXFBZnBETzZaY3h4Qm01RkhUWk14Vmt4Z28?oc=5
 
-💻 #253 Intrepid Automation CEO Ben Wynne: 'I want to make AM a foundation for mass manufacturing.'
-Intrepid Automation CEO Ben Wynne on the key capabilities of Intrepid’s modular DLP technology and its focus on casting applications.
-Reported by TCT Magazine on Aug 17, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Additive-Insight-Re-Design--28-.png
-🔗 Read more: https://www.tctmagazine.com/podcasts/253-intrepid-automation-ceo-ben-wynne-i-want-to-make-am-a-foundation-for-mass-manufacturing
+🖨 Continuum Powders and Mastrex partner for LPBF metal powder validation
+Continuum Powders and Mastrex have entered a technical collaboration to evaluate, develop processing parameters for, and validate Continuum’s metal powders across Mastrex’s MX series laser powder bed fusion machines.
+The end goal of the work is to shorten the time manufacturers spend qualifying new materials before moving parts into production, reported by VoxelMatters on Aug 18, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/08/Continuum-Powders-Greyhound-Melt-2-Powder-Amotization-System-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/continuum-powders-and-mastrex-partner-for-lpbf-metal-powder-validation
 
-🦺 VoxelMatters Ceramic AM Focus 2026 eBook
-In this edition of our AM Focus ebook, we are firing up the kilns (or sintering ovens) and turning to ceramic additive manufacturing.
-The technology segment, which comprises both traditional ceramic (i.e, reported by VoxelMatters on Aug 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Ceramic-AM-2026-eBook-Feature-Image-150x150.png
-🔗 Read more: https://www.voxelmatters.com/voxelmatters-ceramic-am-focus-2026-ebook
+🖨 Continuum &amp; Mastrex announce metal 3D printing powder validation partnership
+Initial efforts will focus on cobalt chrome, Ti-6Al-4V, and 17-4 stainless steel, with nickel-based superalloys and copper-nickel alloys planned later in the roadmap.
+Reported by TCT Magazine on Aug 18, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Example_Laser-Powder-Bed-Fusion-1.jpeg
+🔗 Read more: https://www.tctmagazine.com/continuum-mastrex-announce-metal-3d-printing-powder-validation-partnership
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "SYZMIK wins award for 3D printed lattice padding in football headband" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://www.voxelmatters.com/syzmik-wins-award-for-3d-printed-lattice-padding-in-football-headband | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Creality launches new affordable desktop 3D printer with built-in camera - Notebookcheck" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY210dmJlb29QeExrb2JsU2xPT0N4TEVqTURBRlNmb1NVSl9xRWN2WnUzdm9jRmNpLUpBZG9aRkd6M2FIVjFJRWxOaEVXWUk1OVFXMnV6Z3VObGtPMkNnMHplOXRZUzhVR3RiNy1xaUVxYzR3ZFVaWXFMWUs4cFRoM0xaVGVSdmd5UzVmYXpLQU00aC1aQXFUcHhVOE9DLWgzZ2I1Z1RNc2FrQlVndFlYbzdJcjdWUUtU?oc=5 | Full pulse: https://www.quality3ds.com/
