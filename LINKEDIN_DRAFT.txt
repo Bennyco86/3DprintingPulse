@@ -1,49 +1,50 @@
-﻿# 3D PRINTING PULSE #224 - 2026-08-19
+﻿# 3D PRINTING PULSE #225 - 2026-08-20
 
-🔥 Continuous Composites Alleges Patent Infringement in Lawsuit Against FibreSeek
-Continuous Fiber 3D Printing (CF3D) technology developer Continuous Composites, Inc.
-(CCI) has filed a patent infringement lawsuit against three entities associated with the FibreSeek and Anisoprint brands, reported by 3D Printing Industry on Aug 18, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2021/07/60f9fe21f886cef2e7b4218c_website-photo-p-800-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/continuous-composites-alleges-patent-infringement-in-lawsuit-against-fibreseek-253861
-
-🚨 Creality launches new affordable desktop 3D printer with built-in camera - Notebookcheck
-Creality launches new affordable desktop 3D printer with built-in camera Notebookcheck
-Reported by Google News - 3D Printing on Aug 18, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY210dmJlb29QeExrb2JsU2xPT0N4TEVqTURBRlNmb1NVSl9xRWN2WnUzdm9jRmNpLUpBZG9aRkd6M2FIVjFJRWxOaEVXWUk1OVFXMnV6Z3VObGtPMkNnMHplOXRZUzhVR3RiNy1xaUVxYzR3ZFVaWXFMWUs4cFRoM0xaVGVSdmd5UzVmYXpLQU00aC1aQXFUcHhVOE9DLWgzZ2I1Z1RNc2FrQlVndFlYbzdJcjdWUUtU?oc=5
-
-📷 Revopoint Promotion: Up to 20% off select 3D scanners - Basic Tutorials
-Revopoint Promotion: Up to 20% off select 3D scanners Basic Tutorials
-Reported by Google News - 3D Scanners on Aug 18, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMijwFBVV95cUxPc0EyUDRQNnc4SU1Xck1IQjM5ZnllMUszczNoV3ZGOUt0VkRfaDV0V2tqcjJ4ZWIyTFNpMjkza0FZY0E2NUxiMzNwZ0lFTXgwanUtVWZGRVNHUzFNUVdGQmZGSFlaN0ExRmZwbW5STFhBUXk5Ri1kVWI2T1JVeEVZa3laY2YtVGlJMFJLNGhjWQ?oc=5
-
-📷 Top 3D Scanner Makers In 2026: Why INSVISION Stands Out Giornale (BpMFVBFytO) - Mshale
-Top 3D Scanner Makers In 2026: Why INSVISION Stands Out Giornale (BpMFVBFytO) Mshale
-Reported by Google News - 3D Scanners on Aug 18, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiWkFVX3lxTFAycE1BN3JKcUhYdnlYZmR5OTduaTdKQnkxYkwwWl9HU2hfbWxiUjhOS21SU2NpRndaVFZ1MzJ6SGN5clRGQTFSbWNhbFozdzZlWFZrWm5JR0hXdw?oc=5
-
-💻 General Atomics wins $5.5m America Makes call for defense aluminum data
-America Makes and the National Center for Defense Manufacturing and Machining (NCDMM) have named General Atomics Aeronautical Systems the winner of the Generation Of Technical-data for High-strength Aluminum Alloy...
-GOTHAAM aims to develop material allowables for a high-strength, 7075-T73-equivalent aluminum alloy across three classes … The post General Atomics wins $5.5m America Makes call for defense aluminum data appeared, reported by VoxelMatters on Aug 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/america-makes-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/general-atomics-wins-5-5m-america-makes-call-for-defense-aluminum-data
-
-♻️ NIT Rourkela Patents Low-Cost Extruder for Turning Plastic Waste into 3D Printing Filament - 3D Printing Industry
-NIT Rourkela Patents Low-Cost Extruder for Turning Plastic Waste into 3D Printing Filament 3D Printing Industry
-Reported by Google News - 3D Printing on Aug 18, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMizwFBVV95cUxQWnB2TWJqY2JBdFZ1ek5wdlJwVmdiR2ZsMFNfeU93MXVJOVdzOXpQSHJWZHFYZ18wWFBUWC1vRTJ5SGk5VldKVGVsNHJ4RUZ1NXNwOVhGNmpBaHJwT0diT3lTZXdXXzFwSG4zN09FbWthN1BkeXZFaEtZTjRBUmdwTVp0WGxQc1RVTWdzMzJQMkZfNTYtOVhra3RINjVNeGtTQTkzR3dXRmNNUkdyZ2dGczNNRkZDeXFBZnBETzZaY3h4Qm01RkhUWk14Vmt4Z28?oc=5
-
-🖨 Continuum Powders and Mastrex partner for LPBF metal powder validation
-Continuum Powders and Mastrex have entered a technical collaboration to evaluate, develop processing parameters for, and validate Continuum’s metal powders across Mastrex’s MX series laser powder bed fusion machines.
-The end goal of the work is to shorten the time manufacturers spend qualifying new materials before moving parts into production, reported by VoxelMatters on Aug 18, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/08/Continuum-Powders-Greyhound-Melt-2-Powder-Amotization-System-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/continuum-powders-and-mastrex-partner-for-lpbf-metal-powder-validation
-
-🖨 Continuum &amp; Mastrex announce metal 3D printing powder validation partnership
-Initial efforts will focus on cobalt chrome, Ti-6Al-4V, and 17-4 stainless steel, with nickel-based superalloys and copper-nickel alloys planned later in the roadmap.
+📷 Ensuring Precision and Repeatability in Ceramic Additive Manufacturing: A Service Bureau Perspective
+A live TCT webinar with Prodways Printers and Adva Cera on how process control, metrology and repeatability are moving ceramic AM into real production.
 Reported by TCT Magazine on Aug 18, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Example_Laser-Powder-Bed-Fusion-1.jpeg
-🔗 Read more: https://www.tctmagazine.com/continuum-mastrex-announce-metal-3d-printing-powder-validation-partnership
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/featured-prodways-1200x630.jpg
+🔗 Read more: https://www.tctmagazine.com/events/ensuring-precision-and-repeatability-in-ceramic-additive-manufacturing-a-service-bureau-perspective
+
+💻 AM North adopts amsight quality management software
+The decision to adopt amsight was driven by a need to automate the collection and generation of project information.
+Reported by TCT Magazine on Aug 19, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/amsight_SPC.png
+🔗 Read more: https://www.tctmagazine.com/am-north-adopts-amsight-quality-management-software
+
+♻️ Metastable 3D printing 'ink' enables a closed-loop material cycle - Phys.org
+Metastable 3D printing 'ink' enables a closed-loop material cycle Phys.org
+Reported by Google News - 3D Printing on Aug 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSE9EYW9QU08zVDlWRzhzLXdMN3oyQnZjZ3lSOG9KajgtQ3FuMnRTV3lEN3p4VlZpR0l3a3lzMlFueWFKV3hYcXI4UHpXWVAtdVpDTWtYNnVYb3kxZ21fUEhKX3RoM0FZTnJ5NTdJQThsNW8?oc=5
+
+💻 Stratasys &amp; Limbitless Solutions increase focus on sustainability as partnership continues
+The 3D printing company has been working with the University of Central Florida's non-profit research facility for 12 years.
+Reported by TCT Magazine on Aug 19, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Limbitless_Stratasys_Annika-1.png
+🔗 Read more: https://www.tctmagazine.com/stratasys-limbitless-solutions-increase-focus-on-sustainability-as-partnership-continues
+
+💻 UTEP trains 1st Armored Division maintainers to qualify 3D printed Army parts
+Soldiers from across Fort Bliss have completed the Advanced Manufacturing for Defense Readiness (AMDR) Certificate Program, a six-week additive manufacturing course taught by the University of Texas at El Paso that...
+The certificate feeds directly into Iron Foundry, the 1st Armored Division’s advanced…, reported by 3D Printing Industry on Aug 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-19.18.38-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/utep-trains-1st-armored-division-maintainers-to-qualify-3d-printed-army-parts-253880
+
+🖨 3DEO Liquidates Factory as Metal 3D Printing Business Is Broken Up
+Metal additive manufacturing company 3DEO is being dismantled.
+On Tuesday, August 18, the remaining machinery at the company’s Torrance, California, factory went up for sale in an online auction, reported by 3DPrint.com on Aug 19, 2026.
+🔗 Read more: https://3dprint.com/330786/3deo-liquidates-factory-as-metal-3d-printing-business-is-broken-up
+
+🖨 3D Printing Financials: Creality Warns of H1 Loss Ahead of Earnings Report
+Creality (HKG: 3388) is expecting to report a loss for the first half of 2026, just months after the 3D printer maker went public in Hong Kong.
+In a profit, reported by 3DPrint.com on Aug 19, 2026.
+🔗 Read more: https://3dprint.com/330761/3d-printing-financials-creality-warns-of-h1-loss-ahead-of-earnings-report
+
+🖨 A Hot End And Material Database For 3D Printing
+When it comes to 3D printing in the FDM world, you can go a long way just relying on standard settings that ship with your 3D printer and/or slicer.
+If …read more, reported by Hackaday 3D Printing on Aug 18, 2026.
+🖼️ Image: https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-161611-e1787033799276.png
+🔗 Read more: https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Creality launches new affordable desktop 3D printer with built-in camera - Notebookcheck" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY210dmJlb29QeExrb2JsU2xPT0N4TEVqTURBRlNmb1NVSl9xRWN2WnUzdm9jRmNpLUpBZG9aRkd6M2FIVjFJRWxOaEVXWUk1OVFXMnV6Z3VObGtPMkNnMHplOXRZUzhVR3RiNy1xaUVxYzR3ZFVaWXFMWUs4cFRoM0xaVGVSdmd5UzVmYXpLQU00aC1aQXFUcHhVOE9DLWgzZ2I1Z1RNc2FrQlVndFlYbzdJcjdWUUtU?oc=5 | Full pulse: https://www.quality3ds.com/
+Big conversation driver today: "Metastable 3D printing 'ink' enables a closed-loop material cycle - Phys.org" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Source: https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSE9EYW9QU08zVDlWRzhzLXdMN3oyQnZjZ3lSOG9KajgtQ3FuMnRTV3lEN3p4VlZpR0l3a3lzMlFueWFKV3hYcXI4UHpXWVAtdVpDTWtYNnVYb3kxZ21fUEhKX3RoM0FZTnJ5NTdJQThsNW8?oc=5 | Complete rundown: https://www.quality3ds.com/

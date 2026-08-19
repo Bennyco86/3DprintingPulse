@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #225 - 2026-08-20
+## Stories
 
 📷 Ensuring Precision and Repeatability in Ceramic Additive Manufacturing: A Service Bureau Perspective
 A live TCT webinar with Prodways Printers and Adva Cera on how process control, metrology and repeatability are moving ceramic AM into real production.
@@ -48,9 +46,3 @@ When it comes to 3D printing in the FDM world, you can go a long way just relyin
 If …read more, reported by Hackaday 3D Printing on Aug 18, 2026.
 Image ? https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-161611-e1787033799276.png
 Read more ? https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
