@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-21
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #226 - 2026-08-21
+## Stories
 
 🔥 SYZMIK’s X7C+ Cuts Concussion Risk 77% With 3D Printed Lattice Padding
 SYZMIK Sports has commercialized the X7C+ Protective Headband, built around what the company calls an industry-first application of 3D printed lattice padding in a flag football and 7v7 headband.
@@ -48,9 +46,3 @@ Phase3D has received a contract from the Department of the Air Force to extend i
 The Phase I award funds development of CMC-specific calibration routines and defect-detection models for … The post Phase3D wins USAF contract to extend AM inspection tech appeared first on VoxelMatters - The heart...
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Phase3D-USAF-contract-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/phase3d-wins-usaf-contract-to-extend-am-inspection-tech
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

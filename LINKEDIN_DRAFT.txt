@@ -1,50 +1,50 @@
-﻿# 3D PRINTING PULSE #225 - 2026-08-20
+﻿# 3D PRINTING PULSE #226 - 2026-08-21
 
-📷 Ensuring Precision and Repeatability in Ceramic Additive Manufacturing: A Service Bureau Perspective
-A live TCT webinar with Prodways Printers and Adva Cera on how process control, metrology and repeatability are moving ceramic AM into real production.
-Reported by TCT Magazine on Aug 18, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/featured-prodways-1200x630.jpg
-🔗 Read more: https://www.tctmagazine.com/events/ensuring-precision-and-repeatability-in-ceramic-additive-manufacturing-a-service-bureau-perspective
+🔥 SYZMIK’s X7C+ Cuts Concussion Risk 77% With 3D Printed Lattice Padding
+SYZMIK Sports has commercialized the X7C+ Protective Headband, built around what the company calls an industry-first application of 3D printed lattice padding in a flag football and 7v7 headband.
+Designed by COO Christopher Perra, the $77 headband carries a 5-Star impact rating from the Virginia Tech Helmet Lab and has won the Sport Equipment Design/Innovation…, reported by 3D Printing Industry on Aug 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/SyzmikNewX7CPlusBlackV3.png0526-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/syzmiks-x7c-cuts-concussion-risk-77-with-3d-printed-lattice-padding-253942
 
-💻 AM North adopts amsight quality management software
-The decision to adopt amsight was driven by a need to automate the collection and generation of project information.
-Reported by TCT Magazine on Aug 19, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/amsight_SPC.png
-🔗 Read more: https://www.tctmagazine.com/am-north-adopts-amsight-quality-management-software
+🚨 Creality Launches SPARKX i7 Nano: Technical Specifications and Pricing
+Shenzhen-based 3D printer maker Creality has released the SPARKX i7 Nano, a desktop 3D printer that adds four-color printing to its i7 series in a smaller form factor.
+The 3D printer became available August 15, bundled with a new CFS nano Kit, through the Creality US Store, reported by 3D Printing Industry on Aug 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Creality-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/creality-launches-sparkx-i7-nano-technical-specifications-and-pricing-253938
 
-♻️ Metastable 3D printing 'ink' enables a closed-loop material cycle - Phys.org
-Metastable 3D printing 'ink' enables a closed-loop material cycle Phys.org
-Reported by Google News - 3D Printing on Aug 19, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSE9EYW9QU08zVDlWRzhzLXdMN3oyQnZjZ3lSOG9KajgtQ3FuMnRTV3lEN3p4VlZpR0l3a3lzMlFueWFKV3hYcXI4UHpXWVAtdVpDTWtYNnVYb3kxZ21fUEhKX3RoM0FZTnJ5NTdJQThsNW8?oc=5
+🚨 Frontline: Bambu Lab Launches Consumer-Grade UV Printer Project – First Batch of R&amp;D Positions Now Open for Recruitment - 36Kr
+Frontline: Bambu Lab Launches Consumer-Grade UV Printer Project – First Batch of R&amp;D Positions Now Open for Recruitment 36Kr
+Reported by Google News - 3D Printing on Aug 20, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2ZjBQdTl0RnowMUZKNGNqYXJvZVF0QjdIc3FCbWtrQ3REVGJiaEtCZzlzQ1pzQkdBRjloLXc0MUgwQ2pFNk1qZHN0Tl80Z2ZTcV9n?oc=5
 
-💻 Stratasys &amp; Limbitless Solutions increase focus on sustainability as partnership continues
-The 3D printing company has been working with the University of Central Florida's non-profit research facility for 12 years.
-Reported by TCT Magazine on Aug 19, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Limbitless_Stratasys_Annika-1.png
-🔗 Read more: https://www.tctmagazine.com/stratasys-limbitless-solutions-increase-focus-on-sustainability-as-partnership-continues
+📷 3D Scanning Brings 1,700-Year-Old Ilminster Ring to Life
+Somerset Council’s Library Service has 3D scanned and printed a replica of the Ilminster Ring, a Roman gold artifact dating to 297 AD, ahead of its public unveiling at the Ilminster Roman Ring Discovery Day on...
+The event, organized by South West Heritage Trust and Ilminster Arts Centre, will display both the…, reported by 3D Printing Industry on Aug 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/ring1-1024x771-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/3d-scanning-brings-1700-year-old-ilminster-ring-to-life-253964
 
-💻 UTEP trains 1st Armored Division maintainers to qualify 3D printed Army parts
-Soldiers from across Fort Bliss have completed the Advanced Manufacturing for Defense Readiness (AMDR) Certificate Program, a six-week additive manufacturing course taught by the University of Texas at El Paso that...
-The certificate feeds directly into Iron Foundry, the 1st Armored Division’s advanced…, reported by 3D Printing Industry on Aug 18, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Screenshot-2026-08-17-at-19.18.38-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/utep-trains-1st-armored-division-maintainers-to-qualify-3d-printed-army-parts-253880
+📷 Black Falcon Turns to 3D Scanning to Verify Repairs After a Nürburgring 24 Hours Crash
+Motorsport team Black Falcon used a 3D scanner from SHINING 3D to verify that a race car had been correctly rebuilt after suffering a serious crash during the Nürburgring 24 Hours, geometrically inspecting the...
+The verification is one part of a broader technical partnership…, reported by 3D Printing Industry on Aug 20, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/BlackFalcon_SHINING3D_23_compressed-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/black-falcon-turns-to-3d-scanning-to-verify-repairs-after-a-nurburgring-24-hours-crash-253948
 
-🖨 3DEO Liquidates Factory as Metal 3D Printing Business Is Broken Up
-Metal additive manufacturing company 3DEO is being dismantled.
-On Tuesday, August 18, the remaining machinery at the company’s Torrance, California, factory went up for sale in an online auction, reported by 3DPrint.com on Aug 19, 2026.
-🔗 Read more: https://3dprint.com/330786/3deo-liquidates-factory-as-metal-3d-printing-business-is-broken-up
+💻 Phase3D Gets Air Force Contract for Real-Time CMC Inspection
+Inspection software and tooling firm Phase3D has been given a Department of the Air Force contract.
+Its Fringe Inspection platform will be used in ceramic matrix composites (CMCs), reported by 3DPrint.com on Aug 20, 2026.
+🔗 Read more: https://3dprint.com/330720/phase3d-gets-air-force-contract-for-real-time-cmc-inspection
 
-🖨 3D Printing Financials: Creality Warns of H1 Loss Ahead of Earnings Report
-Creality (HKG: 3388) is expecting to report a loss for the first half of 2026, just months after the 3D printer maker went public in Hong Kong.
-In a profit, reported by 3DPrint.com on Aug 19, 2026.
-🔗 Read more: https://3dprint.com/330761/3d-printing-financials-creality-warns-of-h1-loss-ahead-of-earnings-report
+📷 Trak In, Makers Out: SHINING 3D Showcases EinScan Trak, Wireless Markerless 3D Tracking - 3Druck.com
+Trak In, Makers Out: SHINING 3D Showcases EinScan Trak, Wireless Markerless 3D Tracking 3Druck.com
+Reported by Google News - 3D Scanners on Aug 19, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDRTRDMwNjZwMzhwNzQ0a3pzSEZBdzF3M09lUFVBMGJCZ0JtX0JtVDJHVDROWjV4VzRqVTJpQWR2VmNHWjY1VnpZYTJCUFVZRjB4NHBsWlhMWTZtbDhrOEZ1NENJUWxpd2VRdjVqVjhKR2FweWRRT1VOdk9DNXZpRmZxTDNiX2JGRFo4MFA2dndEODZJaG80em04REpjX21ZRm42TlBFQmtwci1lLU82OVMzZGhwQWdTZEZGY2NGUlZDNEdJb3c?oc=5
 
-🖨 A Hot End And Material Database For 3D Printing
-When it comes to 3D printing in the FDM world, you can go a long way just relying on standard settings that ship with your 3D printer and/or slicer.
-If …read more, reported by Hackaday 3D Printing on Aug 18, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-161611-e1787033799276.png
-🔗 Read more: https://hackaday.com/2026/08/18/a-hot-end-and-material-database-for-3d-printing
+🚀 Phase3D wins USAF contract to extend AM inspection tech
+Phase3D has received a contract from the Department of the Air Force to extend its Fringe Inspection platform, a real-time, in-situ inspection system for metal additive manufacturing, to ceramic matrix composites, a...
+The Phase I award funds development of CMC-specific calibration routines and defect-detection models for … The post Phase3D wins USAF contract to extend AM inspection tech appeared first on VoxelMatters - The heart...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Phase3D-USAF-contract-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/phase3d-wins-usaf-contract-to-extend-am-inspection-tech
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Metastable 3D printing 'ink' enables a closed-loop material cycle - Phys.org" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Source: https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSE9EYW9QU08zVDlWRzhzLXdMN3oyQnZjZ3lSOG9KajgtQ3FuMnRTV3lEN3p4VlZpR0l3a3lzMlFueWFKV3hYcXI4UHpXWVAtdVpDTWtYNnVYb3kxZ21fUEhKX3RoM0FZTnJ5NTdJQThsNW8?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Creality Launches SPARKX i7 Nano: Technical Specifications and Pricing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://3dprintingindustry.com/news/creality-launches-sparkx-i7-nano-technical-specifications-and-pricing-253938 | Full pulse: https://www.quality3ds.com/
