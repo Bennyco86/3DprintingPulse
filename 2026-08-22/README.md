@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-22
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #227 - 2026-08-22
+## Stories
 
 🔥 Yun Goo - the man behind the viral HelixCore spinner
 Professionally, he designs molds for stamping parts produced in millions.
@@ -49,9 +47,3 @@ Industrial filament printing has long forced a choice: the affordability of desk
 On Tuesday, September 15th, 3Dnatives and HP Additive Manufacturing Solutions will show how the HP IF 600 HT eliminates that…, reported by 3D Natives on Aug 20, 2026.
 Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/08/hp-if-webinar.jpg
 Read more ? https://www.3dnatives.com/en/industrial-filament-printing-hp-21082026
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
