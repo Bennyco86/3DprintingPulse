@@ -2,53 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #227 - 2026-08-22
+### 3D PRINTING PULSE #228 - 2026-08-23
 
-🔥 Yun Goo - the man behind the viral HelixCore spinner
-Professionally, he designs molds for stamping parts produced in millions.
-He became famous for a toy printed one at a time, reported by Bambu Lab on Aug 20, 2026.
-Image ? https://storage.ghost.io/c/8d/d9/8dd9f85b-21c3-4782-bba8-8778cd8f2f93/content/images/2026/08/Yun-Goo-01.jpg
-Read more ? https://blog.bambulab.com/yun-goo-the-man-behind-the-viral-helixcore-spinner
+💻 Solidon3D turns a downloaded STL into a part that fits, without CAD
+Solidon3D, at solidon3d.de, is a desktop application built by Robert Schneider.
+It sets out to close the gap between a downloaded model and a part that actually fits, without first having to master CAD, reported by VoxelMatters on Aug 22, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Zrzut-ekranu-2026-08-22-140833-150x150.png
+Read more ? https://www.voxelmatters.com/solidon3d-turns-a-downloaded-stl-into-a-part-that-fits-without-cad
 
-🚨 Prusa refreshes XL and CORE One 3D printer lineup with new hardware and upgrade paths
-Prusa Research, the Czech manufacturer of desktop 3D printers, has refreshed its current hardware lineup with the Prusa XL+, CORE One L+ and CORE One+ (Gen 2).
-The updated machines introduce changes intended to improve print preparation, surface quality and maintenance, reported by 3D Printing Industry on Aug 21, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/08/core-one-plus-gen2-workshop-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/prusa-refreshes-xl-and-core-one-3d-printer-lineup-with-new-hardware-and-upgrade-paths-253981
+♻️ 819 Capital Partners acquires filament maker BEDROCK 3D
+819 Capital Partners has acquired BEDROCK 3D, an Emmen, Netherlands-based producer of filaments for professional 3D printing.
+The deal adds BEDROCK 3D to Novio-Scan Holding, the group through which 819 Capital Partners has been consolidating 3D printing technology companies, and comes as the next step in the firm’s buy-and-build strategy in, reported by VoxelMatters on Aug 22, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Bedrock-3D-acquisition-150x150.jpg
+Read more ? https://www.voxelmatters.com/819-capital-partners-acquires-filament-maker-bedrock-3d
 
-💻 Bedrock 3D Gets Investment from 819 Capital
-After Bedrock 3D split from BASF, the company was independent but still a little unsure about its future.
-The former Innofil3D operation, later dubbed Forward AM Technologies Netherlands, was BASF’s main, reported by 3DPrint.com on Aug 21, 2026.
-Read more ? https://3dprint.com/330832/bedrock-3d-gets-investment-from-819-capital
+🦺 Madrid hospital implants a 3D printed titanium bone metamaterial prosthesis
+A 38-year-old man with a high-grade bone sarcoma in his tibia underwent surgery at Hospital General Universitario Gregorio Marañón in Madrid to receive what the hospital claims was the first personalized bone...
+Oncological surgeons at the center implanted the device after no conventional implant could remove the tumor while preserving … The post Madrid hospital implants a 3D printed titanium bone metamaterial prosthesis, reported by VoxelMatters on Aug 22, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Madrid-hospital-implants-150x150.jpg
+Read more ? https://www.voxelmatters.com/madrid-hospital-implants-a-3d-printed-titanium-bone-metamaterial-prosthesis
 
-🖨 Creality warns of first-half loss three months after Hong Kong IPO
-Shenzhen Creality 3D Technology expects a loss attributable to owners of between RMB53 million and RMB63 million (approximately US$7.9 million to US$9.4 million, compared with a profit of RMB107.49 million...
-On a non-IFRS basis that adds … The post Creality warns of first-half loss three months after Hong Kong IPO appeared first on VoxelMatters - The heart of additive manufacturing.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/creality-150x150.jpg
-Read more ? https://www.voxelmatters.com/creality-warns-of-first-half-loss-three-months-after-hong-kong-ipo
+📰 EPFL uses 3D nanoprinting to build sound-powered microfliers
+Researchers at EPFL have used 3D nanoprinting to build ultralight aerial vehicles, called microfliers, that convert sound waves directly into thrust.
+The method – developed at EPFL’s MicroBioRobotic Systems (MICROBS) Lab – removes the need for onboard motors, actuators or electronics, reported by VoxelMatters on Aug 21, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/EPFL-mini-drones-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/epfl-uses-3d-nanoprinting-to-build-sound-powered-microfliers
 
-🖨 Camp Pendleton boosts defense readiness with EOS metal and polymer AM
-Marine Corps, and broader American military, are continually seeking to improve operational readiness through state-of-the-art weaponry and in-the-field technologies as well as through streamlined supply chains and...
-The latter were the focus of a recent field exercise at Camp Pendleton, one of the largest Marine Corps bases in the United States, reported by VoxelMatters on Aug 21, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/eos-camp-pendleton-1-150x150.jpeg
-Read more ? https://www.voxelmatters.com/camp-pendleton-boosts-defense-readiness-with-eos-metal-and-polymer-am
+🚀 Mintion launches W1 electric filament respooler
+Chinese company Mintion has launched the W1 Electric Filament Respooler, a tool built to speed up filament transfer and spool organization for makers running multi-color prints and AMS-style workflows.
+Transferring filament between spools, prepping bulk filament, and saving partially used rolls are tasks many makers handle regularly, and the W1 targets all three, reported by VoxelMatters on Aug 21, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/W1-1-2-150x150.jpg
+Read more ? https://www.voxelmatters.com/mintion-launches-w1-electric-filament-respooler-upgrades-pre-orders-to-injection-molded-production
 
-🖨 Bosch Rexroth, voxeljet and Fraunhofer IGCV demonstrate VX9000 for heavy casting molds
-Voxeljet, Bosch Rexroth and the Fraunhofer Institute for Casting, Composite and Processing Technology (IGCV) worked together on the VX9000, an industrial 3D printer built to produce sand molds for large metal castings.
-GE Vernova joined the project as a partner for development and commercialization, while Projektträger Jülich and Germany’s Federal Ministry for Economic Affairs and … The post Bosch Rexroth, voxeljet and Fraunhofer, reported by VoxelMatters on Aug 21, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Voxeljet-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/bosch-rexroth-voxeljet-and-fraunhofer-igcv-build-3d-printer-for-heavy-casting-molds
+🏠 Vertico instals its largest 3D concrete printing system to date
+Vertico has installed a 3D concrete printing system at ITeCons, an institute in Portugal dedicated to applied research, testing and development in construction, energy, environment and sustainability, in the...
+Built around Vertico’s Robot on Track configuration, the tower was set up with a 10-meter track and a 3.1-meter robot … The post Vertico instals its largest 3D concrete printing system to date appeared first on, reported by VoxelMatters on Aug 21, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Vertico-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/vertico-instals-its-largest-3d-concrete-printing-system-to-date
 
-🖨 Amaero Builds U.S. Metal Powder Capacity for Additive Manufacturing
-For metal additive manufacturing (AM) to grow in the United States, companies need more than printers.
-They also need a reliable supply of the powders that go into those machines, reported by 3DPrint.com on Aug 21, 2026.
-Read more ? https://3dprint.com/330970/amaero-builds-u-s-metal-powder-capacity-for-additive-manufacturing
+🖨 8 Popular 3D Printer Brands, Ranked - bgr.com
+8 Popular 3D Printer Brands, Ranked bgr.com
+Reported by Google News - 3D Printing on Aug 22, 2026.
+Read more ? https://news.google.com/rss/articles/CBMibkFVX3lxTE9MMjVsdWNyQmFDWTFmZ1lwZ1FGSURJbUZLdDBoQjRSaUc5SzY1ZXRMcmtiS3RnRzFua0dpZ09WUVN4UlltN3czd01qdnlKQkdSRHROYk11eFdZRmJ1RUNiWGNRZF9TZlNrRDJNcVZn?oc=5
 
-🖨 WEBINAR: HP’s Production-Ready Industrial Filament: High-Performance 3D Printing Without Compromise
-Industrial filament printing has long forced a choice: the affordability of desktop systems or the performance of locked-down industrial platforms.
-On Tuesday, September 15th, 3Dnatives and HP Additive Manufacturing Solutions will show how the HP IF 600 HT eliminates that…, reported by 3D Natives on Aug 20, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/08/hp-if-webinar.jpg
-Read more ? https://www.3dnatives.com/en/industrial-filament-printing-hp-21082026
+🖨 5 ways to repurpose your old or broken 3D printer - How-To Geek
+5 ways to repurpose your old or broken 3D printer How-To Geek
+Reported by Google News - 3D Printing on Aug 22, 2026.
+Read more ? https://news.google.com/rss/articles/CBMif0FVX3lxTE43V2p6Y2YwTkVza0NnVTFIdmh0V1hwM3NnRkxEVVZNendVcHJ5WUhjLUh5UVVLdnVXaFQ0Nm9RaXlDbkJObm55cW00dGZUb0FSUU1fUUJsdS1RX1R2Ui13X2NLS0JoNV9yQm1OWEVhWTFPZlBOWUVZQ1BSNnF4SW8?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
