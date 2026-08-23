@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-24
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #229 - 2026-08-24
+## Stories
 
 🔥 Members’ Newsletter: How the ATF ‘Ghost Gun’ Kit Ban Went From Kosher to Over - The Reload
 Members’ Newsletter: How the ATF ‘Ghost Gun’ Kit Ban Went From Kosher to Over The Reload
@@ -46,9 +44,3 @@ Read more ? https://www.voxelmatters.com/3d-printed-camper-body-that-took-an-ape
 There was nothing wrong with my 3D printer, but I tried this “fix” anyway How-To Geek
 Reported by Google News - 3D Printing on Aug 23, 2026.
 Read more ? https://news.google.com/rss/articles/CBMihwFBVV95cUxQbTFESzU0N2w3bFoyZFk5SkpkeWcwc281ZURiOU5RNXhBUHVtZ2UtSDd6RXhwQzNEdWE0WFAtUWZQV3lqMkoyNnlGdDI3b21MUlh6dXRfbGp6a3pOTVBtUnpyV2tGN1l0NVNTLU42WFNVMkdPUmNiU3BkTW8xX29YQ21GX2VIdDQ?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
