@@ -2,47 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #229 - 2026-08-24
+### 3D PRINTING PULSE #230 - 2026-08-25
 
-💻 This tiny industrial stock could more than triple as 3D printing hits an inflection point - Opening Bell Daily
-This tiny industrial stock could more than triple as 3D printing hits an inflection point Opening Bell Daily
-Reported by Google News - 3D Printing on Aug 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWo0STFBNEVteVAyd3JJS1VjZ3FhN2I1dExiaXMyZU83NXJ4TnZfZjVZcHhKbFoydDNRRmRrdEpYM25XVnduWW92Rll2NDhoLWpPSWxhYzFOZFdHZDlMeDhqRUNCQkdsU3dpOU5sTDNRUmRFQk5sdjAtZldic09icXVvOXp5dlp2NTg1NmZDX1hGSkhMSzBBczFpOFlrTVdTbWpnVF9R?oc=5
+🔥 Real-time QC meets AI-assisted BSE imaging—join JEOL in our upcoming webinar
+Detecting defects in metal additive manufacturing usually happens only after a build finishes, when correcting flaws is costly or no longer possible.
+In powder bed fusion of metals using an electron beam (PBF-EB/M, also known as EB-PBF or EBM), in-situ backscattered electron (BSE) imaging lets operators catch process irregularities while a part is still forming, …, reported by VoxelMatters on Aug 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/JEOL-webinar-September-2026-150x150.jpg
+Read more ? https://www.voxelmatters.com/the-intersection-of-real-time-quality-control-and-ai-assisted-bse-imaging-join-jeol-in-our-upcoming-webinar
 
-🖨 Best 3D printer deal: Save $50 on Bambu Lab P1S Combo - Mashable
-Best 3D printer deal: Save $50 on Bambu Lab P1S Combo Mashable
-Reported by Google News - 3D Printing on Aug 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xOS1uSndPTTZ5VXJ0VDBmMU56YTVPWkFJUlJCY1llbkdUQ3duM0FKX2t1NXZ4TmNWNXh4UXp5dDR0dHpqWGRIYnZTelVTMURDdmlSa0lQdDlFb0VrdE5DZA?oc=5
+📷 Somerset Libraries used 3D scanning to recreate a Roman-era ring
+Somerset Council’s Library Service has used 3D scanning and printing technology to produce a replica of the Ilminster Ring, a Roman-era artifact dating to 297 AD.
+The original ring and its printed replica were displayed together at the Ilminster Roman Ring Discovery Day last week, an event organized by the South West Heritage Trust and … The post Somerset Libraries used 3D, reported by VoxelMatters on Aug 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Ilminster-Ring-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/somerset-libraries-used-3d-scanning-to-recreate-a-roman-era-ring
 
-🖨 U.S. Navy Moves to Accelerate Metallic 3D Printing Across Submarine Enterprise - Defensemirror.com
-Navy Moves to Accelerate Metallic 3D Printing Across Submarine Enterprise Defensemirror.com
-Reported by Google News - 3D Printing on Aug 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuWmVDSzhXRFlsMG5BSC1QY0dMc1R3bF9ScGhkckVkQVdKZUMtV3N3ejBiLUVsb0VQMU1GaVhuWG9KYTAyNVhQUkRncmpaZEJLS0E?oc=5
+💻 AMS X Puts 3D Printing Business Center Stage; Registration Prices Increase August 26
+The additive manufacturing (AM) industry has spent the last few years getting a lot more serious about business.
+Growth, profitability, consolidation, defense spending, supply chains, and scaling production now matter, reported by 3DPrint.com on Aug 24, 2026.
+Read more ? https://3dprint.com/331090/ams-x-puts-3d-printing-business-center-stage-registration-prices-increase-august-26
 
-🖨 The best deals on 3D printers this week — shop Bambu Lab, Creality, and Flashforge with steep discounts - Mashable
-The best deals on 3D printers this week — shop Bambu Lab, Creality, and Flashforge with steep discounts Mashable
-Reported by Google News - 3D Printing on Aug 22, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiaEFVX3lxTE41WVg3N1ZKMmRvVDZCV2hRNnE0eUNGekVHeTR2UGFKUUxaUWY3QU9EZHZBWTFQV29HNjBSZ2xNbldiOFF5UFQ5QUlDVkpyMFQ1bkdBUmE3NkI3MHhNbm80Vy1HWlh3eUE4?oc=5
+🖨 California amends 3D printed firearm blocking bill
+Last month, we covered a story about the pushback from the entertainment industry (specifically VFX studios) against California’s proposed bill AB2047, which aims to control the production of illegal 3D printed...
+The original bill stipulated that 3D printer manufacturers selling their systems in California would be required to integrate a firearm … The post California amends 3D printed firearm blocking bill appeared first on, reported by VoxelMatters on Aug 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/california-bill-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/california-amends-3d-printed-firearm-blocking-bill
 
-🖨 If you love arts and crafts hobbies then you need a 3D printer - How-To Geek
-If you love arts and crafts hobbies then you need a 3D printer How-To Geek
-Reported by Google News - 3D Printing on Aug 22, 2026.
-Read more ? https://news.google.com/rss/articles/CBMidkFVX3lxTE1LX1NtR2JEUUxTOFczOWJzYXdJeFVtbGREUXdoWk5oZWhWOUFjUzBNREZiTzNQYmpkekptb0dqSXZRd09DZzNjTVR3eU9ocWJ6dzR4OXA0OTQyR0Q3UmNQZnhWN21FLWxySlZ2alkwb2J2OVF2akE?oc=5
+🖨 Additive Assurance enters distribution deal with NTT Data XAM Technologies for Japan
+Additive Assurance has signed a domestic distributorship agreement with NTT Data XAM Technologies Corp.
+(XAM) to bring its AMiRIS real-time quality assurance system to Japan’s metal powder bed fusion additive manufacturing market, reported by VoxelMatters on Aug 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Additive-Assurance-150x150.jpg
+Read more ? https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan
 
-🖨 Retiree uses 3D printer to construct mobility device for Danville child - The Daily Item
-Retiree uses 3D printer to construct mobility device for Danville child The Daily Item
-Reported by Google News - 3D Printing on Aug 22, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQktpQkxHQl9QdjFUNDNJZFJISFVuMDRXMVl6YU92ci1JWjctdFRGa1V3a3ptODFqNmxsUXd5YS1jLVc5YkNHbnpEU003YmdURmFZQzRHLW4yckM1R0JTYUhIRE9wOXBxT3V1VlJaVWNjcGkxVTI4M0hWQWEtQjczelBkeUttenJndEN1SHdzdEV6b2thWkMyb3dvOW9JNDFNYjJtYXp5aVZPTC1Kc0JZd1lhZUYwQUlHeG1XTlo2ZjhQb2VvaHFQOHpCZVlvQzRSakw2OFVUOWVTRDNiblZQTUl3ckczNkk?oc=5
+🖨 Materialise Produces Certified Titanium Latch for Lufthansa Technik
+Internationally licensed maintenance, production and development organization Lufthansa Technik has replaced a damage-prone polymer latch on Airbus A330, A340, and A380 roller shutter assemblies with a redesigned...
+The new Ti-6Al-4V latch is manufactured under EN 9100 certification and is now flying on…, reported by 3D Printing Industry on Aug 24, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/08/3d-printed-titanium-latch-part-lufthansa-150x100.webp
+Read more ? https://3dprintingindustry.com/news/materialise-produces-certified-titanium-latch-for-lufthansa-technik-254014
 
-🖨 Bambu Lab P1S Combo 3D printer is under $500 everywhere I look - TechRadar
-Bambu Lab P1S Combo 3D printer is under $500 everywhere I look TechRadar
-Reported by Google News - 3D Printing on Aug 20, 2026.
-Read more ? https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkJFc1ZvMVlfckZha2lZLUdoMHlLRzBTQUVhR0wwN0JZdGl5UlVkNUNPQlJVU0NiMEVSR1dGNlN6bFZVMTRKWHM5ZDdYT0tLV1lIbUNJajNLMk1qeHk0N3FEREQ5OXdtcWNQbnJRbHk0T3VpV2ZsSHM4dzAzMlFsVWs3bC1yMGtZTVZlV0RhbEs0TFFDbWJyNnJyZ3BqNWlodzBvSkdJal96cGFoTGFmOUlzZklzVDB2bERjMHhwTDlQMVJvc1RRaHNDMC02N2s?oc=5
+🖨 How Jean Paul Gaultier and Sculpteo 3D Printed AW26 Haute Couture
+From the 3D printer to the couture runway.
+Jean Paul Gaultier turned to additive manufacturing for five looks in its Autumn/Winter 2026-27 haute couture collection, shown in Paris in July, reported by 3D Natives on Aug 23, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/08/Cover-Photo-Jean-Paul-Gaultier.jpg
+Read more ? https://www.3dnatives.com/en/3d-printed-haute-couture-jean-paul-gaultier-sculpteo-24082026
 
-💻 The Shutter Makes This 3D Printed Camera Special - Hackaday
-The Shutter Makes This 3D Printed Camera Special Hackaday
-Reported by Google News - 3D Printing on Aug 22, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWExZSEVZSnphc0d2djB1NllHblNxcTNSMll3X0dYSGlGQ2d4T2FnTXpiZzdqVUFDZFZxaGpoU2dvN2FqZUFWTzRyWE5Ea2s0azdTQ3YzbGFMQU5ld2JuNnB1SHBtMGU5M2VoaDFiTmZEcVF1T0Q4alVJdzhxV2lneXAyNGJpYVF3?oc=5
+🖨 Bambu Lab 3D Printers Bring a 166-Million-Year-Old Dinosaur Back to Life
+Fourteen desktop 3D printers spent seven weeks producing the bones of a dinosaur that lived roughly 166 million years ago.
+The result is now on display at Blenheim Palace in, reported by 3DPrint.com on Aug 23, 2026.
+Read more ? https://3dprint.com/331058/9-metre-dinosaurs-3d-printed-and-unleashed-at-blenheim-palace
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
