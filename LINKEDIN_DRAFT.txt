@@ -1,51 +1,48 @@
-﻿# 3D PRINTING PULSE #230 - 2026-08-25
+﻿# 3D PRINTING PULSE #231 - 2026-08-26
 
-🔥 Real-time QC meets AI-assisted BSE imaging—join JEOL in our upcoming webinar
-Detecting defects in metal additive manufacturing usually happens only after a build finishes, when correcting flaws is costly or no longer possible.
-In powder bed fusion of metals using an electron beam (PBF-EB/M, also known as EB-PBF or EBM), in-situ backscattered electron (BSE) imaging lets operators catch process irregularities while a part is still forming, …, reported by VoxelMatters on Aug 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/JEOL-webinar-September-2026-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/the-intersection-of-real-time-quality-control-and-ai-assisted-bse-imaging-join-jeol-in-our-upcoming-webinar
+📷 Revopoint POP小型モバイル3Dスキャナー Katy Cardona (Cfu2U07HT8) - Mshale
+Revopoint POP小型モバイル3Dスキャナー Katy Cardona (Cfu2U07HT8) Mshale
+Reported by Google News - 3D Scanners on Aug 24, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zYlUyT0xYeTd3NGcxVFA2N2JodWNja0pDU1Zud05pbzlSNzI3ci1MaDE4YmJoWURxVzhWT042MFRNc3BMYWdFQXdZcW0yUFhwcHhiWWthMUNvVmc?oc=5
 
-📷 Somerset Libraries used 3D scanning to recreate a Roman-era ring
-Somerset Council’s Library Service has used 3D scanning and printing technology to produce a replica of the Ilminster Ring, a Roman-era artifact dating to 297 AD.
-The original ring and its printed replica were displayed together at the Ilminster Roman Ring Discovery Day last week, an event organized by the South West Heritage Trust and … The post Somerset Libraries used 3D, reported by VoxelMatters on Aug 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Ilminster-Ring-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/somerset-libraries-used-3d-scanning-to-recreate-a-roman-era-ring
+📷 Sparking Innovation: 412 MXG's Advanced Manufacturing 3D Scanner [Image 26 of 48] - DVIDS
+Sparking Innovation: 412 MXG's Advanced Manufacturing 3D Scanner [Image 26 of 48] DVIDS
+Reported by Google News - 3D Scanners on Aug 24, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1N4Yy0xY09GMENQZnh5dktDcGhqRWFhY2x4aGlJVkg3QmRCcTdnbVQ4S3I3bkhnSHdWUXlpSWY1UDRoZ0RNTlVKRjF6MS1mZlRsNDJTZlBMbHIxdl9JOHFrVFM1czlaTEFfUmpJRlhKOVQyYkJtVE93OUl3amFhbHUwNFBqZVduTFJudDhNZzYxM1JNU3FUOThUa0dPa1FBSFVj?oc=5
 
-💻 AMS X Puts 3D Printing Business Center Stage; Registration Prices Increase August 26
-The additive manufacturing (AM) industry has spent the last few years getting a lot more serious about business.
-Growth, profitability, consolidation, defense spending, supply chains, and scaling production now matter, reported by 3DPrint.com on Aug 24, 2026.
-🔗 Read more: https://3dprint.com/331090/ams-x-puts-3d-printing-business-center-stage-registration-prices-increase-august-26
+💻 In 2022, a Florida workshop was making furniture. 4 years later, 8 rail-mounted robots were printing boat - The Economic Times
+In 2022, a Florida workshop was making furniture.
+4 years later, 8 rail-mounted robots were printing boat The Economic Times, reported by Google News - 3D Printing on Aug 25, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMioANBVV95cUxPMmhua0FjT0NHMXpJdmZnLTlTNFhoRUREdm1TZFZWTDYyZzVtRzNaVDRyd2h1VFdJRVZrWVVKM0pieTJqWVd5MEU0ejk0NzZ5b0xnYUlHcjl6YlpoMUl4cG9ialpodWFxajJwWTlNWGpxajNVVVFMejhqaHFnemxfeGpHdkVycWwyam9RWWxUaC1jWXBOUUt2bjQxb0FIV3JDWWlwWklVMlJQNjdzR01IYUFBeDdRU3diSjk0MHJTZjk3MWlkQTVTQnAxSDI4dm04YmhPOTZSUGpUNWJUU3pKNHB6bGtYTnhxQ242Yk03VjBEOGtaZDVGNDA0YU1wTG1USGFKVTgwOEpqLUhfNkVqeEV5bFR2dlZPc0lxNTY3OS1qeVpQT2dJZEVpYlVTcExDeVE5SHhZcTE4UWx2UXdKNEVlOWp6a2NHc21Lb1pJeE9FUXltTkVPcFprajVCc0ZraU9sLWQwMlhpdGVmdzJ5T0hfNFM5TFY4TzZpaVV5Q1VnR0dCdDh6SmhVNnNhdVdlVmQyUWZRYV83X05KMGlSVNIBpgNBVV95cUxQcHpkQi0wX1B4Ri1VeXhJcXI0eUhJT0FfQzZMRzRIeTNsTU9WckFrNkhNNWZVa29YQXlqWHRrOWdkZUZmU01DZFg5VmR2ZVNCSHZHYmN3d1ZBdy1NXzFIbHVVajVORlJGNS1RVkhzRnZTMVRsN01nVG9xa2dsWW1VMnlwNEJYSmtqQWdvMUYySlV4cWMxWm1CcUxsODNlMm5WYjJXaE1jOFV6V0hmMUl4VFRES3NndFYyUjBkV1JlTHBHTU93bHdjdTNKM2Z2bnpiU0RRUGplZ0lLdmMtVkVaUURWQ3RST0JnV1lWa3RFVVNtaXA3N3ZTOUZxQ094bVk3ZGtRSTllLVhmVHdlcWtfYTh5UjhZZHN1Wk9aeExhRzE5ejJQek5sdWJEREs4NnJxTy1OUWZ2YmZNcml6WHRWdkQyMVViTFVLZjk1SmNocGpXVTFhRm5aalQtMkV5SEFZMXBIU1ZNQnZZXzV2VHhKdlhRSzEzd092NnBmREF5aE9PaTJwWDlaLVJKbU56UmVqa3NvcWlHZG42aml2cW9kZ2JiSzJSZw?oc=5
 
-🖨 California amends 3D printed firearm blocking bill
-Last month, we covered a story about the pushback from the entertainment industry (specifically VFX studios) against California’s proposed bill AB2047, which aims to control the production of illegal 3D printed...
-The original bill stipulated that 3D printer manufacturers selling their systems in California would be required to integrate a firearm … The post California amends 3D printed firearm blocking bill appeared first on, reported by VoxelMatters on Aug 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/california-bill-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/california-amends-3d-printed-firearm-blocking-bill
+♻️ These Cookies Are 3D-Printed and Made of Recycled Plastic - CNET
+These Cookies Are 3D-Printed and Made of Recycled Plastic CNET
+Reported by Google News - 3D Printing on Aug 25, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemRyT3c2aXJBS2d2eVVuSkk1UTJHZHFhNzVxeXN5SDdZQV9sY29naS1wTHlpVkNyYkdTRDhwRTdLZUF2SlMxaTdXWW1sSm1fQS1rTDlIOW02ME51T3F5ZTM0UENHTWxPVEVUZGxqZGVUaTFnZFRPWm02b1RTWmhCSjlPbGwwSFpKamdF?oc=5
 
-🖨 Additive Assurance enters distribution deal with NTT Data XAM Technologies for Japan
-Additive Assurance has signed a domestic distributorship agreement with NTT Data XAM Technologies Corp.
-(XAM) to bring its AMiRIS real-time quality assurance system to Japan’s metal powder bed fusion additive manufacturing market, reported by VoxelMatters on Aug 24, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Additive-Assurance-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/additive-assurance-enters-distribution-deal-with-ntt-data-xam-technologies-for-japan
+🖨 Anatomy of an SLA Resin Printing Disaster
+When I got back into SLA resin printing recently, I knew that I’d inevitably have to deal with the agony of failed prints and of course resin spills.
+This moment …read more, reported by Hackaday 3D Printing on Aug 25, 2026.
+🖼️ Image: https://hackaday.com/wp-content/uploads/2026/07/ResinPrinting.jpg
+🔗 Read more: https://hackaday.com/2026/08/25/anatomy-of-an-sla-resin-printing-disaster
 
-🖨 Materialise Produces Certified Titanium Latch for Lufthansa Technik
-Internationally licensed maintenance, production and development organization Lufthansa Technik has replaced a damage-prone polymer latch on Airbus A330, A340, and A380 roller shutter assemblies with a redesigned...
-The new Ti-6Al-4V latch is manufactured under EN 9100 certification and is now flying on…, reported by 3D Printing Industry on Aug 24, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/3d-printed-titanium-latch-part-lufthansa-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/materialise-produces-certified-titanium-latch-for-lufthansa-technik-254014
+🖨 Malping Wants to Offer FGF PEEK as a Service
+Germany-based Malping, located in Neuhausen auf den Fildern, is moving into more high performance materials for Material Extrusion.
+The service operates FGF and FDM high-temperature material printers, and offers parts,, reported by 3DPrint.com on Aug 25, 2026.
+🔗 Read more: https://3dprint.com/330834/malping-wants-to-do-fgf-peek-as-a-service
 
-🖨 How Jean Paul Gaultier and Sculpteo 3D Printed AW26 Haute Couture
-From the 3D printer to the couture runway.
-Jean Paul Gaultier turned to additive manufacturing for five looks in its Autumn/Winter 2026-27 haute couture collection, shown in Paris in July, reported by 3D Natives on Aug 23, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/08/Cover-Photo-Jean-Paul-Gaultier.jpg
-🔗 Read more: https://www.3dnatives.com/en/3d-printed-haute-couture-jean-paul-gaultier-sculpteo-24082026
+📰 Exentis signs $27.5 million framework deal for 15 production systems in Asia
+Exentis Group AG, a Swiss provider of technology platforms for industrialized additive large-scale manufacturing, has concluded a framework agreement with a new customer in Asia for 15 production systems.
+The company reported an order volume of approximately CHF 22 million ($27.5 million), reported by VoxelMatters on Aug 25, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Exentis-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/exentis-signs-27-5-million-framework-deal-for-15-production-systems-in-asia
 
-🖨 Bambu Lab 3D Printers Bring a 166-Million-Year-Old Dinosaur Back to Life
-Fourteen desktop 3D printers spent seven weeks producing the bones of a dinosaur that lived roughly 166 million years ago.
-The result is now on display at Blenheim Palace in, reported by 3DPrint.com on Aug 23, 2026.
-🔗 Read more: https://3dprint.com/331058/9-metre-dinosaurs-3d-printed-and-unleashed-at-blenheim-palace
+🚀 NASA-backed research makes 3D printed cookie out of plastic waste
+You’ve heard of 3D printed parts made from plastic waste, and you’ve heard of 3D printed food, but have you heard of 3D printed food made from plastic waste?
+Neither had we before today, reported by VoxelMatters on Aug 25, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/3d-printed-plastic-cookie-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nasa-backed-research-makes-3d-printed-cookie-out-of-plastic-waste
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Bambu Lab 3D Printers Bring a 166-Million-Year-Old Dinosaur Back to Life" because it highlights where practical 3D printing innovation is moving next. Source: https://3dprint.com/331058/9-metre-dinosaurs-3d-printed-and-unleashed-at-blenheim-palace | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "These Cookies Are 3D-Printed and Made of Recycled Plastic - CNET" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Story link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPemRyT3c2aXJBS2d2eVVuSkk1UTJHZHFhNzVxeXN5SDdZQV9sY29naS1wTHlpVkNyYkdTRDhwRTdLZUF2SlMxaTdXWW1sSm1fQS1rTDlIOW02ME51T3F5ZTM0UENHTWxPVEVUZGxqZGVUaTFnZFRPWm02b1RTWmhCSjlPbGwwSFpKamdF?oc=5 | Full pulse: https://www.quality3ds.com/

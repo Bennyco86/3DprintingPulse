@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-26
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #231 - 2026-08-26
+## Stories
 
 📷 Revopoint POP小型モバイル3Dスキャナー Katy Cardona (Cfu2U07HT8) - Mshale
 Revopoint POP小型モバイル3Dスキャナー Katy Cardona (Cfu2U07HT8) Mshale
@@ -46,9 +44,3 @@ You’ve heard of 3D printed parts made from plastic waste, and you’ve heard o
 Neither had we before today, reported by VoxelMatters on Aug 25, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/3d-printed-plastic-cookie-150x150.jpg
 Read more ? https://www.voxelmatters.com/nasa-backed-research-makes-3d-printed-cookie-out-of-plastic-waste
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
