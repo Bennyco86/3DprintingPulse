@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-30
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #235 - 2026-08-30
+## Stories
 
 🔥 New Hybrid Process Turns 3D Printed Mandrel Into Leak-Free Nuclear Components
 Oak Ridge National Laboratory and A.J.
@@ -51,9 +49,3 @@ Minneapolis-based company Chromatic 3D Materials has established a rocket propel
 The company says the site gives it a closed-loop environment, a propellant print lab paired directly with on-site test-firing infrastructure,…, reported by 3D Printing Industry on Aug 29, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/08/press_release_distribution_0537186_235499-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/from-print-lab-to-test-fire-chromatic-3d-materials-new-camp-ripley-facility-254203
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
