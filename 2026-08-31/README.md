@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-08-31
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #236 - 2026-08-31
+## Stories
 
 🔥 Low-Cost 3D Printed Balloon Banjo Explores the Physics of Resonance with Unique Sound Box
 I’ve seen 3D printed guitars before; my favorite is Olaf Diegel’s Xenomorph guitar.
@@ -47,9 +45,3 @@ Read more ? https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMM2QxdlNjMU5UdTZ
 If your 3D printer is missing these 5 features, then it's time to upgrade How-To Geek
 Reported by Google News - 3D Printing on Aug 30, 2026.
 Read more ? https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlhJVHZmT3NtQWlJZlhnU1VyOEVzeWR2WEwyWFdsQkF6UWVlZGUtLTJNb2FMOThmVXlMU1ktS0VRSHdsaU11S1hNWThocThxWjdKQU1OSmJVSVBaWktKM3BsU1hfMVRVVXA5OUlBa09EZGd3QUFTcTcwdmNnMFZPek1B?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

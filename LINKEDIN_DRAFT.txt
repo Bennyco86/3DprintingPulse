@@ -1,53 +1,49 @@
-﻿# 3D PRINTING PULSE #235 - 2026-08-30
+﻿# 3D PRINTING PULSE #236 - 2026-08-31
 
-🔥 New Hybrid Process Turns 3D Printed Mandrel Into Leak-Free Nuclear Components
-Oak Ridge National Laboratory and A.J.
-Tuck Company have developed a hybrid manufacturing process, combining 3D printing, electroforming and hot isostatic pressing, that produces leak-free containers used to build critical components for advanced nuclear, reported by 3D Printing Industry on Aug 29, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/26SP2423-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components-254206
+🔥 Low-Cost 3D Printed Balloon Banjo Explores the Physics of Resonance with Unique Sound Box
+I’ve seen 3D printed guitars before; my favorite is Olaf Diegel’s Xenomorph guitar.
+I’ve even seen a 3D printed ukulele and some 3D printed violins, reported by 3DPrint.com on Aug 30, 2026.
+🔗 Read more: https://3dprint.com/331516/low-cost-3d-printed-balloon-banjo-explores-the-physics-of-resonance-with-unique-sound-box
 
-💻 Guam’s GAMMA AM facility eyes full capacity by February 2027
-ASTRO America now expects its Guam manufacturing accelerator, GAMMA, to reach full operating capacity in February 2027, pushing back an earlier target of late summer 2026.
-Neal Orringer, co-founder, president and board chairperson of the Applied Science and Technology Research Organization of America, said the delay reflects the complexity of standing up the site roughly … The post, reported by VoxelMatters on Aug 29, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Guam-GAMMA-facility-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/guams-gamma-am-facility-eyes-full-capacity-by-february-2027
+💻 Terra Drone’s Japan-made interceptor drone Terra B1 passes ATLA test
+Terra Drone Corporation’s Japan-made interceptor drone, Terra B1, has passed a demonstration test conducted by Japan’s Acquisition, Technology &amp; Logistics Agency (ATLA), moving the aircraft toward a mass production...
+Terra B1 had been selected as one of the aircraft used in the demonstration test … The post Terra Drone’s Japan-made interceptor drone Terra B1 passes ATLA test appeared first on VoxelMatters - The heart of additive...
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Terra-Drone-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/terra-drones-japan-made-interceptor-drone-terra-b1-passes-atla-test
 
-💻 AI-Guided 3D Printing Targets Nuclear Manufacturing Supply Gap
-Oak Ridge National Laboratory (ORNL) and Idaho National Laboratory (INL) announced a new collaboration to expand the domestic supply chain for industrial pressure vessels using wire arc additive manufacturing (WAAM),...
-races to scale up its nuclear energy portfolio, reported by 3D Printing Industry on Aug 29, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/26CJ_0319-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/ai-guided-3d-printing-targets-nuclear-manufacturing-supply-gap-254123
+💻 Ergon Equine partners with igus UK on 3D printed saddle joints
+Ergon Equine has partnered with igus UK to build a new saddle tree design incorporating custom 3D printed components, aiming to improve horse comfort and rider performance.
+The equestrian technology specialist has incorporated bespoke ball joint mechanisms made using igus materials into its BioTree saddle concept, which the company designed to allow more flexibility and … The post Ergon, reported by VoxelMatters on Aug 30, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Ergon-Equine-3D-printed-horse-saddle-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ergon-equine-partners-with-igus-uk-on-3d-printed-saddle-joints
 
-💻 70kg vs 200kg: How a Printed Foam Shell Made an Ape Camper Road-Trip Possible
-Italian rider Francesco Furlani has completed over 4,500-kilometer journey from Italy to Nordkapp, Norway’s North Cape, driving a three-wheeled Piaggio Ape TM 703 fitted with a camper body built entirely through...
-The shell weighs around 70 kilograms, compared with roughly 200 kilograms for a comparable fiberglass structure, a 130-kilogram difference that determined…, reported by 3D Printing Industry on Aug 29, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Screenshot-2026-08-27-at-14.24.13-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/70kg-vs-200kg-how-a-printed-foam-shell-made-an-ape-camper-road-trip-possible-254196
+🚀 ACMI’s Horizon Manufacturing Cup Offers Startups Funding
+The American Center for Manufacturing and Innovation (ACMI) announced the launch of the Horizon Manufacturing Cup, a fast-pitch competition that will award $3 million in non-dilutive funding, including a $1 million...
+The one-day event will be held Oct, reported by 3D Printing Industry on Aug 29, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/3A-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/acmis-horizon-manufacturing-cup-offers-startups-funding-254120
 
-💻 Arc Impact Debuts Digital Casting Services for Defense Manufacturers
-Additive manufacturing (AM) company Arc Impact is promoting Digital Casting Services, a workflow that pairs simulation with 3D printed sand molds and cores to help defense and government programs manufacture complex...
-The company positions the offering as a way to recover obsolete or hard-to-source parts and bring idle equipment back…, reported by 3D Printing Industry on Aug 29, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/Digital_Casting_3-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/arc-impact-debuts-digital-casting-services-for-defense-manufacturers-254156
+🦺 BIO INX’s DEGRAD INX resin helps regenerate cartilage in rabbit knees
+The group led by Prof.
+Aleksandra Ovsianikov at TU Wien, together with PhD student Oliver Kopinski-Grünwald and in collaboration with Vienna-based trauma and medical centers within the Austrian Cluster for Tissue Regeneration, filled a, reported by VoxelMatters on Aug 29, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Zrzut-ekranu-2026-08-28-145700-150x150.png
+🔗 Read more: https://www.voxelmatters.com/bio-inxs-degrad-inx-resin-helps-regenerate-cartilage-in-rabbit-knees
 
-🚀 University of Maine launches 3D printed boat for maritime manufacturing
-The University of Maine has launched a 30-foot, 3D printed boat that researchers say could help manufacturers build vessels faster, cut the need for expensive molds and adapt designs more quickly for commercial and...
-The vessel, 3Dirigo X, was designed and manufactured at UMaine’s Advanced Structures and Composites Center and built to handle … The post University of Maine launches 3D printed boat for maritime manufacturing, reported by VoxelMatters on Aug 29, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/UMaine-3DirigoX-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/university-of-maine-launches-3d-printed-boat-for-maritime-manufacturing
+🖨 Discarded PET bottles and corn stalks went through a 32-step heat-and-oxygen breakdown in Carbondale, then yeasts rebuilt the carbon as protein, vanillin and beta-carotene, and a 3D printer extruded µBites cookies SIU brought to ACS in Chicago this week - ScienceBlog.com
+Discarded PET bottles and corn stalks went through a 32-step heat-and-oxygen breakdown in Carbondale, then yeasts rebuilt the carbon as protein, vanillin and beta-carotene, and a 3D printer extruded µBites cookies...
+Reported by Google News - 3D Printing on Aug 30, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMixAJBVV95cUxNV3VjMlZ3VjdpZW9YQXB0RlZkSTJxT3JaTk5HMG5kOENCOFdBdV9sclZxaVRWWmMxUmZ6b1cxM3o4OGhCQnktOUpBZ0otUUI4LWk3U083Vnc5cnVDRUFEcUlGWnJ4a0VwQklLeGNrcXVvbGV0SXhQdk10YmpaT1NWYmMxQk1RMUZYMUkwdExwWm9jVUtSSXJFYkpQZ2tadFJGcWdJMEp5NVFLbHhQX2VXT0IxcWpZM09mXzlCYkNhVlJUQnN3OWVqdmZoUGgwNUxDc2lPemdpSjVMRlI4UlJyWHdRLXBIdWx4ZmRWcGNyT0c3bVpqcDRjUVNNODJ5T3FjcXllTUd6S3JxMFFhM2V5M1hrUE1HYmdfdXRyT2RIUVIzOUJpb0FRWEdfRWNQMVBMMzZFSUV5M2tjUGp3Wld3bUdqdEM?oc=5
 
-🚀 Navy Fast-Tracks 3D Printed Parts to Boost Submarine Production
-Navy released new technical requirements Aug.
-11 designed to rapidly scale metallic 3D printing across the submarine enterprise, stripping away administrative and engineering hurdles that have slowed the use of additive manufacturing (AM) in submarine, reported by 3D Printing Industry on Aug 29, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/240710-N-EO225-1138-150x100.avif
-🔗 Read more: https://3dprintingindustry.com/news/navy-fast-tracks-3d-printed-parts-to-boost-submarine-production-254114
+🖨 5 Unique 3D Printers You Can Buy For Under $500 - bgr.com
+5 Unique 3D Printers You Can Buy For Under $500 bgr.com
+Reported by Google News - 3D Printing on Aug 30, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMM2QxdlNjMU5UdTZFdFVMSWRjUk9vSXo0SEJ1aUZMNEJ2QnpyenlFUmlXUklVS2NHLWY0NUwybGJJV3hRR0w4aUF1aFc4ZkdmX3VPZFJvcF9XRFhkUzRRazZnT3BFVGs1?oc=5
 
-🚀 From Print Lab to Test Fire: Chromatic 3D Materials’ New Camp Ripley Facility
-Minneapolis-based company Chromatic 3D Materials has established a rocket propellant test-firing capability at Camp Ripley, a 53,000-acre Minnesota National Guard training facility near Little Falls, under a...
-The company says the site gives it a closed-loop environment, a propellant print lab paired directly with on-site test-firing infrastructure,…, reported by 3D Printing Industry on Aug 29, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/press_release_distribution_0537186_235499-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/from-print-lab-to-test-fire-chromatic-3d-materials-new-camp-ripley-facility-254203
+🖨 If your 3D printer is missing these 5 features, then it's time to upgrade - How-To Geek
+If your 3D printer is missing these 5 features, then it's time to upgrade How-To Geek
+Reported by Google News - 3D Printing on Aug 30, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlhJVHZmT3NtQWlJZlhnU1VyOEVzeWR2WEwyWFdsQkF6UWVlZGUtLTJNb2FMOThmVXlMU1ktS0VRSHdsaU11S1hNWThocThxWjdKQU1OSmJVSVBaWktKM3BsU1hfMVRVVXA5OUlBa09EZGd3QUFTcTcwdmNnMFZPek1B?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "New Hybrid Process Turns 3D Printed Mandrel Into Leak-Free Nuclear Components" because it highlights where practical 3D printing innovation is moving next. Story link: https://3dprintingindustry.com/news/new-hybrid-process-turns-3d-printed-mandrel-into-leak-free-nuclear-components-254206 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Low-Cost 3D Printed Balloon Banjo Explores the Physics of Resonance with Unique Sound Box" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://3dprint.com/331516/low-cost-3d-printed-balloon-banjo-explores-the-physics-of-resonance-with-unique-sound-box | Full coverage: https://www.quality3ds.com/
