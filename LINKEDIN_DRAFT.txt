@@ -1,49 +1,50 @@
-﻿# 3D PRINTING PULSE #236 - 2026-08-31
+﻿# 3D PRINTING PULSE #237 - 2026-09-01
 
-🔥 Low-Cost 3D Printed Balloon Banjo Explores the Physics of Resonance with Unique Sound Box
-I’ve seen 3D printed guitars before; my favorite is Olaf Diegel’s Xenomorph guitar.
-I’ve even seen a 3D printed ukulele and some 3D printed violins, reported by 3DPrint.com on Aug 30, 2026.
-🔗 Read more: https://3dprint.com/331516/low-cost-3d-printed-balloon-banjo-explores-the-physics-of-resonance-with-unique-sound-box
+📷 Using Real World Assets In Blender (POP 4 3d Scanner) Muslim Independent Party (k2NAZZmgaF) - Mshale
+Using Real World Assets In Blender (POP 4 3d Scanner) Muslim Independent Party (k2NAZZmgaF) Mshale
+Reported by Google News - 3D Scanners on Aug 31, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQ1liTGNjdWNQQ0hmZlhNRkZYYkpqM2l2VVlIRXNyald2VElOWXQwS2JiSUtmWWE0M2ptNG1OWG9yQ2ZvbG1ZNlNBWWtIU2pqMUxXQWZSaTNOZ0RuVjVhYg?oc=5
 
-💻 Terra Drone’s Japan-made interceptor drone Terra B1 passes ATLA test
-Terra Drone Corporation’s Japan-made interceptor drone, Terra B1, has passed a demonstration test conducted by Japan’s Acquisition, Technology &amp; Logistics Agency (ATLA), moving the aircraft toward a mass production...
-Terra B1 had been selected as one of the aircraft used in the demonstration test … The post Terra Drone’s Japan-made interceptor drone Terra B1 passes ATLA test appeared first on VoxelMatters - The heart of additive...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Terra-Drone-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/terra-drones-japan-made-interceptor-drone-terra-b1-passes-atla-test
+📷 Creality Sermoon P1 3D Scanner — All In One, All In Flow Al Nassr (9HSXRkO340) - Mshale
+Creality Sermoon P1 3D Scanner — All In One, All In Flow Al Nassr (9HSXRkO340) Mshale
+Reported by Google News - 3D Scanners on Aug 31, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVkZrUWFkSjBfRGNIVkNpS3Y3MEE5cW0zOVR0ejhNVnY5UV96YjVKMGlIM2otU3dIb0E4YTI1d0xGMl9Tam5vVkwxaGtuY0pEeGVIQ3dVZmozVVBlV3cwOA?oc=5
 
-💻 Ergon Equine partners with igus UK on 3D printed saddle joints
-Ergon Equine has partnered with igus UK to build a new saddle tree design incorporating custom 3D printed components, aiming to improve horse comfort and rider performance.
-The equestrian technology specialist has incorporated bespoke ball joint mechanisms made using igus materials into its BioTree saddle concept, which the company designed to allow more flexibility and … The post Ergon, reported by VoxelMatters on Aug 30, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Ergon-Equine-3D-printed-horse-saddle-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ergon-equine-partners-with-igus-uk-on-3d-printed-saddle-joints
+💻 Phase3D and Phillips Federal partner on defense inspection technology
+Phase3D has initiated a new partnership with Phillips Federal, naming the firm its exclusive Channel Partner for the North American defense market.
+The agreement pairs Phase3D’s in-situ inspection technology with Phillips Federal’s manufacturing and federal contracting experience, giving defense organizations an established path to evaluate and buy Phase3D’s, reported by VoxelMatters on Aug 31, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Phase3d-Phillips-Federal-150x150.webp
+🔗 Read more: https://www.voxelmatters.com/phase3d-and-phillips-federal-partner-on-defense-inspection-technology
 
-🚀 ACMI’s Horizon Manufacturing Cup Offers Startups Funding
-The American Center for Manufacturing and Innovation (ACMI) announced the launch of the Horizon Manufacturing Cup, a fast-pitch competition that will award $3 million in non-dilutive funding, including a $1 million...
-The one-day event will be held Oct, reported by 3D Printing Industry on Aug 29, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/08/3A-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/acmis-horizon-manufacturing-cup-offers-startups-funding-254120
+🖨 PBF-LB additive manufacturing systems: Make or buy?
+As contract manufacturers continue to develop proprietary laser-based powder bed fusion (PBF-LB) systems rather than procure them from the market, Shane Collins, Tech Fellow, Metal AM at Wohlers Associates, explores...
+Reported by TCT Magazine on Aug 31, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Untitled-design.png
+🔗 Read more: https://www.tctmagazine.com/pbf-lb-additive-manufacturing-systems-make-or-buy
 
-🦺 BIO INX’s DEGRAD INX resin helps regenerate cartilage in rabbit knees
-The group led by Prof.
-Aleksandra Ovsianikov at TU Wien, together with PhD student Oliver Kopinski-Grünwald and in collaboration with Vienna-based trauma and medical centers within the Austrian Cluster for Tissue Regeneration, filled a, reported by VoxelMatters on Aug 29, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/08/Zrzut-ekranu-2026-08-28-145700-150x150.png
-🔗 Read more: https://www.voxelmatters.com/bio-inxs-degrad-inx-resin-helps-regenerate-cartilage-in-rabbit-knees
+💻 DuAlumin-3D: A new 3D printed aluminium alloy for high temperatures
+Oak Ridge National Laboratories (ORNL) researchers detail the development of a new high-temperature, 3D-printable aluminium alloy.
+Reported by TCT Magazine on Aug 31, 2026.
+🔗 Read more: https://www.tctmagazine.com/dualumin-3d-a-new-3d-printed-aluminium-alloy-for-high-temperatures
 
-🖨 Discarded PET bottles and corn stalks went through a 32-step heat-and-oxygen breakdown in Carbondale, then yeasts rebuilt the carbon as protein, vanillin and beta-carotene, and a 3D printer extruded µBites cookies SIU brought to ACS in Chicago this week - ScienceBlog.com
-Discarded PET bottles and corn stalks went through a 32-step heat-and-oxygen breakdown in Carbondale, then yeasts rebuilt the carbon as protein, vanillin and beta-carotene, and a 3D printer extruded µBites cookies...
-Reported by Google News - 3D Printing on Aug 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMixAJBVV95cUxNV3VjMlZ3VjdpZW9YQXB0RlZkSTJxT3JaTk5HMG5kOENCOFdBdV9sclZxaVRWWmMxUmZ6b1cxM3o4OGhCQnktOUpBZ0otUUI4LWk3U083Vnc5cnVDRUFEcUlGWnJ4a0VwQklLeGNrcXVvbGV0SXhQdk10YmpaT1NWYmMxQk1RMUZYMUkwdExwWm9jVUtSSXJFYkpQZ2tadFJGcWdJMEp5NVFLbHhQX2VXT0IxcWpZM09mXzlCYkNhVlJUQnN3OWVqdmZoUGgwNUxDc2lPemdpSjVMRlI4UlJyWHdRLXBIdWx4ZmRWcGNyT0c3bVpqcDRjUVNNODJ5T3FjcXllTUd6S3JxMFFhM2V5M1hrUE1HYmdfdXRyT2RIUVIzOUJpb0FRWEdfRWNQMVBMMzZFSUV5M2tjUGp3Wld3bUdqdEM?oc=5
+💻 A day in the life of ... A VP Sustainability and Communications
+Resource optimisation, climate risk assessments, and ESG forums.
+Reported by TCT Magazine on Aug 31, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Untitled-design--1-.png
+🔗 Read more: https://www.tctmagazine.com/a-day-in-the-life-of-a-vp-sustainability-and-communications
 
-🖨 5 Unique 3D Printers You Can Buy For Under $500 - bgr.com
-5 Unique 3D Printers You Can Buy For Under $500 bgr.com
-Reported by Google News - 3D Printing on Aug 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBMM2QxdlNjMU5UdTZFdFVMSWRjUk9vSXo0SEJ1aUZMNEJ2QnpyenlFUmlXUklVS2NHLWY0NUwybGJJV3hRR0w4aUF1aFc4ZkdmX3VPZFJvcF9XRFhkUzRRazZnT3BFVGs1?oc=5
+💻 #254 PanOptimization: 'Customers, not investors, are our guiding force.'
+PanOptimization founders Pan Michaleris and Erik Denlinger on the dynamic between simulation and physical testing, and why the company has opted against raising venture capital funds.
+Reported by TCT Magazine on Aug 31, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Additive-Insight-Re-Design--29-.png
+🔗 Read more: https://www.tctmagazine.com/podcasts/254-panoptimization-customers-not-investors-are-our-guiding-force
 
-🖨 If your 3D printer is missing these 5 features, then it's time to upgrade - How-To Geek
-If your 3D printer is missing these 5 features, then it's time to upgrade How-To Geek
-Reported by Google News - 3D Printing on Aug 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiggFBVV95cUxPMlhJVHZmT3NtQWlJZlhnU1VyOEVzeWR2WEwyWFdsQkF6UWVlZGUtLTJNb2FMOThmVXlMU1ktS0VRSHdsaU11S1hNWThocThxWjdKQU1OSmJVSVBaWktKM3BsU1hfMVRVVXA5OUlBa09EZGd3QUFTcTcwdmNnMFZPek1B?oc=5
+💻 Welcome to the Autumn 2026 Issue
+"The inspiration that 3D printing can provide is this industry’s greatest recruitment and retainment tool."
+Reported by TCT Magazine on Aug 31, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Comment--2-.png
+🔗 Read more: https://www.tctmagazine.com/welcome-to-the-autumn-2026-issue
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Low-Cost 3D Printed Balloon Banjo Explores the Physics of Resonance with Unique Sound Box" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://3dprint.com/331516/low-cost-3d-printed-balloon-banjo-explores-the-physics-of-resonance-with-unique-sound-box | Full coverage: https://www.quality3ds.com/
+Big conversation driver today: "Creality Sermoon P1 3D Scanner — All In One, All In Flow Al Nassr (9HSXRkO340) - Mshale" because it highlights where practical 3D printing innovation is moving next. Source: https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVkZrUWFkSjBfRGNIVkNpS3Y3MEE5cW0zOVR0ejhNVnY5UV96YjVKMGlIM2otU3dIb0E4YTI1d0xGMl9Tam5vVkwxaGtuY0pEeGVIQ3dVZmozVVBlV3cwOA?oc=5 | Complete rundown: https://www.quality3ds.com/

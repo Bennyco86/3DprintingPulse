@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-01
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #237 - 2026-09-01
+## Stories
 
 📷 Using Real World Assets In Blender (POP 4 3d Scanner) Muslim Independent Party (k2NAZZmgaF) - Mshale
 Using Real World Assets In Blender (POP 4 3d Scanner) Muslim Independent Party (k2NAZZmgaF) Mshale
@@ -48,9 +46,3 @@ Read more ? https://www.tctmagazine.com/podcasts/254-panoptimization-customers-n
 Reported by TCT Magazine on Aug 31, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/08/Comment--2-.png
 Read more ? https://www.tctmagazine.com/welcome-to-the-autumn-2026-issue
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
