@@ -22,6 +22,12 @@ PREFERRED_CATEGORY_TARGETS = {
     "software": 1,
     "recycling": 1,
 }
+PREFERRED_TOPIC_TARGETS = {
+    "toolchanger_nozzle_changer": 2,
+}
+PREFERRED_TOPIC_PRIORITY = {
+    "toolchanger_nozzle_changer": 4,
+}
 BLOCKLIST_TITLE_PHRASES = ["news briefs"]
 MIN_SOURCE_SCORE = 1
 NON_ENGLISH_HINT_WORDS = {
@@ -51,6 +57,17 @@ MAJOR_RELEASE_MODEL_HINTS = {
 MAJOR_RELEASE_SPEC_NOTES = {
     "x2d": "Key specs: 2 hotends, an actively heated chamber, and an integrated exhaust/air-filtration system."
 }
+
+TOOLCHANGER_NOZZLE_CHANGER_KEYWORDS = (
+    "toolchanger", "tool changer", "tool-changer", "tool changing",
+    "tool-changing", "toolhead changer", "tool head changer",
+    "toolhead changing", "tool head changing", "swap toolheads",
+    "swappable toolhead", "nozzle changer", "nozzle changing",
+    "nozzle-changing", "automatic nozzle change", "quick-change nozzle",
+    "quick change nozzle", "hotend changer", "hotend changing",
+    "hotend swap", "swappable hotend", "interchangeable hotend",
+    "bondtech indx",
+)
 
 CATEGORY_KEYWORDS = {
     "medical": [
@@ -491,6 +508,14 @@ def is_major_printer_release(item):
     return has_brand and ((has_release_term and has_printer_context) or has_model_hint)
 
 
+def focus_topics(item):
+    text = f"{item.get('title', '')} {item.get('summary', '')}".lower()
+    topics = set()
+    if any(keyword in text for keyword in TOOLCHANGER_NOZZLE_CHANGER_KEYWORDS):
+        topics.add("toolchanger_nozzle_changer")
+    return topics
+
+
 def major_release_signature_from_text(text):
     text = (text or "").lower()
     brand = ""
@@ -759,6 +784,7 @@ def select_stories(items, seen_history):
         item["title_signature"] = normalize_title_for_dedupe(title)
         item["title_topic_tokens"] = title_topic_tokens(title)
         item["source_score"] = source_score
+        item["focus_topics"] = focus_topics(item)
         if item["title_signature"] in seen_title_signatures:
             continue
         if any(title_topics_overlap(item["title_topic_tokens"], seen) for seen in seen_title_topic_tokens):
@@ -775,7 +801,12 @@ def select_stories(items, seen_history):
     recent = list(candidates)
     recent.sort(
         key=lambda item: (
-            item.get("source_score", 0) + CATEGORY_PRIORITY.get(item.get("category", ""), 0),
+            item.get("source_score", 0)
+            + CATEGORY_PRIORITY.get(item.get("category", ""), 0)
+            + max(
+                (PREFERRED_TOPIC_PRIORITY.get(topic, 0) for topic in item.get("focus_topics", set())),
+                default=0,
+            ),
             item.get("source_score", 0),
             item.get("published")
         ),
@@ -815,15 +846,27 @@ def select_stories(items, seen_history):
 
     for category in REQUIRED_CATEGORIES:
         for item in recent:
+            if len(selected) >= MAX_STORIES:
+                break
             if item["category"] == category and can_select(item):
                 selected.append(item)
                 mark_selected(item)
                 break
 
-    for category, target_count in PREFERRED_CATEGORY_TARGETS.items():
-        picked = 0
+    for topic, target_count in PREFERRED_TOPIC_TARGETS.items():
+        picked = sum(1 for item in selected if topic in item.get("focus_topics", set()))
         for item in recent:
-            if picked >= target_count:
+            if picked >= target_count or len(selected) >= MAX_STORIES:
+                break
+            if topic in item.get("focus_topics", set()) and can_select(item):
+                selected.append(item)
+                mark_selected(item)
+                picked += 1
+
+    for category, target_count in PREFERRED_CATEGORY_TARGETS.items():
+        picked = sum(1 for item in selected if item["category"] == category)
+        for item in recent:
+            if picked >= target_count or len(selected) >= MAX_STORIES:
                 break
             if item["category"] == category and can_select(item):
                 selected.append(item)
