@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-05
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #241 - 2026-09-05
+## Stories
 
 📷 Wireless Marker-Free Scanning Systems: SHINING 3D Unveiled Its EinScan Trak - Trend Hunter
 Wireless Marker-Free Scanning Systems: SHINING 3D Unveiled Its EinScan Trak Trend Hunter
@@ -47,9 +45,3 @@ Physicists at the University of Amsterdam have 3D printed ice structures at angl
 The team found that changing the speed of the print head controlled the angle at which an ice pillar grew, and that the resulting profiles held at angles as … The post Amsterdam researchers print angled ice, reported by VoxelMatters on Sep 04, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/3D-printed-ice-structures-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/amsterdam-researchers-print-angled-ice-structures-without-support-material
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
