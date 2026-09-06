@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-07
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #243 - 2026-09-07
+## Stories
 
 📰 IperionX secures second U.S. Army task order for domestic titanium production
 Army has issued IperionX a second task order under the company’s Small Business Innovation Research (SBIR) Phase III indefinite delivery, indefinite quantity (IDIQ) contract for low-cost domestic titanium for defense...
@@ -44,9 +42,3 @@ Read more ? https://news.google.com/rss/articles/CBMipgFBVV95cUxOOEhyMndlcF9QdDB
 Pip the Rabbit has a glowing belly and ears that wiggle when you press his paw.
 Inchy the Caterpillar crawls when you clap, reported by 3DPrint.com on Sep 06, 2026.
 Read more ? https://3dprint.com/332130/at-this-3d-printed-petting-zoo-the-mistakes-are-part-of-the-fun
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
