@@ -2,48 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #243 - 2026-09-07
+### 3D PRINTING PULSE #244 - 2026-09-08
 
-📰 IperionX secures second U.S. Army task order for domestic titanium production
-Army has issued IperionX a second task order under the company’s Small Business Innovation Research (SBIR) Phase III indefinite delivery, indefinite quantity (IDIQ) contract for low-cost domestic titanium for defense...
-The task order is firm-fixed-price and carries a stated base value of $18.5 million, of which $11.5 million has been funded and … The post IperionX secures second U.S, reported by VoxelMatters on Sep 06, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2023/01/iperionx-2-150x150.jpeg
-Read more ? https://www.voxelmatters.com/iperionx-secures-second-u-s-army-task-order-for-domestic-titanium-production
+🚀 Modix launches fifth generation of large-format 3D printer platform
+A new Duet 3 electronics architecture, the company says, enables automatic tool changing, multi-material printing, compact pellet extrusion and 45-degree printing on its Modix BIG series.
+Reported by TCT Magazine on Sep 07, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Modix-GEN5---Printing-in-45-Degree-1.jpg
+Read more ? https://www.tctmagazine.com/modix-launched-fifth-generation-of-large-format-3d-printer-platform
 
-🖨 Forget print quality—5 things that are more important when choosing a 3D printer - How-To Geek
-Forget print quality—5 things that are more important when choosing a 3D printer How-To Geek
-Reported by Google News - 3D Printing on Sep 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMikwFBVV95cUxOcUxZUFB0TjFLLTZjX05kSllZbFVpWVkzTlQ5Wld2V3VsSEtvTlh2SG51dUVzTjFRVF9iV3lZdDYzUFlreXMyTmhiTjZoY2w2THVxdG5PWVNwNmVydGFwX1RhWU1aYnF3YlJtUm9OTVdGY1BWT2RLNWpDc2tmaXEtdmpXZWVUZHJ3aXZ4aXpXWEV4TTQ?oc=5
+🖨 Modix BIG Generation 5: Duet 3 Electronics, Tool Changer, and More | 2026 - News and Statistics - IndexBox
+Modix BIG Generation 5: Duet 3 Electronics, Tool Changer, and More | 2026 - News and Statistics IndexBox
+Reported by Google News - 3D Printing on Sep 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3Z2R3p2R3NsLXhuWXNaTndSSDhDYVRMTnhpeEV6ZWphM3ZlbVhBWmVJWkwyNVhuZmxjcnotNEduNUJIaFFMbENVeG8yTHJZdUFMX3dJamNKOEVEVlpPcTRlZEhMMUg0NFV6cFBmbnJyY29keWsteDdhMERyYmFYblg5b0FBamIycnZibTlXTzdZYWgwam9QSFVVdw?oc=5
 
-🖨 Printing Micron-Scale Benchies With Resin And Turmeric - Hackaday
-Printing Micron-Scale Benchies With Resin And Turmeric Hackaday
-Reported by Google News - 3D Printing on Sep 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMikAFBVV95cUxNd3M4SmZRNlJ3UWx6WGs3ZHlpYWpkX0pzTnFQSjZIX20tUGlVZ01sRWYwXzlnQThlYXhzUmJLSU9reU42ZXVxd010Y0IwX1hCVXNMcVdWU0otc3JIRm4ydFhPQjM2cVpWSVdZR0YtY3BERkJEQlhETFpkNUQwSXk2bEc0bjlEV2U2cjlJaFdTWnY?oc=5
+💻 [Review] Meshy AI Tested Across Six Practical 3D Modelling Tests
+Turning an idea into a usable 3D model can still require considerable time, modelling knowledge and specialist software.
+Generative AI has introduced a different route, allowing users to describe or show what they want and receive a 3D asset in minutes, reported by 3D Printing Industry on Sep 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/unnamed-23-150x100.png
+Read more ? https://3dprintingindustry.com/news/review-meshy-ai-tested-across-six-practical-3d-modelling-tests-254447
 
-🖨 At just 13, Andy Barrett turned a school 3D printer into a small business, selling 150 fidget toys while u - economictimes.com
-At just 13, Andy Barrett turned a school 3D printer into a small business, selling 150 fidget toys while u economictimes.com
-Reported by Google News - 3D Printing on Sep 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMixAJBVV95cUxOMUJKVi1Ddm5LcmtFOWJpd2Rtb1psc1JLRTloWDM0ZTIwemctRTlmOE9NOFNIVmxYWG1pZlU3SHE1dC10OWVyQ0lPMkhyTG9LRVJxZWFNcC11Q25IQnI2aDhtRHlTVVE1TzVXbzFWQ2hqR3F3YzJCQ0hUVzBBSVFxd1M0VDRRNkxubUtGeG1tUTNDbkMwMUJTVmcxT2FzbFdpX3htVWJCR2pQcG10NFlKalFScDAtMkFyWXR6TG5udklEYV82SjhEbUhkTVFNU3dQbnEySkl6QjJDMzdPelE2bnN0Qm5LMjhlNng2djFqcjR1SC1scHZNRnRLSUxoN24ta1d0Z05XY1lkdl9jMzdibXVVQTAyLTBfZXFsZmtjLVJOUjgzeTRFSENoT3lxX3k3RXZzVTBEWGticVp5b3I4TXcxN2zSAcoCQVVfeXFMT0tCSGRud0pSM3dtVW1MUS1XclFNVVdxVUhPenhDRzNsbHpIYmNtTzNVbHdWLVBKLVVJWklreEJXYkZHUU9ZTzlibUxjMFEtRXRkSUYtZGJPNlZFZ0ZzSzdLOVFsWldUWW9ySlFjWUFpSjlsZWhwTjd3ZmduWDRjZEhWcnk2UFE3TWNUOUE4VWpfbVJxR2N4QkY3T0FmQmRFa3J4a1JqQUR6WElFbGpqRUdBTF8xZG9ZY1VRSzgzMzVwUjJDUmdkaGx5Tlkxd1gxUjg0QnFBQWxKUEc2TFdFWkdDN3huOU0zOFFhclpObzFzd0tUaXNhQndzWm53bXg2RTdRQkMwR0NsaExNRUxLNnl4cmN5ZEd6ZEVmVzU5M2FsUG53QlBJSTNodHdRRkpzOVBPMjRQa1daQTljRlRtTjVpR1BTS3ljeDN3?oc=5
+💻 ATLIX appoints Christopher Schmitz to lead APAC efforts
+Schmitz, who is based in Japan, is said to bring extensive experience in the additive manufacturing industry, most recently through his work at EOS's Additive Minds technical consulting unit.
+Reported by TCT Magazine on Sep 07, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/IMG_2609-1-1.jpeg
+Read more ? https://www.tctmagazine.com/atlix-appoints-christopher-schmitz-to-lead-apac-efforts
 
-🖨 Meet Andy Barrett, the 13-year-old Ohio student who turned a school 3D printer into a small business, sel - The Times of India
-Meet Andy Barrett, the 13-year-old Ohio student who turned a school 3D printer into a small business, sel The Times of India
-Reported by Google News - 3D Printing on Sep 05, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi1gJBVV95cUxQbVN1OGFXdmZuWXF4TTRxVUV4aDV5eS0wa2VBMklaakZLRzZpOVBGc3UzTElmOWI0UDFvenVhNVEtTWhoMXY4THVRQzl3cHFpVnhNNzZ4SWQ3aUNZVE5vYzVma3RyWWRvZ1ZuYjk5VFlnZTlPbkxxNGFyLW5pZzNGOXdtZ2tod1NsVEpzWXlHVDVRaHRFNWIyQnFEa2QwSEhwY183UnVVeHVVRzNxTXRCbmpocHBwbG4xa3VWa3hXUFlkMUpmTWFxNEVVM0UyTkxQeW51SFc2OVFwTFlmZ1pXZTA1UGlTZHpYU0RmdWctUldCR2phQTFjNVp6QXRQT05keGUzR3BxaTZ6TlIxWnZqWHh1S2FiakpocFlDSWtkajd5eUhEalFfR2hnQm42bVVrY3hkcXZVX3RVNEVCbVlIYnJVLUZFU3ZSNU05VW1tc0tGRTFMVVHSAdsCQVVfeXFMTVZuaTFTRDZuS3Z1bEVjWHYxT3RwV0l0MHV5bmprbHhFMEUybTJHUUN3Q3g2Zk5RcWhXUE1neTJWS1VwRFg4cldnVlp4dTZJV25fcU9TOGJXZHl3VTZLaDVGRnRZVWc3OWNUUXVEcmhQSHFBbHZ1ejJKR0VGU2gwRmhVUnF0ck5VdEIzRXd3US05YUdtWDhWc3ZsekFUTXNPZjV0Z3ItRXNaTjdaU1Y2RWNoZ2IybDBJT3lXZms0VmVsSnBySTdveXpDenh1M3lNQmNUUGhTWTVfNEVHQzItWE1zLW1wdTVQZGh3amQ1eWtKZlZFcndOSjRTcVBZM2xUQTVKV00xVVViczRHbkdXb2lrczExUGlsdDk1bFRFd2RxVldvTEhEZG44cUw3YzhaS09BS0Y2NnFtN2ZZN053S3c3MHh1RjBHYkFfbHBrMlk4NWFXd0ZsY3h5NU0?oc=5
+🖨 Beyond the Machines: What Stood Out at Formnext Shenzhen 2026
+Coming away from Formnext Asia Shenzhen 2026, my biggest takeaway wasn’t “how many new printers were unveiled”; after all, quite a few established traditional 3D printing brands didn’t show up....
+Reported by 3DPrint.com on Sep 07, 2026.
+Read more ? https://3dprint.com/331962/beyond-the-machines-what-stood-out-at-formnext-shenzhen-2026
 
-🖨 Creality Unveils K3, SPARKX i8 and Expanded Creative Ecosystem at IFA 2026 - PR Newswire
-Creality Unveils K3, SPARKX i8 and Expanded Creative Ecosystem at IFA 2026 PR Newswire
-Reported by Google News - 3D Printing on Sep 05, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcW9vcDdhdkZYQ2xraW1mdWhGdWRkRTk3UWJlUE53U3FoT0dJZjlOaTUzSDJWbHQzQmRkNG4wOHZ2RlluSF9aM01BdlV2SWx1eFlsWURuWDZKbGdKVklvWUhuMVBXeXBCZEEyUkZZVVZKYmlwT2RwWHFXZkotSDJ3djhpdTVma3M2VmhFNnR2SGJwN19wYk9OdHpOdWNGSFFYQ2RZTmtIc3NpbEx0Qm9TUndETU8yMlVyUDNLeW1lSTItQlcyMjFuRQ?oc=5
+🚀 Study Reveals Better Electrode Geometry for Flow Batteries
+Researchers from Eindhoven University of Technology and the University of Waterloo have used a $350 3D printer to manufacture battery electrodes with precisely engineered internal geometries.
+One shape in particular, a diamond lattice, achieved more than twice the mass-transfer performance of a simple grid while also producing much lower hydraulic resistance, reported by 3D Printing Industry on Sep 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/maxime-set-up-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/study-reveals-better-electrode-geometry-for-flow-batteries-254444
 
-🖨 Prusa Cuts MK4S by 20% for Back-to-School Sale, Bundles Free Filament With CORE One+ - All3DP
-Prusa Cuts MK4S by 20% for Back-to-School Sale, Bundles Free Filament With CORE One+ All3DP
-Reported by Google News - 3D Printing on Sep 04, 2026.
-Read more ? https://news.google.com/rss/articles/CBMipgFBVV95cUxOOEhyMndlcF9QdDBsUU1rZUlqNk9qVmN3dGlhN0dOeDZMd3NLTkJCTkpKV0xCczlHYnlEX1hCWU1LTGU1MWNqbnJqWWhMS3RUdzNGUDM2bjluVTlJdi1nUmNUS3FRcTZ6SUhOalNDMlhtYXB6Qm1ILWJsMXZkemQ5TWtxbnlKcy1pNkJZRktSV2VfR1F6M2JmVEpjTUFNb1pCY0o1YV93?oc=5
+🦺 Hike Medical raises $22.5M to expand vertically integrated orthotics platform
+Hike Medical, a San Francisco-based medical device company combining clinical software with in-house manufacturing, has raised $22.5 million in seed and Series A funding to expand its vertically integrated orthotics...
+The round was led by Max Altman at Saga Ventures, with participation from Indicator Ventures, Fifth Down Capital, RiverPark Ventures…, reported by 3D Printing Industry on Sep 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/image-6-150x100.png
+Read more ? https://3dprintingindustry.com/news/hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform-254433
 
-📰 At This 3D Printed Petting Zoo, the Mistakes Are Part of the Fun
-Pip the Rabbit has a glowing belly and ears that wiggle when you press his paw.
-Inchy the Caterpillar crawls when you clap, reported by 3DPrint.com on Sep 06, 2026.
-Read more ? https://3dprint.com/332130/at-this-3d-printed-petting-zoo-the-mistakes-are-part-of-the-fun
+🦺 New Liqcreate Tray Resin Simplifies Custom Dental Tray Production
+Netherlands-based independent 3D printing resin manufacturer Liqcreate has introduced Liqcreate Tray, a CE Class 1 certified biocompatible resin designed for 3D printing custom dental impression trays.
+The material was developed in collaboration with dental laboratories and clinical partners and is formulated to work across a broad range of open-platform resin printers, reported by 3D Printing Industry on Sep 07, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/Liqcreate-Tray-250gr-with-items-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/new-liqcreate-tray-resin-simplifies-custom-dental-tray-production-254423
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
