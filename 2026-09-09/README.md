@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-09
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #245 - 2026-09-09
+## Stories
 
 🚨 Closer Look at the Creality K3, an Atomform Update, Next-Gen Lasers and the Bambu Lab-ification of CNC is Coming (Whether You Want It or Not) - All3DP
 Closer Look at the Creality K3, an Atomform Update, Next-Gen Lasers and the Bambu Lab-ification of CNC is Coming (Whether You Want It or Not) All3DP
@@ -48,9 +46,3 @@ Metal additive manufacturing has never been an easy fit for a research lab.
 Laser powder bed fusion (LPBF) means a laser safety enclosure, powder handling protocols, an inert atmosphere and three-phase power, reported by 3D Natives on Sep 07, 2026.
 Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/09/valcun-webinarcover_article.png
 Read more ? https://www.3dnatives.com/en/metal-additive-manufacturing-webinar-valcun-08092026
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

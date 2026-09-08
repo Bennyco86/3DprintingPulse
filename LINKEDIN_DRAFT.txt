@@ -1,51 +1,50 @@
-﻿# 3D PRINTING PULSE #244 - 2026-09-08
+﻿# 3D PRINTING PULSE #245 - 2026-09-09
 
-🚀 Modix launches fifth generation of large-format 3D printer platform
-A new Duet 3 electronics architecture, the company says, enables automatic tool changing, multi-material printing, compact pellet extrusion and 45-degree printing on its Modix BIG series.
-Reported by TCT Magazine on Sep 07, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Modix-GEN5---Printing-in-45-Degree-1.jpg
-🔗 Read more: https://www.tctmagazine.com/modix-launched-fifth-generation-of-large-format-3d-printer-platform
+🚨 Closer Look at the Creality K3, an Atomform Update, Next-Gen Lasers and the Bambu Lab-ification of CNC is Coming (Whether You Want It or Not) - All3DP
+Closer Look at the Creality K3, an Atomform Update, Next-Gen Lasers and the Bambu Lab-ification of CNC is Coming (Whether You Want It or Not) All3DP
+Reported by Google News - 3D Printing on Sep 08, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaVN1WUplaFc1Z0xRbm9sNU8xS2VyTUM3RTFCdE5seldMWjNobl9aRU43ZFd6WU0ySkRmdkhEUE9mS0kxeC1KVDltSnJ6dlpTM0JDWTBibkk5MDBJVnNoNHJCRU8xRjJ6N1FQSHJCdW83N0JYZmNGNDhpMG5JMER2R1dOR3M1eXdfanpvM2dRVVRZSG1UMVJNc1dTRzVmTjQ1MmZRU0R1a1hBWXl2VU50MFpWMVJ0cDVDY3RiNXNBbjBWYTIzeTRhZkNuUXVvbTNac3pJa3RxY2FHX1RnN3BQcm5qOE5iRjl1STlkU2dWNUs?oc=5
 
-🖨 Modix BIG Generation 5: Duet 3 Electronics, Tool Changer, and More | 2026 - News and Statistics - IndexBox
-Modix BIG Generation 5: Duet 3 Electronics, Tool Changer, and More | 2026 - News and Statistics IndexBox
-Reported by Google News - 3D Printing on Sep 07, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxQT3Z2R3p2R3NsLXhuWXNaTndSSDhDYVRMTnhpeEV6ZWphM3ZlbVhBWmVJWkwyNVhuZmxjcnotNEduNUJIaFFMbENVeG8yTHJZdUFMX3dJamNKOEVEVlpPcTRlZEhMMUg0NFV6cFBmbnJyY29keWsteDdhMERyYmFYblg5b0FBamIycnZibTlXTzdZYWgwam9QSFVVdw?oc=5
+📷 Creality Raptor Pro vs Revopoint Metro Y Pro 3D scanners Head-to-Head - Geeky Gadgets
+Creality Raptor Pro vs Revopoint Metro Y Pro 3D scanners Head-to-Head Geeky Gadgets
+Reported by Google News - 3D Scanners on Sep 08, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMicEFVX3lxTE9iYlAxSm5zM3lCcDl0Y2IyRGs0OWxSbW5wYU9FT2V1V1FtSXBaNGlwZjg3WHlLX1dFdEZTN1VUaDdKLXZZM25kX0J3a0ZrSkdmaVJjcFE2MlF1X1hCQVlrM0QwWlFDZmlYSTFpbTVkc3Y?oc=5
 
-💻 [Review] Meshy AI Tested Across Six Practical 3D Modelling Tests
-Turning an idea into a usable 3D model can still require considerable time, modelling knowledge and specialist software.
-Generative AI has introduced a different route, allowing users to describe or show what they want and receive a 3D asset in minutes, reported by 3D Printing Industry on Sep 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/unnamed-23-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/review-meshy-ai-tested-across-six-practical-3d-modelling-tests-254447
+💻 Phase3D Names Phillips Federal Exclusive Defense Channel Partner in North America
+Chicago-based 3D printing quality assurance software developer Phase3D and U.S.-based supplier of manufacturing technology and services Phillips Federal have entered a partnership naming Phillips Federal as Phase3D’s...
+The agreement gives U.S, reported by 3D Printing Industry on Sep 08, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/Crop-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/phase3d-names-phillips-federal-exclusive-defense-channel-partner-in-north-america-254501
 
-💻 ATLIX appoints Christopher Schmitz to lead APAC efforts
-Schmitz, who is based in Japan, is said to bring extensive experience in the additive manufacturing industry, most recently through his work at EOS's Additive Minds technical consulting unit.
-Reported by TCT Magazine on Sep 07, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/IMG_2609-1-1.jpeg
-🔗 Read more: https://www.tctmagazine.com/atlix-appoints-christopher-schmitz-to-lead-apac-efforts
+🖨 Hyundai installs two ExOne VX1000 HSS polymer 3D printers
+The automotive company has adopted ExOne's High Speed Sintering technology to produce large parts quickly, reducing assembly effort and tolerance stack-up errors.
+Reported by TCT Magazine on Sep 08, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/result_VX1000-HSS-Hyundai-setup-before-shipment1--1.png
+🔗 Read more: https://www.tctmagazine.com/hyundai-installs-two-exone-vx1000-hss-polymer-3d-printers
 
-🖨 Beyond the Machines: What Stood Out at Formnext Shenzhen 2026
-Coming away from Formnext Asia Shenzhen 2026, my biggest takeaway wasn’t “how many new printers were unveiled”; after all, quite a few established traditional 3D printing brands didn’t show up....
-Reported by 3DPrint.com on Sep 07, 2026.
-🔗 Read more: https://3dprint.com/331962/beyond-the-machines-what-stood-out-at-formnext-shenzhen-2026
+🖨 Are Desktop PC-ABS Prints Outperformed by Industrial FDM? Not Really
+[Igor] of [My Tech Fun] set out to discover what differences, if any, can be found between parts printed in PC-ABS filament on an industrial 3D printer, and those from …read more
+Reported by Hackaday 3D Printing on Sep 08, 2026.
+🖼️ Image: https://hackaday.com/wp-content/uploads/2026/09/Stratasys-vs-Polymaker-PC-ABS_-Industrial-vs-Desktop-3D-Printing-1-36-screenshot-banner.png
+🔗 Read more: https://hackaday.com/2026/09/08/are-desktop-pc-abs-prints-outperformed-by-industrial-fdm-not-really
 
-🚀 Study Reveals Better Electrode Geometry for Flow Batteries
-Researchers from Eindhoven University of Technology and the University of Waterloo have used a $350 3D printer to manufacture battery electrodes with precisely engineered internal geometries.
-One shape in particular, a diamond lattice, achieved more than twice the mass-transfer performance of a simple grid while also producing much lower hydraulic resistance, reported by 3D Printing Industry on Sep 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/maxime-set-up-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/study-reveals-better-electrode-geometry-for-flow-batteries-254444
+🖨 Prusament PLA ColorMix: Print 45 color shades using just five filament spools (and more)
+In May, we released the Prusa ColorMix, our open-source color mixing model, based on the community project Full Spectrum.
+We promised you then that we’re working on a dedicated filament bundle, reported by Prusa Blog on Sep 08, 2026.
+🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/09/b542889a-prusa_colormix_v2d_blog-698x325.jpg
+🔗 Read more: https://blog.prusa3d.com/prusament-pla-colormix-print-45-color-shades-using-just-five-filament-spools-and-more_137835
 
-🦺 Hike Medical raises $22.5M to expand vertically integrated orthotics platform
-Hike Medical, a San Francisco-based medical device company combining clinical software with in-house manufacturing, has raised $22.5 million in seed and Series A funding to expand its vertically integrated orthotics...
-The round was led by Max Altman at Saga Ventures, with participation from Indicator Ventures, Fifth Down Capital, RiverPark Ventures…, reported by 3D Printing Industry on Sep 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/image-6-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/hike-medical-raises-22-5m-to-expand-vertically-integrated-orthotics-platform-254433
+🖨 Quantum Cyber Completes Installation of 80 3D Printers at Connecticut Drone Farm
+Earlier this year, Mainz Biomed, a Netherlands-incorporated company headquartered in Germany that trades on the NASDAQ, changed its name to Quantum Cyber and shifted its business focus from stool-based colorectal...
+Reported by 3DPrint.com on Sep 08, 2026.
+🔗 Read more: https://3dprint.com/331830/quantum-cyber-completes-installation-of-80-3d-printers-at-connecticut-drone-farm
 
-🦺 New Liqcreate Tray Resin Simplifies Custom Dental Tray Production
-Netherlands-based independent 3D printing resin manufacturer Liqcreate has introduced Liqcreate Tray, a CE Class 1 certified biocompatible resin designed for 3D printing custom dental impression trays.
-The material was developed in collaboration with dental laboratories and clinical partners and is formulated to work across a broad range of open-platform resin printers, reported by 3D Printing Industry on Sep 07, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/Liqcreate-Tray-250gr-with-items-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/new-liqcreate-tray-resin-simplifies-custom-dental-tray-production-254423
+🖨 WEBINAR: Aluminum AM in Your Lab: Manchester and Twente on ValCUN’s MMD Technology
+Metal additive manufacturing has never been an easy fit for a research lab.
+Laser powder bed fusion (LPBF) means a laser safety enclosure, powder handling protocols, an inert atmosphere and three-phase power, reported by 3D Natives on Sep 07, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/09/valcun-webinarcover_article.png
+🔗 Read more: https://www.3dnatives.com/en/metal-additive-manufacturing-webinar-valcun-08092026
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Modix launches fifth generation of large-format 3D printer platform" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.tctmagazine.com/modix-launched-fifth-generation-of-large-format-3d-printer-platform | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Creality Raptor Pro vs Revopoint Metro Y Pro 3D scanners Head-to-Head - Geeky Gadgets" because it highlights where practical 3D printing innovation is moving next. Read it here: https://news.google.com/rss/articles/CBMicEFVX3lxTE9iYlAxSm5zM3lCcDl0Y2IyRGs0OWxSbW5wYU9FT2V1V1FtSXBaNGlwZjg3WHlLX1dFdEZTN1VUaDdKLXZZM25kX0J3a0ZrSkdmaVJjcFE2MlF1X1hCQVlrM0QwWlFDZmlYSTFpbTVkc3Y?oc=5 | Full pulse: https://www.quality3ds.com/
