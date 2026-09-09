@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-10
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #246 - 2026-09-10
+## Stories
 
 📷 5 Best 3D Scanners 2026 – Top 3D Scanners Worth Buying Jacob Elordi (PGflJC4BXg) - Mshale
 5 Best 3D Scanners 2026 – Top 3D Scanners Worth Buying Jacob Elordi (PGflJC4BXg) Mshale
@@ -47,9 +45,3 @@ Read more ? https://www.voxelmatters.com/sprintray-releases-midas-restore-cerami
 Throughout the history of additive manufacturing (AM) technologies, there are only a couple of really interesting case studies in which we see a market significantly disrupted and revolutionized by AM....
 Reported by 3DPrint.com on Sep 09, 2026.
 Read more ? https://3dprint.com/332123/silencer-market-set-to-test-metal-additives-readiness-for-production-prime-time-with-enormous-market-expansion
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
