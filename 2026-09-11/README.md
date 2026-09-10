@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #247 - 2026-09-11
+## Stories
 
 🔥 First Look at MIT's ShiftLens, 3D-Printed Objects Capable of Flashing a Warning When You Use Them Wrong - TechEBlog -
 First Look at MIT's ShiftLens, 3D-Printed Objects Capable of Flashing a Warning When You Use Them Wrong TechEBlog -
@@ -48,9 +46,3 @@ Read more ? https://www.tctmagazine.com/skyrora-completes-hot-fire-test-of-3-5kn
 Reported by TCT Magazine on Sep 10, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/WAAM.jpg
 Read more ? https://www.tctmagazine.com/bmw-to-launch-car-with-waam-3d-printed-component-in-2027
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
