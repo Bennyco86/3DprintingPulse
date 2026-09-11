@@ -1,50 +1,51 @@
-﻿# 3D PRINTING PULSE #247 - 2026-09-11
+﻿# 3D PRINTING PULSE #248 - 2026-09-12
 
-🔥 First Look at MIT's ShiftLens, 3D-Printed Objects Capable of Flashing a Warning When You Use Them Wrong - TechEBlog -
-First Look at MIT's ShiftLens, 3D-Printed Objects Capable of Flashing a Warning When You Use Them Wrong TechEBlog -
-Reported by Google News - 3D Printing on Sep 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WDJrRloxWk10YWNpY05JOC1UZ3c0TUJVTGFiUkduNEpJVFB1dmRoWmJjQVJWMmhuSHdzekN2YWlrUFgwNHFObk5HdWRZVlgwdnpualNPM3ZxSXdYQkkwTGRKYWU1TTBTTjBj?oc=5
+📷 Russian 3D scanner gets Indian registration - www1.ru
+Russian 3D scanner gets Indian registration www1.ru
+Reported by Google News - 3D Scanners on Sep 11, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxQX25RT3RDUU9OMmJFNUtwR3FqbTNJSF9yM2drdlNSNlRBTWgzQnhtUkpyYWJ2VWtnd3pmOVpiTkhiakJjX25mcGptLXZOSEtPQVNSanFDSlR6dUZxZzJVVDhaUmVFb1hhM0hmU2l1QU8xcEhrWWFoa1EtbmNxOWFFQlpzcmpCZUZQczNidUpTWWd2bkc0Wmd6c2RLONIBoAFBVV95cUxPaS05UkI0eXg3Tmt0eFQwU1c3azFGWGczNzVSYjZPbC10c1kwaUZlVTNvc1RpSFF0T3NrUDAtN0pDUGtpRHdjM1NJZVdCYmt3WUdsdlcxQkhodWwwUmdKMjhUaHR0TkdsYzVtcHhtWUZ1eGx2a0VERlVnaVJXMjVXSXVNbmJmazlEN0RVdy1MYWI3WXZtMUhHa0NlUXVIYU1q?oc=5
 
-💻 Inside SixPAC: The Army’s Bid to Modernize Ammunition Packaging and Supply Chains
-Army‘s Combat Capabilities Development Command Armaments Center unveiled SixPAC on August 26, 2026, at Picatinny Arsenal, New Jersey, the first major redesign of small-caliber ammunition packaging since World War II.
-The system pairs two lightweight polymer ammunition containers, or PACs, inside a single steel outer shell, and after successful use with 6.8mm rounds,…, reported by 3D Printing Industry on Sep 10, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/size0-full-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/inside-sixpac-the-armys-bid-to-modernize-ammunition-packaging-and-supply-chains-254557
+💻 Aprecia Pharmaceuticals: 'AM is an important expansion of the pharmaceutical manufacturing toolbox'
+TCT Group Content Manager Sam Davies speaks to Aprecia COO Kyle Smith &amp; SVP of Scientific Affairs Kathi Rinesmith.
+Reported by TCT Magazine on Sep 11, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Nests_34_FT8A0192_R1a-1.jpg
+🔗 Read more: https://www.tctmagazine.com/aprecia-pharmaceuticals-am-is-an-important-expansion-of-the-pharmaceutical-manufacturing-toolbox
 
-🖨 PrusaSlicer 3.0 Preview Arrives With New Architecture and a Community Plugin Marketplace on the Way
-Prusa Research’s PrusaSlicer 3.0 has entered public preview, releasing on September 1, 2026 15 years to the day after the first commit to Slic3r, the project PrusaSlicer was originally forked from.
-The release rebuilds the user interface from scratch and introduces a new project system, a reworked profile architecture, and a plugin system, which Prusa…, reported by 3D Printing Industry on Sep 10, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/8e2eb47e-multiple-beds-2-2048x1152-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/prusaslicer-3-0-preview-arrives-with-new-architecture-and-a-community-plugin-marketplace-on-the-way-254561
+♻️ Apple Watch Series 12 features 100% recycled titanium 3D printed case
+The use of metal AM is said to support the company’s Apple 2030 carbon neutrality target across its manufacturing supply chain and lifetime use of its products.
+Reported by TCT Magazine on Sep 11, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Apple-Watch-Series-12-2up-260909.jpg
+🔗 Read more: https://www.tctmagazine.com/apple-watch-series-12-features-100-recycled-titanium-3d-printed-case
 
-🖨 Meltio Helps Grow Rubies Inside 3D Printed Platinum
-At the University of the West of England (UWE Bristol), the Centre for Print Research (CFPR) is using metal 3D printing to help grow gemstones directly inside platinum structures.
-Reported by 3DPrint.com on Sep 10, 2026.
-🔗 Read more: https://3dprint.com/332241/meltio-helps-grow-rubies-inside-3d-printed-platinum
+🖨 NIST reference material aims to standardize photopolymer 3D printing
+The National Institute of Standards and Technology (NIST) has made available Reference Material (RM) 8047, a standardized photoactive resin developed with the Photopolymer Additive Manufacturing Alliance (PAMA)—a...
+Photopolymer 3D printing has relied on a “working curve” … The post NIST reference material aims to standardize photopolymer 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/NIST-8047-photopolymer-resin-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/nist-reference-material-aims-to-standardize-photopolymer-3d-printing
 
-🖨 SprintRay Releases Midas Restore
-SprintRay‘s new U.S.
-Food and Drug Administration (FDA)-cleared Midas Restore is a material for restorative dentistry, reported by 3DPrint.com on Sep 09, 2026.
-🔗 Read more: https://3dprint.com/331887/sprintray-releases-midas-restore
+🖨 Hyundai Installs New Large-Format 3D Printers for Full-Scale Automotive Parts
+South Korean automotive giant Hyundai’s Namyang R&amp;D Center is now running two VX1000 HSS polymer 3D printers from German equipment maker ExOne Global Holdings.
+The machines use a High Speed Sintering process in which an infrared-absorbing ink is deposited selectively onto PA12 powder and fused layer by layer through a sintering emitter, reported by 3D Printing Industry on Sep 11, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/result_VX1000-HSS-Hyundai-setup-before-shipment1--150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607
 
-📰 Apple Brings Two Distinct 3D Printing Processes to the Hinge of Its First Foldable iPhone
-Global consumer electronics company Apple announced the iPhone Duo (rumored as iPhone Ultra) yesterday, its first foldable smartphone, priced at $1,999 and scheduled to ship October 23.
-The device opens to a 7.6-inch inner display and closes to a 5.4-inch outer display, with both screens sharing the same aspect ratio so content scales proportionally between…, reported by 3D Printing Industry on Sep 10, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/Apple-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/apple-brings-two-distinct-3d-printing-processes-to-the-hinge-of-its-first-foldable-iphone-254601
+🖨 ORNL and Mazak develop hybrid VC-Ez WAAM platform
+Next week at the International Manufacturing Technology Show (IMTS) in Chicago, AM experts and enthusiasts will have lots to see.
+Among these showcases will be the 11-foot-tall Aires Tide, a full-scale 3D printed proof-of-concept test flight vehicle; a live demonstration of 3D printed quadcopters; and a new hybrid metal AM manufacturing, reported by VoxelMatters on Sep 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/ornl-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ornl-and-mazak-develop-hybrid-vc-ez-waam-platform
 
-🚀 Skyrora completes hot-fire test of 3.5kN LEO engine manufactured with 3D printing
-The engine is said to feature an advanced titanium-coated component developed through the European Union-funded MADE-3D programme
-Reported by TCT Magazine on Sep 10, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Engine-In-Action-1.jpg
-🔗 Read more: https://www.tctmagazine.com/skyrora-completes-hot-fire-test-of-3-5kn-leo-engine-manufactured-with-3d-printing
+🖨 VoxelMatters Large-format AM Focus 2026 eBook
+Welcome to our first eBook dedicated exclusively to large-format additive manufacturing (LFAM).
+This particular topic is unique in that its focus is not on a specific type of technology or adopter area, reported by VoxelMatters on Sep 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/LFAM-2026-eBook-Feature-Image-150x150.png
+🔗 Read more: https://www.voxelmatters.com/voxelmatters-large-format-am-focus-2026-ebook
 
-🚀 BMW to launch car with WAAM 3D printed component in 2027
-"We are still in the final steps of qualification but the car the component will go into will be launched next year."
-Reported by TCT Magazine on Sep 10, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/WAAM.jpg
-🔗 Read more: https://www.tctmagazine.com/bmw-to-launch-car-with-waam-3d-printed-component-in-2027
+🖨 $51 Million Revenue VMP Wants to Become a Leading Additive Manufacturing Metal Powder Producer
+Chinese powder producers have traditionally had little impact on the additive manufacturing market.
+Typically, they offer low-cost powders without much in the way of settings or application support, reported by 3DPrint.com on Sep 11, 2026.
+🔗 Read more: https://3dprint.com/331447/51-million-revenue-vmp-wants-to-become-a-leading-additive-manufacturing-metal-powder-producer
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "First Look at MIT's ShiftLens, 3D-Printed Objects Capable of Flashing a Warning When You Use Them Wrong - TechEBlog -" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMia0FVX3lxTFA4WDJrRloxWk10YWNpY05JOC1UZ3c0TUJVTGFiUkduNEpJVFB1dmRoWmJjQVJWMmhuSHdzekN2YWlrUFgwNHFObk5HdWRZVlgwdnpualNPM3ZxSXdYQkkwTGRKYWU1TTBTTjBj?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Apple Watch Series 12 features 100% recycled titanium 3D printed case" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Direct link: https://www.tctmagazine.com/apple-watch-series-12-features-100-recycled-titanium-3d-printed-case | Full coverage: https://www.quality3ds.com/

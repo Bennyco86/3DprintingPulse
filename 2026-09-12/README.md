@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-12
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #248 - 2026-09-12
+## Stories
 
 📷 Russian 3D scanner gets Indian registration - www1.ru
 Russian 3D scanner gets Indian registration www1.ru
@@ -49,9 +47,3 @@ Read more ? https://www.voxelmatters.com/voxelmatters-large-format-am-focus-2026
 Chinese powder producers have traditionally had little impact on the additive manufacturing market.
 Typically, they offer low-cost powders without much in the way of settings or application support, reported by 3DPrint.com on Sep 11, 2026.
 Read more ? https://3dprint.com/331447/51-million-revenue-vmp-wants-to-become-a-leading-additive-manufacturing-metal-powder-producer
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
