@@ -1,51 +1,45 @@
-﻿# 3D PRINTING PULSE #248 - 2026-09-12
+﻿# 3D PRINTING PULSE #249 - 2026-09-13
 
-📷 Russian 3D scanner gets Indian registration - www1.ru
-Russian 3D scanner gets Indian registration www1.ru
-Reported by Google News - 3D Scanners on Sep 11, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxQX25RT3RDUU9OMmJFNUtwR3FqbTNJSF9yM2drdlNSNlRBTWgzQnhtUkpyYWJ2VWtnd3pmOVpiTkhiakJjX25mcGptLXZOSEtPQVNSanFDSlR6dUZxZzJVVDhaUmVFb1hhM0hmU2l1QU8xcEhrWWFoa1EtbmNxOWFFQlpzcmpCZUZQczNidUpTWWd2bkc0Wmd6c2RLONIBoAFBVV95cUxPaS05UkI0eXg3Tmt0eFQwU1c3azFGWGczNzVSYjZPbC10c1kwaUZlVTNvc1RpSFF0T3NrUDAtN0pDUGtpRHdjM1NJZVdCYmt3WUdsdlcxQkhodWwwUmdKMjhUaHR0TkdsYzVtcHhtWUZ1eGx2a0VERlVnaVJXMjVXSXVNbmJmazlEN0RVdy1MYWI3WXZtMUhHa0NlUXVIYU1q?oc=5
+🚨 SHINING 3D launches a wireless version of its FreeScan Combo 3D scanner - VoxelMatters
+SHINING 3D launches a wireless version of its FreeScan Combo 3D scanner VoxelMatters
+Reported by Google News - 3D Scanners on Sep 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiowFBVV95cUxOb29TNVl4OFZOLTdkdHJaTE5PQTUxUlZ4RWxhYnk5bWUtdmM1alZldC1XTW1mNG1LRGtwM29uNUFmSG5Kd1pybVV0Umc4SGxLbm5BNG9TN2xZaHo2bFlTSk1fRkxvWU1RRVZyVDdIbV9pdVB2ek9xY0k3OWVwWHBWSU5jV25admE3M3FSdXhrUUFMM3pZNmk1Z05RV0hTT0lnejZv0gGoAUFVX3lxTFBsV2tsX0FuaGFVd0xmVktUZVRYbWUyZlZySnY5TFFZR3VxNVUxeUNXZlg4cTg5TDNHWkdjcjR4cWxneGs2ZnlWX09nb1JQbWZVUEMyMUVCd3VqVXZnODdTLTlfZHBkaVV6V3NJY1RiZDhhY2F2Rk5BQlEySF80SzhOMHM1TndUdzRaY3Vpd3lzaHRYR0ZOZ3lHSkw0Y3cyM2xqUy1jSXN4Tg?oc=5
 
-💻 Aprecia Pharmaceuticals: 'AM is an important expansion of the pharmaceutical manufacturing toolbox'
-TCT Group Content Manager Sam Davies speaks to Aprecia COO Kyle Smith &amp; SVP of Scientific Affairs Kathi Rinesmith.
-Reported by TCT Magazine on Sep 11, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Nests_34_FT8A0192_R1a-1.jpg
-🔗 Read more: https://www.tctmagazine.com/aprecia-pharmaceuticals-am-is-an-important-expansion-of-the-pharmaceutical-manufacturing-toolbox
+📷 Revopoint Debuts High-Accuracy 3D Scanning for Industrial Inspection - Supply &amp; Demand Chain Executive
+Revopoint Debuts High-Accuracy 3D Scanning for Industrial Inspection Supply &amp; Demand Chain Executive
+Reported by Google News - 3D Scanners on Sep 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMFZiMXhBdVVtMWdpc3UwMmI4eXJwcVBHYUdERFhfZ3FpaVJkNGg0d1pYS2RmazhkRzI0ZWg4aUlPenJvYy1Wd3AtOUZMdkZERzRhSzBhbFNkalRSbFZLN0FtTDVzcGF6ZkFIWnc3N1luZXdTdGZRSm1KaUJaTVdIbGdudEZoRE5EYkRRS0NKZkQ3LVVNdFE2cVo2cmZYVGI1RVBLT1NKdDNmSUd5RzNqcTRXSjVCQzVxYUV3WjFRck9LamJyMkVBdENkVVo4ODROU293N1pMc0l4bU9CUDVrV091OGpXenFkTmsyMXVB?oc=5
 
-♻️ Apple Watch Series 12 features 100% recycled titanium 3D printed case
-The use of metal AM is said to support the company’s Apple 2030 carbon neutrality target across its manufacturing supply chain and lifetime use of its products.
-Reported by TCT Magazine on Sep 11, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Apple-Watch-Series-12-2up-260909.jpg
-🔗 Read more: https://www.tctmagazine.com/apple-watch-series-12-features-100-recycled-titanium-3d-printed-case
+💻 Exclusive: Impossible Objects raises $40M for 3D printing in advanced manufacturing - Axios
+Exclusive: Impossible Objects raises $40M for 3D printing in advanced manufacturing Axios
+Reported by Google News - 3D Printing on Sep 11, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWNGY3ZXN3J3V0hwVTJOZFo4VGV0ZWFsbm5KNmp3VGl3M1Z0OE9NWS1XZEpsSWZyWm9JMjRBUnRicFQ3ZUJxM1E3Q1ZlVUlfa3J6aXN3X1lVRjJ4clNYSVA4bGZXM3h3LWM4YmhRR09WWFd2SkxVMFVub2NxcTFxZjJuVjVraUdoWmVTYzFUd3owMnJfUDBGeDdrNmVtdDdhTVhRemltZw?oc=5
 
-🖨 NIST reference material aims to standardize photopolymer 3D printing
-The National Institute of Standards and Technology (NIST) has made available Reference Material (RM) 8047, a standardized photoactive resin developed with the Photopolymer Additive Manufacturing Alliance (PAMA)—a...
-Photopolymer 3D printing has relied on a “working curve” … The post NIST reference material aims to standardize photopolymer 3D printing appeared first on VoxelMatters - The heart of additive manufacturing.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/NIST-8047-photopolymer-resin-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nist-reference-material-aims-to-standardize-photopolymer-3d-printing
+🖨 Best Malaysian 3D Printing Service For Small FDM Orders Requiring Nationwide Shipping - The Manila Times
+Best Malaysian 3D Printing Service For Small FDM Orders Requiring Nationwide Shipping The Manila Times
+Reported by Google News - 3D Printing on Sep 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTVR0SnN4ZDZIVnJxLXNNRVI1OWxoNVBpUmE3TmNkZGNsZmhNTmk5ZFRpTG5Na0xQbUtZWWpPLUk2N2dodnBKcEh0ME1UMTRycnJrUzQ2blFpeFQ2WXFvSXVEM1BtX2F6OW1kdHFqcE1XbmNDdU8ydGVYV3A0dUdnOHZleDRmdzBpVk9LSEJnV1J5ZGtnMktUUnUzX3pic1JfUjY5eVpwSTk2MFNLdkhaWkc3WmZpVG5uNjhfbmpKaWlrSEVEZW1XdmdFbS16WDNhWi0zcFlhZzJDLVVEVmw3ZW1GdTN2TDZzWl9HcNIB8gFBVV95cUxPeFhJNkYxTkU4aEVkZWFLRnZMRWZicEJMeWJYTi03SkJRaC1hV01JZXB2Yk1OVHpfNmFJUVNDaER1a0gtNkdJdXYzbkpXdGI2WU5CTldVU19feWp4OWt2SDRUZHV0OVgxSU00eHY0NDBVODRYMU1PQlRRVmxYUmpITGRtQVFsN0lBM2x2bnFaNXlIa2ZfLXdVRmJNcTYwNTV4OFRmMlRmTG5mUVJEUGRVOGFNUzhPYUJDQUt2bTJRN1FZTk45RmVtSTFHSEQ2RVk2alhaZHcyVkxwcTMzNU9pLXBocFZqSXJXZldFaUZMQ3RCQQ?oc=5
 
-🖨 Hyundai Installs New Large-Format 3D Printers for Full-Scale Automotive Parts
-South Korean automotive giant Hyundai’s Namyang R&amp;D Center is now running two VX1000 HSS polymer 3D printers from German equipment maker ExOne Global Holdings.
-The machines use a High Speed Sintering process in which an infrared-absorbing ink is deposited selectively onto PA12 powder and fused layer by layer through a sintering emitter, reported by 3D Printing Industry on Sep 11, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/result_VX1000-HSS-Hyundai-setup-before-shipment1--150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/hyundai-installs-new-large-format-3d-printers-for-full-scale-automotive-parts-254607
+🖨 16-year-old Massachusetts student built a machine that turns 3D-printer waste into reusable material, won - The Economic Times
+16-year-old Massachusetts student built a machine that turns 3D-printer waste into reusable material, won The Economic Times
+Reported by Google News - 3D Printing on Sep 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMilwJBVV95cUxPUzNNS05XcGRSaU1XMzctVVNmN08tOTVsblZUTnAyQ1RKSG9YNTMzeEE4d2NWaVU1RzdLS1lYMHN2dmhKMGI1MkxNVWZWQm1zU3JVNHI1NUdiakZwNEhrZWZWNFp0eTdsMW9GclBvOVFVeVZidXpRd0ozN3NJc0VQZVlRRjhPWllvblJ0Q2hIOVFMUDNyendYOXR1NW9UekVCWUFEbi1WWnBTVkw3M3MxRUVUUnRiRkdNNDNBQWlhLThBRERhYk1SR2VJcm5qckgtU1NSTUZ6T0x2TVFFS1FrRTFMNU1oQkxLcXpESjUtLWF3UGNZdnplOTRmWUdITmk0QWJONGtRbnNuRHBCRzY3ZG4xa2w2MUXSAZwCQVVfeXFMTWlzX0d3ZW5PLVpTQ3lCLW1EUlN4VXh6dFVuZEpxSXNDSmloS1pjVGRuSTNRazk3LTZtWXh2RGNobDFaYVFfbG9zRjFkLTNKb3FLQVZMQl82V0l1NC1US0JBajR2TVdROGVsbkpiUkNQRXF1eDJJak9VMDBzc29peFVHVVhnTHk3ZGhEM2diUGViakU3Sk5adlhoS0hic3h2MWVNd3ZtZ3VRRnBJdzB4c25GaXRrZHRzdkpuLTdTZDJBRDI3V3RMa3JDVFZRQ1F1SWE0ZlpJclFSbnliQl9PMUdJdW96ZTVxRmozYko3UkFOejVUbjBVdnd6UE85Z1JqdlphX1UzNmFwcE1pOWlscVhnRXFVYk9neXVTbTg?oc=5
 
-🖨 ORNL and Mazak develop hybrid VC-Ez WAAM platform
-Next week at the International Manufacturing Technology Show (IMTS) in Chicago, AM experts and enthusiasts will have lots to see.
-Among these showcases will be the 11-foot-tall Aires Tide, a full-scale 3D printed proof-of-concept test flight vehicle; a live demonstration of 3D printed quadcopters; and a new hybrid metal AM manufacturing, reported by VoxelMatters on Sep 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/ornl-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ornl-and-mazak-develop-hybrid-vc-ez-waam-platform
+🖨 Gun Groups &amp; Hollywood Team Up to Fight California’s 3D Printer Bill - pewpewtactical.com
+Gun Groups &amp; Hollywood Team Up to Fight California’s 3D Printer Bill pewpewtactical.com
+Reported by Google News - 3D Printing on Sep 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiakFVX3lxTFBVN1NYVUlmcnZfX1cwWDI5QXY4MEdGeEI3bmVkLXl1NlFEVUIyWS1BVU5qNVpPcXRSQnA0VTU1T2lVRzBrMk8xLW1mSEFFeHJIM2RLdVVqNnBoaDE2WlZCMFA0VzVQc3RXdEE?oc=5
 
-🖨 VoxelMatters Large-format AM Focus 2026 eBook
-Welcome to our first eBook dedicated exclusively to large-format additive manufacturing (LFAM).
-This particular topic is unique in that its focus is not on a specific type of technology or adopter area, reported by VoxelMatters on Sep 10, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/LFAM-2026-eBook-Feature-Image-150x150.png
-🔗 Read more: https://www.voxelmatters.com/voxelmatters-large-format-am-focus-2026-ebook
+🖨 Desktop printers reshaping the front line - Defence24.com
+Desktop printers reshaping the front line Defence24.com
+Reported by Google News - 3D Printing on Sep 12, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMifEFVX3lxTE9tdlhlVFZVNDNJbGhCQjZyU2xZWW5Za3JuTzlMV0wxWmxaQWpzTjIzX0xESGpIN0RtTklWOE1XQlh3NTZMMngwMkVRXzhjVGtHYlotM090eXVLS2dEZVVLTjZ2ZVdmaEZYZ29GVGx5T1RzbzBtRVMzZUJyc0w?oc=5
 
-🖨 $51 Million Revenue VMP Wants to Become a Leading Additive Manufacturing Metal Powder Producer
-Chinese powder producers have traditionally had little impact on the additive manufacturing market.
-Typically, they offer low-cost powders without much in the way of settings or application support, reported by 3DPrint.com on Sep 11, 2026.
-🔗 Read more: https://3dprint.com/331447/51-million-revenue-vmp-wants-to-become-a-leading-additive-manufacturing-metal-powder-producer
+🖨 We love the Elegoo Centauri Carbon 2 but this 3D printer deal ends soon - TechRadar
+We love the Elegoo Centauri Carbon 2 but this 3D printer deal ends soon TechRadar
+Reported by Google News - 3D Printing on Sep 11, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMivwJBVV95cUxNbEhfV01ZLVNia0NtUUtGUk52Sy0zaWR5R3R6ckw1c0NmeW1JZGFzR2h2aDFHR3VqMWMtclFFN2xoWlZWMUxoUnhINHZXcXRKRi1UTFhMX0hSMVNCSXljUGxWX1huZGVZUXVwQmVBUDBiNjRMWkJkWUJ5aGJjdUxSTGlwaE9NckdJX3FSSlhUdE1EcW1NYTBDblBROFMtcnhYTzJfLTVESGN5d2dRUk9wY0xTVDk0THBTdVg2S2VwT3U2Vjdyd2k2QkpSRlRiMENSVC12ZGxkNFdTdGpVTjlmcXhvNUNMUndhVnR5b3V3RlRmOU9ubnMzckxGTThFRW45RUpPdDZyNjlsakNWTC03R0Q4MWpmWC1MdFR0T1VDQnk5cGVYMG5UTGJib2Y1Sk8tNlc4dW1BaTh6Mjl5NmEw?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Apple Watch Series 12 features 100% recycled titanium 3D printed case" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Direct link: https://www.tctmagazine.com/apple-watch-series-12-features-100-recycled-titanium-3d-printed-case | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "SHINING 3D launches a wireless version of its FreeScan Combo 3D scanner - VoxelMatters" because it highlights where practical 3D printing innovation is moving next. Read it here: https://news.google.com/rss/articles/CBMiowFBVV95cUxOb29TNVl4OFZOLTdkdHJaTE5PQTUxUlZ4RWxhYnk5bWUtdmM1alZldC1XTW1mNG1LRGtwM29uNUFmSG5Kd1pybVV0Umc4SGxLbm5BNG9TN2xZaHo2bFlTSk1fRkxvWU1RRVZyVDdIbV9pdVB2ek9xY0k3OWVwWHBWSU5jV25admE3M3FSdXhrUUFMM3pZNmk1Z05RV0hTT0lnejZv0gGoAUFVX3lxTFBsV2tsX0FuaGFVd0xmVktUZVRYbWUyZlZySnY5TFFZR3VxNVUxeUNXZlg4cTg5TDNHWkdjcjR4cWxneGs2ZnlWX09nb1JQbWZVUEMyMUVCd3VqVXZnODdTLTlfZHBkaVV6V3NJY1RiZDhhY2F2Rk5BQlEySF80SzhOMHM1TndUdzRaY3Vpd3lzaHRYR0ZOZ3lHSkw0Y3cyM2xqUy1jSXN4Tg?oc=5 | Full pulse: https://www.quality3ds.com/

@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-13
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #249 - 2026-09-13
+## Stories
 
 🚨 SHINING 3D launches a wireless version of its FreeScan Combo 3D scanner - VoxelMatters
 SHINING 3D launches a wireless version of its FreeScan Combo 3D scanner VoxelMatters
@@ -43,9 +41,3 @@ Read more ? https://news.google.com/rss/articles/CBMifEFVX3lxTE9tdlhlVFZVNDNJbGh
 We love the Elegoo Centauri Carbon 2 but this 3D printer deal ends soon TechRadar
 Reported by Google News - 3D Printing on Sep 11, 2026.
 Read more ? https://news.google.com/rss/articles/CBMivwJBVV95cUxNbEhfV01ZLVNia0NtUUtGUk52Sy0zaWR5R3R6ckw1c0NmeW1JZGFzR2h2aDFHR3VqMWMtclFFN2xoWlZWMUxoUnhINHZXcXRKRi1UTFhMX0hSMVNCSXljUGxWX1huZGVZUXVwQmVBUDBiNjRMWkJkWUJ5aGJjdUxSTGlwaE9NckdJX3FSSlhUdE1EcW1NYTBDblBROFMtcnhYTzJfLTVESGN5d2dRUk9wY0xTVDk0THBTdVg2S2VwT3U2Vjdyd2k2QkpSRlRiMENSVC12ZGxkNFdTdGpVTjlmcXhvNUNMUndhVnR5b3V3RlRmOU9ubnMzckxGTThFRW45RUpPdDZyNjlsakNWTC03R0Q4MWpmWC1MdFR0T1VDQnk5cGVYMG5UTGJib2Y1Sk8tNlc4dW1BaTh6Mjl5NmEw?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
