@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-14
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #250 - 2026-09-14
+## Stories
 
 💻 UK Sight Loss Charity 3D Printing Ultrasounds for Visually Impaired Parents-to-Be
 The Guide Dogs for the Blind Association, more commonly known as Guide Dogs, is the UK’s top sight loss charity, working to help people with vision loss “live the life...
@@ -43,9 +41,3 @@ Read more ? https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG03X1RmRmNpNjY
 California panel hears pitch for 3D-printed transitional housing amid motel leasing plan Yahoo
 Reported by Google News - 3D Printing on Sep 13, 2026.
 Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHFyQjE4R0RXakpwNmJUNDZGT3ZIX0kzZEs3a3dOWVJvUFUybmdyUXNqU3RsU1dxcDBDaEc2amNTTlowNi1zN1h3NFF3MjdCZzJzbFF5Ymw4aHNPM2xCY2laRllqeERVT2JWMlRUeG5LdnptZTZpNnA3N255MXVqT01WQ3RFT3lUdEpTdmdn?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
