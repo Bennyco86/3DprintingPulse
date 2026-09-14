@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-15
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #251 - 2026-09-15
+## Stories
 
 📷 EinScan Trak offers Shining 3D’s first ‘dual form’ 3D scanner - develop3d
 EinScan Trak offers Shining 3D’s first ‘dual form’ 3D scanner develop3d
@@ -48,9 +46,3 @@ Personalized cancer medtech Kallisio has launched an expanded access program aim
 The program is designed to reach eligible patients directly, even at treatment centers that have not yet adopted the technology, reported by 3D Printing Industry on Sep 14, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/1789063636916-150x100.png
 Read more ? https://3dprintingindustry.com/news/kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device-254611
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
