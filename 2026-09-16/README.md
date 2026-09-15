@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-16
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #252 - 2026-09-16
+## Stories
 
 🔥 Computer Vision Detects 3D Printing Defects in Real-Time - Hackster.io
 Computer Vision Detects 3D Printing Defects in Real-Time Hackster.io
@@ -49,9 +47,3 @@ Researchers at Oak Ridge National Laboratory (ORNL) have developed an extrusion 
 Aimed at a longstanding trade-off between speed and precision in large-format additive manufacturing, the system matches the output of larger extruders while retaining the flexibility and precision associated … The, reported by VoxelMatters on Sep 15, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/ORNL-extrusion-system-01-150x150.jpg
 Read more ? https://www.voxelmatters.com/ornl-combines-extruders-into-large-format-3d-printing-output
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

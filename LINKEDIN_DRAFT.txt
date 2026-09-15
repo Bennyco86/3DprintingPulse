@@ -1,50 +1,51 @@
-﻿# 3D PRINTING PULSE #251 - 2026-09-15
+﻿# 3D PRINTING PULSE #252 - 2026-09-16
 
-📷 EinScan Trak offers Shining 3D’s first ‘dual form’ 3D scanner - develop3d
-EinScan Trak offers Shining 3D’s first ‘dual form’ 3D scanner develop3d
-Reported by Google News - 3D Scanners on Sep 14, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVh6eUpNb09hTVRhU3N3TGlmYjFuanhaMmxYaDlOZFlwR08yYUZZcFRIcEp4cDMzYUhpTFMzT0x0UHo4M0dSMnlmSnJ4dTRnWk9qTE03ZmVIX3owQVlCdVhTR29LeHlwZjdtc29YanVqSnBnRXltMFoxcGs2d2dSd0hpcGZ3T19VVkt3NlJ1T2wwTVhWNlhXVg?oc=5
+🔥 Computer Vision Detects 3D Printing Defects in Real-Time - Hackster.io
+Computer Vision Detects 3D Printing Defects in Real-Time Hackster.io
+Reported by Google News - 3D Printing on Sep 15, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMinwFBVV95cUxQYnZLeVJibFVUNmJpR29TRjFEZ2c4RDZCeGttWW1KNUswcEhseTVOeVJFLTBiM3J4R3diZnZZNjg1WEYyV2NwQjBBWHZnOHVPODlXY2MyTGk4cE1oYUdDVllfa0NsM0dJN1dNMUE0bHNXWmJFSTZRRi1ZYlJJVFZmZzV0dERBWlFOcUMwTHFmMEhudDN3eGZNN3BIUE15bGM?oc=5
 
-💻 Impossible Objects raises $40m to increase production of composite additive manufacturing systems
-Inflection Equity led the financing, with participation from Aaron Wealth Management, OCA Ventures, Impact Capital and Excell Partners.
-Reported by TCT Magazine on Sep 14, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/CBAM25_ISO-User_2024-1.png
-🔗 Read more: https://www.tctmagazine.com/impossible-objects-raises-40m-to-increase-production-of-composite-additive-manufacturing-systems
+🚨 SHINING 3D upgrades the FreeScan Trak Nova+ scanning system
+SHINING 3D has launched FreeScan Trak Nova+, an upgraded version of its FreeScan Trak Nova wireless dynamic tracking and scanning system.
+The system combines wireless operation, marker-free scanning, dynamic tracking and built-in video photogrammetry (VPG) in a single unit that can also detach to work as a large-field-of-view handheld laser scanner, reported by VoxelMatters on Sep 15, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/SHINING-3D-FreeScan-Trak-Nova-03-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/shining-3d-upgrades-the-freescan-trak-nova-scanning-system
 
-♻️ 3devo's Filament Maker X10 Can Turn Waste Materials Into 1kg Filament Spools Every 40 Minutes - Hackster.io
-3devo's Filament Maker X10 Can Turn Waste Materials Into 1kg Filament Spools Every 40 Minutes Hackster.io
-Reported by Google News - 3D Printing on Sep 14, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS3huNzVwWl95Z3V1eHl6NlRoYTU2WG9aZmpWbHV0QXVHTGZHbXlOTmxPWVJpTlNVa2tySHRoSkhIdkJPNDVCUFZEN2c3cHNQVG9zYXdreWE3RDlqNjJXa0VKUzVzOXo5M3BSdXp0UDMzd202R0pNVTRDZ2RGS0NjZFoyTDZYNGh1RkIzWXpwYXBobUxONXRURmc2X25Nb2pqVjI3c3EtTFhPQThtaTJ3SVdCc2kyUDZTZFltX2Q3djNoVTEyaHRhMTdhcVFJR0R6?oc=5
+🚨 Creality Introduces K3, SPARKX i8, and New Product Lineup at IFA 2026
+Creality introduced a new lineup of 3D printing and digital fabrication products at IFA 2026 in Berlin, spanning multicolor printing, filament recycling, resin printing, 3D scanning, laser processing, and 3D printed...
+The lineup reflects Creality’s push to expand beyond desktop 3D printers into a broader ecosystem covering material recycling, digital scanning, and finished consumer…, reported by 3D Printing Industry on Sep 15, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/creality-k3-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/creality-introduces-k3-sparkx-i8-and-new-product-lineup-at-ifa-2026-254664
 
-🖨 Mazak’s VC-Ez 20X Machines Power New WAAM Additive Manufacturing Platform
-Oak Ridge National Laboratory and Mazak have partnered to develop a convergent metal additive manufacturing platform that unifies metal additive manufacturing and high-precision machining within production-relevant...
-Featuring two of Mazak’s VC-Ez 20X Vertical Machining Centers, the technology allows manufacturers to deliver high-mix, low-volume parts with shorter lead times while maintaining an effective strategy for…, reported by 3D Printing Industry on Sep 14, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/vc-ez-20-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/mazaks-vc-ez-20x-machines-power-new-waam-additive-manufacturing-platform-254626
+📷 SHINING 3D Metrology Presented Three Upgraded 3D Scanning Systems
+SHINING 3D Metrology held a webinar titled “New Product Members of SHINING 3D Metrology” on September 9, introducing three upgraded 3D scanning systems and discussing how manufacturers can select a scanning solution...
+The session is framed around specific application challenges rather than a straightforward specification comparison, reported by 3D Printing Industry on Sep 15, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/9月新品发布KV_EDM-带日期-1-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/shining-3d-metrology-presented-three-upgraded-3d-scanning-systems-254660
 
-🖨 #255 Metal Powder Works CEO John Barnes: 'DirectPowder always gives you the same answer.'
-Barnes joins the podcast to discuss the advantages of its non-thermal powder production process, the expansion of its materials portfolio, and how it will navigate its short-term growth plans.
-Reported by TCT Magazine on Sep 14, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Additive-Insight-Re-Design--31-.png
-🔗 Read more: https://www.tctmagazine.com/podcasts/255-metal-powder-works-ceo-john-barnes-directpowder-always-gives-you-the-same-answer
+📷 Rosatom localises 3D scanner in India, cuts equipment costs by 40% - ET Manufacturing
+Rosatom localises 3D scanner in India, cuts equipment costs by 40% ET Manufacturing
+Reported by Google News - 3D Scanners on Sep 15, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi1AFBVV95cUxORXNpT21TclZYMkFwMExzMzE0Q1Z5MVpuRVFqSWdLU084RjhuUjhZbHpWeDluZGtEMlZuZnFZNDFNaE5YdU9ST2dGOHRqNEhRa0JPR3VMYTZ4Z1lWUmFDMjdwUXUyYzEyWU9RRkxHLUdMUUU5b1ZzTTNGUmJhVU9OM1p1T2xxeUFDaHhQaDJXbjYyS2JyYWtBeG8wLXlQNEZmY01mMkVzWGYwNjB0YXFIOWRYVGU3RUYzcVpoN2NJQjdnOGVfbVVRcGNVZjAxNlZET29qbNIB2gFBVV95cUxOWDJSb2ZiYjZHYTQxMFFtUGpwVXl2UEtpRlZQeURnYlgwdlFxY0s5YUJQM19XVHZUanZUS2s2UXc3V3VGQ2xjc0VtSTVXdWwyS3p2T1o4akRpNXFRSUpCSkFNbEdqNXFfTkdpa0dyTzJOQkhaTVNhMkdKSlBZSktuYmhQeUpVbWhCT18tSkEyX09vd1NzcHQ0YVpEdWFVSENhWkF4TmEwRWo0ajMyWTEyTE14ZlZNYmhWeG95a2J3eV84TWMyUXpWa1VveVU4dHlvQW05c29jY1pRUQ?oc=5
 
-🖨 3DPOD 314: Debinding, Sintering, and Metal Binder Jetting with Stefan Joens, Elnik Systems and DSH Technologies
-Stefan Joens of Elnik Systems sells ovens.
-Their debind and sintering equipment powers a lot of high-volume binder jet and MIM production, reported by 3DPrint.com on Sep 14, 2026.
-🔗 Read more: https://3dprint.com/331208/3dpod-314-debinding-sintering-and-metal-binder-jetting-with-stefan-joens-elnik-systems-and-dsh-technologies
+💻 Meshy 7.1 raises geometric detail with a new Ultra 4K mode
+Meshy released Meshy 7.1 on September 10, 2026, an upgrade to Meshy 7 built around generating richer surface detail than any other image-to-3D model on the market.
+The company frames the release as a response to a shift already underway in 3D generative AI, where alignment and structural correctness across models have reached production quality, … The post Meshy 7.1 raises, reported by VoxelMatters on Sep 15, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/detail-quality-standard-ultra-2k-ultra-4k-150x150.webp
+🔗 Read more: https://www.voxelmatters.com/meshy-7-1-raises-geometric-detail-with-a-new-ultra-4k-mode
 
-🦺 Kallisio expands patient access to 3D-printed intraoral devices for head and neck cancer radiation therapy patients
-Stentra has been cleared by the U.S.
-Food and Drug Administration (FDA 510(k) K232293) and is in clinical use at leading U.S, reported by TCT Magazine on Sep 14, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/lat_left_.png
-🔗 Read more: https://www.tctmagazine.com/kallisio-expands-patient-access-to-3d-printed-intraoral-devices-for-head-and-neck-cancer-radiation-therapy-patients
+🖨 General Motors expands Stratasys 3D printing to more than 20 plants
+General Motors has expanded its use of Stratasys’ FDM 3D printing technology to more than 20 manufacturing facilities in North and South America, using the systems to produce tooling, fixtures, jigs, factory aids and...
+GM teams use the Stratasys F900 industrial FDM production printer, combined with production-grade materials, software and application support, to … The post General Motors expands Stratasys 3D printing to more than, reported by VoxelMatters on Sep 15, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/Stratasys-AM-Solutions-facilities-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/general-motors-expands-stratasys-3d-printing-to-more-than-20-plants
 
-🦺 Kallisio Moves to Close Adoption Gap for 3D Printed Head and Neck Cancer Device
-Personalized cancer medtech Kallisio has launched an expanded access program aimed at connecting head and neck cancer patients with Stentra, its FDA-cleared, custom-fit 3D printed intraoral device used during...
-The program is designed to reach eligible patients directly, even at treatment centers that have not yet adopted the technology, reported by 3D Printing Industry on Sep 14, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/1789063636916-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/kallisio-moves-to-close-adoption-gap-for-3d-printed-head-and-neck-cancer-device-254611
+🖨 ORNL combines extruders into large-format 3D printing output
+Researchers at Oak Ridge National Laboratory (ORNL) have developed an extrusion system that combines multiple 3D printing extruders into a single high-output stream, using specially designed nozzles.
+Aimed at a longstanding trade-off between speed and precision in large-format additive manufacturing, the system matches the output of larger extruders while retaining the flexibility and precision associated … The, reported by VoxelMatters on Sep 15, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/ORNL-extrusion-system-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/ornl-combines-extruders-into-large-format-3d-printing-output
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "EinScan Trak offers Shining 3D’s first ‘dual form’ 3D scanner - develop3d" because it highlights where practical 3D printing innovation is moving next. Source: https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVh6eUpNb09hTVRhU3N3TGlmYjFuanhaMmxYaDlOZFlwR08yYUZZcFRIcEp4cDMzYUhpTFMzT0x0UHo4M0dSMnlmSnJ4dTRnWk9qTE03ZmVIX3owQVlCdVhTR29LeHlwZjdtc29YanVqSnBnRXltMFoxcGs2d2dSd0hpcGZ3T19VVkt3NlJ1T2wwTVhWNlhXVg?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Creality Introduces K3, SPARKX i8, and New Product Lineup at IFA 2026" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://3dprintingindustry.com/news/creality-introduces-k3-sparkx-i8-and-new-product-lineup-at-ifa-2026-254664 | Full pulse: https://www.quality3ds.com/
