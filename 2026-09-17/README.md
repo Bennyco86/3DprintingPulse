@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-17
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #253 - 2026-09-17
+## Stories
 
 ♻️ Modix Generation 5 brings tool changing, pellet extrusion and angled printing to BIG series
 Large-format 3D printer manufacturer Modix has announced Generation 5, a new electronics platform rolling out across its BIG series of large-format 3D printers.
@@ -48,9 +46,3 @@ As digital fabrication tools continue to evolve, creators are redefining what it
 For many users, creation no longer ends with modeling, slicing, and previewing on a screen, reported by 3D Printing Industry on Sep 16, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/6-150x100.png
 Read more ? https://3dprintingindustry.com/news/from-digital-design-to-physical-expression-aliencell-and-chitubox-introduce-e1-254706
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
