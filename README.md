@@ -2,52 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #253 - 2026-09-17
+### 3D PRINTING PULSE #254 - 2026-09-18
 
-♻️ Modix Generation 5 brings tool changing, pellet extrusion and angled printing to BIG series
-Large-format 3D printer manufacturer Modix has announced Generation 5, a new electronics platform rolling out across its BIG series of large-format 3D printers.
-The upgrade moves Modix machines to the Duet 3 control platform with CANBUS distributed electronics, providing capacity for more than 20 axes and drivers, reported by 3D Printing Industry on Sep 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/image-13-150x100.png
-Read more ? https://3dprintingindustry.com/news/modix-generation-5-brings-tool-changing-pellet-extrusion-and-angled-printing-to-big-series-254656
+🔥 AI Extinction Event, is Additive Manufacturing also Doomed?
+At our online event, AMA: Software 2026, we’ll discuss all elements of the digital ecosystem around additive manufacturing.
+Register for free here, reported by 3D Printing Industry on Sep 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-1-150x100.png
+Read more ? https://3dprintingindustry.com/news/ai-extinction-event-is-additive-manufacturing-also-doomed-254757
 
-🚨 SHINING 3D launches FreeScan Trak ProW+ 3D scanner - engineering.com
-SHINING 3D launches FreeScan Trak ProW+ 3D scanner engineering.com
-Reported by Google News - 3D Scanners on Sep 16, 2026.
-Read more ? https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmwtQXptcHdpei1vQzl3ZVNPdTNOSWVpU0RCTllCZlZjb21jUDZVUm94bTZTUzI2V2dDTUliZ1FvNGVkZERRRnotR1JLWWN1eGFrdjdYckNMRDh6UDZ6OXZ1LXZ6UUc1OHBkNWx0bUhVRHBweWVRdG41V0hzUTh2N0pURFY?oc=5
+📷 Aware Defense Wins Five-Year Navy Contract for 3D Scanned Hearing Protection
+The Naval Air Systems Command’s Aircrew Systems Program Office (PMA-202) has awarded Aware Defense, a division of Aware Custom Biometric Wearables (Aware CBW), a sole-source Program of Record contract to supply...
+The five-year agreement…, reported by 3D Printing Industry on Sep 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/awarescan-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/aware-defense-wins-five-year-navy-contract-for-3d-scanned-hearing-protection-254742
 
-📷 FARO CREAFORM Brings Handheld 3D Scanner Compatibility & Casting Inspection to CAM2® - Raksha Anirveda
-FARO CREAFORM Brings Handheld 3D Scanner Compatibility & Casting Inspection to CAM2® Raksha Anirveda
-Reported by Google News - 3D Scanners on Sep 16, 2026.
-Read more ? https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlNJRGZxZjVpS043eW42S2d4TzZCT2YxaVVfa0ZwZXQtWFUyZFlKOVV5eWlBMkVOZ0hKQ2F5MUUta0hpZ3pwZVhyT0NqRE9zeS1rWWNoU1VJd1Q2S2hpMVVsV2VGektfeDNuSW5FdTNUUnVieF9kZl93aDg3VGloMW1IMTllckFKWlVQX25iUDBIYTBpTmxaZzhoWE84LU9fUHpvNE1XdlNzeW9EM01z?oc=5
+💻 Velo3D announces participation in US Government-Industry Data Exchange Program
+GIDEP is a cooperative information-sharing program between the US government and industry that provides participating organisations access to critical technical, quality, reliability and supply-chain information.
+Reported by TCT Magazine on Sep 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Velo-3D-Sapphire-C_Original-1024x683-1.png
+Read more ? https://www.tctmagazine.com/velo3d-announces-participation-in-us-government-industry-data-exchange-program
 
-📷 Shining 3D Expands Mobile 3D Scanning for Large Components - 3Druck.com
-Shining 3D Expands Mobile 3D Scanning for Large Components 3Druck.com
-Reported by Google News - 3D Scanners on Sep 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMinwFBVV95cUxNZGdlMnJaclExLVVTTFY1T19heFVtTEJxdnYwTEQyS2ZFbHJjbTZtQ0l1V1VJSnQ2S2JTZTdVX3ltcEp6M0JYYkVhX05sX05mb05RY0pBVDRCRWk2MkhYejhpLWpublgzX2dPVnhMalFYc3dTV3FLSWx0NVZ5NUZ5YWpOZ3NLTExybTg2QTB6UVJNUFhtNVZVU0l4dk90Z3M?oc=5
+♻️ From Plastic Waste to Structural Architecture: MIT Spinout Advances Robotic 3D Printing - Parametric Architecture
+From Plastic Waste to Structural Architecture: MIT Spinout Advances Robotic 3D Printing Parametric Architecture
+Reported by Google News - 3D Printing on Sep 17, 2026.
+Read more ? https://news.google.com/rss/articles/CBMieEFVX3lxTFBJMkJ2NjRWOFJCMlltLWlIVjFTdnhuNzdlalB3QW95SVZwX0RFb2NjeU1WTWJWeVhlcUpDeE9nQVV2UWlEbXN5WThzVS03ZEQ1VTJMQXM1R3ZTcnN3R0xERGJnY2U2ODRBS2lOUXgxaUtmSERtX3licQ?oc=5
 
-💻 University of Mississippi and Colorcon build AI database for 3D printed drugs
-Researchers at the University of Mississippi, together with international company Colorcon, have developed an artificial intelligence-powered database that is intended to help pharmacies produce 3D printed...
-The project, led by Mo Maniruzzaman, chair and professor of pharmaceutics and drug delivery at the University of Mississippi, set out with the goal of constructing … The post University of Mississippi and Colorcon, reported by VoxelMatters on Sep 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/University-of-Mississippi-AI-database-3D-printed-drugs-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/university-of-mississippi-and-colorcon-built-ai-database-for-3d-printed-drugs
+🖨 IMDEA Materials 3D prints low-loss metallic glass for electric motors
+Researchers on the European AM2SoftMag project have 3D printed an iron-based metallic glass with a density above 92% that stays fully amorphous, using a double laser scanning strategy with controlled time delays...
+The alloy, designed at Saarland University (UdS) in Germany, is made of iron, silicon, boron, niobium and nickel … The post IMDEA Materials 3D prints low-loss metallic glass for electric motors appeared first on, reported by VoxelMatters on Sep 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/IMDEA-New-Metallic-Alloy-Designed-to-Reduce-Energy-Losses-in-Electric-Motors-150x150.jpg
+Read more ? https://www.voxelmatters.com/imdea-materials-3d-prints-low-loss-metallic-glass-for-electric-motors
 
-🖨 AMCM integrates EOSPRINT with PanX for metal AM simulation
-AMCM has integrated its EOSPRINT build-preparation software with PanX, the thermomechanical simulation software from PanOptimization, to bring physics-based simulation directly into build preparation for metal...
-The integration covers EOS metal 3D printers from the M 290 class through AMCM’s large-format M 4K and M 8K systems, reported by VoxelMatters on Sep 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/AMCM-EOSPRINT-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/amcm-integrates-eosprint-with-panx-for-metal-am-simulation
+🖨 Camera-based inspection system for 3D printing built by LLNL
+A team at Lawrence Livermore National Laboratory (LLNL) has built a camera-and-software system that checks 3D printed parts layer by layer as they print, rather than after, using artificial intelligence and machine...
+The system targets direct ink writing (DIW), and cameras on the printer feed images into ML-based … The post Camera-based inspection system for 3D printing built by LLNL appeared first on VoxelMatters - The heart of...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/LLNL-AI-platform-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/camera-based-inspection-system-for-3d-printing-built-by-llnl
 
-🖨 AML3D Posts First-Ever Half-Year Profit as FY26 Revenue Jumps 70%
-Australian metal 3D printing company AML3D Limited has recorded its first-ever half-year profit, booking EBITDA of $608,000 for the six months to 30 June 2026, as the company closed out a financial year in which...
-The manufacturer, whose ARCEMY systems use its patented Wire Additive Manufacturing (WAM)…, reported by 3D Printing Industry on Sep 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/06/2026-06-19-AL3-FIRST-ARCEMY-SYSTEMS-OPERATIONAL-US-MILITARY-SHIPBUILDER-1536x960-1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/aml3d-posts-first-ever-half-year-profit-as-fy26-revenue-jumps-70-254653
+🖨 KONGSBERG purchases multi-laser metal 3D printers from EOS & AMCM
+The company has installed the machines as part of an acceleration of its metal additive manufacturing adoption across defence and security programs.
+Reported by TCT Magazine on Sep 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/amcm_m-4k-4-1kw-1.png
+Read more ? https://www.tctmagazine.com/kongsberg-purchases-multi-laser-metal-3d-printers-from-eos-amcm
 
-💻 From Digital Design to Physical Expression: Aliencell and CHITUBOX Introduce E1
-As digital fabrication tools continue to evolve, creators are redefining what it means to “finish” a piece of work.
-For many users, creation no longer ends with modeling, slicing, and previewing on a screen, reported by 3D Printing Industry on Sep 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/6-150x100.png
-Read more ? https://3dprintingindustry.com/news/from-digital-design-to-physical-expression-aliencell-and-chitubox-introduce-e1-254706
+🖨 Researchers develop 3D printable metallic glass for more efficient electric motors
+Researchers working on the European AM2SoftMag project have developed an iron-based metallic glass designed for Laser Powder Bed Fusion (LPBF), targeting soft-magnetic components for more energy-efficient electric...
+Designed by researchers at Saarland University (UdS) in Germany, the alloy can be processed by LPBF while retaining a highly amorphous structure, reported by 3D Printing Industry on Sep 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/image-4-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/researchers-develop-3d-printable-metallic-glass-for-more-efficient-electric-motors-254748
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
