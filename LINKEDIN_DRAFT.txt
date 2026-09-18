@@ -1,52 +1,51 @@
-﻿# 3D PRINTING PULSE #254 - 2026-09-18
+﻿# 3D PRINTING PULSE #255 - 2026-09-19
 
-🔥 AI Extinction Event, is Additive Manufacturing also Doomed?
-At our online event, AMA: Software 2026, we’ll discuss all elements of the digital ecosystem around additive manufacturing.
-Register for free here, reported by 3D Printing Industry on Sep 17, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/01/State-of-Investment-Series-1-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/ai-extinction-event-is-additive-manufacturing-also-doomed-254757
+🔥 New Update in Stratasys v Bambu Lab Patent Infringement Action Lawsuit Stratasys Awarded $27.6 million in Damages, Bambu Lab Disputes
+A US jury has awarded Stratasys approximately $27.6 million in past damages after finding that Bambu Lab infringed four 3D printing patents.
+The verdict followed a week-long trial in the US District Court for the Eastern District of Texas, Marshall Division, reported by 3D Printing Industry on Sep 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2024/09/bambu-vs-Stratasys-43-aspect-ratio-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/new-update-in-stratasys-v-bambu-lab-patent-infringement-action-254833
 
-📷 Aware Defense Wins Five-Year Navy Contract for 3D Scanned Hearing Protection
-The Naval Air Systems Command’s Aircrew Systems Program Office (PMA-202) has awarded Aware Defense, a division of Aware Custom Biometric Wearables (Aware CBW), a sole-source Program of Record contract to supply...
-The five-year agreement…, reported by 3D Printing Industry on Sep 17, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/awarescan-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/aware-defense-wins-five-year-navy-contract-for-3d-scanned-hearing-protection-254742
+💻 King Abdulaziz University and NAMI sign MoU on AM research
+King Abdulaziz University (KAU) and the National Innovation Industrial Company (NAMI) have signed a memorandum of understanding to collaborate on additive manufacturing research, training and industrial applications.
+NAMI, an AM company owned by Dussur, 3D Systems and Saudi Energy, said the agreement was intended to exchange expertise and develop capabilities in scientific research, training, consultancy, … The post King, reported by VoxelMatters on Sep 18, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/06/NAMI-MBK-Global-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/king-abdulaziz-university-and-nami-sign-mou-on-am-research
 
-💻 Velo3D announces participation in US Government-Industry Data Exchange Program
-GIDEP is a cooperative information-sharing program between the US government and industry that provides participating organisations access to critical technical, quality, reliability and supply-chain information.
-Reported by TCT Magazine on Sep 17, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Velo-3D-Sapphire-C_Original-1024x683-1.png
-🔗 Read more: https://www.tctmagazine.com/velo3d-announces-participation-in-us-government-industry-data-exchange-program
+♻️ Meet Benjamin Davis, a 16-year-old student from Massachusetts who designed a low-cost machine to recycle - The Times of India
+Meet Benjamin Davis, a 16-year-old student from Massachusetts who designed a low-cost machine to recycle The Times of India
+Reported by Google News - 3D Printing on Sep 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMizAJBVV95cUxNTFoxYm55WE1GdVI5dWVicXZDT2RlNDRUcjdKU0pDMzJzWWZ4YzVhSGoya2FqVl9vZEF4X2FpNjBBczU2cXVObUxNbzJaX0xhbkowQUxUUjA3bW96R2VzUWtKMXQxNXNtRWNQTlIzdV8wOEF6Q2hFT3lJYm5Ra0Zaa3NWSENkUFRuYUtMQ2liUTdQcXdpaU03eVhHRUZTallvc3l6ME5jU1dHY0RYQW02UUFjVWdiMnl2X2JoUmF1ZXpvcXp4c0xSZDFvVWhWcTlOLTE4TEoxNE1qQXlhX1hhZGFjeUIzZThha3N3T0tpbjc3ajVXRnJfbDh6OURTTVNsME9PXzRIWDUxQzMtRERCOGZMaURmR3Z1V0gxTDc5SGFsbEFXMHpDdDdvZ1BUbmwzOERsQmh6c0l4UUlOZU8yeWRkeTRwbjVweURGdNIB0gJBVV95cUxNeWZpY2VzcXRiVEpzS2VCNWJfTUtTSXRmdGZDOVd3UGF4ZXVXY2JvNHFIcU1ROWxYbG9vcm4tRlJxTC0tQjE4RHNHOV9GVUR2Y2F5QllIQWw4ekxoaDFSY0xQZnFDRWx6ZXNTVmpPMlVXcU5YY2d4U1J5NWNGRnZ0MUpCX1NPam9MUnJDRFBvTDA1ejVfRG9INGNNWmVib0NjcGJRLTY2cnExdFBySEhuYWlJSDN0b0hkaW9BcGN5ZEdQRldwSG5uUk5JZ3VOYW5QLVFBNU8xNHVHSHpBWmlxbHhEQkFwUWlhaWpaNGlORjdSR0U1RFFJMktLWFFCMFp5ZkpTODRUcUNPVFFmeEtYcTJ3RUU3MGo1SmVRN0ExeW1BMGU4VE96QkxnUlRYWGRnWGR2OWhBMXB6ZTFSTkl0WVVnb0lrNHpSR1lXMWtjMGoxUQ?oc=5
 
-♻️ From Plastic Waste to Structural Architecture: MIT Spinout Advances Robotic 3D Printing - Parametric Architecture
-From Plastic Waste to Structural Architecture: MIT Spinout Advances Robotic 3D Printing Parametric Architecture
-Reported by Google News - 3D Printing on Sep 17, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMieEFVX3lxTFBJMkJ2NjRWOFJCMlltLWlIVjFTdnhuNzdlalB3QW95SVZwX0RFb2NjeU1WTWJWeVhlcUpDeE9nQVV2UWlEbXN5WThzVS03ZEQ1VTJMQXM1R3ZTcnN3R0xERGJnY2U2ODRBS2lOUXgxaUtmSERtX3licQ?oc=5
+🖨 Stratasys awarded $27.6m in damages in first of two patent infringement cases against Bambu Lab
+This case relates to four of the five patent infringements alleged by Stratasys in 2024, with the fifth set to be covered in a subsequent trial that has not yet been scheduled.
+Reported by TCT Magazine on Sep 18, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/84396_FDM_20header.png
+🔗 Read more: https://www.tctmagazine.com/stratasys-awarded-27-6-in-damages-in-first-of-two-patent-infringement-cases-against-bambu-lab
 
-🖨 IMDEA Materials 3D prints low-loss metallic glass for electric motors
-Researchers on the European AM2SoftMag project have 3D printed an iron-based metallic glass with a density above 92% that stays fully amorphous, using a double laser scanning strategy with controlled time delays...
-The alloy, designed at Saarland University (UdS) in Germany, is made of iron, silicon, boron, niobium and nickel … The post IMDEA Materials 3D prints low-loss metallic glass for electric motors appeared first on, reported by VoxelMatters on Sep 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/IMDEA-New-Metallic-Alloy-Designed-to-Reduce-Energy-Losses-in-Electric-Motors-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/imdea-materials-3d-prints-low-loss-metallic-glass-for-electric-motors
+🖨 GM Scales Stratasys 3D Printing Across 20 Manufacturing Facilities
+Stratasys has announced a new showcase of its long-standing collaboration with General Motors (GM), highlighting how the automaker is using Stratasys additive manufacturing (AM) solutions across more than 20...
+GM teams are using Stratasys FDM AM systems to produce tooling, fixtures, jigs, factory…, reported by 3D Printing Industry on Sep 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/GM_Thumbnail_-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/gm-scales-stratasys-3d-printing-across-20-manufacturing-facilities-254801
 
-🖨 Camera-based inspection system for 3D printing built by LLNL
-A team at Lawrence Livermore National Laboratory (LLNL) has built a camera-and-software system that checks 3D printed parts layer by layer as they print, rather than after, using artificial intelligence and machine...
-The system targets direct ink writing (DIW), and cameras on the printer feed images into ML-based … The post Camera-based inspection system for 3D printing built by LLNL appeared first on VoxelMatters - The heart of...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/LLNL-AI-platform-02-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/camera-based-inspection-system-for-3d-printing-built-by-llnl
+💻 A miniature Blatten: 3D printed terrain tests how rock avalanches move
+Researchers at the WSL Institute for Snow and Avalanche Research (SLF) and ETH Zurich have built a 3D printed physical replica of the terrain around Blatten, the Swiss village nearly destroyed by a rock avalanche in...
+The model, assembled at a…, reported by 3D Printing Industry on Sep 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/csm_Flume_Experiment_Screenshot_adc3e820f0-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/a-miniature-blatten-3d-printed-terrain-recreates-a-deadly-avalanche-254777
 
-🖨 KONGSBERG purchases multi-laser metal 3D printers from EOS &amp; AMCM
-The company has installed the machines as part of an acceleration of its metal additive manufacturing adoption across defence and security programs.
-Reported by TCT Magazine on Sep 17, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/amcm_m-4k-4-1kw-1.png
-🔗 Read more: https://www.tctmagazine.com/kongsberg-purchases-multi-laser-metal-3d-printers-from-eos-amcm
+🖨 Stratasys Wins $27.6M in Patent Case Against Bambu Lab
+Stratasys won a $27.6 million jury verdict against Bambu Lab in one of the 3D printing industry’s biggest patent fights.
+A federal jury in Texas found that four Bambu Lab-related, reported by 3DPrint.com on Sep 18, 2026.
+🔗 Read more: https://3dprint.com/333013/stratasys-wins-27-6m-in-patent-case-against-bambu-lab
 
-🖨 Researchers develop 3D printable metallic glass for more efficient electric motors
-Researchers working on the European AM2SoftMag project have developed an iron-based metallic glass designed for Laser Powder Bed Fusion (LPBF), targeting soft-magnetic components for more energy-efficient electric...
-Designed by researchers at Saarland University (UdS) in Germany, the alloy can be processed by LPBF while retaining a highly amorphous structure, reported by 3D Printing Industry on Sep 17, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/image-4-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/researchers-develop-3d-printable-metallic-glass-for-more-efficient-electric-motors-254748
+🖨 Prusament PLA Lightweight: 65% lighter than regular PLA. Perfect choice for aircraft, cosplay, and more.
+We keep expanding the Prusament portfolio with new, exciting materials!
+Prusament PLA Lightweight is an actively foaming PLA designed for prints where low mass matters, reported by Prusa Blog on Sep 17, 2026.
+🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/09/f127ded9-prusament_pla_lightweight_blog-698x325.jpg
+🔗 Read more: https://blog.prusa3d.com/prusament-pla-lw-65-lighter-than-regular-pla-perfect-choice-for-aircraft-cosplay-and-more_138059
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "AI Extinction Event, is Additive Manufacturing also Doomed?" because it highlights where practical 3D printing innovation is moving next. Read it here: https://3dprintingindustry.com/news/ai-extinction-event-is-additive-manufacturing-also-doomed-254757 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "New Update in Stratasys v Bambu Lab Patent Infringement Action Lawsuit Stratasys Awarded $27.6 million in Damages, Bambu Lab Disputes" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://3dprintingindustry.com/news/new-update-in-stratasys-v-bambu-lab-patent-infringement-action-254833 | Explore more: https://www.quality3ds.com/

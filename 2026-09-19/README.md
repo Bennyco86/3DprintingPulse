@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-19
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #255 - 2026-09-19
+## Stories
 
 🔥 New Update in Stratasys v Bambu Lab Patent Infringement Action Lawsuit Stratasys Awarded $27.6 million in Damages, Bambu Lab Disputes
 A US jury has awarded Stratasys approximately $27.6 million in past damages after finding that Bambu Lab infringed four 3D printing patents.
@@ -49,9 +47,3 @@ We keep expanding the Prusament portfolio with new, exciting materials!
 Prusament PLA Lightweight is an actively foaming PLA designed for prints where low mass matters, reported by Prusa Blog on Sep 17, 2026.
 Image ? https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/09/f127ded9-prusament_pla_lightweight_blog-698x325.jpg
 Read more ? https://blog.prusa3d.com/prusament-pla-lw-65-lighter-than-regular-pla-perfect-choice-for-aircraft-cosplay-and-more_138059
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
