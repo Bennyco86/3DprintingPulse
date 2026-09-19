@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-20
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #256 - 2026-09-20
+## Stories
 
 🚨 UltiMaker and Bioactivx to Target On Demand Wound Care via New Collaboration
 Desktop 3D printer manufacturer UltiMaker and Singaporean MedTech startup Bioactivx have signed a memorandum of understanding (MoU) to jointly develop a deployable, on-demand 3D printing solution for regenerative...
@@ -51,9 +49,3 @@ AML3D, an Australian company specializing in Wire-arc Additive Manufacturing (WA
 Valued at about US$355, the order will see AML3D supply high pressure fluid control components for US Navy nuclear submarines made using its ARCEMY platform, reported by VoxelMatters on Sep 18, 2026.
 Image ? https://www.voxelmatters.com/wp-content/uploads/2024/05/aml3d-submarine-1-150x150.jpg
 Read more ? https://www.voxelmatters.com/aml3d-to-3d-print-cuni-nuclear-submarine-parts-for-austal-usa
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
