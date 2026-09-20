@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-21
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #257 - 2026-09-21
+## Stories
 
 🔥 ChineseToday | Student of vocational school chases dream in 3D printing - Xinhua
 ChineseToday | Student of vocational school chases dream in 3D printing Xinhua
@@ -43,9 +41,3 @@ Read more ? https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQjZfTjR2aVhmM0g
 The exceptional Bambu Lab P1S 3D printer could be yours for just $349 — Fall sale drops the popular beginner-friendly printer to a new low price Tom's Hardware
 Reported by Google News - 3D Printing on Sep 17, 2026.
 Read more ? https://news.google.com/rss/articles/CBMikwJBVV95cUxNb0thWEtuNDFUbmVHNktxX1IzR3pTazRmaWJpWFFkX0JiNno4MGFFV1d4TW05ZXg0Wm1RYTlTdFF1WTVfVmhJN0ZOWnJZcU1VT0k3UVBqMmQ0UTRLTXdtZGhMYUZGWW1pa2ZvTzhnV0xGbktuOUl2UUZmb1JmTFoybTd3MXBCeHJ4bDZUalJXM2pHamo5X3N6RDVTbmtwRGtqWld4UkJvaXVMSGVRZEZIeUgxcFBNcTI5b3dzZUJTcW55M1d5ZUg3SXBMYkFma3ZQOHptUTVQN1hRSUE3OWNWS2dHOFdsUHI1Ump6eWFlQ25GMFh4NmQ4S3V3QXdOQmVXck9vVnA0aFVILXJTYUgwN1dYQQ?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
