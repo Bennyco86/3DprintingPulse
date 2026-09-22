@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-23
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #259 - 2026-09-23
+## Stories
 
 🔥 University of Galway team 3D printing reefs for damaged coral sites
 A University of Galway team, working with French scientists, has placed 23 3D printed structures on the seabed of the Porcupine Bank, 200 kilometers off the Kerry coast in Ireland, and in the Bay of Biscay off France...
@@ -47,9 +45,3 @@ OpenAI has released GPT-6 Astra, and among the benchmarks in a broad capability 
 Reported by 3D Printing Industry on Sep 22, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/Screenshot-2026-09-21-at-17.02.24-150x100.png
 Read more ? https://3dprintingindustry.com/news/open-ai-gpt-6-astra-can-reconstruct-cad-geometry-from-photos-why-that-matters-for-additive-manufacturing-254957
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
