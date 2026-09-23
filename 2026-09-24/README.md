@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-24
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #260 - 2026-09-24
+## Stories
 
 🔥 Rosatom to build 3D printing facility in Vietnam - The Bangladesh Monitor
 Rosatom to build 3D printing facility in Vietnam The Bangladesh Monitor
@@ -47,9 +45,3 @@ Xometry's Nikolaus Mroncz details the three tests that engineering and procureme
 Reported by TCT Magazine on Sep 23, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/1200x628.png
 Read more ? https://www.tctmagazine.com/additive-manufacturings-110-billion-question-is-your-supply-chain-ready
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
