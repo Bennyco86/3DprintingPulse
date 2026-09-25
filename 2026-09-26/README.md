@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-26
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #262 - 2026-09-26
+## Stories
 
 🔥 AM Demand Signals: Reshoring the Robotics Supply Chain
 The Federal Communications Commission (FCC) recently banned the sale in the US of “almost all” new mobile robots sourced from foreign countries.
@@ -47,9 +45,3 @@ Read more ? https://3dprintingindustry.com/news/creality-crowdfunds-sparkx-i8-fo
 The Sunlu i10 is a filament dryer that I’ve been testing for the last few months.
 It’s a practical, easy-to-use cabinet that keeps your filament in tip-top shape, reported by 3DPrint.com on Sep 25, 2026.
 Read more ? https://3dprint.com/332800/sunlu-i10-filament-dryer-review
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
