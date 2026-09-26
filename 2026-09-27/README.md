@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-27
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #263 - 2026-09-27
+## Stories
 
 🔥 Bambu Lab Paying Out $27.6M In Massive 3D Printer Tech Lawsuit - bgr.com
 Bambu Lab Paying Out $27.6M In Massive 3D Printer Tech Lawsuit bgr.com
@@ -48,9 +46,3 @@ Twenty-three 3D printed artificial reefs now sit on the Atlantic seabed at depth
 The structures were deployed in August from L’Atalante, a research vessel of the French…, reported by 3D Printing Industry on Sep 26, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/0920-Reef-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/university-of-galway-and-ifremer-test-3d-printed-reefs-for-cold-water-coral-recovery-255078
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
