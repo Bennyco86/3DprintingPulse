@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-09-28
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #264 - 2026-09-28
+## Stories
 
 🚨 Creality Unveils AI-Powered 3D Printing, Laser Engraving and 3D Scanning Ecosystem at IFA 2026 - FinancialContent
 Creality Unveils AI-Powered 3D Printing, Laser Engraving and 3D Scanning Ecosystem at IFA 2026 FinancialContent
@@ -44,9 +42,3 @@ Read more ? https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnhURS16UVZVUnh
 The least trustworthy 3D printer brand is still the best, and that's not going to change anytime soon How-To Geek
 Reported by Google News - 3D Printing on Sep 26, 2026.
 Read more ? https://news.google.com/rss/articles/CBMingFBVV95cUxOZGNXbGU1dUlwaEZCQmlxaWN3SzFfZ04yT3lIYXBxbTNjbmVVdEVjQ1ZVc3JWVFdJX3NSbktpQkdBX2hveU9ydXhmc0FSdFJYdkt4YU9ibVNiNjU5aWNJb1pDbUhUd0hnRmpqRkxlanFhTmsyVm5iOE5MeVkxNlYxVmxiTURGcU5VNnlrNGg0T2EtMGhXN3MzcC1DaWpoQQ?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
