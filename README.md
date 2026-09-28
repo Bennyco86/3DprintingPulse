@@ -2,48 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #264 - 2026-09-28
+### 3D PRINTING PULSE #265 - 2026-09-29
 
-🚨 Creality Unveils AI-Powered 3D Printing, Laser Engraving and 3D Scanning Ecosystem at IFA 2026 - FinancialContent
-Creality Unveils AI-Powered 3D Printing, Laser Engraving and 3D Scanning Ecosystem at IFA 2026 FinancialContent
-Reported by Google News - Filament Recycling on Sep 21, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRzJpemEwblVHOVBycmk5MkR3VW54Rld1ZVIzZUhyS05BYXJJdWN0UmVTYjNIdDZyVUlPSzV2bU5TcklrN2ZRZ2RMdlQ5QmV1QVl6eFJPTkljVmlSUnVndUZQaWRtRUxjRmRYX1diT2pWN2h2bWlGS1FpUWhFMlYyQ2J0bTFiVUU2MS03ZmRWVWtTZV8yLXVIN1dfR1RmREJoa1JUUU9aLUxUNU1ROHJLZ2d0RjJCdXhmTmRjR09hbmktRmVXVk95VG04WVUxQkRONzJFajhUejNxdzA2TWRPcGpNSkozd1JnNjhvQjdrUQ?oc=5
+🔥 Protolabs Leverages 3D Printing for Its Robotics Customers to Increase Market Segment Growth 2x YOY
+I just posted about how the FCC’s looming ban on new imports of robot systems is combining with surging robotics demand to create a big opportunity for the additive manufacturing (AM)...
+Reported by 3DPrint.com on Sep 28, 2026.
+Read more ? https://3dprint.com/333580/protolabs-leverages-3d-printing-for-its-robotics-customers-to-increase-market-segment-growth-2x-yoy
 
-🖨 Bambu Lab and SUSAN FANG 3D Print for London Fashion Week
-At London Fashion Week, some of the more unusual pieces on the runway came from 3D printers.
-Chinese fashion designer SUSAN FANG presented her Spring/Summer 2027 Air-Illusion collection at the, reported by 3DPrint.com on Sep 27, 2026.
-Read more ? https://3dprint.com/333560/bambu-lab-and-susan-fang-3d-print-for-london-fashion-week
+🚨 Makers Making Change and Bambu Lab launch global assistive technology 3D printing challenge
+Makers Making Change, an initiative of Canadian nonprofit Neil Squire, has partnered with Bambu Lab and six accessibility organizations working with 3D printing to launch Make for Good, a global design challenge...
+Hosted on Bambu Lab’s MakerWorld platform, the challenge will invite designers and 3D printer users to develop devices addressing…, reported by 3D Printing Industry on Sep 28, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/image-19-150x100.png
+Read more ? https://3dprintingindustry.com/news/makers-making-change-and-bambu-lab-launch-global-assistive-technology-3d-printing-challenge-255127
 
-🖨 Self-Repairing Conductive Material from Liquid Metal
-PCB circuits are cool, but you know what is cooler?
-Terminator circuits that’s what, reported by Hackaday 3D Printing on Sep 26, 2026.
-Image ? https://hackaday.com/wp-content/uploads/2026/09/THIS-3D-Printed-METAL-Heals-Itself-6-15-screenshot.png
-Read more ? https://hackaday.com/2026/09/26/self-repairing-conductive-material-from-liquid-metal
+📷 Revopoint Trackit SR is a Portable, Hassle and Marker-free 3D scanner. Does it Live up to the Hype? - 3DVF
+Revopoint Trackit SR is a Portable, Hassle and Marker-free 3D scanner.
+Does it Live up to the Hype, reported by Google News - 3D Scanners on Sep 28, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JpS0o1NktuUXNzMGpqX0NaenNNemRuX2s2Z1l2NXFXNWp2dVUyTWtDSkN3dHRzS3o0bUM0MXVxTW9lNFhTV2RfbWVWLUZiWXpwTjRzQmJ1WGxmRmFUM1NrWUdoU1R1VUt6N194MGwtRkR0ZjQ0NWlaZkVlVXdIQzh2WXhjUXJJNEJtTXYxRGg4R01ieEVIVjBqel8tcjJHZzI5YmllSVZxeGE0c3o4eTJiVHAzeWlk?oc=5
 
-🖨 I tested the Flsun T1 delta 3D printer, and its incredible accuracy and speed stunned me - TechRadar
-I tested the Flsun T1 delta 3D printer, and its incredible accuracy and speed stunned me TechRadar
-Reported by Google News - 3D Printing on Sep 27, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DcE4xN3l6a0swTW9oZGkxQWRMSWlKbi04ZHRvRmh4eDZyYXkxRlRYT21WdmJWXy1KeHU4c2Fod3R1bTY1RUlkdWlrMlU2VmlONDVDdUU3bjF0ZnIwZ1hQWmdxNENyRDQ?oc=5
+💻 Velo3D appoints Vic Fryzel as VP of Technology & Robert Purnell as Senior Director of Operations
+Together, Velo3D says the new recruits will strengthen the technology and operational leadership supporting production at Forge 1, Velo3D's Livermore Production Campus in California.
+Reported by TCT Magazine on Sep 28, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Velo3D_New_Production_Facility.jpg
+Read more ? https://www.tctmagazine.com/velo3d-appoints-vic-fryzel-as-vp-of-technology-robert-purnell-as-senior-director-of-operations
 
-🖨 Flashforge CJ270 full-color material jetting 3D printer ships October 15 for under $4,000 - VoxelMatters
-Flashforge CJ270 full-color material jetting 3D printer ships October 15 for under $4,000 VoxelMatters
-Reported by Google News - 3D Printing on Sep 27, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLTB2dGo0b2ZVckRXNUpXT2NnZHp0M2d6ZG9FWWJkQ2pVNUdPMURIN1pIZ3g0RTdnN1ZtMS1JLUxnMDlQQWdTejFQS05oWXFscVIzbk5OTkpkWTNQOTZRNHIzb0tuOHowNXhfbnVjSjlJdjJwckJUSDBIUkdwajB3aEhoa25TVkdPc2k3LUljYTEyX0w4b05BLUItUXN5QzFVQXpNSXRDeGVYWFFIa0tyWW5MRS1RTy010gG-AUFVX3lxTE5Qc2RPS0dVclQ2YmpwSS1xZEJVZ2VMNWUzVXpyZ0hqTnRkRVNULWhDb0VQa2NUcXRWNFRFRkFzQUE2TlNkcktTemo5WUx2MkdfLWN0VDdkWnpFU1hkUFRmWTNnSXdXRUdVVVFMeE5LNHM3RWNiR3J1Q0xRV2E4d0tzaDJoc0RaMnZmalVkWEZBWDN4SVNwQl9DUS1TeFdYOGZ2bTZZNjg4ZDFwM3huMU9JTFBvT2gtNVR0aG1CQUE?oc=5
+🖨 ISS research effort to explore role of non-gravitational transport phenomena on the melting dynamics of 3D printed metal particles
+It is one of two research efforts commissioned by the partnering organisations, with the other conducting an experimental study of slip ratio in microgravity in two-phase flows.
+Reported by TCT Magazine on Sep 28, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/55547065112_8cafbf30b1.jpg
+Read more ? https://www.tctmagazine.com/iss-research-effort-to-explore-role-of-non-gravitational-transport-phenomena-on-the-melting-dynamics-of-3d-printed-metal-particles
 
-🖨 VICTORY FOR GUN SAFETY: World’s Fourth-Largest Economy Becomes Second State in the Nation to Require 3D Printer Industry to Build in Safeguards Against Illegal Gun Manufacturing - Everytown
-VICTORY FOR GUN SAFETY: World’s Fourth-Largest Economy Becomes Second State in the Nation to Require 3D Printer Industry to Build in Safeguards Against Illegal Gun Manufacturing Everytown
-Reported by Google News - 3D Printing on Sep 26, 2026.
-Read more ? https://news.google.com/rss/articles/CBMisgJBVV95cUxNODFFLWwxSERSVmJNVHFLU0U3RVVSM1Vac2Y2YkxXQnFuOWZGMGRMajJpcE1KZkVxQVRLeTVlbTMxdTNWVkttcnloZ0ljOUFlVTdiSUg5VEctYTBtTHM3TkNpV0d0aXE3emhpTWFoa19iMUR6SlN4NjVENFd5ZHNfSmJBRW9pd0dBYnhIXzdzLXRYU21SMEVaMkZyb3VlR0FVMmlHYnJDRVIxaERTbWQtSTl3RHNqOUlMcEtPOWVFN3FwaGY1R19hNVF5MVhZaGNnWVFBZ25GNHJjakdSdThnSzlkRE4ta0I4Vms3ZVFDa01PaVVjcWl6Zm9sb2oxakE2YllGOUxqNG1rS0E1WXdBZDRwWThYM1BQZVVJNEJOYnhYQjRUZTNLcEJ3bFVxQTdyRVE?oc=5
+🖨 Stratasys is doubling down on high-value additive manufacturing
+After a few years, I visited Israel agian.
+I was invited to visit Stratasys‘ headquarters to get an update on where one of the industry’s market leaders stands after a period of turmoil across additive manufacturing as a whole, reported by VoxelMatters on Sep 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Stratasys-Visit_IMG_5198-150x150.jpg
+Read more ? https://www.voxelmatters.com/stratasys-is-doubling-down-on-high-value-additive-manufacturing
 
-🖨 5 clever ESP32 weekend projects you can only build if you own a 3D printer - How-To Geek
-5 clever ESP32 weekend projects you can only build if you own a 3D printer How-To Geek
-Reported by Google News - 3D Printing on Sep 26, 2026.
-Read more ? https://news.google.com/rss/articles/CBMioAFBVV95cUxQNnhURS16UVZVUnhTTUZzTzl5NTd6Sl91UDdIeG5HdFhSWFZ3b3hNSEZRdTVEZ2lqZGlDWUVvTjB1eUtPUmFoUDdieUt5U0dIcExTNVNQekY0R0djUjlNXy1DZks5NjMwNEp6VmluRUs2NnlFRkxxSjFua2JqRlFtNWxyNXh1NGp1dk1wZk9OMTRMUUV5cDEtNW15a0hzNk16?oc=5
+🖨 Addireen opens Ganzhou facility for series-production copper AM systems
+Addireen Technologies has opened a manufacturing facility in the Zhanggong District of Ganzhou, China, with capacity for up to 50 metal additive manufacturing systems per month.
+The facility marks Addireen’s shift from prototype development to series production of green-laser equipment for copper and thermal management components, reported by VoxelMatters on Sep 27, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/Addireen-Green-Laser-AM-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/addireen-opens-ganzhou-facility-for-series-production-copper-am-systems
 
-🖨 The least trustworthy 3D printer brand is still the best, and that's not going to change anytime soon - How-To Geek
-The least trustworthy 3D printer brand is still the best, and that's not going to change anytime soon How-To Geek
-Reported by Google News - 3D Printing on Sep 26, 2026.
-Read more ? https://news.google.com/rss/articles/CBMingFBVV95cUxOZGNXbGU1dUlwaEZCQmlxaWN3SzFfZ04yT3lIYXBxbTNjbmVVdEVjQ1ZVc3JWVFdJX3NSbktpQkdBX2hveU9ydXhmc0FSdFJYdkt4YU9ibVNiNjU5aWNJb1pDbUhUd0hnRmpqRkxlanFhTmsyVm5iOE5MeVkxNlYxVmxiTURGcU5VNnlrNGg0T2EtMGhXN3MzcC1DaWpoQQ?oc=5
+💻 Safran Additive Manufacturing Campus celebrates fifth anniversary
+Safran, the world’s second largest aircraft equipment manufacturer, is celebrating a big milestone this week: the fifth anniversary of its Safran Additive Manufacturing Campus (SAMC).
+Based in in Mérignac, France, SAMC spans 12,500 square meters and currently manufactures in the range of 18,000 aircraft and helicopter parts a year using a variety of AM solutions, reported by VoxelMatters on Sep 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/safran-am-campus-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/safran-additive-manufacturing-campus-celebrates-fifth-anniversary
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
