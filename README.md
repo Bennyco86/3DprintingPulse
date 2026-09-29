@@ -2,53 +2,52 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #265 - 2026-09-29
+### 3D PRINTING PULSE #266 - 2026-09-30
 
-🔥 Protolabs Leverages 3D Printing for Its Robotics Customers to Increase Market Segment Growth 2x YOY
-I just posted about how the FCC’s looming ban on new imports of robot systems is combining with surging robotics demand to create a big opportunity for the additive manufacturing (AM)...
-Reported by 3DPrint.com on Sep 28, 2026.
-Read more ? https://3dprint.com/333580/protolabs-leverages-3d-printing-for-its-robotics-customers-to-increase-market-segment-growth-2x-yoy
+🔥 Microgravity Research Targets Defects in Metal Additive Manufacturing - 3D Printing Industry
+Microgravity Research Targets Defects in Metal Additive Manufacturing 3D Printing Industry
+Reported by Google News - 3D Printing on Sep 28, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ0FvNWhIckFpRl8tWEg2MVJ6Ti1vV0pzeWhRQmg4bUdJLUdJTk01SDdRUXQ2MTA5dHRXWjJpeC1obWREUDR0VS1vcXIxdDJ2bEY1Z2JqUmlRMFM3bmIzVVNyc1VmY1dwSENmM3RGN0ZTRjM5dFl4bEtEend5cnpWejFTVENrN0xBTkQ5c29KZjBPWkE1enJaN0w2TGliNmU3OFBydjZ2SER4UWx3cUhPSmtJcw?oc=5
 
-🚨 Makers Making Change and Bambu Lab launch global assistive technology 3D printing challenge
-Makers Making Change, an initiative of Canadian nonprofit Neil Squire, has partnered with Bambu Lab and six accessibility organizations working with 3D printing to launch Make for Good, a global design challenge...
-Hosted on Bambu Lab’s MakerWorld platform, the challenge will invite designers and 3D printer users to develop devices addressing…, reported by 3D Printing Industry on Sep 28, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/image-19-150x100.png
-Read more ? https://3dprintingindustry.com/news/makers-making-change-and-bambu-lab-launch-global-assistive-technology-3d-printing-challenge-255127
+💻 AMA: Software 2026 – Speakers Announced
+3D Printing Industry has announced speakers for AMA: Software 2026, taking place online on 22 October 2026.
+Experts from NVIDIA, Materialise, Autodesk, Oak Ridge National Laboratory, Markforged and other organisations will join the event to discuss how software is changing the design, simulation and production of 3D, reported by 3D Printing Industry on Sep 29, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/AMA-Software-Banner-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/ama-software-2026-speakers-announced-255181
 
-📷 Revopoint Trackit SR is a Portable, Hassle and Marker-free 3D scanner. Does it Live up to the Hype? - 3DVF
-Revopoint Trackit SR is a Portable, Hassle and Marker-free 3D scanner.
-Does it Live up to the Hype, reported by Google News - 3D Scanners on Sep 28, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ2JpS0o1NktuUXNzMGpqX0NaenNNemRuX2s2Z1l2NXFXNWp2dVUyTWtDSkN3dHRzS3o0bUM0MXVxTW9lNFhTV2RfbWVWLUZiWXpwTjRzQmJ1WGxmRmFUM1NrWUdoU1R1VUt6N194MGwtRkR0ZjQ0NWlaZkVlVXdIQzh2WXhjUXJJNEJtTXYxRGg4R01ieEVIVjBqel8tcjJHZzI5YmllSVZxeGE0c3o4eTJiVHAzeWlk?oc=5
+♻️ Frederick County business wants to turn plastic waste into filament for 3D printers - WYPR
+Frederick County business wants to turn plastic waste into filament for 3D printers WYPR
+Reported by Google News - 3D Printing on Sep 29, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV1l1YW1KVzFFa3BBWWVKdjVWOE05b051cXBJYzdzWjlRRkdJUXJkTWdnX01vYy16XzNnc1JSaU1SNEV6U0RnOERkUUVxWFJDTFBDcDVPMEdNcUNEdlJXb2kzTmxQa3hUaktwWDAzTEQtX2lYTlRDUzJ1dlNscXRmVl9Fd3F0cjduWEU0SnBhM1NDekFrVUE0aDAtV2NhUktPQ1A4Tms3Y05oZy1FMXl1UlBaVk4zaGFnandkYzVEV1g5R00?oc=5
 
-💻 Velo3D appoints Vic Fryzel as VP of Technology & Robert Purnell as Senior Director of Operations
-Together, Velo3D says the new recruits will strengthen the technology and operational leadership supporting production at Forge 1, Velo3D's Livermore Production Campus in California.
-Reported by TCT Magazine on Sep 28, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/Velo3D_New_Production_Facility.jpg
-Read more ? https://www.tctmagazine.com/velo3d-appoints-vic-fryzel-as-vp-of-technology-robert-purnell-as-senior-director-of-operations
+💻 Anouk Wipprecht creates brain-controlled Hypnotize Dress
+Dutch designer Anouk Wipprecht is consistently at the cutting edge of fashion and technology.
+For years, we’ve been wowed by her highly innovative designs, including her SpeakerDress from 2017, a sort of futuristic wearable boombox; the clever Proximity Dress designed for social distancing in 2020; and the, reported by VoxelMatters on Sep 29, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/anouk-hypnotize-dress-4-150x150.jpg
+Read more ? https://www.voxelmatters.com/anouk-wipprecht-creates-brain-controlled-hypnotize-dress
 
-🖨 ISS research effort to explore role of non-gravitational transport phenomena on the melting dynamics of 3D printed metal particles
-It is one of two research efforts commissioned by the partnering organisations, with the other conducting an experimental study of slip ratio in microgravity in two-phase flows.
-Reported by TCT Magazine on Sep 28, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/55547065112_8cafbf30b1.jpg
-Read more ? https://www.tctmagazine.com/iss-research-effort-to-explore-role-of-non-gravitational-transport-phenomena-on-the-melting-dynamics-of-3d-printed-metal-particles
+💻 Carbon’s dual-cure 3D printing patent upheld on appeal
+A Board of Appeal at the European Patent Office (EPO) has dismissed a rival’s challenge against a Carbon dual-cure patent, and upheld the broadest claim in European Patent No.
+The ruling confirmed an earlier decision by the EPO Opposition Division, which had kept claim 1 intact, reported by VoxelMatters on Sep 29, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/Carbon-EPO-ruling-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/carbons-dual-cure-3d-printing-patent-upheld-on-appeal
 
-🖨 Stratasys is doubling down on high-value additive manufacturing
-After a few years, I visited Israel agian.
-I was invited to visit Stratasys‘ headquarters to get an update on where one of the industry’s market leaders stands after a period of turmoil across additive manufacturing as a whole, reported by VoxelMatters on Sep 28, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/08/Stratasys-Visit_IMG_5198-150x150.jpg
-Read more ? https://www.voxelmatters.com/stratasys-is-doubling-down-on-high-value-additive-manufacturing
+💻 Nike Reveals 3D Printed Air Max Design Through Air Works Program
+Nike has revealed the third footwear design from its Air Works program, a 3D printed Air Max silhouette by Beijing designer Marc Su.
+Su developed the shoe with Nike mentors and 3D printed footwear manufacturer Zellerfeld, reported by 3D Printing Industry on Sep 29, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/nike-air-works-marc-su-150x100.avif
+Read more ? https://3dprintingindustry.com/news/nike-reveals-3d-printed-air-max-design-through-air-works-program-255162
 
-🖨 Addireen opens Ganzhou facility for series-production copper AM systems
-Addireen Technologies has opened a manufacturing facility in the Zhanggong District of Ganzhou, China, with capacity for up to 50 metal additive manufacturing systems per month.
-The facility marks Addireen’s shift from prototype development to series production of green-laser equipment for copper and thermal management components, reported by VoxelMatters on Sep 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/Addireen-Green-Laser-AM-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/addireen-opens-ganzhou-facility-for-series-production-copper-am-systems
+💻 Philippines regional government 3D prints landmarks for visually impaired
+The Tarlac provincial government in the Philippines unveiled an exhibit of seven 3D printed landmark models that let visitors with visual impairments explore local cultural and tourism sites by touch.
+The project, called Sensory Exploration through 3D Prints (SE3D), is part of the province’s Tourism Month celebration, reported by VoxelMatters on Sep 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/Philippines-tourism-landmarks-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/philippines-regional-government-3d-prints-landmarks-for-visually-impaired
 
-💻 Safran Additive Manufacturing Campus celebrates fifth anniversary
-Safran, the world’s second largest aircraft equipment manufacturer, is celebrating a big milestone this week: the fifth anniversary of its Safran Additive Manufacturing Campus (SAMC).
-Based in in Mérignac, France, SAMC spans 12,500 square meters and currently manufactures in the range of 18,000 aircraft and helicopter parts a year using a variety of AM solutions, reported by VoxelMatters on Sep 28, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/09/safran-am-campus-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/safran-additive-manufacturing-campus-celebrates-fifth-anniversary
+🖨 California Signs 3D Printer Gun-Blocking Bill Into Law
+California’s 3D printer firearm-blocking bill is now law.
+But the version signed by Governor Gavin Newsom is quite different from the bill introduced earlier this year, reported by 3DPrint.com on Sep 29, 2026.
+Read more ? https://3dprint.com/333850/california-signs-3d-printer-gun-blocking-bill-into-law
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
