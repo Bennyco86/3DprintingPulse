@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-01
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #267 - 2026-10-01
+## Stories
 
 🚀 Wondermaker ZR Ultra: Tool changer with four print heads launches on Kickstarter - 3Druck.com
 Wondermaker ZR Ultra: Tool changer with four print heads launches on Kickstarter 3Druck.com
@@ -48,9 +46,3 @@ Addireen, a Shenzhen-based developer of metal additive manufacturing (metal AM) 
 With capacity to produce up to 50 metal AM systems per month, the site supports a wider rollout of the company’s green laser equipment for pure copper, copper alloys, and thermal management…, reported by 3D Printing Industry on Sep 30, 2026.
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/1788492845114902-150x100.jpg
 Read more ? https://3dprintingindustry.com/news/addireen-opens-ganzhou-facility-with-capacity-for-up-to-50-metal-am-systems-per-month-255220
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
