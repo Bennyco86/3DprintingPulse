@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-02
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #268 - 2026-10-02
+## Stories
 
 📷 Creality gets into the 3D scanning business - GamingTrend
 Creality gets into the 3D scanning business GamingTrend
@@ -48,9 +46,3 @@ Hear from the experts shaping additive manufacturing software.
 Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&A!
 Image ? https://3dprintingindustry.com/wp-content/uploads/2026/09/adfm78620-fig-0009-m-150x100.webp
 Read more ? https://3dprintingindustry.com/news/glasgow-and-sydney-engineers-use-electrical-impedance-tomography-to-track-cracks-in-3d-printed-metamaterials-255234
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

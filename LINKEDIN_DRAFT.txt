@@ -1,50 +1,50 @@
-﻿# 3D PRINTING PULSE #267 - 2026-10-01
+﻿# 3D PRINTING PULSE #268 - 2026-10-02
 
-🚀 Wondermaker ZR Ultra: Tool changer with four print heads launches on Kickstarter - 3Druck.com
-Wondermaker ZR Ultra: Tool changer with four print heads launches on Kickstarter 3Druck.com
-Reported by Google News - Tool and Nozzle Changers on Sep 29, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMizgFBVV95cUxPVGVWTU51eHFMdmZKUDV4cndpN2E0akZIUUx3SG1udHVTMWxEdElmelQwRXpldktKcmZFTjBoNUl4d1VKR3VKZkY2OW5fRTlFejByQkg4Wm91MmdyT2xKODZhWnhpeEZnaHRtYjBUTWhpWmY4bzFndEp1dkpSbTdzaUhvcmlPSndGSGRlUWYzeHBCekZQdVBXZldxY1Rad2wwWENENzBQY29LZWJXRElrdmdMa294X3dEZ3hURXJuUFEybDRTWS1lZjYyNHVBdw?oc=5
+📷 Creality gets into the 3D scanning business - GamingTrend
+Creality gets into the 3D scanning business GamingTrend
+Reported by Google News - 3D Printing on Oct 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTE1uUjF1aWFwN1F6N0U4Zk5VNGdhdXB0ZmJBTnBVTUtrb1dyVzBldXQwd2ZDZHdBVXRXdXVfMDhwVmkxaExwblJfRTVDVU8zdG5zSl9tMS1RcUNXbF9uSnhVTVRYazhNZVMzNjRSTVVUUUFPRzJrZVlaUERoZk1MZw?oc=5
 
-🚨 Prusa Research launches two high-temperature products
-Prusa Research is offering two new high-temperature products, which are already available to order.
-The HT Hotend Upgrade for its CORE One and CORE One L printer families, and a CORE One L+ pre-assembled with the same hotend and an advanced filtration system have come to market at price points of $199.99 for the, reported by VoxelMatters on Sep 30, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/Prusa-CORE-One-upgrades-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/prusa-research-launches-two-high-temperature-products
+📷 Creality Goes Pro with Sermoon P1S 3D Scanner - 3DPrint.com
+Creality Goes Pro with Sermoon P1S 3D Scanner 3DPrint.com
+Reported by Google News - 3D Scanners on Oct 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWhJMC1CeGFXSEF3SGpQb0xwcXpyTEJkOTMtSmhjTzR4LWpvcXFHTTBZRkp5d1pDc3FYQXlIcTA4b1BwR093MVZ5ak1qUlNCUzBERXlvUkg5UjkxV1hTc0xfTGktUk5ibXVvUDh0VEI1RXNubjhBbndhRHRIOEQ0ZjJjc9IBgwFBVV95cUxNUWhJMC1CeGFXSEF3SGpQb0xwcXpyTEJkOTMtSmhjTzR4LWpvcXFHTTBZRkp5d1pDc3FYQXlIcTA4b1BwR093MVZ5ak1qUlNCUzBERXlvUkg5UjkxV1hTc0xfTGktUk5ibXVvUDh0VEI1RXNubjhBbndhRHRIOEQ0ZjJjcw?oc=5
 
-🚨 Creality Sermoon P1S 3D Scanner Launches With PC-Free Operation and 0.02mm Accuracy - Fossbytes
-Creality Sermoon P1S 3D Scanner Launches With PC-Free Operation and 0.02mm Accuracy Fossbytes
-Reported by Google News - 3D Scanners on Sep 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYjl6TmdaakVGc2dseDVKSm51clpKYmFFd2NPYUZBN2s2TFAyb0I2Zl9jR2NfZGNzblhCall1WG5kQzZYa3AzakhFVHRpMnQwNUxLcXdHNnFlbmNiOXJfUmY0dERGaTRWRlFHZm9R?oc=5
+💻 Mencast Marine’s WAAM Propeller Earns Dual Class Certification
+Hear from the experts shaping additive manufacturing software.
+Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&amp;A!
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/8bfefc14-0310-416b-b7a9-cdeefcf50aa5-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/mencast-marines-waam-propeller-earns-dual-class-certification-255241
 
-📷 Hands-On Review: Revopoint MetroY Pro 3D Scanner - 3dprinting.com
-Hands-On Review: Revopoint MetroY Pro 3D Scanner 3dprinting.com
-Reported by Google News - 3D Scanners on Sep 30, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxPdkppR1FhMmw5Y3dnSkpRUjVkZXNyX2lHcWZNOENsOWdVbEF6TWpQODZqcVRBV1ROMThZY3haNVljd3hRS0ZjRDFPbmdRUkdJUnQ4S0hlYm15bmkxemJXcC1wYVFlTlAxakhCNER6VW5wT3EycExvTzl2TE5qaDZndFpQajNfdw?oc=5
+🖨 MX3D Receives DNV AMC3 Certification for Its WAAM Facility
+MX3D, an Amsterdam-based company that builds robotic metal additive manufacturing (AM) systems, has received a Certificate of Qualification from DNV at the Additive Manufacturing Criticality 3 (AMC3) level for its...
+The certificate was issued under the DNV-ST-B203 standard and applies to metal parts used in maritime, defense, and energy…, reported by 3D Printing Industry on Oct 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/pulper-screw-edited-1030x730-1-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/mx3d-receives-dnv-amc3-certification-for-its-waam-facility-255254
 
-💻 AM-Platform joins Addliance as a Core Member
-AM-Platform, a European community for additive manufacturing, has joined Addliance, the European AM Hubs Alliance, as a Core Member.
-Addliance also announced at the same that Paula Queipo Rodríguez, Deputy Coordinator of AM-Platform, will be the organization’s representative in the alliance, reported by VoxelMatters on Sep 30, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/AM-Platform-Addliance-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/am-platform-joins-addliance-as-a-core-member
+🖨 Healthcare Growth Reshapes 3D Systems’ $94.6M Quarter
+US-based 3D printer manufacturer 3D Systems (NYSE: DDD) posted $94.6 million in second-quarter (Q2) 2026 revenue, down 0.3% Y/Y from $94.8 million a year earlier.
+The operating loss narrowed to $10.6 million from $15.4 million in the prior-year period, with lower operating expenses, supported by more than $60 million in annualized cost savings, contributing to…, reported by 3D Printing Industry on Oct 01, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/07/3D-Systems-3D-printed-NextDent-dentures.-Photo-by-3D-Printing-Industry-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/healthcare-growth-reshapes-3d-systems-94-6m-quarter-255258
 
-🖨 BMF sets European debut for desktop micro-precision 3D printer
-The company, which specialises in micro-precision 3D printing, will debut the system at Formnext in Frankfurt.
-Reported by TCT Magazine on Sep 30, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/09/The-microArch----S150-Series-1.jpg
-🔗 Read more: https://www.tctmagazine.com/bmf-sets-european-debut-for-desktop-micro-precision-3d-printer
+💻 Carbon Patent Survives EPO Appeal After Challenge
+A Board of Appeal at the European Patent Office (EPO) has maintained Carbon’s European Patent No.
+3158400 in amended form, closing a proceeding that ran through two levels of EPO review over roughly three and a half years, reported by 3D Printing Industry on Sep 30, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/1778098917341-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/carbon-patent-survives-epo-appeal-after-challenge-255226
 
-🖨 ADDMAN plans to add 81 HP Jet Fusion 5620 Pro printers
-ADDMAN plans to invest in 81 additional HP Jet Fusion 5620 Pro printers, with the purchase set to expand the company’s fleet of HP Multi Jet Fusion systems to more than 125.
-The substantial increase in ADDMAN’s additive manufacturing capacity is being driven by growing demand for production-grade applications, reported by VoxelMatters on Sep 30, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/HP-Jet-Fusion-5620-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/addman-plans-to-add-81-hp-jet-fusion-5620-pro-printers
+📷 3D Scanner Software 2026: The Complete Guide - 3dprinting.com
+3D Scanner Software 2026: The Complete Guide 3dprinting.com
+Reported by Google News - 3D Scanners on Oct 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wU0FoYVNodWxUTV9VcGxaOGpLYWlFRnVGejFTdWU3cmtkeU1tYjdXNzlPaEdlZ2k3NDk1NW5HbXkxc2JRbWtvam8wdlFKV1hpVlVIel9ieUQ3WVBBV1lMZFV3?oc=5
 
-🖨 Addireen Opens Ganzhou Facility With Capacity for up to 50 Metal AM Systems per Month
-Addireen, a Shenzhen-based developer of metal additive manufacturing (metal AM) systems, has started operations at a new facility in Zhanggong District, Ganzhou, China.
-With capacity to produce up to 50 metal AM systems per month, the site supports a wider rollout of the company’s green laser equipment for pure copper, copper alloys, and thermal management…, reported by 3D Printing Industry on Sep 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/1788492845114902-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/addireen-opens-ganzhou-facility-with-capacity-for-up-to-50-metal-am-systems-per-month-255220
+🚀 Glasgow and Sydney Engineers Use Electrical Impedance Tomography to Track Cracks in 3D Printed Metamaterials
+Hear from the experts shaping additive manufacturing software.
+Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&amp;A!
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/adfm78620-fig-0009-m-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/glasgow-and-sydney-engineers-use-electrical-impedance-tomography-to-track-cracks-in-3d-printed-metamaterials-255234
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Creality Sermoon P1S 3D Scanner Launches With PC-Free Operation and 0.02mm Accuracy - Fossbytes" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMibkFVX3lxTE1UYjl6TmdaakVGc2dseDVKSm51clpKYmFFd2NPYUZBN2s2TFAyb0I2Zl9jR2NfZGNzblhCall1WG5kQzZYa3AzakhFVHRpMnQwNUxLcXdHNnFlbmNiOXJfUmY0dERGaTRWRlFHZm9R?oc=5 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Creality gets into the 3D scanning business - GamingTrend" because it highlights where practical 3D printing innovation is moving next. Read it here: https://news.google.com/rss/articles/CBMifkFVX3lxTE1uUjF1aWFwN1F6N0U4Zk5VNGdhdXB0ZmJBTnBVTUtrb1dyVzBldXQwd2ZDZHdBVXRXdXVfMDhwVmkxaExwblJfRTVDVU8zdG5zSl9tMS1RcUNXbF9uSnhVTVRYazhNZVMzNjRSTVVUUUFPRzJrZVlaUERoZk1MZw?oc=5 | Full pulse: https://www.quality3ds.com/
