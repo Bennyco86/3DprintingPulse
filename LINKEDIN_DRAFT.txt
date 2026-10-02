@@ -1,50 +1,49 @@
-﻿# 3D PRINTING PULSE #268 - 2026-10-02
+﻿# 3D PRINTING PULSE #269 - 2026-10-03
 
-📷 Creality gets into the 3D scanning business - GamingTrend
-Creality gets into the 3D scanning business GamingTrend
-Reported by Google News - 3D Printing on Oct 01, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMifkFVX3lxTE1uUjF1aWFwN1F6N0U4Zk5VNGdhdXB0ZmJBTnBVTUtrb1dyVzBldXQwd2ZDZHdBVXRXdXVfMDhwVmkxaExwblJfRTVDVU8zdG5zSl9tMS1RcUNXbF9uSnhVTVRYazhNZVMzNjRSTVVUUUFPRzJrZVlaUERoZk1MZw?oc=5
+🖨 Fabbrix Elemento TC: Large-format 3D printer with a tool changer and an open material system - 3Druck.com
+Fabbrix Elemento TC: Large-format 3D printer with a tool changer and an open material system 3Druck.com
+Reported by Google News - Tool and Nozzle Changers on Oct 01, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmFKRmdYZ0t2cFlVWm9fQ3BPd1BDcnhESUhpQkVLeTZBMjBsVWpmejlxbGhHTmNWLWJRb2duZklnSjBjaGItRGZKZzlEWTV4NWFjRkZJU3J6SGMxbUtuaHRQUnNZU0c5Q1daUnI2U1dpWGZHMXRFZVRoVXBnTFJ5c0hGcDZVdTRhc0Rjd1dWX1NpSXA1U0JVcTN6UXkzTjdVTnI2eS05SFdKaWxVZnoyWGJtdnNCOXZKSC1yNnhoVllBY3oxQWYzMENwY0NmUjJiY0ZFckk4Yw?oc=5
 
-📷 Creality Goes Pro with Sermoon P1S 3D Scanner - 3DPrint.com
-Creality Goes Pro with Sermoon P1S 3D Scanner 3DPrint.com
-Reported by Google News - 3D Scanners on Oct 01, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWhJMC1CeGFXSEF3SGpQb0xwcXpyTEJkOTMtSmhjTzR4LWpvcXFHTTBZRkp5d1pDc3FYQXlIcTA4b1BwR093MVZ5ak1qUlNCUzBERXlvUkg5UjkxV1hTc0xfTGktUk5ibXVvUDh0VEI1RXNubjhBbndhRHRIOEQ0ZjJjc9IBgwFBVV95cUxNUWhJMC1CeGFXSEF3SGpQb0xwcXpyTEJkOTMtSmhjTzR4LWpvcXFHTTBZRkp5d1pDc3FYQXlIcTA4b1BwR093MVZ5ak1qUlNCUzBERXlvUkg5UjkxV1hTc0xfTGktUk5ibXVvUDh0VEI1RXNubjhBbndhRHRIOEQ0ZjJjcw?oc=5
+📷 Insta360 cameras get free 3D scanner upgrade — and the Gaussian Splatting tool gives you 4 free renders a month - TechRadar
+Insta360 cameras get free 3D scanner upgrade — and the Gaussian Splatting tool gives you 4 free renders a month TechRadar
+Reported by Google News - 3D Scanners on Oct 02, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSFJ1aTZSdUpneW5PMVN6QjRRSVlIM0xhSnVxWHlYb2RFb2UtUExZS08tZ0VtblNmX01ybF9MVk9sVmZVdGdMVTdxdWFmUkUxT2RScHVsUmtBbnZXZWxCemtvR2NmS0ZiZjRhRl83UUY5Mnl1eVIzNFhzOER2S0J5bDk1RkQwNVFsLUlGY1FJa2swY1U3R255MXg0TE84SU1hMDF3VGh5U3Ztb01HTEdqM0NOZVRNN09oWk9ZQmRXQzZOd0VZVVNFeS1iT184bkpDUk1LQ3UwX2ZKVGczbVJJaE1hYXFtZ25aZHBv?oc=5
 
-💻 Mencast Marine’s WAAM Propeller Earns Dual Class Certification
+💻 America’s Small Factories are Still Waiting for Work
+Join 3D Printing Industry’s online AMA Software event on 22 October 2026 to explore how AI and software are changing manufacturing, with speakers from NVIDIA, Autodesk and Materialise.
+American manufacturers are accumulating orders while many smaller factories struggle to find enough work, reported by 3D Printing Industry on Oct 02, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/Xometry-2027-Manufacturing-Outlook.-Image-via-Xometry-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/americas-small-factories-are-still-waiting-for-work-255350
+
+🖨 Revo Foods scales patented multi-nozzle 3D food printing
+Austrian foodtech company Revo Foods has targeted profitability by the third quarter of 2027 as it scales its patented 3D printing process for plant-based fish and chicken alternatives.
+The Vienna-based company runs six printers that can produce a claimed one food item every three seconds, and is raising €2 million ($2.3m) to support growth, reported by VoxelMatters on Oct 02, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Revo-Foods-expansion-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/revo-foods-scales-patented-multi-nozzle-3d-food-printing
+
+🖨 F4E signs metal AM for fusion agreement with AMAZEMET
+Fusion for Energy (F4E) has signed a five-year Memorandum of Understanding with AMAZEMET, a Polish SME specializing in advanced materials and metal additive manufacturing.
+The agreement stems from F4E’s Call for Expression of Interest, which seeks to strengthen ties with private initiatives and support the growth of the European fusion ecosystem, reported by VoxelMatters on Oct 01, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/F4E-and-Amazemet-collaboration-agreement-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/f4e-signs-metal-am-for-fusion-agreement-with-amazemet
+
+💻 Sinto Advanced Ceramics adds aluminum nitride and silicon nitride to 3D printing portfolio
 Hear from the experts shaping additive manufacturing software.
 Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&amp;A!
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/8bfefc14-0310-416b-b7a9-cdeefcf50aa5-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/mencast-marines-waam-propeller-earns-dual-class-certification-255241
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/image-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/sinto-advanced-ceramics-adds-aluminum-nitride-and-silicon-nitride-to-3d-printing-portfolio-255339
 
-🖨 MX3D Receives DNV AMC3 Certification for Its WAAM Facility
-MX3D, an Amsterdam-based company that builds robotic metal additive manufacturing (AM) systems, has received a Certificate of Qualification from DNV at the Additive Manufacturing Criticality 3 (AMC3) level for its...
-The certificate was issued under the DNV-ST-B203 standard and applies to metal parts used in maritime, defense, and energy…, reported by 3D Printing Industry on Oct 01, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/pulper-screw-edited-1030x730-1-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/mx3d-receives-dnv-amc3-certification-for-its-waam-facility-255254
+🖨 ADDMAN to Buy Up to $10.8M in Nickel 718 Powder from 6K Additive Over 30 Months
+After years of buildup, we’re finally starting to see what the US metal additive manufacturing (AM) market could look like at scale.
+To be sure, it’s still not quite there,, reported by 3DPrint.com on Oct 02, 2026.
+🔗 Read more: https://3dprint.com/334058/addman-to-buy-up-to-10-8m-in-nickel-718-powder-from-6k-over-30-months
 
-🖨 Healthcare Growth Reshapes 3D Systems’ $94.6M Quarter
-US-based 3D printer manufacturer 3D Systems (NYSE: DDD) posted $94.6 million in second-quarter (Q2) 2026 revenue, down 0.3% Y/Y from $94.8 million a year earlier.
-The operating loss narrowed to $10.6 million from $15.4 million in the prior-year period, with lower operating expenses, supported by more than $60 million in annualized cost savings, contributing to…, reported by 3D Printing Industry on Oct 01, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2025/07/3D-Systems-3D-printed-NextDent-dentures.-Photo-by-3D-Printing-Industry-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/healthcare-growth-reshapes-3d-systems-94-6m-quarter-255258
-
-💻 Carbon Patent Survives EPO Appeal After Challenge
-A Board of Appeal at the European Patent Office (EPO) has maintained Carbon’s European Patent No.
-3158400 in amended form, closing a proceeding that ran through two levels of EPO review over roughly three and a half years, reported by 3D Printing Industry on Sep 30, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/05/1778098917341-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/carbon-patent-survives-epo-appeal-after-challenge-255226
-
-📷 3D Scanner Software 2026: The Complete Guide - 3dprinting.com
-3D Scanner Software 2026: The Complete Guide 3dprinting.com
-Reported by Google News - 3D Scanners on Oct 01, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wU0FoYVNodWxUTV9VcGxaOGpLYWlFRnVGejFTdWU3cmtkeU1tYjdXNzlPaEdlZ2k3NDk1NW5HbXkxc2JRbWtvam8wdlFKV1hpVlVIel9ieUQ3WVBBV1lMZFV3?oc=5
-
-🚀 Glasgow and Sydney Engineers Use Electrical Impedance Tomography to Track Cracks in 3D Printed Metamaterials
-Hear from the experts shaping additive manufacturing software.
-Join 3D Printing Industry on 22 October for AMA: Software 2026, featuring exclusive presentations, panels and live Q&amp;A!
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/adfm78620-fig-0009-m-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/glasgow-and-sydney-engineers-use-electrical-impedance-tomography-to-track-cracks-in-3d-printed-metamaterials-255234
+🖨 Zetamix to Make Metal Parts on Board Charles de Gaulle Aircraft Carrier
+Zetamix‘s metal 3D printing solution is to be used aboard the French aircraft carrier Charles de Gaulle.
+The $3 billion carrier, built in 2002, has a complement of 1350 and, reported by 3DPrint.com on Oct 02, 2026.
+🔗 Read more: https://3dprint.com/333280/zetamix-to-make-metal-parts-on-board-charles-de-gaulle-aircraft-carrier
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "Creality gets into the 3D scanning business - GamingTrend" because it highlights where practical 3D printing innovation is moving next. Read it here: https://news.google.com/rss/articles/CBMifkFVX3lxTE1uUjF1aWFwN1F6N0U4Zk5VNGdhdXB0ZmJBTnBVTUtrb1dyVzBldXQwd2ZDZHdBVXRXdXVfMDhwVmkxaExwblJfRTVDVU8zdG5zSl9tMS1RcUNXbF9uSnhVTVRYazhNZVMzNjRSTVVUUUFPRzJrZVlaUERoZk1MZw?oc=5 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Fabbrix Elemento TC: Large-format 3D printer with a tool changer and an open material system - 3Druck.com" because it highlights where practical 3D printing innovation is moving next. Story: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMmFKRmdYZ0t2cFlVWm9fQ3BPd1BDcnhESUhpQkVLeTZBMjBsVWpmejlxbGhHTmNWLWJRb2duZklnSjBjaGItRGZKZzlEWTV4NWFjRkZJU3J6SGMxbUtuaHRQUnNZU0c5Q1daUnI2U1dpWGZHMXRFZVRoVXBnTFJ5c0hGcDZVdTRhc0Rjd1dWX1NpSXA1U0JVcTN6UXkzTjdVTnI2eS05SFdKaWxVZnoyWGJtdnNCOXZKSC1yNnhoVllBY3oxQWYzMENwY0NmUjJiY0ZFckk4Yw?oc=5 | Explore more: https://www.quality3ds.com/

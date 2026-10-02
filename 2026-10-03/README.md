@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-03
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #269 - 2026-10-03
+## Stories
 
 🖨 Fabbrix Elemento TC: Large-format 3D printer with a tool changer and an open material system - 3Druck.com
 Fabbrix Elemento TC: Large-format 3D printer with a tool changer and an open material system 3Druck.com
@@ -47,9 +45,3 @@ Read more ? https://3dprint.com/334058/addman-to-buy-up-to-10-8m-in-nickel-718-p
 Zetamix‘s metal 3D printing solution is to be used aboard the French aircraft carrier Charles de Gaulle.
 The $3 billion carrier, built in 2002, has a complement of 1350 and, reported by 3DPrint.com on Oct 02, 2026.
 Read more ? https://3dprint.com/333280/zetamix-to-make-metal-parts-on-board-charles-de-gaulle-aircraft-carrier
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
