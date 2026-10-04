@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-05
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #271 - 2026-10-05
+## Stories
 
 🔥 Would-be Trump assassin's mysterious texts about 3D printers exposed - AOL.com
 Would-be Trump assassin's mysterious texts about 3D printers exposed AOL.com
@@ -44,9 +42,3 @@ Read more ? https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzNfeWFwQk1BOWc
 Trump's attempted assassin sent mysterious texts about 3D printer leading up to Butler, Pa, shooting: report Fox News
 Reported by Google News - 3D Printing on Oct 03, 2026.
 Read more ? https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmNuY3V5dFU3c2k2LXJWT2lpTkU4Uk9CNUpQbEt4V0JGMGJlSDdYX2IydUYzS1h1eW5VZHc2eXN2ckJQZ0ZYWjdDVDlpVmFRZ3h0VnZXNFRya1pLTFZ3bHNvOHgtYmRrLTllYTZFNnozWWVtdm1vNjU0OW53Wjh5RGtiQ091Ym5SUkROdHdsOU80WVN6aXViRDlrRGV1LUJ5Y3Z6TDBsYU5rMEdJZzlWUXNkd2xENEJZeFI40gHAAUFVX3lxTE9kMXdIdDFOSGpqamNLLWxhWmt4VGVXcF9uOEVKVDRCSnFvQWV6MmZDYmZhOUFITHJfN3ZldW5kbE0yREZicWREREdQNWN2aEFVamRCNmtCNUJtdU5WZmFTajBLeFRYTTY5eFNmcWhJOVhFM09pVWZ6RWh2VFliekFUbFBuMmRWa2htSTU1N2lIUmFkLV9DZ1A5LUM3LTlWTjNTR1lQZzNiQ1gwS19qZmVXWUZCM0pHellIRWYyYk9vTA?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
