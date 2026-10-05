@@ -1,46 +1,52 @@
-﻿# 3D PRINTING PULSE #271 - 2026-10-05
+﻿# 3D PRINTING PULSE #272 - 2026-10-06
 
-🔥 Would-be Trump assassin's mysterious texts about 3D printers exposed - AOL.com
-Would-be Trump assassin's mysterious texts about 3D printers exposed AOL.com
-Reported by Google News - 3D Printing on Oct 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMihgFBVV95cUxPekNFQVVnOVVtMlJTNFR4MUI4NXRLZjVRMk9PR1Rjb1VRV0lNSXRrekd0X01VbDN0bGFFTkdMWUxNMVl5NzZfWXIwb1hiR29pTmdIdWlOYmFkY3hxWGlfeHY5a3dNMS0xMVgxY043ZUptVXVLREtKUDZKc29fQnJIbmFPemZCUQ?oc=5
+🔥 Makelab expands its production footprint at MADE: Bush Terminal
+Makelab, an on-demand 3D printing studio, has secured a 357-square-meter facility at MADE: Bush Terminal, a roughly 13,000-square-meter industrial campus on Brooklyn’s waterfront, to scale production for tier-one...
+The campus sits in Sunset Park, where the New York City Economic Development Corporation (NYCEDC) has been developing a district for industrial design and urban manufacturing, reported by VoxelMatters on Oct 05, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Makelab-Brooklyn-expansion-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/makelab-expands-its-production-footprint-at-made-bush-terminal
 
-🚨 Bambu Lab &amp; 7 Accessibility Organizations Launch Design Challenge for 3D Printed Assistive Devices
-In 2023, Chinese 3D printer OEM Bambu Lab launched MakerWorld, its collaborative 3D model platform.
-By early 2026, the platform had about 10 million monthly active users and started to, reported by 3DPrint.com on Oct 04, 2026.
-🔗 Read more: https://3dprint.com/334195/bambu-lab-7-accessibility-organizations-launch-design-challenge-for-3d-printed-assistive-devices
+📷 Revopoint Fall Sale 2026: 3D Scanners for Metrology, 3D Printing &amp; More Are Up to 40% Off - All3DP
+Revopoint Fall Sale 2026: 3D Scanners for Metrology, 3D Printing &amp; More Are Up to 40% Off All3DP
+Reported by Google News - 3D Printing on Oct 05, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFNEWUlfclZSYWxheTYxVnM3VGF1V3dBRUx5Y2pXaFZmY1U3UFdBNUZuYXVSNnMzZDlJakRBbXdwckp1ZzBUT2ZpZ2tTV2dSRFRPd3R1TElWYmtkaGxlTmVtM0QyRVA5M1JpLVR6Qy00cHNpYmcwRW0zenBLRTFpV1Nic2ZkbUNfUThTTm9YLTkxUGowS1B6amFjV3pMWFlpSmFLSzgxVUZtUQ?oc=5
 
-💻 Stryker 3D print tying aid - Bryan Times
-Stryker 3D print tying aid Bryan Times
-Reported by Google News - 3D Printing on Oct 04, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMitwFBVV95cUxOdDlBN05WTkh6TVpLQTlGNVYtZkhnVzB5VFVaN19pazMwd25XaUdxbXU1S3h6NE5Ja0I3U0wtemFYODJDYnMxdlE0TXdMdWFsMGMzaVJMQmFNM01JbmZnU20zb3B2TjlkNE1RZlJTdDZTbTBxNjZQZFZuY0ZOOXR0eUZYX2k0OGVGRUx4X3BEWkdLdDhDb1BQSE53WDVpbEVId0RpWGN1NWx6U29hWGNodFZSNEVHaEk?oc=5
+💻 AMA Software 2026 Speaker Update
+The AMA Software programme continues to grow, with new speakers from Euler, General Atomics Aeronautical Systems, CoreTechnologie and Kubuz joining us online on 22 October.
+We are also pleased to welcome Euler as an event sponsor, supporting the discussion of how software is changing additive manufacturing, reported by 3D Printing Industry on Oct 05, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/AMA-Software-Banner-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/ama-software-2026-speaker-update-255391
 
-📰 UQTR team compare 3D printed and thermoformed finger orthoses
-Researchers from the University of Quebec at Trois-Rivières (UQTR) and Montreal institutions have found higher user satisfaction with 3D printed trigger finger orthoses than with thermoformed ones, in a pilot study...
-Printed devices received a total score of 36.2 on the Quebec User Evaluation of Satisfaction with Assistive Technology (QUEST … The post UQTR team compare 3D printed and thermoformed finger orthoses appeared first on, reported by VoxelMatters on Oct 04, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/3D-printed-finger-othoses-03-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/uqtr-team-compare-3d-printed-and-thermoformed-finger-orthoses
+♻️ Hyperion Systems installs TitanCell 3D printing unit in Timor-Leste
+Hyperion Systems and Inspire Robotics have signed an agreement to install a TitanCell, Hyperion’s containerized large-format additive manufacturing system, in Timor-Leste.
+The unit is due to be commissioned later this year under Inspire Robotics’ Business-in-a-Box platform for local entrepreneurs, reported by VoxelMatters on Oct 04, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Hyperion-Timor-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/hyperion-systems-installs-titancell-3d-printing-unit-in-timor-leste
 
-🖨 These Prime Day Deals on 3D Printers and Accessories Make Now the Perfect Time to Try a New Hobby - CNET
-These Prime Day Deals on 3D Printers and Accessories Make Now the Perfect Time to Try a New Hobby CNET
-Reported by Google News - 3D Printing on Oct 04, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMidkFVX3lxTE1iWnFicjBtZF9lY3gyOGdoV09oSVRXbU9VYl9VeXBkOTd2eUFvelVTVkVPc1BIR0l5VzQ0RkZWQ0pqejJSYXBlLW5iTWxPZjVLdEFzamwtWlNlc29KdUpSRWpZWld1WFU2V3JMd2JUakkzWGZ2eUE?oc=5
+🖨 MX3D Earns DNV’s Highest Additive Manufacturing Certification for Wire Arc 3D Printing
+Amsterdam-based MX3D announced it has become the first wire arc additive manufacturing (WAAM) facility in the world to receive DNV certification at the Additive Manufacturing Criticality 3 (AMC3) level.
+AMC3 is the highest classification DNV awards, reported by 3D Printing Industry on Oct 05, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/additive-manufacturing-1280x720-v4-150x100.jpeg
+🔗 Read more: https://3dprintingindustry.com/news/mx3d-earns-dnvs-highest-additive-manufacturing-certification-for-wire-arc-3d-printing-255360
 
-🖨 Nearly 2 years after resin printers at Fayetteville library taken offline, management and ex-staff disagree on their safety - Northwest Arkansas Democrat-Gazette
-Nearly 2 years after resin printers at Fayetteville library taken offline, management and ex-staff disagree on their safety Northwest Arkansas Democrat-Gazette
-Reported by Google News - 3D Printing on Oct 04, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiigFBVV95cUxOQUdUVEZpcUNWRDVkVzhXYlFlZVYzSWFEVWtmME5qUFp4ZmxzV2J4cENvQVVGbGpPd1E3ZmNVMkNlN2R4Q3ZaVzZEUjJZU3lvUWVkSzdFYVJBSlpKdGdWWEZ3MXVaUURYVjdEVFBYV3hqcDdLbnFSX19DeWJsREgtUW9oUk9zSFpOcmc?oc=5
+🖨 Faiborida 3D Introduces Four-Laser SLM M500 Metal 3D Printer
+Foshan, China-based Faiborida 3D has introduced the SLM M500, a large-format laser powder bed fusion (LPBF) metal 3D printer with a 500 × 500 × 500 mm build envelope and four 500 W lasers.
+The industrial equipment and materials manufacturer is aiming the system at users who need higher build rates per job, whether that…, reported by 3D Printing Industry on Oct 05, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/SLM_M500_1000x1000_nologo-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/faiborida-3d-introduces-four-laser-slm-m500-metal-3d-printer-255371
 
-🖨 3 hobbies that become almost free once you own this tiny $200 3D printer - How-To Geek
-3 hobbies that become almost free once you own this tiny $200 3D printer How-To Geek
-Reported by Google News - 3D Printing on Oct 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzNfeWFwQk1BOWczejZKcUdkN0hFTGJyRnZkMnI1cklsd3Jnb09oUGY5Tkd1c3QtUUZOSHRmczN6OXZiT0c5WHZ1QnlrNnVyRGl4OHdFUFdnNjZWMHVqSVZqa0ZzYnNtdFBDSE11Z0Z2Q2tqVnBFLUdEdERjcmtvdGdnYUtCa2V0MHB5UnBBZ1N6aDRTc0xxa3Jn?oc=5
+🖨 Scaling metal powder supply and alloy development—join Continuum in our upcoming webinar
+Advanced manufacturing needs the metal powder supply chain to grow in two directions at once.
+Manufacturers require greater capacity and reliability for established, high-demand alloys, and they also need faster, more accessible routes to specialty materials that may not be viable through conventional, reported by VoxelMatters on Oct 05, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Continuum-Powders-VoxelMatters-webinar-October-2026_01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar
 
-🖨 Trump's attempted assassin sent mysterious texts about 3D printer leading up to Butler, Pa, shooting: report - Fox News
-Trump's attempted assassin sent mysterious texts about 3D printer leading up to Butler, Pa, shooting: report Fox News
-Reported by Google News - 3D Printing on Oct 03, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmNuY3V5dFU3c2k2LXJWT2lpTkU4Uk9CNUpQbEt4V0JGMGJlSDdYX2IydUYzS1h1eW5VZHc2eXN2ckJQZ0ZYWjdDVDlpVmFRZ3h0VnZXNFRya1pLTFZ3bHNvOHgtYmRrLTllYTZFNnozWWVtdm1vNjU0OW53Wjh5RGtiQ091Ym5SUkROdHdsOU80WVN6aXViRDlrRGV1LUJ5Y3Z6TDBsYU5rMEdJZzlWUXNkd2xENEJZeFI40gHAAUFVX3lxTE9kMXdIdDFOSGpqamNLLWxhWmt4VGVXcF9uOEVKVDRCSnFvQWV6MmZDYmZhOUFITHJfN3ZldW5kbE0yREZicWREREdQNWN2aEFVamRCNmtCNUJtdU5WZmFTajBLeFRYTTY5eFNmcWhJOVhFM09pVWZ6RWh2VFliekFUbFBuMmRWa2htSTU1N2lIUmFkLV9DZ1A5LUM3LTlWTjNTR1lQZzNiQ1gwS19qZmVXWUZCM0pHellIRWYyYk9vTA?oc=5
+🔥 ZEISS on how powder data, in-process scanning and AI are converging to solve AM's biggest QC bottleneck
+TCT speaks to Paul Brackman, X-ray Product Manager for ZEISS Research &amp; Quality Solutions USA, about how ZEISS is supporting next-generation quality control and defect inspections within additive manufacturing.
+Reported by TCT Magazine on Oct 05, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Paul-Brackman.jpg
+🔗 Read more: https://www.tctmagazine.com/zeiss-on-how-powder-data-in-process-scanning-and-ai-are-converging-to-solve-ams-biggest-qc-bottleneck
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Bambu Lab &amp; 7 Accessibility Organizations Launch Design Challenge for 3D Printed Assistive Devices" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://3dprint.com/334195/bambu-lab-7-accessibility-organizations-launch-design-challenge-for-3d-printed-assistive-devices | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Makelab expands its production footprint at MADE: Bush Terminal" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/makelab-expands-its-production-footprint-at-made-bush-terminal | Full coverage: https://www.quality3ds.com/

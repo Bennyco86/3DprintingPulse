@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-06
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #272 - 2026-10-06
+## Stories
 
 🔥 Makelab expands its production footprint at MADE: Bush Terminal
 Makelab, an on-demand 3D printing studio, has secured a 357-square-meter facility at MADE: Bush Terminal, a roughly 13,000-square-meter industrial campus on Brooklyn’s waterfront, to scale production for tier-one...
@@ -50,9 +48,3 @@ TCT speaks to Paul Brackman, X-ray Product Manager for ZEISS Research & Quality 
 Reported by TCT Magazine on Oct 05, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Paul-Brackman.jpg
 Read more ? https://www.tctmagazine.com/zeiss-on-how-powder-data-in-process-scanning-and-ai-are-converging-to-solve-ams-biggest-qc-bottleneck
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
