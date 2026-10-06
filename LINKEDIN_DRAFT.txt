@@ -1,52 +1,51 @@
-﻿# 3D PRINTING PULSE #272 - 2026-10-06
+﻿# 3D PRINTING PULSE #273 - 2026-10-07
 
-🔥 Makelab expands its production footprint at MADE: Bush Terminal
-Makelab, an on-demand 3D printing studio, has secured a 357-square-meter facility at MADE: Bush Terminal, a roughly 13,000-square-meter industrial campus on Brooklyn’s waterfront, to scale production for tier-one...
-The campus sits in Sunset Park, where the New York City Economic Development Corporation (NYCEDC) has been developing a district for industrial design and urban manufacturing, reported by VoxelMatters on Oct 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Makelab-Brooklyn-expansion-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/makelab-expands-its-production-footprint-at-made-bush-terminal
+📷 Revopoint Fall Sale 2026: Up to 40% Off 3D Scanners and Software - https://3dprinting.com/
+Revopoint Fall Sale 2026: Up to 40% Off 3D Scanners and Software https://3dprinting.com/
+Reported by Google News - 3D Scanners on Oct 06, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiY0FVX3lxTE52WG55dFFxbkZwZExVTmQxWG5nUklRR0tfeld6N2F4OU9IVDJfa3lHZE9TdjBqbnNWT0Q0MWc0ZGxfVE43SjlVLUl3YjJrb2FGY0FwQi1FQTR4b25McDdLbGRLbw?oc=5
 
-📷 Revopoint Fall Sale 2026: 3D Scanners for Metrology, 3D Printing &amp; More Are Up to 40% Off - All3DP
-Revopoint Fall Sale 2026: 3D Scanners for Metrology, 3D Printing &amp; More Are Up to 40% Off All3DP
-Reported by Google News - 3D Printing on Oct 05, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFNEWUlfclZSYWxheTYxVnM3VGF1V3dBRUx5Y2pXaFZmY1U3UFdBNUZuYXVSNnMzZDlJakRBbXdwckp1ZzBUT2ZpZ2tTV2dSRFRPd3R1TElWYmtkaGxlTmVtM0QyRVA5M1JpLVR6Qy00cHNpYmcwRW0zenBLRTFpV1Nic2ZkbUNfUThTTm9YLTkxUGowS1B6amFjV3pMWFlpSmFLSzgxVUZtUQ?oc=5
+💻 Meshy stands out as the only AI 3D company in a16z’s top 50 consumer AI apps by revenue
+Meshy ranked No.
+31 in “The Top 50 Consumer AI Apps by Monthly Revenue,” a new ranking published by Silicon Valley venture capital firm Andreessen Horowitz (a16z) on October 5, 2026, reported by VoxelMatters on Oct 06, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/09/Flashforge_Meshy_color_CJ270_2x_5_cce21167-8d7f-4c9b-8e43-28dc7585e409-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/meshy-stands-out-as-the-only-ai-3d-company-in-a16zs-top-50-consumer-ai-apps-by-revenue
 
-💻 AMA Software 2026 Speaker Update
-The AMA Software programme continues to grow, with new speakers from Euler, General Atomics Aeronautical Systems, CoreTechnologie and Kubuz joining us online on 22 October.
-We are also pleased to welcome Euler as an event sponsor, supporting the discussion of how software is changing additive manufacturing, reported by 3D Printing Industry on Oct 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/AMA-Software-Banner-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/ama-software-2026-speaker-update-255391
+🖨 Mimir completes acquisition of Osprey metal powder business from Sandvik
+Mimir, a global investment firm headquartered in Sweden, has completed its acquisition of Osprey from Sandvik, creating an independent advanced materials company with production sites in Neath, Wales, and Sandviken,...
+Mimir reported the closing on October 1, following an agreement signed in May to acquire Sandvik’s metal powder business, reported by VoxelMatters on Oct 06, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Mimir-completes-acquisition-of-Osprey-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/mimir-completes-acquisition-of-osprey-metal-powder-business-from-sandvik
 
-♻️ Hyperion Systems installs TitanCell 3D printing unit in Timor-Leste
-Hyperion Systems and Inspire Robotics have signed an agreement to install a TitanCell, Hyperion’s containerized large-format additive manufacturing system, in Timor-Leste.
-The unit is due to be commissioned later this year under Inspire Robotics’ Business-in-a-Box platform for local entrepreneurs, reported by VoxelMatters on Oct 04, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Hyperion-Timor-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/hyperion-systems-installs-titancell-3d-printing-unit-in-timor-leste
+🖨 File In. Clean Print Out: UniFormation’s New S10 Tackles Resin 3D Printing’s Messiest Problem
+Discover exclusive software insights at AMA: Software 2026, on October 22.
+Register for free, reported by 3D Printing Industry on Oct 06, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/UFN1-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/file-in-clean-print-out-uniformations-new-s10-tackles-resin-3d-printings-messiest-problem-255412
 
-🖨 MX3D Earns DNV’s Highest Additive Manufacturing Certification for Wire Arc 3D Printing
-Amsterdam-based MX3D announced it has become the first wire arc additive manufacturing (WAAM) facility in the world to receive DNV certification at the Additive Manufacturing Criticality 3 (AMC3) level.
-AMC3 is the highest classification DNV awards, reported by 3D Printing Industry on Oct 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/07/additive-manufacturing-1280x720-v4-150x100.jpeg
-🔗 Read more: https://3dprintingindustry.com/news/mx3d-earns-dnvs-highest-additive-manufacturing-certification-for-wire-arc-3d-printing-255360
+🖨 AMPOWER Desktop 3D Printing Insights, Desktop 3D Printing Boom is Reshaping Factory Economics
+Where can AI actually help your print workflow?
+Find out at AMA Software, online on October 22nd, reported by 3D Printing Industry on Oct 06, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/09/Rows-of-Bambu-Lab-desktop-3D-printers-operating-at-Huafast-in-Guangming.-Photo-by-Michael-Petch-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/ampower-desktop-3d-printing-insights-desktop-3d-printing-boom-is-reshaping-factory-economics-255407
 
-🖨 Faiborida 3D Introduces Four-Laser SLM M500 Metal 3D Printer
-Foshan, China-based Faiborida 3D has introduced the SLM M500, a large-format laser powder bed fusion (LPBF) metal 3D printer with a 500 × 500 × 500 mm build envelope and four 500 W lasers.
-The industrial equipment and materials manufacturer is aiming the system at users who need higher build rates per job, whether that…, reported by 3D Printing Industry on Oct 05, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/SLM_M500_1000x1000_nologo-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/faiborida-3d-introduces-four-laser-slm-m500-metal-3d-printer-255371
+💻 The Physical World Is AI’s Next Bottleneck
+Where is AI unlocking advantages?
+Explore what is possible at AMA: Software 2026, reported by 3D Printing Industry on Oct 06, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/The-Sifted-Summit-2026.-Photo-by-Michael-Petch-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/the-physical-world-is-ais-next-bottleneck-255423
 
-🖨 Scaling metal powder supply and alloy development—join Continuum in our upcoming webinar
-Advanced manufacturing needs the metal powder supply chain to grow in two directions at once.
-Manufacturers require greater capacity and reliability for established, high-demand alloys, and they also need faster, more accessible routes to specialty materials that may not be viable through conventional, reported by VoxelMatters on Oct 05, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Continuum-Powders-VoxelMatters-webinar-October-2026_01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/scaling-metal-powder-supply-and-alloy-development-join-continuum-in-our-upcoming-webinar
+💻 Xometry appoints Marc Teulières as general manager for Europe
+has named Marc Teulières as its General Manager for Europe, taking on responsibility for the company’s European operations.
+Teulières will be charged with winning enterprise customers, adding suppliers to the network and sustaining profitable growth over the long term, reported by VoxelMatters on Oct 06, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Marc-Teulieres-Xometry-GM-for-Europe-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/xometry-appoints-marc-teulieres-as-general-manager-for-europe
 
-🔥 ZEISS on how powder data, in-process scanning and AI are converging to solve AM's biggest QC bottleneck
-TCT speaks to Paul Brackman, X-ray Product Manager for ZEISS Research &amp; Quality Solutions USA, about how ZEISS is supporting next-generation quality control and defect inspections within additive manufacturing.
-Reported by TCT Magazine on Oct 05, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Paul-Brackman.jpg
-🔗 Read more: https://www.tctmagazine.com/zeiss-on-how-powder-data-in-process-scanning-and-ai-are-converging-to-solve-ams-biggest-qc-bottleneck
+🖨 Kickstarter is Testing the Next Wave of Desktop 3D Printing
+3D printers are raising serious money again…on Kickstarter, that is.
+Over the last few months, a new group of 3D printer campaigns has attracted millions of dollars and thousands of, reported by 3DPrint.com on Oct 06, 2026.
+🔗 Read more: https://3dprint.com/334287/kickstarter-is-testing-the-next-wave-of-desktop-3d-printing
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Makelab expands its production footprint at MADE: Bush Terminal" because it highlights where practical 3D printing innovation is moving next. Direct link: https://www.voxelmatters.com/makelab-expands-its-production-footprint-at-made-bush-terminal | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Revopoint Fall Sale 2026: Up to 40% Off 3D Scanners and Software - https://3dprinting.com/" because it highlights where practical 3D printing innovation is moving next. Read it here: https://news.google.com/rss/articles/CBMiY0FVX3lxTE52WG55dFFxbkZwZExVTmQxWG5nUklRR0tfeld6N2F4OU9IVDJfa3lHZE9TdjBqbnNWT0Q0MWc0ZGxfVE43SjlVLUl3YjJrb2FGY0FwQi1FQTR4b25McDdLbGRLbw?oc=5 | Full pulse: https://www.quality3ds.com/

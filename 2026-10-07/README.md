@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-07
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #273 - 2026-10-07
+## Stories
 
 📷 Revopoint Fall Sale 2026: Up to 40% Off 3D Scanners and Software - https://3dprinting.com/
 Revopoint Fall Sale 2026: Up to 40% Off 3D Scanners and Software https://3dprinting.com/
@@ -49,9 +47,3 @@ Read more ? https://www.voxelmatters.com/xometry-appoints-marc-teulieres-as-gene
 3D printers are raising serious money again…on Kickstarter, that is.
 Over the last few months, a new group of 3D printer campaigns has attracted millions of dollars and thousands of, reported by 3DPrint.com on Oct 06, 2026.
 Read more ? https://3dprint.com/334287/kickstarter-is-testing-the-next-wave-of-desktop-3d-printing
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
