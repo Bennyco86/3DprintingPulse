@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-08
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #274 - 2026-10-08
+## Stories
 
 💻 Global AM Market Shows 12% Growth to $4.5BN in Q2
 Where is AI unlocking advantages?
@@ -49,9 +47,3 @@ Anyone who has used a desktop resin printer knows the print itself is only half 
 What follows is a messy routine: lifting a part still coated in uncured resin off the build plate, moving it to a separate…, reported by 3D Natives on Oct 06, 2026.
 Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/09/uniformation-s10-cover.jpg
 Read more ? https://www.3dnatives.com/en/uniformation-s10-resin-3d-printer-07102026
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
