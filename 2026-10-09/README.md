@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-09
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #275 - 2026-10-09
+## Stories
 
 🔥 Halloween Headbands – Witch Hat, Knife-Through-Head Costume Props #3DThursday #3DPrinting - Adafruit
 Halloween Headbands – Witch Hat, Knife-Through-Head Costume Props #3DThursday #3DPrinting Adafruit
@@ -48,9 +46,3 @@ Having signed a Cooperative Research and Development Agreement (CRADA), the orga
 Reported by TCT Magazine on Oct 08, 2026.
 Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/AM_20Facility.png
 Read more ? https://www.tctmagazine.com/afrl-rab-northrop-grumman-to-support-astro-america-efforts-to-additively-manufacture-munitions
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
