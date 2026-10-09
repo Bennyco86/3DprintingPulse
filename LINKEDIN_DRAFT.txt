@@ -1,50 +1,52 @@
-﻿# 3D PRINTING PULSE #275 - 2026-10-09
+﻿# 3D PRINTING PULSE #276 - 2026-10-10
 
-🔥 Halloween Headbands – Witch Hat, Knife-Through-Head Costume Props #3DThursday #3DPrinting - Adafruit
-Halloween Headbands – Witch Hat, Knife-Through-Head Costume Props #3DThursday #3DPrinting Adafruit
-Reported by Google News - 3D Printing on Oct 08, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFR6MTd4SWs5bmFNZUhyM1JGbjg5bk1pVko4dkNSOThaUDNBR1UzNEdzckdYS3JHRHdnOUNPVkRja2ZIaWpVR1YyazVidW5wRUlncnhVS2NuNnNzSDRFRnFDdUxCU2dWT1JGSWd3X1I5MXQyWDVxYUk4TGpCbmNlci02ZzI2VmVOczcxTlNOOEpqeXRQdURpdVp6UkRPekw2SXhuSW82UkdQMlRoU29oYmNJZktIeEtHRFlrcEtBNA?oc=5
+🔥 6K Additive Signs US$27.4M Loan to Expand Powder Production
+What should you automate next?
+Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/images-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/6k-additive-signs-us27-4m-loan-to-expand-powder-production-255525
 
-💻 Print&amp;Live and iSCALE 3D Scale Up Production of Airless UGV Wheels After Combat Testing
+🚨 How Susan Fang Used Bambu Lab Printers to Create Runway Illusions
+3D printing has made its way onto another catwalk.
+This time, it was designer Susan Fang who brought it to London Fashion Week, unveiling her Spring/Summer 2027 collection, Air-Illusion, at the Barbican Centre on September 18, reported by 3D Natives on Oct 08, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/10/Cover-Photo-susan-fang.jpg
+🔗 Read more: https://www.3dnatives.com/en/susan-fang-bambu-lab-3d-printing-07102026
+
+💻 Unfold Installs 3D Printed Aluminum Curtain as Main Gate of Design Museum Gent’s New Wing
+What should you automate next?
+Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-09.50.50-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/unfold-installs-3d-printed-aluminum-curtain-as-main-gate-of-design-museum-gents-new-wing-255507
+
+♻️ Hyperion Systems and Inspire Robotics to Deploy Recycled-Plastic 3D Printing Factory in Timor-Leste
+What should you automate next?
+Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/rFpoaXgLcYGVIu8FP3vj04hZJM0-150x100.avif
+🔗 Read more: https://3dprintingindustry.com/news/hyperion-systems-and-inspire-robotics-to-deploy-recycled-plastic-3d-printing-factory-in-timor-leste-255512
+
+💻 Gallery in Haarlem Opens Exhibition on 3D Printed Fashion
+What should you automate next?
+Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/3DPG_FASHION_poster-e1791492332567-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/gallery-in-haarlem-opens-exhibition-on-3d-printed-fashion-255519
+
+🚀 Apiar Launches Carbon1.0 OG, Billed as First Commercial Watch With a CBAM 3D Printed Case
 Where can AI actually help your print workflow?
 Find out at AMA: Software, online on October 22nd, reported by 3D Printing Industry on Oct 08, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/Whelle_complect_open-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/printlive-and-iscale-3d-scale-up-production-of-airless-ugv-wheels-after-combat-testing-255481
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/47-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/apiar-launches-carbon1-0-og-billed-as-first-commercial-watch-with-a-cbam-3d-printed-case-255476
 
-🖨 Mears Machine Corp to install sixth Velo3D Sapphire XC metal 3D printer
-This new machine will be dedicated to copper-nickel (CuNi).
-Reported by TCT Magazine on Oct 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Sapphire-XC-Hero-HR-TX-clean-e1712400438300.png
-🔗 Read more: https://www.tctmagazine.com/mears-machine-corp-to-install-sixth-velo3d-sapphire-xc-metal-3d-printer
-
-🖨 PharmaTher Sets 3D Printed Medicine Roadmap, Targeting First CraftMake Orders This Quarter and a Rare Pediatric NDA by 2028
+🚀 Spherene adds integrated structural simulation to sphereneNXT
 Where can AI actually help your print workflow?
-Find out at AMA: Software, online on October 22nd, reported by 3D Printing Industry on Oct 08, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/6ac3de6a6654d8c197603d12_ch-multilayer-tablets-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/pharmather-sets-3d-printed-medicine-roadmap-targeting-first-craftmake-orders-this-quarter-and-a-rare-pediatric-nda-by-2028-255486
+Find out at AMA Software, online on October 22nd, reported by 3D Printing Industry on Oct 08, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/image-2-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/spherene-adds-integrated-structural-simulation-to-spherenenxt-255460
 
-🖨 The “Apple Effect”: Are 3D Printers Becoming Lifestyle Products?
-For most of its history, desktop 3D printing has been a technology business.
-Companies competed on speed, accuracy, build volume, temperature, materials and reliability, reported by 3DPrint.com on Oct 08, 2026.
-🔗 Read more: https://3dprint.com/334369/the-apple-effect-are-3d-printers-becoming-lifestyle-products
-
-🖨 #Startup3D: Scrap Labs Shrinks Metal 3D Printing to Desktop Size
-Metal 3D printers that use laser powder bed fusion (LPBF) typically cost six figures and take up a room of their own.
-A sealed build chamber, precision optics and a powerful laser all add size and cost, reported by 3D Natives on Oct 08, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/10/scraplabs.jpg
-🔗 Read more: https://www.3dnatives.com/en/startup3d-scrap-labs-desktop-metal-3d-printer-08102026
-
-🖨 Prusa Research Releases New HT HOTEND
-Prusa Research is offering a new hot end for its Core One 3D printers.
-The new high-temperature hot end can go up to 400 °C, reported by 3DPrint.com on Oct 08, 2026.
-🔗 Read more: https://3dprint.com/334355/prusa-research-releases-new-ht-hotend
-
-📰 AFRL/RAB &amp; Northrop Grumman to support ASTRO America efforts to additively manufacture munitions
-Having signed a Cooperative Research and Development Agreement (CRADA), the organisations hope to improve the resilience of the US defence industrial base.
-Reported by TCT Magazine on Oct 08, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/AM_20Facility.png
-🔗 Read more: https://www.tctmagazine.com/afrl-rab-northrop-grumman-to-support-astro-america-efforts-to-additively-manufacture-munitions
+💻 Mosquito Dreams Part 2: Monocoque and the Battle of Britain
+In the first article in this series, we look at how a European chair company invested in the world by pioneering mass manufacturing, modularity, bent wood, tubular steel, catalogs, composites,...
+Reported by 3DPrint.com on Oct 09, 2026.
+🔗 Read more: https://3dprint.com/332004/mosquito-dreams-part-2-monocoque-and-the-battle-of-britain
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Halloween Headbands – Witch Hat, Knife-Through-Head Costume Props #3DThursday #3DPrinting - Adafruit" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFR6MTd4SWs5bmFNZUhyM1JGbjg5bk1pVko4dkNSOThaUDNBR1UzNEdzckdYS3JHRHdnOUNPVkRja2ZIaWpVR1YyazVidW5wRUlncnhVS2NuNnNzSDRFRnFDdUxCU2dWT1JGSWd3X1I5MXQyWDVxYUk4TGpCbmNlci02ZzI2VmVOczcxTlNOOEpqeXRQdURpdVp6UkRPekw2SXhuSW82UkdQMlRoU29oYmNJZktIeEtHRFlrcEtBNA?oc=5 | Complete rundown: https://www.quality3ds.com/
+If you only open one story from today, make it "Hyperion Systems and Inspire Robotics to Deploy Recycled-Plastic 3D Printing Factory in Timor-Leste" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Direct link: https://3dprintingindustry.com/news/hyperion-systems-and-inspire-robotics-to-deploy-recycled-plastic-3d-printing-factory-in-timor-leste-255512 | Full coverage: https://www.quality3ds.com/

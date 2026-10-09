@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-10
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #276 - 2026-10-10
+## Stories
 
 🔥 6K Additive Signs US$27.4M Loan to Expand Powder Production
 What should you automate next?
@@ -50,9 +48,3 @@ Read more ? https://3dprintingindustry.com/news/spherene-adds-integrated-structu
 In the first article in this series, we look at how a European chair company invested in the world by pioneering mass manufacturing, modularity, bent wood, tubular steel, catalogs, composites,...
 Reported by 3DPrint.com on Oct 09, 2026.
 Read more ? https://3dprint.com/332004/mosquito-dreams-part-2-monocoque-and-the-battle-of-britain
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".
