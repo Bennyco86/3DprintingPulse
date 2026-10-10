@@ -1,8 +1,6 @@
-# Quality3Ds Daily 3D Printing News
+# Quality3Ds Daily 3D Printing News - 2026-10-11
 
-## Latest Pulse
-<!-- PULSE:START -->
-### 3D PRINTING PULSE #277 - 2026-10-11
+## Stories
 
 🔥 New California ghost gun lawsuit takes aim at company that sells 3-D printer filament - Los Angeles Times
 New California ghost gun lawsuit takes aim at company that sells 3-D printer filament Los Angeles Times
@@ -44,9 +42,3 @@ Read more ? https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVnEwQjlyMVY4em1
 Wait, the best multicolour 3D printer for beginners is now even cheaper than it was in Amazon's Prime Day sale earlier this week!
 Reported by Google News - 3D Printing on Oct 09, 2026.
 Read more ? https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWDVQWjVOS0dyYm9GWGtjSTZaOGdtaXlHN2tZTDY3RTFWdzlWeTNLNVM5djBCYkVVbjhzVnlsRXNiNUNqeVZ4RERCdGliOXljUTJSX2M1cE5ONlhuNDRYSHVEckswZjFmWkpuTnQzWkZYSHpDREl6VFE2Mlo0bDV4WlZkN2tHaldXOU9nZ3RsaTItVDh5SHNydjFuVE9sb3FpNUlTTnJqRWNoTzJidzV6M0pnS3ZMNF9xZ290UGNOT1lpTHY1REE1VFY1eVpyOFZnaU94YmszWE5zT3FKRk5EWUhCZktWMUwzQ0JJVGVMUENJaG8?oc=5
-<!-- PULSE:END -->
-
-This repo hosts the latest Quality3Ds Daily Pulse.
-
-## Automation Notes
-- auto_daily.py skips stories with titles containing "news briefs".

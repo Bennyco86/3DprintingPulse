@@ -1,52 +1,46 @@
-﻿# 3D PRINTING PULSE #276 - 2026-10-10
+﻿# 3D PRINTING PULSE #277 - 2026-10-11
 
-🔥 6K Additive Signs US$27.4M Loan to Expand Powder Production
-What should you automate next?
-Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/images-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/6k-additive-signs-us27-4m-loan-to-expand-powder-production-255525
+🔥 New California ghost gun lawsuit takes aim at company that sells 3-D printer filament - Los Angeles Times
+New California ghost gun lawsuit takes aim at company that sells 3-D printer filament Los Angeles Times
+Reported by Google News - 3D Printing on Oct 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUdCV083TUpoSWhlNzFTWlBMUWEydEkxU09QX2UtQjdGVlgxS09za216UHdLQllHU0ZTd2pCUnVwTnl1Z1RncXRzQ1loaHlRcXZDSEx1UGhpNGhXeHJ3UDhBYVVWZmF2QkJXdDFoX2lhOXdmbXBwS2pnOUdMWGhWcFZYbjg1M2otRDJuQ1FvN3hPTW9yMXF2T0lfanAzcUQwSkQ0aU5JaFVDZS1ENGlF?oc=5
 
-🚨 How Susan Fang Used Bambu Lab Printers to Create Runway Illusions
-3D printing has made its way onto another catwalk.
-This time, it was designer Susan Fang who brought it to London Fashion Week, unveiling her Spring/Summer 2027 collection, Air-Illusion, at the Barbican Centre on September 18, reported by 3D Natives on Oct 08, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/10/Cover-Photo-susan-fang.jpg
-🔗 Read more: https://www.3dnatives.com/en/susan-fang-bambu-lab-3d-printing-07102026
+💻 World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft — mostly printed using standard PETG materials - Tom's Hardware
+World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft — mostly printed using standard PETG materials Tom's Hardware
+Reported by Google News - 3D Printing on Oct 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQjVJS2Y1WUNnTjZfeFFnTlVSMXN1TTJRRnVfUlNzYW94SjVMTnpQa2JPeXlvc2piZzNPa0MwdllFbjJJZWJhUWJTamZoVk5qbVJmdFdEeHUwaG92Z0JSVVhfOE0tdEdCQy1XQ3F5cUVRZnk2cGczSkp1TDkwck9XTlVvVzZCQXN0YzI5X3Z0RnF2ZzMzYVpsbUdicWJpZVBTbXNvc0trWHF3VWZpdUtyZGxjLUd4M1poSVpXYmZVLVR3ZlFCNXlPSmxJM3l0ZW1PVHEtdXg4UUpMb1ZuYU9fRDZWVWZWT0RlNDRUSUtncXNsSTBaTHF2Z244WXF5VENmbVNrbEdodVoxLTgyZF96dU8weTdsOFdxWFZXaXlUOFhLVUhqRnJ2LW5tRHNOZXZ3VU01bVppSjgxaHViVVVnTXFGa2VXZW5iTlNUVmxXT1I?oc=5
 
-💻 Unfold Installs 3D Printed Aluminum Curtain as Main Gate of Design Museum Gent’s New Wing
-What should you automate next?
-Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-09.50.50-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/unfold-installs-3d-printed-aluminum-curtain-as-main-gate-of-design-museum-gents-new-wing-255507
+🖨 Embedded 3D Printing with Liquids on a Bricked Prusa FDM Printer
+Recently [Riley] got his paws on an old Prusa i3 FDM printer that had clearly seen better days, with a hot-end that had suffered an explosive blow-out.
+For the project …read more, reported by Hackaday 3D Printing on Oct 09, 2026.
+🖼️ Image: https://hackaday.com/wp-content/uploads/2026/10/embedded_3d_printing_prusa_silicone_hair_gel_featured_rileys_lab_youtube.jpg
+🔗 Read more: https://hackaday.com/2026/10/09/embedded-3d-printing-with-liquids-on-a-bricked-prusa-fdm-printer
 
-♻️ Hyperion Systems and Inspire Robotics to Deploy Recycled-Plastic 3D Printing Factory in Timor-Leste
-What should you automate next?
-Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/rFpoaXgLcYGVIu8FP3vj04hZJM0-150x100.avif
-🔗 Read more: https://3dprintingindustry.com/news/hyperion-systems-and-inspire-robotics-to-deploy-recycled-plastic-3d-printing-factory-in-timor-leste-255512
+🖨 3D Printer Brand Bambu Lab Just Released A Dedicated Laser Cutter – Here's What It Can Do - SlashGear
+3D Printer Brand Bambu Lab Just Released A Dedicated Laser Cutter – Here's What It Can Do SlashGear
+Reported by Google News - 3D Printing on Oct 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMijwFBVV95cUxQeG1lb3VlSjctQUZOejQwUFFuOFlPU1dZTTVoTmk4QUtqVGVGU1NEaWwyUmdwREdBRlRucldjQzNIQWxiSEVGMzFHSmxWVGhmSDg5WGYxLU5RUm9uUUNoVGFVdE8xUnJBckZDMzFoUWVONkZTY3BRMGo5OUZnRjhwWGxhZmRsWEhkQzN3aEdqMA?oc=5
 
-💻 Gallery in Haarlem Opens Exhibition on 3D Printed Fashion
-What should you automate next?
-Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 09, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/3DPG_FASHION_poster-e1791492332567-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/gallery-in-haarlem-opens-exhibition-on-3d-printed-fashion-255519
+🖨 Bricked Prusa MK3S+ 3D Printer Becomes a Machine That Prints Soft Liquids in Support Gel - TechEBlog -
+Bricked Prusa MK3S+ 3D Printer Becomes a Machine That Prints Soft Liquids in Support Gel TechEBlog -
+Reported by Google News - 3D Printing on Oct 10, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMid0FVX3lxTFBpVWxXN3pvNWJMX2k0c05JakFsQVBtb0N4WmttMV9QeU91MU9wZ1lFVGIxcW1jY3Rka3NDQWMtNlMzbzZIR1hqN0VmOTZsMm1xa19ia0g1WnF6ODB1blo0WXVpbUJ2MTdraWwyd0Rld0VLSEpHdE1r?oc=5
 
-🚀 Apiar Launches Carbon1.0 OG, Billed as First Commercial Watch With a CBAM 3D Printed Case
-Where can AI actually help your print workflow?
-Find out at AMA: Software, online on October 22nd, reported by 3D Printing Industry on Oct 08, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/47-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/apiar-launches-carbon1-0-og-billed-as-first-commercial-watch-with-a-cbam-3d-printed-case-255476
+🖨 Amazon slashes top-rated 3D printer from $240 to $180 - geekspin
+Amazon slashes top-rated 3D printer from $240 to $180 geekspin
+Reported by Google News - 3D Printing on Oct 09, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMifEFVX3lxTFBERjJXSXN4WlFvWENPZjBGNkRkRWhJRFVqc2kydFBpbE1IX2hGa2tUY3ZzaW8xVGNtZ1ZnTFUycnZZN2dJZ3JVdkg5VWlGZ0cweXN2Umc1WEtMR2hjV0FHT0ZvMXduTVJKUmxCM2xjdjlFSlZydm5PWEMzcU0?oc=5
 
-🚀 Spherene adds integrated structural simulation to sphereneNXT
-Where can AI actually help your print workflow?
-Find out at AMA Software, online on October 22nd, reported by 3D Printing Industry on Oct 08, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/image-2-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/spherene-adds-integrated-structural-simulation-to-spherenenxt-255460
+🖨 This firmware update will make your 3D printer less capable than the day you bought it - MakeUseOf
+This firmware update will make your 3D printer less capable than the day you bought it MakeUseOf
+Reported by Google News - 3D Printing on Oct 09, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVnEwQjlyMVY4em1uY1VuU29rbWFjbDl3ZVlHNDR2cGM0SElDQ0lReFh6cVhKQ0Y0Z09JY1NwcG1VNDhKTy1MRzBWY1h2NnlpeU0xV1FZM0hQZjRPNDFocjk0ZXE0OWtheUN6dEZxTnpwX3dSRjAxYzVrWQ?oc=5
 
-💻 Mosquito Dreams Part 2: Monocoque and the Battle of Britain
-In the first article in this series, we look at how a European chair company invested in the world by pioneering mass manufacturing, modularity, bent wood, tubular steel, catalogs, composites,...
-Reported by 3DPrint.com on Oct 09, 2026.
-🔗 Read more: https://3dprint.com/332004/mosquito-dreams-part-2-monocoque-and-the-battle-of-britain
+🖨 Wait, the best multicolour 3D printer for beginners is now even cheaper than it was in Amazon's Prime Day sale earlier this week! - Creative Bloq
+Wait, the best multicolour 3D printer for beginners is now even cheaper than it was in Amazon's Prime Day sale earlier this week!
+Reported by Google News - 3D Printing on Oct 09, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWDVQWjVOS0dyYm9GWGtjSTZaOGdtaXlHN2tZTDY3RTFWdzlWeTNLNVM5djBCYkVVbjhzVnlsRXNiNUNqeVZ4RERCdGliOXljUTJSX2M1cE5ONlhuNDRYSHVEckswZjFmWkpuTnQzWkZYSHpDREl6VFE2Mlo0bDV4WlZkN2tHaldXOU9nZ3RsaTItVDh5SHNydjFuVE9sb3FpNUlTTnJqRWNoTzJidzV6M0pnS3ZMNF9xZ290UGNOT1lpTHY1REE1VFY1eVpyOFZnaU94YmszWE5zT3FKRk5EWUhCZktWMUwzQ0JJVGVMUENJaG8?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "Hyperion Systems and Inspire Robotics to Deploy Recycled-Plastic 3D Printing Factory in Timor-Leste" because closed-loop filament workflows are turning into a practical trend, not just a niche experiment. Direct link: https://3dprintingindustry.com/news/hyperion-systems-and-inspire-robotics-to-deploy-recycled-plastic-3d-printing-factory-in-timor-leste-255512 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament - Los Angeles Times" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUdCV083TUpoSWhlNzFTWlBMUWEydEkxU09QX2UtQjdGVlgxS09za216UHdLQllHU0ZTd2pCUnVwTnl1Z1RncXRzQ1loaHlRcXZDSEx1UGhpNGhXeHJ3UDhBYVVWZmF2QkJXdDFoX2lhOXdmbXBwS2pnOUdMWGhWcFZYbjg1M2otRDJuQ1FvN3hPTW9yMXF2T0lfanAzcUQwSkQ0aU5JaFVDZS1ENGlF?oc=5 | Full pulse: https://www.quality3ds.com/
