@@ -1,46 +1,49 @@
-﻿# 3D PRINTING PULSE #277 - 2026-10-11
+﻿# 3D PRINTING PULSE #278 - 2026-10-12
 
-🔥 New California ghost gun lawsuit takes aim at company that sells 3-D printer filament - Los Angeles Times
-New California ghost gun lawsuit takes aim at company that sells 3-D printer filament Los Angeles Times
-Reported by Google News - 3D Printing on Oct 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUdCV083TUpoSWhlNzFTWlBMUWEydEkxU09QX2UtQjdGVlgxS09za216UHdLQllHU0ZTd2pCUnVwTnl1Z1RncXRzQ1loaHlRcXZDSEx1UGhpNGhXeHJ3UDhBYVVWZmF2QkJXdDFoX2lhOXdmbXBwS2pnOUdMWGhWcFZYbjg1M2otRDJuQ1FvN3hPTW9yMXF2T0lfanAzcUQwSkQ0aU5JaFVDZS1ENGlF?oc=5
+🚨 Creality launches new 3D printer that swaps between four nozzles in five seconds - Notebookcheck
+Creality launches new 3D printer that swaps between four nozzles in five seconds Notebookcheck
+Reported by Google News - 3D Printing on Oct 11, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFY0STRfV21aSmZtX0EzcnY2U1gyZGJYaFJ5UlVzMkU4dXRROU5oTUY1UFFSZU1kSFMwVkoyVlR3UHZ3bDlYQmdVa0pRNTJfTVZqYVNoTTBQalR5YWNxSzZDNGI4ZkRxQVFCSnJ3TDhfQmdQQVVTZWotdVdBaGp0M1hTLU9aSGlBS2FhR2VaZFJpNjVyMVo3QWpqelkxY25TQUVQQkNualM3X19yWjVmWVFTZGh6UDczMTB2VGhaZTYzdlk?oc=5
 
-💻 World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft — mostly printed using standard PETG materials - Tom's Hardware
-World’s first 3D-printed remote control aircraft with a jet turbine takes flight, aims for Mach 0.8 to beat world record for fastest model aircraft — mostly printed using standard PETG materials Tom's Hardware
-Reported by Google News - 3D Printing on Oct 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQjVJS2Y1WUNnTjZfeFFnTlVSMXN1TTJRRnVfUlNzYW94SjVMTnpQa2JPeXlvc2piZzNPa0MwdllFbjJJZWJhUWJTamZoVk5qbVJmdFdEeHUwaG92Z0JSVVhfOE0tdEdCQy1XQ3F5cUVRZnk2cGczSkp1TDkwck9XTlVvVzZCQXN0YzI5X3Z0RnF2ZzMzYVpsbUdicWJpZVBTbXNvc0trWHF3VWZpdUtyZGxjLUd4M1poSVpXYmZVLVR3ZlFCNXlPSmxJM3l0ZW1PVHEtdXg4UUpMb1ZuYU9fRDZWVWZWT0RlNDRUSUtncXNsSTBaTHF2Z244WXF5VENmbVNrbEdodVoxLTgyZF96dU8weTdsOFdxWFZXaXlUOFhLVUhqRnJ2LW5tRHNOZXZ3VU01bVppSjgxaHViVVVnTXFGa2VXZW5iTlNUVmxXT1I?oc=5
+💻 Portsmouth Naval Shipyard 3D prints a lightbulb installation tool for USS Washington
+The additive manufacturing team at Portsmouth Naval Shipyard in Kittery, Maine, has deeeveloped a 3D printed tool for installing small indicator lightbulbs aboard the USS Washington submarine.
+Chief Ryan Roberts, a chief petty officer electrician mate, asked the AM team for a tool to increase safety, reported by VoxelMatters on Oct 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/USS-Washington-AM-team-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/portsmouth-naval-shipyard-3d-prints-a-lightbulb-installation-tool-for-uss-washington
 
-🖨 Embedded 3D Printing with Liquids on a Bricked Prusa FDM Printer
-Recently [Riley] got his paws on an old Prusa i3 FDM printer that had clearly seen better days, with a hot-end that had suffered an explosive blow-out.
-For the project …read more, reported by Hackaday 3D Printing on Oct 09, 2026.
-🖼️ Image: https://hackaday.com/wp-content/uploads/2026/10/embedded_3d_printing_prusa_silicone_hair_gel_featured_rileys_lab_youtube.jpg
-🔗 Read more: https://hackaday.com/2026/10/09/embedded-3d-printing-with-liquids-on-a-bricked-prusa-fdm-printer
+🖨 The Science Lab You Can 3D Print
+Researchers at Sweden’s Umeå University have shown how desktop 3D printers can be used to make lab equipment, giving scientists a cheaper way to build tools for their research.
+Reported by 3DPrint.com on Oct 11, 2026.
+🔗 Read more: https://3dprint.com/334367/the-science-lab-you-can-3d-print
 
-🖨 3D Printer Brand Bambu Lab Just Released A Dedicated Laser Cutter – Here's What It Can Do - SlashGear
-3D Printer Brand Bambu Lab Just Released A Dedicated Laser Cutter – Here's What It Can Do SlashGear
-Reported by Google News - 3D Printing on Oct 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMijwFBVV95cUxQeG1lb3VlSjctQUZOejQwUFFuOFlPU1dZTTVoTmk4QUtqVGVGU1NEaWwyUmdwREdBRlRucldjQzNIQWxiSEVGMzFHSmxWVGhmSDg5WGYxLU5RUm9uUUNoVGFVdE8xUnJBckZDMzFoUWVONkZTY3BRMGo5OUZnRjhwWGxhZmRsWEhkQzN3aEdqMA?oc=5
+🚀 amsight selected to lead ESA’s DIQAM digital qualification project
+amsight, a Hamburg-based additive manufacturing quality management software company, has been selected to lead DIQAM (Digital Qualification Framework for Additively Manufactured Space Components), a project within...
+AM qualification remains slow and document-heavy, relying on computed tomography scans, companion specimens and manual evidence assembly, reported by VoxelMatters on Oct 11, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/amsight-ESA-FIRST-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/amsight-selected-to-lead-esas-diqam-digital-qualification-project
 
-🖨 Bricked Prusa MK3S+ 3D Printer Becomes a Machine That Prints Soft Liquids in Support Gel - TechEBlog -
-Bricked Prusa MK3S+ 3D Printer Becomes a Machine That Prints Soft Liquids in Support Gel TechEBlog -
-Reported by Google News - 3D Printing on Oct 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMid0FVX3lxTFBpVWxXN3pvNWJMX2k0c05JakFsQVBtb0N4WmttMV9QeU91MU9wZ1lFVGIxcW1jY3Rka3NDQWMtNlMzbzZIR1hqN0VmOTZsMm1xa19ia0g1WnF6ODB1blo0WXVpbUJ2MTdraWwyd0Rld0VLSEpHdE1r?oc=5
+🚀 Navy launches an ROV from a torpedo tube using 3D printing
+Sailors assigned to the Los Angeles-class fast-attack submarine USS Pasadena and supporting shore commands have successfully launched a Blueye X3 remotely operated vehicle (ROV) from a torpedo tube.
+Commander, Submarine Force Atlantic reported that the test, which explored low-cost underwater search from a submerged submarine, cost less than $1,000 in materials and labor because the … The post Navy launches an, reported by VoxelMatters on Oct 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Submarine-launched-ROV-02-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/navy-launches-an-rov-from-a-torpedo-tube-using-3d-printing
 
-🖨 Amazon slashes top-rated 3D printer from $240 to $180 - geekspin
-Amazon slashes top-rated 3D printer from $240 to $180 geekspin
-Reported by Google News - 3D Printing on Oct 09, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMifEFVX3lxTFBERjJXSXN4WlFvWENPZjBGNkRkRWhJRFVqc2kydFBpbE1IX2hGa2tUY3ZzaW8xVGNtZ1ZnTFUycnZZN2dJZ3JVdkg5VWlGZ0cweXN2Umc1WEtMR2hjV0FHT0ZvMXduTVJKUmxCM2xjdjlFSlZydm5PWEMzcU0?oc=5
+🚀 Neural4D launches Multicolor to prepare textured AI models for multicolor 3D printing
+Neural4D (N4D)has introduced Multicolor, an artificial intelligence tool that converts textured 3D models created on its platform into multicolor print files.
+The feature is intended to reduce the manual work of defining color regions before slicing, particularly for models with small details or frequent color changes, reported by VoxelMatters on Oct 10, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/Neural-4D-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/neural4d-launches-multicolor-to-prepare-textured-ai-models-for-multicolor-3d-printing
 
-🖨 This firmware update will make your 3D printer less capable than the day you bought it - MakeUseOf
-This firmware update will make your 3D printer less capable than the day you bought it MakeUseOf
-Reported by Google News - 3D Printing on Oct 09, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVnEwQjlyMVY4em1uY1VuU29rbWFjbDl3ZVlHNDR2cGM0SElDQ0lReFh6cVhKQ0Y0Z09JY1NwcG1VNDhKTy1MRzBWY1h2NnlpeU0xV1FZM0hQZjRPNDFocjk0ZXE0OWtheUN6dEZxTnpwX3dSRjAxYzVrWQ?oc=5
+🖨 October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more - Mashable
+October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more Mashable
+Reported by Google News - 3D Printing on Oct 11, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YlVROHE0MUxXTFBRZXM1VTZPR0RyTGVwWXhGczBURlJjZ21hWndxYnlpSHRYQzUtQXUweFVpNGxFYUpoZWZKRnF1cy1BOEJFOU1BZ0I1YkpqMFF1X0dlUmJGT2R5OU1tdnVJZFc3aWw3eTV6UEZfWlVB?oc=5
 
-🖨 Wait, the best multicolour 3D printer for beginners is now even cheaper than it was in Amazon's Prime Day sale earlier this week! - Creative Bloq
-Wait, the best multicolour 3D printer for beginners is now even cheaper than it was in Amazon's Prime Day sale earlier this week!
-Reported by Google News - 3D Printing on Oct 09, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWDVQWjVOS0dyYm9GWGtjSTZaOGdtaXlHN2tZTDY3RTFWdzlWeTNLNVM5djBCYkVVbjhzVnlsRXNiNUNqeVZ4RERCdGliOXljUTJSX2M1cE5ONlhuNDRYSHVEckswZjFmWkpuTnQzWkZYSHpDREl6VFE2Mlo0bDV4WlZkN2tHaldXOU9nZ3RsaTItVDh5SHNydjFuVE9sb3FpNUlTTnJqRWNoTzJidzV6M0pnS3ZMNF9xZ290UGNOT1lpTHY1REE1VFY1eVpyOFZnaU94YmszWE5zT3FKRk5EWUhCZktWMUwzQ0JJVGVMUENJaG8?oc=5
+🖨 State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community — state alleges company turns harmless PLA filament into a regulated 'firearm precursor part' - Tom's Hardware
+State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community — state alleges company turns harmless PLA filament into a regulated 'firearm precursor...
+Reported by Google News - 3D Printing on Oct 11, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMi9gJBVV95cUxNLXRiS3hCblY0ZUZqMnMtX1VGTFZ2ZlotSThkWnMwOFFnc2ZOZ0dVb3h6VVRFVGZfTW1GeHA5ZENEempFT29GeHZNenpoREJPQ1lablpKYWFkRkZpN3dOdDNZTXI4WEtZd3ZkLXRsTVdyVjl3eTNLSUk5aHFzNmFzVW9UV3B0dVE2ZFU0ajVfMDJNakNUTUhBTXdvV2IzQ05rcWxUcnBrV2ttVUFieHlOX3NKRDJ3aGdrZUhCTy1sUjVDR3JlakNpSHU1cXFNdnBkdWczQlNsSm1mTzEwU2Y0bGdpUnFyc0FyTHhjZGZFa0tXLXZtcUY0WG1CUHpOWm1aT2lLRzRLY3ozbVlyQll5RWc1Q2N0TWI0N0ZMQUVCRFB3WE5IWG4tUGpaN25YRTZRSFpuRHlkWl94OXBTYWQ2bmR5bTZpNEh0MnZNcUZEcWd5NURyWkZOZjJHVDI1cE5NTFprWjRsTGU5TXljTVdxY0ZsRTlEZw?oc=5
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-The story setting the tone today is "New California ghost gun lawsuit takes aim at company that sells 3-D printer filament - Los Angeles Times" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Read it here: https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUdCV083TUpoSWhlNzFTWlBMUWEydEkxU09QX2UtQjdGVlgxS09za216UHdLQllHU0ZTd2pCUnVwTnl1Z1RncXRzQ1loaHlRcXZDSEx1UGhpNGhXeHJ3UDhBYVVWZmF2QkJXdDFoX2lhOXdmbXBwS2pnOUdMWGhWcFZYbjg1M2otRDJuQ1FvN3hPTW9yMXF2T0lfanAzcUQwSkQ0aU5JaFVDZS1ENGlF?oc=5 | Full pulse: https://www.quality3ds.com/
+Today's standout topic: "Creality launches new 3D printer that swaps between four nozzles in five seconds - Notebookcheck" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFY0STRfV21aSmZtX0EzcnY2U1gyZGJYaFJ5UlVzMkU4dXRROU5oTUY1UFFSZU1kSFMwVkoyVlR3UHZ3bDlYQmdVa0pRNTJfTVZqYVNoTTBQalR5YWNxSzZDNGI4ZkRxQVFCSnJ3TDhfQmdQQVVTZWotdVdBaGp0M1hTLU9aSGlBS2FhR2VaZFJpNjVyMVo3QWpqelkxY25TQUVQQkNualM3X19yWjVmWVFTZGh6UDczMTB2VGhaZTYzdlk?oc=5 | Explore more: https://www.quality3ds.com/

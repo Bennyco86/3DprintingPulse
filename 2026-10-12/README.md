@@ -1,0 +1,47 @@
+# Quality3Ds Daily 3D Printing News - 2026-10-12
+
+## Stories
+
+🚨 Creality launches new 3D printer that swaps between four nozzles in five seconds - Notebookcheck
+Creality launches new 3D printer that swaps between four nozzles in five seconds Notebookcheck
+Reported by Google News - 3D Printing on Oct 11, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVFY0STRfV21aSmZtX0EzcnY2U1gyZGJYaFJ5UlVzMkU4dXRROU5oTUY1UFFSZU1kSFMwVkoyVlR3UHZ3bDlYQmdVa0pRNTJfTVZqYVNoTTBQalR5YWNxSzZDNGI4ZkRxQVFCSnJ3TDhfQmdQQVVTZWotdVdBaGp0M1hTLU9aSGlBS2FhR2VaZFJpNjVyMVo3QWpqelkxY25TQUVQQkNualM3X19yWjVmWVFTZGh6UDczMTB2VGhaZTYzdlk?oc=5
+
+💻 Portsmouth Naval Shipyard 3D prints a lightbulb installation tool for USS Washington
+The additive manufacturing team at Portsmouth Naval Shipyard in Kittery, Maine, has deeeveloped a 3D printed tool for installing small indicator lightbulbs aboard the USS Washington submarine.
+Chief Ryan Roberts, a chief petty officer electrician mate, asked the AM team for a tool to increase safety, reported by VoxelMatters on Oct 11, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/USS-Washington-AM-team-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/portsmouth-naval-shipyard-3d-prints-a-lightbulb-installation-tool-for-uss-washington
+
+🖨 The Science Lab You Can 3D Print
+Researchers at Sweden’s Umeå University have shown how desktop 3D printers can be used to make lab equipment, giving scientists a cheaper way to build tools for their research.
+Reported by 3DPrint.com on Oct 11, 2026.
+Read more ? https://3dprint.com/334367/the-science-lab-you-can-3d-print
+
+🚀 amsight selected to lead ESA’s DIQAM digital qualification project
+amsight, a Hamburg-based additive manufacturing quality management software company, has been selected to lead DIQAM (Digital Qualification Framework for Additively Manufactured Space Components), a project within...
+AM qualification remains slow and document-heavy, relying on computed tomography scans, companion specimens and manual evidence assembly, reported by VoxelMatters on Oct 11, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/amsight-ESA-FIRST-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/amsight-selected-to-lead-esas-diqam-digital-qualification-project
+
+🚀 Navy launches an ROV from a torpedo tube using 3D printing
+Sailors assigned to the Los Angeles-class fast-attack submarine USS Pasadena and supporting shore commands have successfully launched a Blueye X3 remotely operated vehicle (ROV) from a torpedo tube.
+Commander, Submarine Force Atlantic reported that the test, which explored low-cost underwater search from a submerged submarine, cost less than $1,000 in materials and labor because the … The post Navy launches an, reported by VoxelMatters on Oct 10, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Submarine-launched-ROV-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/navy-launches-an-rov-from-a-torpedo-tube-using-3d-printing
+
+🚀 Neural4D launches Multicolor to prepare textured AI models for multicolor 3D printing
+Neural4D (N4D)has introduced Multicolor, an artificial intelligence tool that converts textured 3D models created on its platform into multicolor print files.
+The feature is intended to reduce the manual work of defining color regions before slicing, particularly for models with small details or frequent color changes, reported by VoxelMatters on Oct 10, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Neural-4D-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/neural4d-launches-multicolor-to-prepare-textured-ai-models-for-multicolor-3d-printing
+
+🖨 October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more - Mashable
+October Prime Day 3D printer deals: Last chance for savings on Bambu Lab, more Mashable
+Reported by Google News - 3D Printing on Oct 11, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiekFVX3lxTFB1YlVROHE0MUxXTFBRZXM1VTZPR0RyTGVwWXhGczBURlJjZ21hWndxYnlpSHRYQzUtQXUweFVpNGxFYUpoZWZKRnF1cy1BOEJFOU1BZ0I1YkpqMFF1X0dlUmJGT2R5OU1tdnVJZFc3aWw3eTV6UEZfWlVB?oc=5
+
+🖨 State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community — state alleges company turns harmless PLA filament into a regulated 'firearm precursor part' - Tom's Hardware
+State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community — state alleges company turns harmless PLA filament into a regulated 'firearm precursor...
+Reported by Google News - 3D Printing on Oct 11, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi9gJBVV95cUxNLXRiS3hCblY0ZUZqMnMtX1VGTFZ2ZlotSThkWnMwOFFnc2ZOZ0dVb3h6VVRFVGZfTW1GeHA5ZENEempFT29GeHZNenpoREJPQ1lablpKYWFkRkZpN3dOdDNZTXI4WEtZd3ZkLXRsTVdyVjl3eTNLSUk5aHFzNmFzVW9UV3B0dVE2ZFU0ajVfMDJNakNUTUhBTXdvV2IzQ05rcWxUcnBrV2ttVUFieHlOX3NKRDJ3aGdrZUhCTy1sUjVDR3JlakNpSHU1cXFNdnBkdWczQlNsSm1mTzEwU2Y0bGdpUnFyc0FyTHhjZGZFa0tXLXZtcUY0WG1CUHpOWm1aT2lLRzRLY3ozbVlyQll5RWc1Q2N0TWI0N0ZMQUVCRFB3WE5IWG4tUGpaN25YRTZRSFpuRHlkWl94OXBTYWQ2bmR5bTZpNEh0MnZNcUZEcWd5NURyWkZOZjJHVDI1cE5NTFprWjRsTGU5TXljTVdxY0ZsRTlEZw?oc=5
