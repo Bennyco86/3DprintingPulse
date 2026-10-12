@@ -1,0 +1,48 @@
+# Quality3Ds Daily 3D Printing News - 2026-10-13
+
+## Stories
+
+🔥 Rael San Fratello’s 3D printed works on show at San Francisco gallery
+A new exhibition at the Yerba Buena Center for the Arts in San Francisco is putting the spotlight on design studio Rael San Fratello’s expansive oeuvre of (often 3D printed) structures and objects.
+Running until January 31, 2027, the Rael San Fratello: Prototypes and Provocations exhibition features a number of pieces from the studio’s past as … The post Rael San Fratello’s 3D printed works on show at San, reported by VoxelMatters on Oct 12, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/rael-san-fratello-4-150x150.jpg
+Read more ? https://www.voxelmatters.com/rael-san-fratellos-3d-printed-works-on-show-at-san-francisco-gallery
+
+🚨 Bambu Lab teases its first 3D scanner, the S1 3D, for November 2026 launch - news.lavx.hu
+Bambu Lab teases its first 3D scanner, the S1 3D, for November 2026 launch news.lavx.hu
+Reported by Google News - 3D Scanners on Oct 12, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkdDTEVPQkxIYm1MakhXYWd5NVFWbDM0QTdwTEhLZWt6TTdMektTbHZXd0pHdURmNk5jc2Q3VWVremJNV0Qwa1c0YndqYWN0ZGU4UURiODBnRVYzLUUza1VDTFp4Zmstcm1QS19TRGRTaHhqWEhEbHNBekRYQ1Exbi1hM05oYmtqS3NuSWZHQWFyd1IweGtyMWxEU0o0dkJ0SV9z?oc=5
+
+📷 Bambu Lab just entered the 3D scanning scene, and you can sign up to hear more right now - XDA
+Bambu Lab just entered the 3D scanning scene, and you can sign up to hear more right now XDA
+Reported by Google News - 3D Printing on Oct 12, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVVZVkRkUEhHUmJXdUNpSl9PdFA3V0dVTjBpQ2c1SFRQemk1WkQ2TTNTdFI3MEdOcUtBRGstWFh2MGZJSzFVM3k4MC1ldDRDQnNiQTJiOTlQMS1GcURsMFI2REZkTTNiM25zUkV6ZjFKLXIyYnpCOXdPcGxfYnRKN0gxZnBpaEFSd0N4Q1VQRUxHclhhbzNKaVZLOHItOEJZYUJpa0dLZDlpMkc3RlplTjMwNA?oc=5
+
+💻 ECU Joins AMCRC to Boost Defence, Mining and Resources Applications
+What should you automate next?
+Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 12, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/ecu.png-150x100.webp
+Read more ? https://3dprintingindustry.com/news/ecu-joins-amcrc-to-boost-defence-mining-and-resources-applications-255516
+
+♻️ California sues major 3D-printing filament maker over claims it deliberately catered to ghost gun enthusiasts - TechSpot
+California sues major 3D-printing filament maker over claims it deliberately catered to ghost gun enthusiasts TechSpot
+Reported by Google News - 3D Printing on Oct 12, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0tUa0lNMURaTHZMa1hZbW9ySDlwekpmbkNoNk4tYjYzV3ZGcVFUWks5MHhoX1BjakdfX0JXQU1ZU0UzU1NwOW1xRF9wVVVkRGlpRzM4NDNONjFYbzB4SnlxT3NVa3JTaXN2cDZnemItUzhiR0VmSUxabWhqcDRWS0xIQWtkYzNsejhSZnRYaUI0bkhCaXh0Q0FoNA?oc=5
+
+🖨 Chinese Super Factory with 400 Metal 3D Printers Planned for Smartphone Production
+Where is AI unlocking advantages?
+Explore what is possible at AMA: Software 2026, reported by 3D Printing Industry on Oct 12, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/717548222fa44bbc4a3c8593891e41d4-150x100.webp
+Read more ? https://3dprintingindustry.com/news/chinese-super-factory-with-400-metal-3d-printers-planned-for-smartphone-production-255540
+
+🖨 Engo Uses Metal 3D Printing for Titanium Temples on New AR Running Glasses
+Where is AI unlocking advantages?
+Explore what is possible at AMA: Software 2026, reported by 3D Printing Industry on Oct 12, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/engo3-titanium-Silver_packshot-03-150x100.webp
+Read more ? https://3dprintingindustry.com/news/engo-uses-metal-3d-printing-for-titanium-temples-on-new-ar-running-glasses-255571
+
+🖨 #257 AMSIS on the importance of thermal behaviour optimisation in metal additive manufacturing
+AMSIS is a software company that has developed build-preparation technology that analyses heat distribution, flags overheated zones, and optimises exposure strategies.
+Reported by TCT Magazine on Oct 12, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Additive-Insight-Re-Design--34-.png
+Read more ? https://www.tctmagazine.com/podcasts/257-amsis-on-the-importance-of-thermal-behaviour-optimisation-in-metal-additive-manufacturing
