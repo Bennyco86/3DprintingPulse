@@ -1,50 +1,49 @@
-﻿# 3D PRINTING PULSE #279 - 2026-10-13
+﻿# 3D PRINTING PULSE #280 - 2026-10-14
 
-🔥 Rael San Fratello’s 3D printed works on show at San Francisco gallery
-A new exhibition at the Yerba Buena Center for the Arts in San Francisco is putting the spotlight on design studio Rael San Fratello’s expansive oeuvre of (often 3D printed) structures and objects.
-Running until January 31, 2027, the Rael San Fratello: Prototypes and Provocations exhibition features a number of pieces from the studio’s past as … The post Rael San Fratello’s 3D printed works on show at San, reported by VoxelMatters on Oct 12, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/10/rael-san-fratello-4-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/rael-san-fratellos-3d-printed-works-on-show-at-san-francisco-gallery
+🔥 Is Polymaker Liable for Ghost Guns? California Files First-of-Its-Kind Lawsuit - All3DP
+Is Polymaker Liable for Ghost Guns?
+California Files First-of-Its-Kind Lawsuit All3DP, reported by Google News - 3D Printing on Oct 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMioAFBVV95cUxPajFsenlSTGxEUGpMZWM5Zk8xakVIUXNBeFR3ZkN2RDZzSk1rTnZGWjhBaTBpQ1RrMEdxYjB1V1dYZ2daWnBSTDdpWTNDcWM3Q0tjd3pLRFlkWHFHbG93NXctSk0tSzU1Z19rVFdFZlpRVTM2NHc5V29PMXpGSGFvOTZLSW5wLTZHOS1xLUQ0MTBrVHpBZDhRaDJTVS1uanB0?oc=5
 
-🚨 Bambu Lab teases its first 3D scanner, the S1 3D, for November 2026 launch - news.lavx.hu
-Bambu Lab teases its first 3D scanner, the S1 3D, for November 2026 launch news.lavx.hu
-Reported by Google News - 3D Scanners on Oct 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkdDTEVPQkxIYm1MakhXYWd5NVFWbDM0QTdwTEhLZWt6TTdMektTbHZXd0pHdURmNk5jc2Q3VWVremJNV0Qwa1c0YndqYWN0ZGU4UURiODBnRVYzLUUza1VDTFp4Zmstcm1QS19TRGRTaHhqWEhEbHNBekRYQ1Exbi1hM05oYmtqS3NuSWZHQWFyd1IweGtyMWxEU0o0dkJ0SV9z?oc=5
+🚨 Bambu Lab launches S1 3D scanner, opening sign-ups for early access - news.lavx.hu
+Bambu Lab launches S1 3D scanner, opening sign-ups for early access news.lavx.hu
+Reported by Google News - 3D Scanners on Oct 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ29QYVZwQXZSdWV5cTJ6OGplUlhucFRhSDNncXNFdUx0MWVHbXFOaDdKSXd2Z2tueEM1Wlp5bnE0QUR2RDE0S182aHZvSjd6TVMwaGdNYVBBd1BFaUFLVnZVTFIyTzVKY3VLNHFwbkUtVXVfSll3ZHV4M2o3NS1aQW1JRlRpUHFNUjFrbkJVZzA0cm5yXzkxMjBjcw?oc=5
 
-📷 Bambu Lab just entered the 3D scanning scene, and you can sign up to hear more right now - XDA
-Bambu Lab just entered the 3D scanning scene, and you can sign up to hear more right now XDA
-Reported by Google News - 3D Printing on Oct 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVVZVkRkUEhHUmJXdUNpSl9PdFA3V0dVTjBpQ2c1SFRQemk1WkQ2TTNTdFI3MEdOcUtBRGstWFh2MGZJSzFVM3k4MC1ldDRDQnNiQTJiOTlQMS1GcURsMFI2REZkTTNiM25zUkV6ZjFKLXIyYnpCOXdPcGxfYnRKN0gxZnBpaEFSd0N4Q1VQRUxHclhhbzNKaVZLOHItOEJZYUJpa0dLZDlpMkc3RlplTjMwNA?oc=5
+💻 3D printed $1,000 fix that replaces $200,000 submarine alteration
+Discover exclusive software insights at AMA: Software 2026, on October 22.
+Register for free, reported by 3D Printing Industry on Oct 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/1000w_q95-3-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/3d-printed-1000-fix-that-replaces-200000-submarine-alteration-255618
 
-💻 ECU Joins AMCRC to Boost Defence, Mining and Resources Applications
-What should you automate next?
-Get ideas at AMA: Software 2026, reported by 3D Printing Industry on Oct 12, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/ecu.png-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/ecu-joins-amcrc-to-boost-defence-mining-and-resources-applications-255516
+♻️ Prusament Pellets: Raw material batches for large-format 3D printing or small-scale polymer research &amp; development
+Buying small batches of polymer pellets for a laboratory or workshop may be difficult: Raw materials are usually sold in tons or at least hundreds of kilos.
+But when you need just a few (dozen) kilos for lab use, or large-format, reported by Prusa Blog on Oct 13, 2026.
+🖼️ Image: https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/10/d4e72cbc-prusament_pellets_launch_blog_b-698x325.jpg
+🔗 Read more: https://blog.prusa3d.com/prusament-pellets-raw-material-batches-for-large-format-3d-printing-or-small-scale-polymer-research-development_138773
 
-♻️ California sues major 3D-printing filament maker over claims it deliberately catered to ghost gun enthusiasts - TechSpot
-California sues major 3D-printing filament maker over claims it deliberately catered to ghost gun enthusiasts TechSpot
-Reported by Google News - 3D Printing on Oct 12, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMimwFBVV95cUxNM0tUa0lNMURaTHZMa1hZbW9ySDlwekpmbkNoNk4tYjYzV3ZGcVFUWks5MHhoX1BjakdfX0JXQU1ZU0UzU1NwOW1xRF9wVVVkRGlpRzM4NDNONjFYbzB4SnlxT3NVa3JTaXN2cDZnemItUzhiR0VmSUxabWhqcDRWS0xIQWtkYzNsejhSZnRYaUI0bkhCaXh0Q0FoNA?oc=5
+🖨 HellermannTyton deploys FDM 3D printing for end-of-arm tooling manufacturing
+Acquired via SYS Systems, the Wythenshawe-based company is said to have reduced operational costs and sped up cycle times since installing the 3D printing system.
+Reported by TCT Magazine on Oct 13, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Hellermann-Tyton--Action-.jpeg
+🔗 Read more: https://www.tctmagazine.com/hellermanntyton-deploys-fdm-3d-printing-for-end-of-arm-tooling-manufacturing
 
-🖨 Chinese Super Factory with 400 Metal 3D Printers Planned for Smartphone Production
-Where is AI unlocking advantages?
-Explore what is possible at AMA: Software 2026, reported by 3D Printing Industry on Oct 12, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/717548222fa44bbc4a3c8593891e41d4-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/chinese-super-factory-with-400-metal-3d-printers-planned-for-smartphone-production-255540
+🖨 The Hidden Economics of Metal 3D Printing: Closing the Loop in Powder Management
+Automation is a very topical thing in additive manufacturing at the moment.
+With renewed scale, some clients are fervently looking to automate production, reported by 3DPrint.com on Oct 13, 2026.
+🔗 Read more: https://3dprint.com/332637/ossenberger-interview-closing-the-loop-in-powder-management
 
-🖨 Engo Uses Metal 3D Printing for Titanium Temples on New AR Running Glasses
-Where is AI unlocking advantages?
-Explore what is possible at AMA: Software 2026, reported by 3D Printing Industry on Oct 12, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/engo3-titanium-Silver_packshot-03-150x100.webp
-🔗 Read more: https://3dprintingindustry.com/news/engo-uses-metal-3d-printing-for-titanium-temples-on-new-ar-running-glasses-255571
+🖨 Oerlikon Adds ATLIX’s xBUILD 5000, Plans More for 2027
+Oerlikon has installed a new ATLIX xBUILD 5000 metal 3D printer at its facility in Huntersville, North Carolina, marking the first production deployment of the system worldwide.
+The machine will, reported by 3DPrint.com on Oct 13, 2026.
+🔗 Read more: https://3dprint.com/334608/oerlikon-adds-atlixs-xbuild-5000-plans-more-for-2027
 
-🖨 #257 AMSIS on the importance of thermal behaviour optimisation in metal additive manufacturing
-AMSIS is a software company that has developed build-preparation technology that analyses heat distribution, flags overheated zones, and optimises exposure strategies.
-Reported by TCT Magazine on Oct 12, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Additive-Insight-Re-Design--34-.png
-🔗 Read more: https://www.tctmagazine.com/podcasts/257-amsis-on-the-importance-of-thermal-behaviour-optimisation-in-metal-additive-manufacturing
+🚀 Fahz 2.0 brings automated design and on-demand 3D printing to personalized vases
+Discover exclusive software insights at AMA: Software 2026, on October 22.
+Register for free, reported by 3D Printing Industry on Oct 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/Fahz_2.0_press_photo_076A7017_2400-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/fahz-2-0-brings-automated-design-and-on-demand-3d-printing-to-personalized-vases-255614
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Bambu Lab teases its first 3D scanner, the S1 3D, for November 2026 launch - news.lavx.hu" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://news.google.com/rss/articles/CBMiowFBVV95cUxQUkdDTEVPQkxIYm1MakhXYWd5NVFWbDM0QTdwTEhLZWt6TTdMektTbHZXd0pHdURmNk5jc2Q3VWVremJNV0Qwa1c0YndqYWN0ZGU4UURiODBnRVYzLUUza1VDTFp4Zmstcm1QS19TRGRTaHhqWEhEbHNBekRYQ1Exbi1hM05oYmtqS3NuSWZHQWFyd1IweGtyMWxEU0o0dkJ0SV9z?oc=5 | Complete rundown: https://www.quality3ds.com/
+Today's pulse highlight is "Bambu Lab launches S1 3D scanner, opening sign-ups for early access - news.lavx.hu" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ29QYVZwQXZSdWV5cTJ6OGplUlhucFRhSDNncXNFdUx0MWVHbXFOaDdKSXd2Z2tueEM1Wlp5bnE0QUR2RDE0S182aHZvSjd6TVMwaGdNYVBBd1BFaUFLVnZVTFIyTzVKY3VLNHFwbkUtVXVfSll3ZHV4M2o3NS1aQW1JRlRpUHFNUjFrbkJVZzA0cm5yXzkxMjBjcw?oc=5 | Full pulse: https://www.quality3ds.com/
