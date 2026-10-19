@@ -2,48 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #285 - 2026-10-19
+### 3D PRINTING PULSE #286 - 2026-10-20
 
-🚨 Formlabs has introduced an affordable, colourful 3D printer for newbies? I want one.
-Not to be superficial but ...
-it's really cute, reported by TCT Magazine on Oct 15, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Formlabs-Form-Studio-1--2-.png
-Read more ? https://www.tctmagazine.com/formlabs-has-introduced-an-affordable-colourful-3d-printer-for-newbies-i-want-one
+🚨 Formlabs launches its most affordable SLA 3D printer ever
+"We want anyone - from an engineer to someone exploring a new hobby - to spend more time making things and less time figuring out their printer.”
+Reported by TCT Magazine on Oct 14, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Form-Studio-1-----media-kit-----003.jpg
+Read more ? https://www.tctmagazine.com/formlabs-launches-its-most-affordable-sla-3d-printer-ever
 
-🚨 Creality launches Ender-3 V3 Mega and Neo 3D printers - VoxelMatters
-Creality launches Ender-3 V3 Mega and Neo 3D printers VoxelMatters
-Reported by Google News - New Printer Releases on Oct 16, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUkFUeDNwcXN2b3lsRFdUYVlMWHBiT0tENm5lX2VZUXRWeHNWM2ZVbW5oV3FWVGxBclRuQjZRRDRmVmVxZjU1TlRkVUw0MXdhSHRjZzUtTlowZVdoS19sSGQyaXA2LXBuT3FJaUphNzBSTTRnQlZsX0ZyN3YzdE1sS3B1MjEwS3h4YzBJ0gGQAUFVX3lxTE1vY3pVT0VKV0RkVmhOSktEcWRyMnV5ek5kNkVKNzRkVXEyN2hDVGVvcGNLSS1sRUw5dGoyUEIzRnE2Rk50aU9CVVgwQXF3aEF3ejZOdmpfa0tVelVTMDlueFJMZjl5ZjNNYUhJWGxUUExwMTRfbmpCQ2tic202bF9jTmRrZDBpUWZ3YjVPLXNEQg?oc=5
+🚨 Snapmaker and Phaetus Launch Liber Hotend with Licensed E3D Technology - 3D Printing Industry
+Snapmaker and Phaetus Launch Liber Hotend with Licensed E3D Technology 3D Printing Industry
+Reported by Google News - 3D Printing on Oct 15, 2026.
+Read more ? https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnRfVXFkN1NqSTlBOUpHVmNURXRrQm5ZdzBVdkt5bU9mSGVRa0wxS0JMSWFibmMwcGVlVVlFZUdXWm55cWNxOC1ESlYteVM5cmNrX1hraGtZVldqeWNSVi1DaEVTQWQxRjlBX05YejRjSjhNVS14QUJTZlc3dXJ4MlBkZzc5TjhtS0JNQnl3Y0M5RWpLMENOWXFPeXkzQXVGZE1sdUp2M1FYeFEyNzY3c1U2UDM?oc=5
 
-🚨 Bambu Lab Teases New S1 Handheld 3D Scanner - All3DP
-Bambu Lab Teases New S1 Handheld 3D Scanner All3DP
-Reported by Google News - 3D Scanners on Oct 12, 2026.
-Read more ? https://news.google.com/rss/articles/CBMic0FVX3lxTE1ka1lBMGhQZkpRZG9SU0ZkSmlUZVpGN2R2aGdMQWpFaHNneVVFaHhSQUl0Z0ktc3hIbEVhXzE2X0hCOGtMNmMyR3BUNkNBSjBKNmxJeWQ0QkcxWnRaX0kzc2E1REdkQ0NFcHdaakFtajYzX2c?oc=5
-
-📷 SprintRay unveils Foundation scanner and Nano Series - DrBicuspid.com
-SprintRay unveils Foundation scanner and Nano Series DrBicuspid.com
+📷 Creality Pika 3D scanner review: Good things come in small packages - Tom's Hardware
+Creality Pika 3D scanner review: Good things come in small packages Tom's Hardware
 Reported by Google News - 3D Printing on Oct 19, 2026.
-Read more ? https://news.google.com/rss/articles/CBMizgFBVV95cUxNdjVMdElrLVplMmJOenU0RExJSW9MNlJqR0Y5NzhFZDBnbC1pT0FWakxQcFZTakxIODk3NGs0a3ltdEZ3X0h1bGJpSG9LWGI4NG9sTGFYU2pKVVBNMGlqcnVkaFhYNmlfYlp0Y0ZGekUxZnhiUFZVTTk2cnY4YkhtOXNzSWRyME5xQ2FhenZsMFN4NXFSVmc4YzhDd0tvc2V2d3B2MzVZWDBmV1FBTnFyQVdPNkhTM3RwU2ZIMDhlR2pnYkRZRVVEaXhuY2RnZw?oc=5
+Read more ? https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTg3emtCdGREc1c3SEVabmNHNUgwVkx3OFdZajFuSjhnRExqQjUtN2FMVF95Yl84NWZ3c21MMXRyNlpmQlMzQ1NyNmJwYTltT01MQi1vRjVGbjlKYW4xV2pJR196eG4wVVE1SkZ3dllwU291ZHBvTVAzZ2tGdUNpa2dBNXMzcFl4Uy1uXw?oc=5
 
-💻 Melbourne Designer Lachlan Fysh Reimagines Architecture Photography with 3D-Printed FTC-1 Camera - freeyork
-Melbourne Designer Lachlan Fysh Reimagines Architecture Photography with 3D-Printed FTC-1 Camera freeyork
-Reported by Google News - 3D Printing on Oct 18, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiigFBVV95cUxOeDdxT3pncy1kRjh6NDMteW9jdmNQZldXbnNoVHFIdHpaMXhfeDZVb01EREhLS1RtejVreTZaVk9zOVhZSUFvM2VFVDJINlFVYjNjZEIwRVlHVWFIdjdWSzBoMnpIYk11NnFFa2F3Q00wenJEM2N6OGh5NXk1LXQ4cURYcEU5czRjUlE?oc=5
+💻 The Pentagon’s New Manufacturing Strategy Puts the Factory Floor Ahead of the Lab
+Join manufacturing technology experts at AMA: Software 2026 this week.
+Registration is free, reported by 3D Printing Industry on Oct 19, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/DoW-Manufacturing-Technology-Program-Strategic-Plan-cover.-Image-via-DoW-150x100.png
+Read more ? https://3dprintingindustry.com/news/the-pentagons-new-manufacturing-strategy-puts-the-factory-floor-ahead-of-the-lab-255784
 
-🖨 AMPulse Asia: Fresh Funding and Flying Parts Shake Up APAC 3D Printing
-China’s latest investment in metal powder production, new 3D printers in Japan, and regulatory approval for 3D printed helicopter parts in Australia lead this edition of AMPulse Asia.
-Reported by 3DPrint.com on Oct 19, 2026.
-Read more ? https://3dprint.com/335184/ampulse-asia-fresh-funding-and-flying-parts-shake-up-apac-3d-printing
+♻️ Polymaker’s CymphoniK Mixes 100+ Colors from Six Pellets
+Discover exclusive software insights at AMA: Software 2026, on October 22.
+Register for free, reported by 3D Printing Industry on Oct 19, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/1791806348018-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/polymakers-cymphonik-mixes-100-colors-from-six-pellets-255737
 
-🖨 Does Your 3D Printer Go Bump in the Night?
-It’s October – the leaves are changing color, there’s a chill in the air, and it’s almost time for Halloween!
-Now, I know it’s not for another couple of weeks,, reported by 3DPrint.com on Oct 18, 2026.
-Read more ? https://3dprint.com/335017/does-your-3d-printer-go-bump-in-the-night
+🖨 UC Berkeley releases OpenCAL, an open-source volumetric 3D printer, with Formlabs and Prusa
+Researchers at the University of California, Berkeley, released OpenCAL, a build-it-yourself volumetric 3D printer based on Computed Axial Lithography, along with a dedicated photopolymer manufactured by Formlabs and...
+The printer forms an entire object at once inside a rotating vial of resin, typically in one to two minutes, reported by VoxelMatters on Oct 19, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/OpenCAL_Volumetric_VAM_-15.11.17-150x150.jpg
+Read more ? https://www.voxelmatters.com/uc-berkeley-releases-opencal-an-open-source-volumetric-3d-printer-with-formlabs-and-prusa
 
-🖨 Bambu Lab: Stamp Maker on MakerLab designs 3D-printable stamps right in the browser - 3Druck.com
-Bambu Lab: Stamp Maker on MakerLab designs 3D-printable stamps right in the browser 3Druck.com
-Reported by Google News - 3D Printing on Oct 18, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMHN5U2FlWnNVRTB1NWFEX3djVFNQSTh3RE9zQTd3SWpkLUZwTHpRQTM5aG5EV3JJU2NKcUZKcEVnWkVRTlZqU1hQLU95OTFSLXJBMTZqX2g0VzZTNHZoTnV1NHVxd3pYS1J5UW5ua1MwQ3ZYdUVrSkNiM3I2TDBBbkJqRFp6ZVpFTnZZMkRMT3RJQXZXSlloUGMtOEJmRFQtMENVWThIVVZ6WXVKc0xRdkpqZGdhU1N3d1BnTHY4VlY?oc=5
+🖨 INTERVIEW: “One minute to midnight”: Josef Prusa on 3D printing’s new terms of competition
+Affordable printers are taking on production work.
+Josef Prusa argues that the companies supplying them face a contest increasingly shaped by finance, software, IP and strategic information protection, and procurement, with consequences for everyone using the machines, reported by 3D Printing Industry on Oct 19, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2018/05/Josef-Prusa-founder-and-CEO-of-Prusa-Research.-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition-255791
+
+🖨 AM Solutions introduces Powder Management System & Direct Feeding System to support polymer additive manufacturing
+The new systems automate the replenishment of printing systems with processed SLS powder, closing the gap that previously existed between powder preparation and printer powder supply.
+Reported by TCT Magazine on Oct 19, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/IMG_F1-to-PMS-to-Printer.png
+Read more ? https://www.tctmagazine.com/am-solutions-introduces-powder-management-system-direct-feeding-system-to-support-polymer-additive-manufacturing
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.

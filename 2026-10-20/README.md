@@ -1,0 +1,49 @@
+# Quality3Ds Daily 3D Printing News - 2026-10-20
+
+## Stories
+
+🚨 Formlabs launches its most affordable SLA 3D printer ever
+"We want anyone - from an engineer to someone exploring a new hobby - to spend more time making things and less time figuring out their printer.”
+Reported by TCT Magazine on Oct 14, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Form-Studio-1-----media-kit-----003.jpg
+Read more ? https://www.tctmagazine.com/formlabs-launches-its-most-affordable-sla-3d-printer-ever
+
+🚨 Snapmaker and Phaetus Launch Liber Hotend with Licensed E3D Technology - 3D Printing Industry
+Snapmaker and Phaetus Launch Liber Hotend with Licensed E3D Technology 3D Printing Industry
+Reported by Google News - 3D Printing on Oct 15, 2026.
+Read more ? https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnRfVXFkN1NqSTlBOUpHVmNURXRrQm5ZdzBVdkt5bU9mSGVRa0wxS0JMSWFibmMwcGVlVVlFZUdXWm55cWNxOC1ESlYteVM5cmNrX1hraGtZVldqeWNSVi1DaEVTQWQxRjlBX05YejRjSjhNVS14QUJTZlc3dXJ4MlBkZzc5TjhtS0JNQnl3Y0M5RWpLMENOWXFPeXkzQXVGZE1sdUp2M1FYeFEyNzY3c1U2UDM?oc=5
+
+📷 Creality Pika 3D scanner review: Good things come in small packages - Tom's Hardware
+Creality Pika 3D scanner review: Good things come in small packages Tom's Hardware
+Reported by Google News - 3D Printing on Oct 19, 2026.
+Read more ? https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTg3emtCdGREc1c3SEVabmNHNUgwVkx3OFdZajFuSjhnRExqQjUtN2FMVF95Yl84NWZ3c21MMXRyNlpmQlMzQ1NyNmJwYTltT01MQi1vRjVGbjlKYW4xV2pJR196eG4wVVE1SkZ3dllwU291ZHBvTVAzZ2tGdUNpa2dBNXMzcFl4Uy1uXw?oc=5
+
+💻 The Pentagon’s New Manufacturing Strategy Puts the Factory Floor Ahead of the Lab
+Join manufacturing technology experts at AMA: Software 2026 this week.
+Registration is free, reported by 3D Printing Industry on Oct 19, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/DoW-Manufacturing-Technology-Program-Strategic-Plan-cover.-Image-via-DoW-150x100.png
+Read more ? https://3dprintingindustry.com/news/the-pentagons-new-manufacturing-strategy-puts-the-factory-floor-ahead-of-the-lab-255784
+
+♻️ Polymaker’s CymphoniK Mixes 100+ Colors from Six Pellets
+Discover exclusive software insights at AMA: Software 2026, on October 22.
+Register for free, reported by 3D Printing Industry on Oct 19, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/1791806348018-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/polymakers-cymphonik-mixes-100-colors-from-six-pellets-255737
+
+🖨 UC Berkeley releases OpenCAL, an open-source volumetric 3D printer, with Formlabs and Prusa
+Researchers at the University of California, Berkeley, released OpenCAL, a build-it-yourself volumetric 3D printer based on Computed Axial Lithography, along with a dedicated photopolymer manufactured by Formlabs and...
+The printer forms an entire object at once inside a rotating vial of resin, typically in one to two minutes, reported by VoxelMatters on Oct 19, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/OpenCAL_Volumetric_VAM_-15.11.17-150x150.jpg
+Read more ? https://www.voxelmatters.com/uc-berkeley-releases-opencal-an-open-source-volumetric-3d-printer-with-formlabs-and-prusa
+
+🖨 INTERVIEW: “One minute to midnight”: Josef Prusa on 3D printing’s new terms of competition
+Affordable printers are taking on production work.
+Josef Prusa argues that the companies supplying them face a contest increasingly shaped by finance, software, IP and strategic information protection, and procurement, with consequences for everyone using the machines, reported by 3D Printing Industry on Oct 19, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2018/05/Josef-Prusa-founder-and-CEO-of-Prusa-Research.-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition-255791
+
+🖨 AM Solutions introduces Powder Management System & Direct Feeding System to support polymer additive manufacturing
+The new systems automate the replenishment of printing systems with processed SLS powder, closing the gap that previously existed between powder preparation and printer powder supply.
+Reported by TCT Magazine on Oct 19, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/IMG_F1-to-PMS-to-Printer.png
+Read more ? https://www.tctmagazine.com/am-solutions-introduces-powder-management-system-direct-feeding-system-to-support-polymer-additive-manufacturing
