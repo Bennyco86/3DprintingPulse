@@ -2,53 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #286 - 2026-10-20
+### 3D PRINTING PULSE #287 - 2026-10-21
 
-🚨 Formlabs launches its most affordable SLA 3D printer ever
-"We want anyone - from an engineer to someone exploring a new hobby - to spend more time making things and less time figuring out their printer.”
-Reported by TCT Magazine on Oct 14, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Form-Studio-1-----media-kit-----003.jpg
-Read more ? https://www.tctmagazine.com/formlabs-launches-its-most-affordable-sla-3d-printer-ever
+🚨 Formlabs Launches Form Studio 1, a $699 Resin 3D Printer
+Today, Formlabs released the Form Studio 1, a resin 3D printer priced from $699, well below anything else in its lineup.
+The company is calling it “the world’s most affordable professional resin 3D printer,” and it’s a clear move toward…, reported by 3D Natives on Oct 14, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/10/Photo-by-Snapmaker-3D-Printer-on-Unsplash-3.jpg
+Read more ? https://www.3dnatives.com/en/formlabs-releases-form-studio-1-14102026
 
-🚨 Snapmaker and Phaetus Launch Liber Hotend with Licensed E3D Technology - 3D Printing Industry
-Snapmaker and Phaetus Launch Liber Hotend with Licensed E3D Technology 3D Printing Industry
-Reported by Google News - 3D Printing on Oct 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnRfVXFkN1NqSTlBOUpHVmNURXRrQm5ZdzBVdkt5bU9mSGVRa0wxS0JMSWFibmMwcGVlVVlFZUdXWm55cWNxOC1ESlYteVM5cmNrX1hraGtZVldqeWNSVi1DaEVTQWQxRjlBX05YejRjSjhNVS14QUJTZlc3dXJ4MlBkZzc5TjhtS0JNQnl3Y0M5RWpLMENOWXFPeXkzQXVGZE1sdUp2M1FYeFEyNzY3c1U2UDM?oc=5
+📷 The best 3D scanners 2026 — the top performing models we've benchmarked - Tom's Hardware
+The best 3D scanners 2026 — the top performing models we've benchmarked Tom's Hardware
+Reported by Google News - 3D Scanners on Oct 20, 2026.
+Read more ? https://news.google.com/rss/articles/CBMieEFVX3lxTFBhWnd0clVmQUlCRGtNRmdqWWdwTEo1S0FXdE5qSlJ0bV91MWtvaTdCVl9mSFBWcS12Sl9iLThPOFdhbk15cTdvT2dkd3Y2WVprWkRPSnhnMEk5d0F4c0lEbGtyNFhid3BOWS1XcXoydDcxVW9CczR6Qw?oc=5
 
-📷 Creality Pika 3D scanner review: Good things come in small packages - Tom's Hardware
-Creality Pika 3D scanner review: Good things come in small packages Tom's Hardware
-Reported by Google News - 3D Printing on Oct 19, 2026.
-Read more ? https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTg3emtCdGREc1c3SEVabmNHNUgwVkx3OFdZajFuSjhnRExqQjUtN2FMVF95Yl84NWZ3c21MMXRyNlpmQlMzQ1NyNmJwYTltT01MQi1vRjVGbjlKYW4xV2pJR196eG4wVVE1SkZ3dllwU291ZHBvTVAzZ2tGdUNpa2dBNXMzcFl4Uy1uXw?oc=5
+📷 Creality Pika 3D scanner review: Portable scanning at $699 - news.lavx.hu
+Creality Pika 3D scanner review: Portable scanning at $699 news.lavx.hu
+Reported by Google News - 3D Scanners on Oct 19, 2026.
+Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0pOLWlLaXdzWjVNYVN3MEMwckZlN0hwT0t6T0ZPZlFuR0dHLTAyZFF2T19PLW9IbGx0b0xUajZBMm1teWs2UDNGS3ktQURtVUNVb2U4LW1EMzgzZTYtWEtIekZDVzVXMGU3NXBNQUpZZnc1Z2lnbXNweV9rLXE3UFRPZDY3N0hGUFJyd1JR?oc=5
 
-💻 The Pentagon’s New Manufacturing Strategy Puts the Factory Floor Ahead of the Lab
-Join manufacturing technology experts at AMA: Software 2026 this week.
-Registration is free, reported by 3D Printing Industry on Oct 19, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/DoW-Manufacturing-Technology-Program-Strategic-Plan-cover.-Image-via-DoW-150x100.png
-Read more ? https://3dprintingindustry.com/news/the-pentagons-new-manufacturing-strategy-puts-the-factory-floor-ahead-of-the-lab-255784
+💻 Chinese Firm Files US$576M Plan for 25,000 Tonnes of Titanium Sponge Capacity
+From design to quality control, find your next software advantage at AMA Software 2026.
+Chinese company Guangdong Hengtai New Materials has registered the first phase of an integrated titanium materials project in Maoming, Guangdong Province, with a planned investment of RMB3.837 billion (about US$576, reported by 3D Printing Industry on Oct 20, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2023/02/Image-via-IperionX@.-150x100.png
+Read more ? https://3dprintingindustry.com/news/chinese-firm-files-us576m-plan-for-25000-tonnes-of-titanium-sponge-capacity-255818
 
-♻️ Polymaker’s CymphoniK Mixes 100+ Colors from Six Pellets
+🖨 Can Chinese Metal Powder Win After Tariffs?
+China’s metal powder manufacturers are expanding production capacity and targeting international markets.
+In an interview with 3D Printing Industry, VMP outlined ambitions to increase exports from 10% to 50% of its business within five years.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/The-VMP-Material-Validation-Center-includes-AM-systems.-Image-via-VMP-150x100.png
+Read more ? https://3dprintingindustry.com/news/can-chinese-metal-powder-win-after-tariffs-255827
+
+🖨 Woven in Metal: IMDEA and UPM 3D Print Stents That Bend Without Breaking
 Discover exclusive software insights at AMA: Software 2026, on October 22.
-Register for free, reported by 3D Printing Industry on Oct 19, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/1791806348018-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/polymakers-cymphonik-mixes-100-colors-from-six-pellets-255737
+Register for free, reported by 3D Printing Industry on Oct 20, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/3D-printed_prototype-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/woven-in-metal-imdea-and-upm-3d-print-stents-that-bend-without-breaking-255810
 
-🖨 UC Berkeley releases OpenCAL, an open-source volumetric 3D printer, with Formlabs and Prusa
-Researchers at the University of California, Berkeley, released OpenCAL, a build-it-yourself volumetric 3D printer based on Computed Axial Lithography, along with a dedicated photopolymer manufactured by Formlabs and...
-The printer forms an entire object at once inside a rotating vial of resin, typically in one to two minutes, reported by VoxelMatters on Oct 19, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/OpenCAL_Volumetric_VAM_-15.11.17-150x150.jpg
-Read more ? https://www.voxelmatters.com/uc-berkeley-releases-opencal-an-open-source-volumetric-3d-printer-with-formlabs-and-prusa
+🖨 Creality opens K3 pre-orders at $849 with four-nozzle system to cut multi-color purge waste
+Spend less time fixing files.
+Discover smarter workflows at AMA Software 2026, reported by 3D Printing Industry on Oct 20, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/assets_MS2012135_000001_20261013055908EDT_image_1-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/creality-opens-k3-pre-orders-at-849-with-four-nozzle-system-to-cut-multi-color-purge-waste-255796
 
-🖨 INTERVIEW: “One minute to midnight”: Josef Prusa on 3D printing’s new terms of competition
-Affordable printers are taking on production work.
-Josef Prusa argues that the companies supplying them face a contest increasingly shaped by finance, software, IP and strategic information protection, and procurement, with consequences for everyone using the machines, reported by 3D Printing Industry on Oct 19, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2018/05/Josef-Prusa-founder-and-CEO-of-Prusa-Research.-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/interview-one-minute-to-midnight-josef-prusa-on-3d-printings-new-terms-of-competition-255791
-
-🖨 AM Solutions introduces Powder Management System & Direct Feeding System to support polymer additive manufacturing
-The new systems automate the replenishment of printing systems with processed SLS powder, closing the gap that previously existed between powder preparation and printer powder supply.
-Reported by TCT Magazine on Oct 19, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/IMG_F1-to-PMS-to-Printer.png
-Read more ? https://www.tctmagazine.com/am-solutions-introduces-powder-management-system-direct-feeding-system-to-support-polymer-additive-manufacturing
+🖨 Blender for 3D Printing: The 5-Minute Guide to STL Editing
+Whenever my colleagues ask me to edit a 3D model in Blender, they're always surprised when I give them the result just a few minutes later.
+They often tell me they want to learn to use it too, but it’s quite, reported by Prusa Blog on Oct 20, 2026.
+Image ? https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/09/36d5e248-blender_4_3d_printing_blog_en-698x325.jpg
+Read more ? https://blog.prusa3d.com/blender-for-3d-printing-the-5-minute-guide-to-direct-mesh-editing_138255
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
