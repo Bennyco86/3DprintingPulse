@@ -2,53 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #287 - 2026-10-21
+### 3D PRINTING PULSE #288 - 2026-10-22
 
-🚨 Formlabs Launches Form Studio 1, a $699 Resin 3D Printer
-Today, Formlabs released the Form Studio 1, a resin 3D printer priced from $699, well below anything else in its lineup.
-The company is calling it “the world’s most affordable professional resin 3D printer,” and it’s a clear move toward…, reported by 3D Natives on Oct 14, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/10/Photo-by-Snapmaker-3D-Printer-on-Unsplash-3.jpg
-Read more ? https://www.3dnatives.com/en/formlabs-releases-form-studio-1-14102026
-
-📷 The best 3D scanners 2026 — the top performing models we've benchmarked - Tom's Hardware
-The best 3D scanners 2026 — the top performing models we've benchmarked Tom's Hardware
-Reported by Google News - 3D Scanners on Oct 20, 2026.
-Read more ? https://news.google.com/rss/articles/CBMieEFVX3lxTFBhWnd0clVmQUlCRGtNRmdqWWdwTEo1S0FXdE5qSlJ0bV91MWtvaTdCVl9mSFBWcS12Sl9iLThPOFdhbk15cTdvT2dkd3Y2WVprWkRPSnhnMEk5d0F4c0lEbGtyNFhid3BOWS1XcXoydDcxVW9CczR6Qw?oc=5
-
-📷 Creality Pika 3D scanner review: Portable scanning at $699 - news.lavx.hu
-Creality Pika 3D scanner review: Portable scanning at $699 news.lavx.hu
-Reported by Google News - 3D Scanners on Oct 19, 2026.
-Read more ? https://news.google.com/rss/articles/CBMijgFBVV95cUxOd0pOLWlLaXdzWjVNYVN3MEMwckZlN0hwT0t6T0ZPZlFuR0dHLTAyZFF2T19PLW9IbGx0b0xUajZBMm1teWs2UDNGS3ktQURtVUNVb2U4LW1EMzgzZTYtWEtIekZDVzVXMGU3NXBNQUpZZnc1Z2lnbXNweV9rLXE3UFRPZDY3N0hGUFJyd1JR?oc=5
-
-💻 Chinese Firm Files US$576M Plan for 25,000 Tonnes of Titanium Sponge Capacity
-From design to quality control, find your next software advantage at AMA Software 2026.
-Chinese company Guangdong Hengtai New Materials has registered the first phase of an integrated titanium materials project in Maoming, Guangdong Province, with a planned investment of RMB3.837 billion (about US$576, reported by 3D Printing Industry on Oct 20, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2023/02/Image-via-IperionX@.-150x100.png
-Read more ? https://3dprintingindustry.com/news/chinese-firm-files-us576m-plan-for-25000-tonnes-of-titanium-sponge-capacity-255818
-
-🖨 Can Chinese Metal Powder Win After Tariffs?
-China’s metal powder manufacturers are expanding production capacity and targeting international markets.
-In an interview with 3D Printing Industry, VMP outlined ambitions to increase exports from 10% to 50% of its business within five years.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/The-VMP-Material-Validation-Center-includes-AM-systems.-Image-via-VMP-150x100.png
-Read more ? https://3dprintingindustry.com/news/can-chinese-metal-powder-win-after-tariffs-255827
-
-🖨 Woven in Metal: IMDEA and UPM 3D Print Stents That Bend Without Breaking
+📷 SprintRay Builds a One-Stop Digital Dentistry Workflow, From Scanning to Curing
 Discover exclusive software insights at AMA: Software 2026, on October 22.
 Register for free, reported by 3D Printing Industry on Oct 20, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/3D-printed_prototype-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/woven-in-metal-imdea-and-upm-3d-print-stents-that-bend-without-breaking-255810
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/NanoEcosystem_C_ANGLED_RED-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/sprintray-builds-a-one-stop-digital-dentistry-workflow-from-scanning-to-curing-255834
 
-🖨 Creality opens K3 pre-orders at $849 with four-nozzle system to cut multi-color purge waste
-Spend less time fixing files.
-Discover smarter workflows at AMA Software 2026, reported by 3D Printing Industry on Oct 20, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/assets_MS2012135_000001_20261013055908EDT_image_1-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/creality-opens-k3-pre-orders-at-849-with-four-nozzle-system-to-cut-multi-color-purge-waste-255796
+💻 Carbon DLS technology has now produced more than 1 million bike saddles
+Eleven brands are said to partner with Carbon to manufacture bike saddles, with more than 60 saddle models in production.
+Reported by TCT Magazine on Oct 21, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Carbon_Selle-Italia_Unica_-1-.jpg
+Read more ? https://www.tctmagazine.com/carbon-dls-technology-has-now-produced-more-than-1-million-bike-saddles
 
-🖨 Blender for 3D Printing: The 5-Minute Guide to STL Editing
-Whenever my colleagues ask me to edit a 3D model in Blender, they're always surprised when I give them the result just a few minutes later.
-They often tell me they want to learn to use it too, but it’s quite, reported by Prusa Blog on Oct 20, 2026.
-Image ? https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/09/36d5e248-blender_4_3d_printing_blog_en-698x325.jpg
-Read more ? https://blog.prusa3d.com/blender-for-3d-printing-the-5-minute-guide-to-direct-mesh-editing_138255
+🖨 Build-It-Yourself OpenCAL Volumetric 3D Printer Forms Whole Parts in 90 Seconds for $1,600
+Your printers are only part of the story.
+Explore what software makes possible at AMA Software 2026, reported by 3D Printing Industry on Oct 21, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-20-a-las-4.33.05-p.m-150x100.png
+Read more ? https://3dprintingindustry.com/news/build-it-yourself-opencal-volumetric-3d-printer-forms-whole-parts-in-90-seconds-for-1600-255846
+
+💻 Xenia Materials partnership with National Research Council of Italy to develop materials for polymer 3D printing technologies
+The aim of the alliance is to ‘strengthen the connection between industry and research,’ promoting advanced research activities and experimental development focused on the design of new smart materials.
+Reported by TCT Magazine on Oct 21, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Xenia_CNR_img1.jpg
+Read more ? https://www.tctmagazine.com/xenia-materials-partnership-with-national-research-council-of-italy-to-develop-materials-for-polymer-3d-printing-technologies
+
+💻 Roboze raises $10m to support US expansion
+Rialto Ventures (which led Roboze's Series A round), Club degli Investitori, and a broader international investor group were among the investors that provided Roboze with new financial backing.
+Reported by TCT Magazine on Oct 21, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/image--11-.png
+Read more ? https://www.tctmagazine.com/roboze-raises-10m-to-support-us-expansion
+
+💻 LAIKA Adopts PrismSlicer to Preview Full-Color 3D Printed Faces
+From design to quality control—find your next software advantage at AMA Software 2026.
+Prague-based software developer Additive Appearance has signed an agreement with stop-motion studio LAIKA to add its PrismSlicer renderer to the 3D printing tools available to the studio’s artists, reported by 3D Printing Industry on Oct 21, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Vary_surface_finish_Credit_Additive_Appearance-150x100.png
+Read more ? https://3dprintingindustry.com/news/laika-adopts-prismslicer-to-preview-full-color-3d-printed-faces-255850
+
+💻 Additive Industries targets speed, reliability and repeatability with Materialise Next-Gen Build Processor
+The software is said to offer 'significantly faster' pre-processing, better handling of large and complex builds, improved process stability, and greater control over scan strategies.
+Reported by TCT Magazine on Oct 21, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Additive-Industries-NxG-BP-2026-with-logos-v3.png
+Read more ? https://www.tctmagazine.com/additive-industries-targets-speed-reliability-and-repeatability-with-materialise-next-gen-build-processor
+
+💻 Nike and Zellerfeld Print Air Max’s Future, One City at a Time
+Discover exclusive software insights at AMA: Software 2026, on October 22.
+Register for free, reported by 3D Printing Industry on Oct 20, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/nike-air-works-masyn-150x100.avif
+Read more ? https://3dprintingindustry.com/news/nike-and-zellerfeld-print-air-maxs-future-one-city-at-a-time-255838
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
