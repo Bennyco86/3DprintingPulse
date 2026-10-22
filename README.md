@@ -2,55 +2,51 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #288 - 2026-10-22
+### 3D PRINTING PULSE #289 - 2026-10-23
 
-📷 SprintRay Builds a One-Stop Digital Dentistry Workflow, From Scanning to Curing
-Discover exclusive software insights at AMA: Software 2026, on October 22.
-Register for free, reported by 3D Printing Industry on Oct 20, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/NanoEcosystem_C_ANGLED_RED-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/sprintray-builds-a-one-stop-digital-dentistry-workflow-from-scanning-to-curing-255834
+🔥 Bambu Lab H3C leaked - Notebookcheck
+Bambu Lab H3C leaked Notebookcheck
+Reported by Google News - 3D Printing on Oct 22, 2026.
+Read more ? https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZeXFaQlZsOVdPOVVJVjhfRVhJcnZvLWU1WGxxdV9fZUFUMS1aSHZrTDQwNkN0N0V2WE04VHZNMUVYR2tzbnRFbXBvYWZzaHpQc0pHX21xeVZ1aXAzVWxHbE9tbFF4UlY1YlIxc0tCWnU1TDA?oc=5
 
-💻 Carbon DLS technology has now produced more than 1 million bike saddles
-Eleven brands are said to partner with Carbon to manufacture bike saddles, with more than 60 saddle models in production.
-Reported by TCT Magazine on Oct 21, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Carbon_Selle-Italia_Unica_-1-.jpg
-Read more ? https://www.tctmagazine.com/carbon-dls-technology-has-now-produced-more-than-1-million-bike-saddles
+🚨 400°C HT Hotend is out! Plus: New Materials and HighTemp Sheets for CORE One+/L+.
+The HT Hotend unlocks 400 °C printing on the CORE One+/L+ without the $10,000 price tag of traditional industrial machines.
+To support this, we’re launching new HighTemp sheets for CORE One+/L+ and we’re adding 3 new high-temperature filaments to the e-shop:, reported by Prusa Blog on Oct 21, 2026.
+Image ? https://storage.googleapis.com/prusa3d-content-prod-14e8-wordpress-blog-prod/2026/10/b5cd287d-c1l_hotend_blog_en-698x325.jpg
+Read more ? https://blog.prusa3d.com/ht-hotend-is-out-plus-we-offer-new-materials-and-hightemp-sheets-for-core-one-l_138625
 
-🖨 Build-It-Yourself OpenCAL Volumetric 3D Printer Forms Whole Parts in 90 Seconds for $1,600
-Your printers are only part of the story.
-Explore what software makes possible at AMA Software 2026, reported by 3D Printing Industry on Oct 21, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-20-a-las-4.33.05-p.m-150x100.png
-Read more ? https://3dprintingindustry.com/news/build-it-yourself-opencal-volumetric-3d-printer-forms-whole-parts-in-90-seconds-for-1600-255846
+🚨 Elegoo to Release 3D Scanner; Teases M1 Ultra Coming Soon - All3DP
+Elegoo to Release 3D Scanner; Teases M1 Ultra Coming Soon All3DP
+Reported by Google News - 3D Scanners on Oct 22, 2026.
+Read more ? https://news.google.com/rss/articles/CBMihAFBVV95cUxNeC1RczlCN0tHMU9CMkRSSXJLTU15aXBlV2EwOW5DRDBYSDdMWUZNWlk2UkJSTC1YUk9Nem9yc2REcmZZa3pQWU11dWV2d2I2dkRta19lS2VMbW93THhMS2tKUDl0X0NMZ2ZjZmhjZjBvUE5GUTlRaGZVQWNJYnF5QXNVRkE?oc=5
 
-💻 Xenia Materials partnership with National Research Council of Italy to develop materials for polymer 3D printing technologies
-The aim of the alliance is to ‘strengthen the connection between industry and research,’ promoting advanced research activities and experimental development focused on the design of new smart materials.
-Reported by TCT Magazine on Oct 21, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Xenia_CNR_img1.jpg
-Read more ? https://www.tctmagazine.com/xenia-materials-partnership-with-national-research-council-of-italy-to-develop-materials-for-polymer-3d-printing-technologies
+📷 ELEGOO Brings Professional-Grade 3D Scanning to a Wider Range of Creators with the Upcoming M1 Ultra - The Malaysian Reserve
+ELEGOO Brings Professional-Grade 3D Scanning to a Wider Range of Creators with the Upcoming M1 Ultra The Malaysian Reserve
+Reported by Google News - 3D Scanners on Oct 22, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi3AFBVV95cUxObjhwN0lvSTEwTy15RVIxWTB3RlplQ29neVlRY1k5YjNVUzJ5Y3ZWVkZQOXhWRFFjcGpzQ056NHZyODVESTgzXzMxU1dVbXdITFFVQ2YzWmRSdk1mNlg2NXlSajRvWE04a3hqeVExT0xHbWFUSmhieHhuWFZiTmZ2aEpNYVZoazc0aHltaTdwN0hNVEU2TlJhZ0R3czJ0UzRxU2Z6ZTlTSXAtWS1kUGV1TUlQRUtyUU1QUkxwVjVZZWowYURhNHdDYmVQOW1oUTQ2SnBDZDNQWWpsdUNu?oc=5
 
-💻 Roboze raises $10m to support US expansion
-Rialto Ventures (which led Roboze's Series A round), Club degli Investitori, and a broader international investor group were among the investors that provided Roboze with new financial backing.
-Reported by TCT Magazine on Oct 21, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/image--11-.png
-Read more ? https://www.tctmagazine.com/roboze-raises-10m-to-support-us-expansion
+📷 Kolkata Durga Puja Stampede: SIT Conducts Digital Investigation With 3D Scanner - ETV Bharat
+Kolkata Durga Puja Stampede: SIT Conducts Digital Investigation With 3D Scanner ETV Bharat
+Reported by Google News - 3D Scanners on Oct 22, 2026.
+Read more ? https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3Z3Uzd3MEJyY21hYVAyc1BieTRjcldoTDJqNGVfSzdTRlplVjkzMFlJN0NHLW5MclpHQnh0bEU0SklTYnVxc0pYMXhMX0dxLWFQRGxSaEFaZzUxT3EyajI4Y3lEdk5GZGRMZ2dxUUl0MVhJWHZLTklxc0ZTMUFhellNeTAzU3h0d3ZqcXBXOTdTVGJ6Y0p1VHFod3dnUWxqYkV6M3pHRHZaNXcwMGdBRnJUWXpieklUZnIxejJlSUJQczhZV21r0gHMAUFVX3lxTFBKY0thbDl6MEtNVkxFZE9Wci12emRJWVJmTmhYT2lTWXBpa0RmRWN0NTRDaDhsbi1JTnFlNWZ6bWpnNXh3NVI0LTJTSTZFMFNpbnBDODVhMUc1czlnVVE2M2RRUU1EOWVFMHZOLTNneVNQYlRnY0lyaUhsTm42Rm9GekhmaVlKMHZEWXl2M0dJQUp6SjJRTkZ4RG9ZcUhCeEtxRGptUUVlbThjazF6WlJ5QlRhMGRBRmowVFZUMXJheTJiZVdyaW9aWGtMYQ?oc=5
 
-💻 LAIKA Adopts PrismSlicer to Preview Full-Color 3D Printed Faces
-From design to quality control—find your next software advantage at AMA Software 2026.
-Prague-based software developer Additive Appearance has signed an agreement with stop-motion studio LAIKA to add its PrismSlicer renderer to the 3D printing tools available to the studio’s artists, reported by 3D Printing Industry on Oct 21, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Vary_surface_finish_Credit_Additive_Appearance-150x100.png
-Read more ? https://3dprintingindustry.com/news/laika-adopts-prismslicer-to-preview-full-color-3d-printed-faces-255850
+💻 In-Situ AM for Turbine Seal Ring Repairs to be Developed and Tested for Three Gorges Dam
+China Yangtze Power has awarded Dongfang Electric Machinery a reported 15.8 million yuan (approx.
+$2.36 million) contract to develop in-situ AM technology for repairing turbine runner seal rings at the Three Gorges hydropower station, reported by 3D Printing Industry on Oct 22, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/featured_image-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/in-situ-am-for-turbine-seal-ring-repairs-to-be-developed-and-tested-for-three-gorges-dam-255892
 
-💻 Additive Industries targets speed, reliability and repeatability with Materialise Next-Gen Build Processor
-The software is said to offer 'significantly faster' pre-processing, better handling of large and complex builds, improved process stability, and greater control over scan strategies.
-Reported by TCT Magazine on Oct 21, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Additive-Industries-NxG-BP-2026-with-logos-v3.png
-Read more ? https://www.tctmagazine.com/additive-industries-targets-speed-reliability-and-repeatability-with-materialise-next-gen-build-processor
+♻️ Peopoly brings laser leveling to $15,000 large-format pellet 3D printer
+Hong Kong-based 3D printer manufacturer Peopoly has opened general sales of its Giga 800 Fused Granulate Fabrication (FGF) 3D printer, starting at $15,000 (EXW).
+The commercial release introduces a laser-assisted automatic bed leveling system developed in response to feedback from the company’s Early Adopter program, reported by 3D Printing Industry on Oct 22, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/image-14-150x100.png
+Read more ? https://3dprintingindustry.com/news/peopoly-brings-laser-leveling-to-15000-large-format-pellet-3d-printer-255881
 
-💻 Nike and Zellerfeld Print Air Max’s Future, One City at a Time
-Discover exclusive software insights at AMA: Software 2026, on October 22.
-Register for free, reported by 3D Printing Industry on Oct 20, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/nike-air-works-masyn-150x100.avif
-Read more ? https://3dprintingindustry.com/news/nike-and-zellerfeld-print-air-maxs-future-one-city-at-a-time-255838
+🖨 Evology Manufacturing to install EOS M 400-4 metal additive manufacturing system
+The company has also joined the EOS Production Partner Network.
+Reported by TCT Magazine on Oct 22, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/System_EOS_M400-4_new_weiss_rechts_Grenzebach_noBG.1989b9a8.png
+Read more ? https://www.tctmagazine.com/evology-manufacturing-to-install-eos-m-400-4-metal-additive-manufacturing-system
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
