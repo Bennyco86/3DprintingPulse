@@ -1,0 +1,46 @@
+# Quality3Ds Daily 3D Printing News - 2026-10-24
+
+## Stories
+
+🔥 Bans for black plastic takeout containers - Plastics News
+Bans for black plastic takeout containers Plastics News
+Reported by Google News - 3D Printing on Oct 23, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG1aUWVUSmV1TW53Y1NRTjdkVjZjSTNWdmhzY0ZIYXBzclY0WnkxcGdkU080RDdvNjdHMzN0RUNsaWJJZy1VdnVpUlU0NFZfOF9SWkRvVldTQW4xN3doVTRwb2MyQjFtMVlVME1IclZwbmlKUmdMLTA4YlAxRl9QNl85M1J0NlJocUlMS1JZZFlkUmhaYjZxT3d3?oc=5
+
+🚨 Bambu Lab H3C tool changer packs nine tools into one 3D printer
+Bambu Lab will launch the new H3C on November 3, 2026, at 9 AM EST (3 PM CET, 10 PM China Standard Time).
+The H3C is a tool changer 3D printer with nine tools built into a single machine, reported by VoxelMatters on Oct 22, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/bambu-lab-h3c-150x150.jpg
+Read more ? https://www.voxelmatters.com/the-next-bambu-lab-teaser-video-premieres-on-voxelmatters-on-october-23
+
+🖨 Bambu Lab’s H3C Toolchanger is Real; 9 Tools, Coming November 3? - All3DP
+Bambu Lab’s H3C Toolchanger is Real; 9 Tools, Coming November 3?
+Reported by Google News - 3D Printing on Oct 23, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiigFBVV95cUxQblpLb0Z6QUFTVlQwQlFZbEJDbUFfR1dxQlJrZkR4bWk2aW9YSFRUb0xPT2xwX0Vyak93QmJOdE5vTGFnU3VUaktndWVjb0dTWFRVVFFPTGpwcFZmUGVaUHM5ODIyTWlSYmpMNVlaTnZybUEzLXhzWjJKbzN0alR6NUh3REtPOGFTMFE?oc=5
+
+🚨 Following Bambu Lab: Elegoo Also Announces Its Own 3D Scanner, the M1 Ultra - 3Druck.com
+Following Bambu Lab: Elegoo Also Announces Its Own 3D Scanner, the M1 Ultra 3Druck.com
+Reported by Google News - 3D Scanners on Oct 22, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdWJqQzhFajVMa2RYY1FuSkRxVXdVTWtUVnJrZGhEdlNvZmJKWG5IUDZsdUh2YWNEb3NhOGh4b1kxOUN5U0dTUjBOc0lhQXJQZnpYSGhTeGVKYXBYb09QNGdnUjdVQWs1TFlhUFQ4XzZ3YkI4MUI1NVJuT3F3OEdHV1l0UEVWa2ZEY0pZM05qLXh2aVU1dnlSQlR2a3NJUUFPQ0lBeXlrSUJtQ3lqWExiMmtDYjY1WkxW?oc=5
+
+📷 Artec 3D Releases Artec Twins to Render 3D Scans with Billions of Points in Real Time - 3D Printing Industry
+Artec 3D Releases Artec Twins to Render 3D Scans with Billions of Points in Real Time 3D Printing Industry
+Reported by Google News - 3D Printing on Oct 23, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNnBla3RFb2xRSWlfWG1jTC1jTkUtTUphWjFkdlRYbUJleVEwR2NkX3A3aC1qa3dYRW9RVnJGRXpuS2JWaFo5ZWI1NmM5ZEZjd0c5RV8xTTZVNU12bmJKVzdic1VnVXJSOEpHV196R00temdHRWl0eWRTZWJHZHh1VzU2NDZURlF3ejkxSVZHWWFqNXBDU0ZmUklLWVNLUXB6SWlHUjdycUw3WXNLV2ZIcWo3cnZ5UnhvSTlBejBMQm9YemhFLUZldA?oc=5
+
+💻 What’s Left When a 3D Printing Company Shuts Down?
+Several 3D printing companies have closed, sold their assets or restructured in 2026.
+Some spent years developing new printing technologies and raised millions of dollars along the way, reported by 3DPrint.com on Oct 23, 2026.
+Read more ? https://3dprint.com/335396/what-are-failed-3d-printing-companies-actually-worth
+
+🖨 Evology Manufacturing acquires 10th EOS 3D printer
+Wisconsin-based contract manufacturer Evology Manufacturing is expanding its production fleet with the acquisition of a new EOS M 400-4 metal 3D printer.
+Once installed, the large-format metal AM system will mark the company’s eighth metal EOS 3D printer and 10th overall EOS system, reported by VoxelMatters on Oct 22, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Evology-and-EOS-team-acquire-EOS-M-400-4-at-IMTS-2026-150x150.jpg
+Read more ? https://www.voxelmatters.com/evology-manufacaturing-acquires-10th-eos-3d-printer
+
+🖨 Nikon secures U.S. defense contract for Tomahawk mid-body printing systems
+Nikon Advanced Manufacturing has secured a contract with the U.S.
+Department of Defense to supply customized metal additive manufacturing systems for producing mid-bodies of the Tomahawk Land Attack Missile (TLAM), reported by VoxelMatters on Oct 22, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Nikon-US-defense-contract-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/nikon-secures-u-s-defense-contract-for-tomahawk-mid-body-printing-systems
