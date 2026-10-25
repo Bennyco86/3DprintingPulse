@@ -2,51 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #291 - 2026-10-25
+### 3D PRINTING PULSE #292 - 2026-10-26
 
-🚨 Bambu Lab to Launch H3C Tool Changer 3D Printer on November 3, 2026 - SSBCrack
-Bambu Lab to Launch H3C Tool Changer 3D Printer on November 3, 2026 SSBCrack
-Reported by Google News - New Printer Releases on Oct 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnpjT0FTZzYwVVV1eDFDWUxxS1ZHMXMtakdpUmZjVDdXTVY0ZHJxV1BIQmpCbFplUkM1THlzZEhFYXdEdEVlQ3RDOGZfVUhlSGdONkhTMmRSTXdoaFc0MXpmRnlINjRwVGR6MXg0aHRKeUZQUk04amdpalZ0d3hVUHo4Qlh5MF9qcjhiNzdBQ2p4bkxINkpfTw?oc=5
+🚨 Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch - Tom's Hardware
+Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch Tom's Hardware
+Reported by Google News - 3D Printing on Oct 23, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX3oyS2VpWWRnVjFkbUhFeW9yYWtPOHFMWDRHclNWRXhpMng2cll6dUhuUWJ3QURreGtnQV9ZMktocDFyNW9iTG9mZjlCaDJVWDZqLXhnWEw4N1N5NVRwaWQ4di04X0JEVG9CYnN3ZEc1dlM1aWIxQzlXQXk2Ry04Z1lfTGkzeGlZWEhuaUJqUzI1U1J6M1B4eVZwaldfMEpqYVBZUHljR2tHQmNYNlFtb00wdjNZcDcwMTUtQVJ5NkExWlVyNU1oTEdiNEgwZndGRVN1Nm1FYlVtcUp3V05NbjVqc3FaZDRPUzdtbFc1OTM3cXVrbWg2SmxtWTNiYmc?oc=5
 
-🖨 Bambu Lab P3C: FCC photos show a 3D printer and tool changer with seven holders - 3Druck.com
-Bambu Lab P3C: FCC photos show a 3D printer and tool changer with seven holders 3Druck.com
-Reported by Google News - 3D Printing on Oct 24, 2026.
-Read more ? https://news.google.com/rss/articles/CBMizAFBVV95cUxPcXJVam56MVROSTFRQkJYa0lnQmJLUXY0Z0V2ZVgweU9fM0xfZ0N5N2UtckZzZl8tUjZZMDh3QzNGeGNOSzhtRl9sRE5iQ1F3V2wtcVVCSnZ3Zjd4TWFsSlFZbFJ5b1NEZEdQVGpmRnhMWlp6a2ZaTjBDSEt3dU03eHl3aXFkY3Q4Z0NYcTN4LWttbmpSQ3BocDRjWDF6REFicnR1Z2NrWl8yY3B2enhnQ2luN3pBV0JGMDlKb0lXcDJ5bi1FbHVMNjkxNjg?oc=5
+📷 SHINING 3D hosts global reseller and partner meet-up
+SHINING 3D has held its 2026 Global Reseller & Partner Meeting at its headquarters in Hangzhou, China, bringing together resellers and partners from its international network to discuss 3D metrology technology,...
+The first day of the event, themed “Together Beyond Boundaries”, opened with a presentation of the company’s strategic direction, … The post SHINING 3D hosts global reseller and partner meet-up appeared first on, reported by VoxelMatters on Oct 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/SHINING-3D-meeting-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/shining-3d-hosts-global-reseller-and-partner-meet-up
 
-💻 Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range — fears are high that cheap ‘Filin’ missile will be used for ‘missile spam’ tactics - Tom's Hardware
-Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range — fears are high that cheap ‘Filin’ missile will be used for ‘missile spam’ tactics Tom's Hardware
-Reported by Google News - 3D Printing on Oct 24, 2026.
-Read more ? https://news.google.com/rss/articles/CBMirAJBVV95cUxPQmhuSnJPWURQM1Z6U1ZEZzEtSjZHNUI4N2JDcHQ4Q3pNUUZUODRJU2Q5eGtTZ1hLaWpJSkx1QjVwWDNFNC0yazgwd1pwbFVQWnJjZjQ3YWNuZkNCdXJId1JIbUt6dnhpeVRuQTROREdfMUNtNHNqcng5Z1IycjVkSUhCa216YkY0OFJhS2JOUVRSN0N4TGdjUnY4RnNGbHk2Z3gtV2VranBXaG52N0F0UFBadzRMMy1pQ0RFQjV1Q2ZKVmw2ckhTMVpQS1BLcmFUd09Zc0Rmazh0TXhNbWd5TTZxeU5lVTVtRl9KVlF3Qi1PQnVNLXBoWjYtWXI5bGlHYVpXN1Fxa2MwajBIUm9SWnRtcFpheElMVjNuTFRCUDNzaExOZjRyVE01NzI?oc=5
+💻 Freemelt wins $2.9 million order from ESS for tungsten components
+Freemelt has received an order from the European Spallation Source (ESS) to manufacture and deliver 7,000 tungsten-based components, valued at SEK 28 million ($2.8m).
+Deliveries are to be scheduled over a 14-month period, with most planned for 2027, reported by VoxelMatters on Oct 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Freemelt-factory-150x150.jpg
+Read more ? https://www.voxelmatters.com/freemelt-wins-2-9-million-order-from-ess-for-tungsten-components
 
-🖨 Bambu Lab H3C: FCC photos show a tool changer with nine mounts - 3Druck.com
-Bambu Lab H3C: FCC photos show a tool changer with nine mounts 3Druck.com
-Reported by Google News - Tool and Nozzle Changers on Oct 24, 2026.
-Read more ? https://news.google.com/rss/articles/CBMitwFBVV95cUxQZVVZVlJWdFAyYUJySzBfOUJDWkl0MnVmN3B2cmc1Qi1Dck9xX1lYOWphMW1KRGRIRjB1c3RBSjRxN0Zyak5FTVZ4Qkx5SGc0TkkxUUg0anlUT3RWc1FsRGRQN2o4RV9mdndMUEJpUjFQaHU3NFZsLTdrTDZiZndCMFoySUppeEhsWEVrMndpVjAyVzF3MDREMGpISElHU0FYdkVpWUFIcTNSZTF5WnpyX0FFQUF2WmM?oc=5
+🏠 ORNL and partners win CAMX award for 3D printed nuclear concrete forms
+The Department of Energy’s Oak Ridge National Laboratory and collaborators have received the 2026 CAMX Combined Strength Award for 3D printed composite forms used to shape concrete in nuclear construction.
+The award recognizes team-based approaches to composites challenges, and the reusable forms produced by ORNL and its collaborators can be designed, 3D printed and delivered … The post ORNL and partners win CAMX award, reported by VoxelMatters on Oct 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/ORNL-CAMX-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/ornl-and-partners-win-camx-award-for-3d-printed-nuclear-concrete-forms
 
-🚀 Back Downtown: Takeaways from GAMS 2026 and the Relaunched ITAP in Singapore
-You could hold the Singapore Grand Prix at Changi.
-Nobody would watch, reported by TCT Magazine on Oct 24, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/shutterstock_2520683369.jpg
-Read more ? https://www.tctmagazine.com/takeaways-global-additive-manufacturing-summit-relaunched-itap-singapore
+🚀 Davide Marin develops a vatless resin 3D printing prototype
+Davide Marin, an independent engineer based in Montebelluna, in the province of Treviso, Italy, who runs the sole proprietorship I.D.M.
+di Marin Davide, published a video on October 19 showing a working prototype of a vatless resin 3D printer, reported by VoxelMatters on Oct 25, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/PeelByRoll-mechanism-150x150.png
+Read more ? https://www.voxelmatters.com/davide-marin-develops-a-vatless-resin-3d-printing-prototype
 
-🚀 Admatec launches desktop ceramic 3D printing system
-Targeted primarily at universities and academic institutions, but also said to be suitable for those in industry, the Admaflex Discovery system is priced at $92,500.
-Reported by TCT Magazine on Oct 23, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Admaflex-Discovery-webready-1-1.jpg
-Read more ? https://www.tctmagazine.com/admatec-launches-desktop-ceramic-3d-printing-system
+🚀 HORKOS and Meltio launch NX70 DUO hybrid machining center
+HORKOS CORP, a Japanese machine tool manufacturer, and Spanish developer Meltio have launched the NX70 DUO version AM, a twin-head non-bed machining center that combines metal additive manufacturing and...
+“We are thrilled to launch the NX70 DUO version AM, which seamlessly combines Meltio’s breakthrough Wire-DED technology with HORKOS’s proprietary precision … The post HORKOS and Meltio launch NX70 DUO hybrid, reported by VoxelMatters on Oct 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/HORKOS-Meltio-logos-150x150.jpg
+Read more ? https://www.voxelmatters.com/horkos-and-meltio-launch-nx70-duo-hybrid-machining-center
 
-📰 The additive manufacturing jigsaw puzzle
-Steve Cox, 3D Technologies Consultant at AMFORi Consulting and TCT Expert Advisor on finding (or even creating) additive manufacturing's missing puzzle pieces.
-Reported by TCT Magazine on Oct 23, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Screenshot-2026-09-15-114254.png
-Read more ? https://www.tctmagazine.com/the-additive-manufacturing-jigsaw-puzzle
+🏠 AMAXiMAL releases TopMod 3D v3 for AI-assisted 3D modeling
+AMAXiMAL, a company founded by computational designer John Briscella, has released TopMod 3D v3, a free tool for building complex geometry for 3D printing and form exploration.
+Designed for designers, artists, architects, and anyone interested in the intersection of mathematics and 3D modeling, the software runs on iPhone and iPad, where it is available free … The post AMAXiMAL releases, reported by VoxelMatters on Oct 24, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Zrzut-ekranu-2026-10-24-135317-150x150.png
+Read more ? https://www.voxelmatters.com/amaximal-releases-topmod-3d-v3-for-ai-assisted-3d-modeling
 
-🦺 From Hospital Bed to 3D Printer: New Project Brings Design Skills to Young Patients
-A University of Nottingham-led project will bring 3D design and printing to children and young people taught in hospital education across England, and will study whether the activity can support their recovery.
-Funded by a Royal Society Science Community Grant and the Julia Rausing Trust, the three-year initiative will start in 25 schools, each of…, reported by 3D Printing Industry on Oct 23, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/3DprintingChildren.xb8a6e3ce-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/from-hospital-bed-to-3d-printer-new-project-brings-design-skills-to-young-patients-255912
+🖨 Bambu got greedy, so I finally gave its biggest 3D printer rival a shot - MakeUseOf
+Bambu got greedy, so I finally gave its biggest 3D printer rival a shot MakeUseOf
+Reported by Google News - 3D Printing on Oct 25, 2026.
+Read more ? https://news.google.com/rss/articles/CBMibEFVX3lxTE1PVTdTREVsN2dUcnE2a3dOQlgzd2syQldoV3ZEZHpPRm1fRGZSR3FOX3pRMXVaNV9nelNkVmJ6VU5NQkdOUWtPV3lGOEZRZllVdkU1US12UnM5NDVNMnpad1ZSd1JLdzhmTG9MUA?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
