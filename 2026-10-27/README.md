@@ -1,0 +1,49 @@
+# Quality3Ds Daily 3D Printing News - 2026-10-27
+
+## Stories
+
+🔥 You can now 3D print your own Wicker husband - Creative Bloq
+You can now 3D print your own Wicker husband Creative Bloq
+Reported by Google News - 3D Printing on Oct 26, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck1TWUhrR3pSY0poRVZsS2lZaWhrNDlyd1pDLWMtSEJqN2VrN1pxV2NzTDhkZnNLTjJRWVR5bjdTVlJFc1RrNGtyMnpnNndkUk12dXN1U1N1TkNZbVdlQ1BxZDROTXlrSHZkNkhubnRzVkNLODNxM3F2WGQweTRSWi1xX2h0Vm9MMG9N?oc=5
+
+🚨 Bambu Lab H3C: Manufacturer Confirms Tool Changer with Nine Tools; Unveiling on November 3, 2026 - 3Druck.com
+Bambu Lab H3C: Manufacturer Confirms Tool Changer with Nine Tools; Unveiling on November 3, 2026 3Druck.com
+Reported by Google News - Tool and Nozzle Changers on Oct 23, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlplWnhXR0JULWg3ZVhXdWdCU3JQTW0zTTNkMHNrWXVzME5Qd251RDB0YTRPbHdXQnZreFZWVEpkVFFLSlJoZ21Ed1ZicnE1MUQ4b05CdlBIRjQ0VVlYNE1HUldvVWw3Q2ktbFc1WHBUbzFzamxPZEI2RFF2U0hxYmtIQzlGcUtId1hXNms4dFJyLV9EZWNCcm9DRzJHUVhUWmNCTk1sV1JRcGVmdmI2TU1TeWF6VW00bGExTTZxUjQ0Rm9HQ2tVTHBZaWh5RXVjS1dmLVM1S2thWmRLSUtERWRURlJvTTdhUEhNTVJlZ0I1SURWWlZaV041SmwyZw?oc=5
+
+🚨 Making Multi-Color 3D Printing Workflow More Practical With Creality’s K3
+Shenzhen-based 3D printer maker Creality has made its K3, the latest flagship 3D printer in its K Series lineup, available for pre-order at $849 in the United States.
+Recognized as an IFA Innovation Awards 2026 Honoree, the K3 introduces a proprietary four-nozzle system called KliTek that takes a distinctly different approach to multi-color 3D printing.…, reported by 3D Printing Industry on Oct 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Creality-2-150x100.png
+Read more ? https://3dprintingindustry.com/news/making-multi-color-3d-printing-workflow-more-practical-with-crealitys-k3-255959
+
+💻 No More Waiting on Overseas Suppliers: Singapore Fab Gets Ceramic Lift Pins 3D Printed Locally
+Singapore-based additive manufacturing specialist Creatz3D has delivered 600 sets of 3D printed alumina lift pins to a leading global semiconductor foundry after the components achieved full production qualification...
+The company produced the parts using ceramic AM technology from 3DCERAM SINTO, reported by 3D Printing Industry on Oct 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/1789463852646-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/no-more-waiting-on-overseas-suppliers-singapore-fab-gets-ceramic-lift-pins-3d-printed-locally-255949
+
+🖨 Finnish university explores multi-material metal 3D printing with recoater technology
+The investment is being funded through the EUREKA Network AM4Plasma project, which aims to create next-generation plasma generator hardware.
+Reported by TCT Magazine on Oct 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Image-2-model-component.JPG
+Read more ? https://www.tctmagazine.com/finnish-university-explores-multi-material-metal-3d-printing-with-recoater-technology
+
+🖨 Xact Metal achieves record machine orders in Q2 & Q3 2026
+The company has also started taking orders for its XM300G mid-sized metal printer.
+Reported by TCT Magazine on Oct 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Untitled-design--8---1-.png
+Read more ? https://www.tctmagazine.com/xact-metal-achieves-record-machine-orders-in-q2-q3-2026
+
+💻 3D Printed Hydrogel Stretches 1100% for Soft Robots
+Soft robots built to work in delicate, confined environments need materials that are soft, deform a great deal, and can be printed into complex internal shapes.
+DLP 3D printing can produce those shapes, but hydrogels printed this way usually come out stiff and limited in how far they stretch, which constrains what a printed soft…, reported by 3D Printing Industry on Oct 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-23-a-las-1.19.19-p.m-150x100.png
+Read more ? https://3dprintingindustry.com/news/3d-printed-hydrogel-stretches-1100-for-soft-robots-255928
+
+💻 #258 ExOne CEO Eric Bader: 'We're aiming to set new technical benchmarks in binder jetting.'
+AMSIS is a software company that has developed build-preparation technology that analyses heat distribution, flags overheated zones, and optimises exposure strategies.
+Reported by TCT Magazine on Oct 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Additive-Insight-Re-Design--35-.png
+Read more ? https://www.tctmagazine.com/podcasts/258-exone-ceo-eric-bader-were-aim-to-set-new-technical-benchmarks-in-binder-jetting

@@ -2,53 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #292 - 2026-10-26
+### 3D PRINTING PULSE #293 - 2026-10-27
 
-🚨 Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch - Tom's Hardware
-Bambu Lab teases its mysterious H3C tool changer 3D printer — features nine tools and a drop-down rack, slated for November 3 launch Tom's Hardware
-Reported by Google News - 3D Printing on Oct 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi_wFBVV95cUxNX3oyS2VpWWRnVjFkbUhFeW9yYWtPOHFMWDRHclNWRXhpMng2cll6dUhuUWJ3QURreGtnQV9ZMktocDFyNW9iTG9mZjlCaDJVWDZqLXhnWEw4N1N5NVRwaWQ4di04X0JEVG9CYnN3ZEc1dlM1aWIxQzlXQXk2Ry04Z1lfTGkzeGlZWEhuaUJqUzI1U1J6M1B4eVZwaldfMEpqYVBZUHljR2tHQmNYNlFtb00wdjNZcDcwMTUtQVJ5NkExWlVyNU1oTEdiNEgwZndGRVN1Nm1FYlVtcUp3V05NbjVqc3FaZDRPUzdtbFc1OTM3cXVrbWg2SmxtWTNiYmc?oc=5
+🔥 You can now 3D print your own Wicker husband - Creative Bloq
+You can now 3D print your own Wicker husband Creative Bloq
+Reported by Google News - 3D Printing on Oct 26, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck1TWUhrR3pSY0poRVZsS2lZaWhrNDlyd1pDLWMtSEJqN2VrN1pxV2NzTDhkZnNLTjJRWVR5bjdTVlJFc1RrNGtyMnpnNndkUk12dXN1U1N1TkNZbVdlQ1BxZDROTXlrSHZkNkhubnRzVkNLODNxM3F2WGQweTRSWi1xX2h0Vm9MMG9N?oc=5
 
-📷 SHINING 3D hosts global reseller and partner meet-up
-SHINING 3D has held its 2026 Global Reseller & Partner Meeting at its headquarters in Hangzhou, China, bringing together resellers and partners from its international network to discuss 3D metrology technology,...
-The first day of the event, themed “Together Beyond Boundaries”, opened with a presentation of the company’s strategic direction, … The post SHINING 3D hosts global reseller and partner meet-up appeared first on, reported by VoxelMatters on Oct 24, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/SHINING-3D-meeting-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/shining-3d-hosts-global-reseller-and-partner-meet-up
+🚨 Bambu Lab H3C: Manufacturer Confirms Tool Changer with Nine Tools; Unveiling on November 3, 2026 - 3Druck.com
+Bambu Lab H3C: Manufacturer Confirms Tool Changer with Nine Tools; Unveiling on November 3, 2026 3Druck.com
+Reported by Google News - Tool and Nozzle Changers on Oct 23, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlplWnhXR0JULWg3ZVhXdWdCU3JQTW0zTTNkMHNrWXVzME5Qd251RDB0YTRPbHdXQnZreFZWVEpkVFFLSlJoZ21Ed1ZicnE1MUQ4b05CdlBIRjQ0VVlYNE1HUldvVWw3Q2ktbFc1WHBUbzFzamxPZEI2RFF2U0hxYmtIQzlGcUtId1hXNms4dFJyLV9EZWNCcm9DRzJHUVhUWmNCTk1sV1JRcGVmdmI2TU1TeWF6VW00bGExTTZxUjQ0Rm9HQ2tVTHBZaWh5RXVjS1dmLVM1S2thWmRLSUtERWRURlJvTTdhUEhNTVJlZ0I1SURWWlZaV041SmwyZw?oc=5
 
-💻 Freemelt wins $2.9 million order from ESS for tungsten components
-Freemelt has received an order from the European Spallation Source (ESS) to manufacture and deliver 7,000 tungsten-based components, valued at SEK 28 million ($2.8m).
-Deliveries are to be scheduled over a 14-month period, with most planned for 2027, reported by VoxelMatters on Oct 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Freemelt-factory-150x150.jpg
-Read more ? https://www.voxelmatters.com/freemelt-wins-2-9-million-order-from-ess-for-tungsten-components
+🚨 Making Multi-Color 3D Printing Workflow More Practical With Creality’s K3
+Shenzhen-based 3D printer maker Creality has made its K3, the latest flagship 3D printer in its K Series lineup, available for pre-order at $849 in the United States.
+Recognized as an IFA Innovation Awards 2026 Honoree, the K3 introduces a proprietary four-nozzle system called KliTek that takes a distinctly different approach to multi-color 3D printing.…, reported by 3D Printing Industry on Oct 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Creality-2-150x100.png
+Read more ? https://3dprintingindustry.com/news/making-multi-color-3d-printing-workflow-more-practical-with-crealitys-k3-255959
 
-🏠 ORNL and partners win CAMX award for 3D printed nuclear concrete forms
-The Department of Energy’s Oak Ridge National Laboratory and collaborators have received the 2026 CAMX Combined Strength Award for 3D printed composite forms used to shape concrete in nuclear construction.
-The award recognizes team-based approaches to composites challenges, and the reusable forms produced by ORNL and its collaborators can be designed, 3D printed and delivered … The post ORNL and partners win CAMX award, reported by VoxelMatters on Oct 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/ORNL-CAMX-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/ornl-and-partners-win-camx-award-for-3d-printed-nuclear-concrete-forms
+💻 No More Waiting on Overseas Suppliers: Singapore Fab Gets Ceramic Lift Pins 3D Printed Locally
+Singapore-based additive manufacturing specialist Creatz3D has delivered 600 sets of 3D printed alumina lift pins to a leading global semiconductor foundry after the components achieved full production qualification...
+The company produced the parts using ceramic AM technology from 3DCERAM SINTO, reported by 3D Printing Industry on Oct 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/1789463852646-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/no-more-waiting-on-overseas-suppliers-singapore-fab-gets-ceramic-lift-pins-3d-printed-locally-255949
 
-🚀 Davide Marin develops a vatless resin 3D printing prototype
-Davide Marin, an independent engineer based in Montebelluna, in the province of Treviso, Italy, who runs the sole proprietorship I.D.M.
-di Marin Davide, published a video on October 19 showing a working prototype of a vatless resin 3D printer, reported by VoxelMatters on Oct 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/PeelByRoll-mechanism-150x150.png
-Read more ? https://www.voxelmatters.com/davide-marin-develops-a-vatless-resin-3d-printing-prototype
+🖨 Finnish university explores multi-material metal 3D printing with recoater technology
+The investment is being funded through the EUREKA Network AM4Plasma project, which aims to create next-generation plasma generator hardware.
+Reported by TCT Magazine on Oct 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Image-2-model-component.JPG
+Read more ? https://www.tctmagazine.com/finnish-university-explores-multi-material-metal-3d-printing-with-recoater-technology
 
-🚀 HORKOS and Meltio launch NX70 DUO hybrid machining center
-HORKOS CORP, a Japanese machine tool manufacturer, and Spanish developer Meltio have launched the NX70 DUO version AM, a twin-head non-bed machining center that combines metal additive manufacturing and...
-“We are thrilled to launch the NX70 DUO version AM, which seamlessly combines Meltio’s breakthrough Wire-DED technology with HORKOS’s proprietary precision … The post HORKOS and Meltio launch NX70 DUO hybrid, reported by VoxelMatters on Oct 24, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/HORKOS-Meltio-logos-150x150.jpg
-Read more ? https://www.voxelmatters.com/horkos-and-meltio-launch-nx70-duo-hybrid-machining-center
+🖨 Xact Metal achieves record machine orders in Q2 & Q3 2026
+The company has also started taking orders for its XM300G mid-sized metal printer.
+Reported by TCT Magazine on Oct 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Untitled-design--8---1-.png
+Read more ? https://www.tctmagazine.com/xact-metal-achieves-record-machine-orders-in-q2-q3-2026
 
-🏠 AMAXiMAL releases TopMod 3D v3 for AI-assisted 3D modeling
-AMAXiMAL, a company founded by computational designer John Briscella, has released TopMod 3D v3, a free tool for building complex geometry for 3D printing and form exploration.
-Designed for designers, artists, architects, and anyone interested in the intersection of mathematics and 3D modeling, the software runs on iPhone and iPad, where it is available free … The post AMAXiMAL releases, reported by VoxelMatters on Oct 24, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Zrzut-ekranu-2026-10-24-135317-150x150.png
-Read more ? https://www.voxelmatters.com/amaximal-releases-topmod-3d-v3-for-ai-assisted-3d-modeling
+💻 3D Printed Hydrogel Stretches 1100% for Soft Robots
+Soft robots built to work in delicate, confined environments need materials that are soft, deform a great deal, and can be printed into complex internal shapes.
+DLP 3D printing can produce those shapes, but hydrogels printed this way usually come out stiff and limited in how far they stretch, which constrains what a printed soft…, reported by 3D Printing Industry on Oct 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-23-a-las-1.19.19-p.m-150x100.png
+Read more ? https://3dprintingindustry.com/news/3d-printed-hydrogel-stretches-1100-for-soft-robots-255928
 
-🖨 Bambu got greedy, so I finally gave its biggest 3D printer rival a shot - MakeUseOf
-Bambu got greedy, so I finally gave its biggest 3D printer rival a shot MakeUseOf
-Reported by Google News - 3D Printing on Oct 25, 2026.
-Read more ? https://news.google.com/rss/articles/CBMibEFVX3lxTE1PVTdTREVsN2dUcnE2a3dOQlgzd2syQldoV3ZEZHpPRm1fRGZSR3FOX3pRMXVaNV9nelNkVmJ6VU5NQkdOUWtPV3lGOEZRZllVdkU1US12UnM5NDVNMnpad1ZSd1JLdzhmTG9MUA?oc=5
+💻 #258 ExOne CEO Eric Bader: 'We're aiming to set new technical benchmarks in binder jetting.'
+AMSIS is a software company that has developed build-preparation technology that analyses heat distribution, flags overheated zones, and optimises exposure strategies.
+Reported by TCT Magazine on Oct 26, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Additive-Insight-Re-Design--35-.png
+Read more ? https://www.tctmagazine.com/podcasts/258-exone-ceo-eric-bader-were-aim-to-set-new-technical-benchmarks-in-binder-jetting
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
