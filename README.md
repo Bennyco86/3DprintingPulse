@@ -2,53 +2,55 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #293 - 2026-10-27
+### 3D PRINTING PULSE #294 - 2026-10-28
 
-🔥 You can now 3D print your own Wicker husband - Creative Bloq
-You can now 3D print your own Wicker husband Creative Bloq
-Reported by Google News - 3D Printing on Oct 26, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxOck1TWUhrR3pSY0poRVZsS2lZaWhrNDlyd1pDLWMtSEJqN2VrN1pxV2NzTDhkZnNLTjJRWVR5bjdTVlJFc1RrNGtyMnpnNndkUk12dXN1U1N1TkNZbVdlQ1BxZDROTXlrSHZkNkhubnRzVkNLODNxM3F2WGQweTRSWi1xX2h0Vm9MMG9N?oc=5
+🚨 Bambu Lab Prepares to Launch Its First 3D Scanner
+Bambu Lab is preparing to enter the 3D scanning market with the S1, its first device of this type, scheduled for release in November 2026.
+For now, the available information is very limited, reported by 3D Natives on Oct 26, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/10/Photo-by-Snapmaker-3D-Printer-on-Unsplash-7.jpg
+Read more ? https://www.3dnatives.com/en/bambu-lab-first-3d-scanner-27102026
 
-🚨 Bambu Lab H3C: Manufacturer Confirms Tool Changer with Nine Tools; Unveiling on November 3, 2026 - 3Druck.com
-Bambu Lab H3C: Manufacturer Confirms Tool Changer with Nine Tools; Unveiling on November 3, 2026 3Druck.com
-Reported by Google News - Tool and Nozzle Changers on Oct 23, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUlplWnhXR0JULWg3ZVhXdWdCU3JQTW0zTTNkMHNrWXVzME5Qd251RDB0YTRPbHdXQnZreFZWVEpkVFFLSlJoZ21Ed1ZicnE1MUQ4b05CdlBIRjQ0VVlYNE1HUldvVWw3Q2ktbFc1WHBUbzFzamxPZEI2RFF2U0hxYmtIQzlGcUtId1hXNms4dFJyLV9EZWNCcm9DRzJHUVhUWmNCTk1sV1JRcGVmdmI2TU1TeWF6VW00bGExTTZxUjQ0Rm9HQ2tVTHBZaWh5RXVjS1dmLVM1S2thWmRLSUtERWRURlJvTTdhUEhNTVJlZ0I1SURWWlZaV041SmwyZw?oc=5
+💻 Meshy Takes Hermes Agent From Chat to Slicer With New 3D Generation and Printing Plugin
+AI 3D multimodal model company Meshy has released an official plugin for Hermes Agent, the open-source AI assistant developed by Nous Research.
+With the plugin, users can generate 3D models, rig and animate humanoid characters, and prepare files for 3D printing by describing what they want in a conversation with the assistant, reported by 3D Printing Industry on Oct 27, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/meshy-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/meshy-takes-hermes-agent-from-chat-to-slicer-with-new-3d-generation-and-printing-plugin-255973
 
-🚨 Making Multi-Color 3D Printing Workflow More Practical With Creality’s K3
-Shenzhen-based 3D printer maker Creality has made its K3, the latest flagship 3D printer in its K Series lineup, available for pre-order at $849 in the United States.
-Recognized as an IFA Innovation Awards 2026 Honoree, the K3 introduces a proprietary four-nozzle system called KliTek that takes a distinctly different approach to multi-color 3D printing.…, reported by 3D Printing Industry on Oct 26, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Creality-2-150x100.png
-Read more ? https://3dprintingindustry.com/news/making-multi-color-3d-printing-workflow-more-practical-with-crealitys-k3-255959
+🖨 University of Turku advances multi-material metal 3D printing
+The University of Turku in Finland has installed a Schaeffler Aerosint SPD2.1-B5 multi-material recoater on its Aconity MIDI+ metal 3D printer, an upgrade that extends the system from single-material processing to...
+AM4Plasma, a EUREKA Network project coordinated by the university and supported by Business Finland’s Co-Innovation program to … The post University of Turku advances multi-material metal 3D printing appeared first, reported by VoxelMatters on Oct 27, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Turku-Finland-metal-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/university-of-turku-advances-multi-material-metal-3d-printing
 
-💻 No More Waiting on Overseas Suppliers: Singapore Fab Gets Ceramic Lift Pins 3D Printed Locally
-Singapore-based additive manufacturing specialist Creatz3D has delivered 600 sets of 3D printed alumina lift pins to a leading global semiconductor foundry after the components achieved full production qualification...
-The company produced the parts using ceramic AM technology from 3DCERAM SINTO, reported by 3D Printing Industry on Oct 26, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/1789463852646-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/no-more-waiting-on-overseas-suppliers-singapore-fab-gets-ceramic-lift-pins-3d-printed-locally-255949
+🖨 Solukon sets new benchmark for depowdering large metal 3D-printed parts with SFM-AT850
+Metal additive manufacturing has grown quickly in the large-format segment.
+The SFM-AT850 responds with a clear increase in capacity, reported by TCT Magazine on Oct 27, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/PM_AT850_2026_Front.jpg
+Read more ? https://www.tctmagazine.com/solukon-sets-new-benchmark-for-depowdering-large-metal-3d-printed-parts-with-sfm-at850
 
-🖨 Finnish university explores multi-material metal 3D printing with recoater technology
-The investment is being funded through the EUREKA Network AM4Plasma project, which aims to create next-generation plasma generator hardware.
-Reported by TCT Magazine on Oct 26, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Image-2-model-component.JPG
-Read more ? https://www.tctmagazine.com/finnish-university-explores-multi-material-metal-3d-printing-with-recoater-technology
+🖨 Kratos expands metal 3D printing capacity with AMCM M 8K system
+Kratos Defense & Security Solutions, Inc., is set to install an AMCM M 8K metal additive manufacturing (AM) system from EOS to support the development of hypersonic technologies.The large-format, multi-laser powder...
+Reported by TCT Magazine on Oct 27, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/AMCM-M-8K.png
+Read more ? https://www.tctmagazine.com/kratos-expands-metal-3d-printing-capacity-with-amcm-m-8k-system
 
-🖨 Xact Metal achieves record machine orders in Q2 & Q3 2026
-The company has also started taking orders for its XM300G mid-sized metal printer.
-Reported by TCT Magazine on Oct 26, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Untitled-design--8---1-.png
-Read more ? https://www.tctmagazine.com/xact-metal-achieves-record-machine-orders-in-q2-q3-2026
+🖨 Switching Lattice Shape Quadruples Load Capacity of 3D Printed Resin Auxetic Structures
+Researchers at Vellore Institute of Technology (VIT) in Tamil Nadu, India, found that changing the cell shape of a resin 3D printed auxetic lattice raised its peak load roughly fourfold and its energy absorption...
+Published as an Article in Press in Scientific Reports, the study…, reported by 3D Printing Industry on Oct 27, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-26-a-las-2.43.07-p.m-150x100.png
+Read more ? https://3dprintingindustry.com/news/switching-lattice-shape-quadruples-load-capacity-of-3d-printed-resin-auxetic-structures-255966
 
-💻 3D Printed Hydrogel Stretches 1100% for Soft Robots
-Soft robots built to work in delicate, confined environments need materials that are soft, deform a great deal, and can be printed into complex internal shapes.
-DLP 3D printing can produce those shapes, but hydrogels printed this way usually come out stiff and limited in how far they stretch, which constrains what a printed soft…, reported by 3D Printing Industry on Oct 26, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-23-a-las-1.19.19-p.m-150x100.png
-Read more ? https://3dprintingindustry.com/news/3d-printed-hydrogel-stretches-1100-for-soft-robots-255928
+🖨 AML3D wins ARCEMY X order from Northrop Grumman
+AML3D has received an order worth about A$2.2 million ($1.54m) from Northrop Grumman Marine Systems for a large-scale ARCEMY X metal additive manufacturing system, its first order from the U.S.
+Navy prime contractor, reported by VoxelMatters on Oct 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2025/04/2025-04-16-AML3D-Largest-ARCEMY-Online-at-AUSTAL-USA-1024x640-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/aml3d-wins-arcemy-x-order-from-northrop-grumman
 
-💻 #258 ExOne CEO Eric Bader: 'We're aiming to set new technical benchmarks in binder jetting.'
-AMSIS is a software company that has developed build-preparation technology that analyses heat distribution, flags overheated zones, and optimises exposure strategies.
-Reported by TCT Magazine on Oct 26, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/Additive-Insight-Re-Design--35-.png
-Read more ? https://www.tctmagazine.com/podcasts/258-exone-ceo-eric-bader-were-aim-to-set-new-technical-benchmarks-in-binder-jetting
+🖨 Anycubic opens Thingiverse’s model library to its printer users
+Consumer 3D printer manufacturer Anycubic has signed an exclusive partnership with Thingiverse that gives Anycubic users access to the platform’s library of more than 2 million 3D models.
+A dedicated collaboration section on Makeronline is scheduled to go live on November 17, reported by VoxelMatters on Oct 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Anycubic-Thingiverse-collaboration-150x150.jpg
+Read more ? https://www.voxelmatters.com/anycubic-opens-thingiverses-model-library-to-its-printer-users
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
