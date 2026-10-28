@@ -2,55 +2,52 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #294 - 2026-10-28
+### 3D PRINTING PULSE #295 - 2026-10-29
 
-🚨 Bambu Lab Prepares to Launch Its First 3D Scanner
-Bambu Lab is preparing to enter the 3D scanning market with the S1, its first device of this type, scheduled for release in November 2026.
-For now, the available information is very limited, reported by 3D Natives on Oct 26, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/10/Photo-by-Snapmaker-3D-Printer-on-Unsplash-7.jpg
-Read more ? https://www.3dnatives.com/en/bambu-lab-first-3d-scanner-27102026
+🚨 Bambu Lab P3C 3D Printer Revealed in Certification Photos - All3DP
+Bambu Lab P3C 3D Printer Revealed in Certification Photos All3DP
+Reported by Google News - 3D Printing on Oct 27, 2026.
+Read more ? https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEdmLUxFS3FIQzlIWndIN3Y4dXBnR3ZoS21FUG12T2dHSG1MS0dmZ0ZsazFPOHoyNFItTk0xajM3dE1GSHVuN3VoSTBwNndMZndWYjdJR0FkU1RDMFR4Mi10U2N4NU5qa1pPcktXU2lCMFpDNUdxZW5ZUUFCQXVlNVlIMG9aUQ?oc=5
 
-💻 Meshy Takes Hermes Agent From Chat to Slicer With New 3D Generation and Printing Plugin
-AI 3D multimodal model company Meshy has released an official plugin for Hermes Agent, the open-source AI assistant developed by Nous Research.
-With the plugin, users can generate 3D models, rig and animate humanoid characters, and prepare files for 3D printing by describing what they want in a conversation with the assistant, reported by 3D Printing Industry on Oct 27, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/meshy-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/meshy-takes-hermes-agent-from-chat-to-slicer-with-new-3d-generation-and-printing-plugin-255973
+📷 SHINING 3D’s OptimScan Q9 cuts mold trials to under a week
+Danyang Sanyou Optoelectronic Equipment Co., Ltd.
+has shortened its mold-trial cycle for automotive lighting optics from two to three weeks to less than one week after adopting SHINING 3D’s OptimScan Q9 fixed fringe projection 3D scanner, reported by VoxelMatters on Oct 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Shining-3D-OptimScan-Q9-high-precision-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/shining-3ds-optimscan-q9-cuts-mold-trials-to-under-a-week
 
-🖨 University of Turku advances multi-material metal 3D printing
-The University of Turku in Finland has installed a Schaeffler Aerosint SPD2.1-B5 multi-material recoater on its Aconity MIDI+ metal 3D printer, an upgrade that extends the system from single-material processing to...
-AM4Plasma, a EUREKA Network project coordinated by the university and supported by Business Finland’s Co-Innovation program to … The post University of Turku advances multi-material metal 3D printing appeared first, reported by VoxelMatters on Oct 27, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Turku-Finland-metal-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/university-of-turku-advances-multi-material-metal-3d-printing
+💻 Tripo CMO Sienna Hwang on the rise of the 3D generation
+Sienna Huang was 23 when Simon Song, the Founder and CEO of Tripo AI, asked her to join him in starting a company that would make 3D creation accessible to everyone.
+Song had co-founded Chinese AI company MiniMax after working at SenseTime, reported by VoxelMatters on Oct 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Tripothon-SF20261012-222514-150x150.jpg
+Read more ? https://www.voxelmatters.com/tripo-cmo-sienna-hwang-on-the-rise-of-the-3d-generation
 
-🖨 Solukon sets new benchmark for depowdering large metal 3D-printed parts with SFM-AT850
-Metal additive manufacturing has grown quickly in the large-format segment.
-The SFM-AT850 responds with a clear increase in capacity, reported by TCT Magazine on Oct 27, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/PM_AT850_2026_Front.jpg
-Read more ? https://www.tctmagazine.com/solukon-sets-new-benchmark-for-depowdering-large-metal-3d-printed-parts-with-sfm-at850
+💻 Phase3D builds new Fringe Inspection hardware for OEM integration
+Phase3D has introduced a new generation of its Fringe Inspection system, purpose-built hardware designed for OEMs to build into laser powder bed fusion machines.
+The Chicago-based company explained that the product came out of a multi-year development project and moves it away from an architecture assembled from off-the-shelf components, reported by VoxelMatters on Oct 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Phase3d-Fringe-Inspection-LPBF-hardware-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration
 
-🖨 Kratos expands metal 3D printing capacity with AMCM M 8K system
-Kratos Defense & Security Solutions, Inc., is set to install an AMCM M 8K metal additive manufacturing (AM) system from EOS to support the development of hypersonic technologies.The large-format, multi-laser powder...
-Reported by TCT Magazine on Oct 27, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/AMCM-M-8K.png
-Read more ? https://www.tctmagazine.com/kratos-expands-metal-3d-printing-capacity-with-amcm-m-8k-system
+💻 Lithoz to debut 'Performance Pack' for ceramic 3D printing
+The kit, which combines doubled light intensity with a 60% boost in resolution, is said to expand the capabilities of its Lithography-based Ceramic Manufacturing technology.
+Reported by TCT Magazine on Oct 28, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/LITHOZ_116-AlN-cooling-plates_on-S320-buildplatform.png
+Read more ? https://www.tctmagazine.com/lithoz-to-debut-performance-pack-for-ceramic-3d-printing
 
-🖨 Switching Lattice Shape Quadruples Load Capacity of 3D Printed Resin Auxetic Structures
-Researchers at Vellore Institute of Technology (VIT) in Tamil Nadu, India, found that changing the cell shape of a resin 3D printed auxetic lattice raised its peak load roughly fourfold and its energy absorption...
-Published as an Article in Press in Scientific Reports, the study…, reported by 3D Printing Industry on Oct 27, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/Captura-de-pantalla-2026-10-26-a-las-2.43.07-p.m-150x100.png
-Read more ? https://3dprintingindustry.com/news/switching-lattice-shape-quadruples-load-capacity-of-3d-printed-resin-auxetic-structures-255966
+💻 (Add)liance network confirms European AM Summit 2027 in Barcelona in January
+(Add)liance, the non-profit alliance of European additive manufacturing organizations, will hold the European AM Summit 2027 in Barcelona, Spain, on January 27 and 28, 2027.
+Registrations are now open on the event’s website, europeanamsummit.eu, reported by VoxelMatters on Oct 28, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/WpXN6GOzwFyqMatRRvEHaZb9Yg-150x150.jpg
+Read more ? https://www.voxelmatters.com/addliance-network-confirms-european-am-summit-2027-in-barcelona-in-january
 
-🖨 AML3D wins ARCEMY X order from Northrop Grumman
-AML3D has received an order worth about A$2.2 million ($1.54m) from Northrop Grumman Marine Systems for a large-scale ARCEMY X metal additive manufacturing system, its first order from the U.S.
-Navy prime contractor, reported by VoxelMatters on Oct 26, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2025/04/2025-04-16-AML3D-Largest-ARCEMY-Online-at-AUSTAL-USA-1024x640-1-150x150.jpg
-Read more ? https://www.voxelmatters.com/aml3d-wins-arcemy-x-order-from-northrop-grumman
+🖨 With 45% Revenue Growth & a New 3D Printer, BigRep Returns to Private Ownership
+BigRep GmbH has been on a bit of a roller coaster recently, but with this latest news, I’m hoping that means the ride has stopped.
+Reporting approximately 45% revenue growth, reported by 3DPrint.com on Oct 28, 2026.
+Read more ? https://3dprint.com/335491/with-45-revenue-growth-a-new-3d-printer-bigrep-is-back-to-private-ownership
 
-🖨 Anycubic opens Thingiverse’s model library to its printer users
-Consumer 3D printer manufacturer Anycubic has signed an exclusive partnership with Thingiverse that gives Anycubic users access to the platform’s library of more than 2 million 3D models.
-A dedicated collaboration section on Makeronline is scheduled to go live on November 17, reported by VoxelMatters on Oct 26, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Anycubic-Thingiverse-collaboration-150x150.jpg
-Read more ? https://www.voxelmatters.com/anycubic-opens-thingiverses-model-library-to-its-printer-users
+🖨 How AM Funding Shifted in China and the US, 2021–2025
+Additive manufacturing (AM) funding has shifted in China and the United States over the past five years, but in different ways.
+In China, metal 3D printing companies accounted for a, reported by 3DPrint.com on Oct 28, 2026.
+Read more ? https://3dprint.com/335249/how-am-funding-shifted-in-china-and-the-us-2021-2025
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
