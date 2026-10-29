@@ -2,52 +2,51 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #295 - 2026-10-29
+### 3D PRINTING PULSE #296 - 2026-10-30
 
-🚨 Bambu Lab P3C 3D Printer Revealed in Certification Photos - All3DP
-Bambu Lab P3C 3D Printer Revealed in Certification Photos All3DP
-Reported by Google News - 3D Printing on Oct 27, 2026.
-Read more ? https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEdmLUxFS3FIQzlIWndIN3Y4dXBnR3ZoS21FUG12T2dHSG1MS0dmZ0ZsazFPOHoyNFItTk0xajM3dE1GSHVuN3VoSTBwNndMZndWYjdJR0FkU1RDMFR4Mi10U2N4NU5qa1pPcktXU2lCMFpDNUdxZW5ZUUFCQXVlNVlIMG9aUQ?oc=5
+🚨 ELEGOO Unveils All-in-One Smart 3D Scanner M1 Ultra, Delivering Precision and Versatility for Creators - PR Newswire
+ELEGOO Unveils All-in-One Smart 3D Scanner M1 Ultra, Delivering Precision and Versatility for Creators PR Newswire
+Reported by Google News - 3D Scanners on Oct 29, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMlRhOFlpUkpDcVZHV1NLMHlzUTJ1MUJOcHMxenJkbVBGQUoyMG1MWWIxOGhBUXFXcFhlTGtJTXZUUnp0Z1lwVm0tMHVuRXVLcERMSjNOSGwxbFpuTEU3MWlOZ0x0QjZ5QlNFY0l2NFBFdkZmZV9DRHM1RmpZeWlRZEM0Q0hfLVhid190OEl2cnBHcVF4elpra0YxMlRzRXJ5S1FPME9BSzJtRThDRHAyYjdpZmhySDFXbVNSWFhXak5XVEZZbUV1Z2FwV1NKOWVDSWxScmtJd1dTaU85S0J1WGdLdWdnUTZBaUUyQ1JR?oc=5
 
-📷 SHINING 3D’s OptimScan Q9 cuts mold trials to under a week
-Danyang Sanyou Optoelectronic Equipment Co., Ltd.
-has shortened its mold-trial cycle for automotive lighting optics from two to three weeks to less than one week after adopting SHINING 3D’s OptimScan Q9 fixed fringe projection 3D scanner, reported by VoxelMatters on Oct 28, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Shining-3D-OptimScan-Q9-high-precision-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/shining-3ds-optimscan-q9-cuts-mold-trials-to-under-a-week
+🚨 Bambu Lab teases its H3C 3D printer - OC3D
+Bambu Lab teases its H3C 3D printer OC3D
+Reported by Google News - New Printer Releases on Oct 23, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiekFVX3lxTFAydkMtcVdVQ25kejJFbno0NURHbWpMWWlEWjgtdE5uSXVZcmx6WUdISTFCZ1o0ZUwtdEZpNXlJSllJdmIwR09Cd3pQNWo4QVl4WTdDeHdmS0Fmb1NBWXBmWWhjWDdMME9yQnExRTlSMkJtck0zd05KTWRn?oc=5
 
-💻 Tripo CMO Sienna Hwang on the rise of the 3D generation
-Sienna Huang was 23 when Simon Song, the Founder and CEO of Tripo AI, asked her to join him in starting a company that would make 3D creation accessible to everyone.
-Song had co-founded Chinese AI company MiniMax after working at SenseTime, reported by VoxelMatters on Oct 28, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Tripothon-SF20261012-222514-150x150.jpg
-Read more ? https://www.voxelmatters.com/tripo-cmo-sienna-hwang-on-the-rise-of-the-3d-generation
+📷 Automotive Lighting Supplier Cuts Mold Trials to Under a Week with SHINING 3D Scanner
+Automotive lighting component manufacturer Danyang Sanyou Optoelectronic Equipment Co., Ltd.
+has cut its mold trial cycle from about two to three weeks to less than one week since adding the OptimScan Q9, a fixed fringe projection 3D scanner made by SHINING 3D, reported by 3D Printing Industry on Oct 29, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/4-2-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/automotive-lighting-supplier-cuts-mold-trials-to-under-a-week-with-shining-3d-scanner-256033
 
-💻 Phase3D builds new Fringe Inspection hardware for OEM integration
-Phase3D has introduced a new generation of its Fringe Inspection system, purpose-built hardware designed for OEMs to build into laser powder bed fusion machines.
-The Chicago-based company explained that the product came out of a multi-year development project and moves it away from an architecture assembled from off-the-shelf components, reported by VoxelMatters on Oct 28, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/Phase3d-Fringe-Inspection-LPBF-hardware-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/phase3d-builds-new-fringe-inspection-hardware-for-oem-integration
+📷 Elegoo Beats Bambu to the Punch, M1 Ultra 3D Scanner Available to Preorder and Shipping Soon - All3DP
+Elegoo Beats Bambu to the Punch, M1 Ultra 3D Scanner Available to Preorder and Shipping Soon All3DP
+Reported by Google News - 3D Printing on Oct 29, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiswFBVV95cUxPU281cGdRU2NzMkhGVnFJeUpJM2xrUFFZbzF0YWNpdVRleTRkWVVLSzdlU3FnMjlRTGh4LTFOd2pYUzJoN2FkN19SMXlPd3laNk9TUFhQcWRtWk9FeVhLWVFEQlpremR0S0VDTTRiQUFNaHFEOXpIbktpbFhfYXRPZVN3ZFNSNF9SR3ExQWM0YVJScVFFRXVLMlY3WVZnbnFzbnZxMjh4eDlaaXFpOS1qQ1UtNA?oc=5
 
-💻 Lithoz to debut 'Performance Pack' for ceramic 3D printing
-The kit, which combines doubled light intensity with a 60% boost in resolution, is said to expand the capabilities of its Lithography-based Ceramic Manufacturing technology.
-Reported by TCT Magazine on Oct 28, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/LITHOZ_116-AlN-cooling-plates_on-S320-buildplatform.png
-Read more ? https://www.tctmagazine.com/lithoz-to-debut-performance-pack-for-ceramic-3d-printing
+💻 Sandia Cuts Lead Time from 6 Months to 1 Week With 3D Printing
+Sandia National Laboratories has shared early results from its Center for Advanced Manufacturing and Innovation (CAMINO), the facility that opened earlier this year to help the lab meet its national security missions...
+According to CAMINO manager Mohan Karulkar, the center used additive manufacturing (AM) to deliver parts to an internal team in one…, reported by 3D Printing Industry on Oct 29, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/CA20154ld-768x512-1-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/sandia-cuts-lead-time-from-6-months-to-1-week-with-3d-printing-256015
 
-💻 (Add)liance network confirms European AM Summit 2027 in Barcelona in January
-(Add)liance, the non-profit alliance of European additive manufacturing organizations, will hold the European AM Summit 2027 in Barcelona, Spain, on January 27 and 28, 2027.
-Registrations are now open on the event’s website, europeanamsummit.eu, reported by VoxelMatters on Oct 28, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/10/WpXN6GOzwFyqMatRRvEHaZb9Yg-150x150.jpg
-Read more ? https://www.voxelmatters.com/addliance-network-confirms-european-am-summit-2027-in-barcelona-in-january
+♻️ Aim 3D targets aviation with Ultem pellet printing || Picture 1 / 4 - ETMM
+Aim 3D targets aviation with Ultem pellet printing || Picture 1 / 4 ETMM
+Reported by Google News - 3D Printing on Oct 29, 2026.
+Read more ? https://news.google.com/rss/articles/CBMitwFBVV95cUxNSjV0M21DMzhmSU5lSERySlpCenI3Q1E3VnFoVTVQSDhzdWoyMkx4VENqcEpCTS04NmVVbnNqT0RnS3p0Z2o0LVZqclB2cnhvbzJuRG8yaWZJNllxS1FKbDRCd0RfSXZaSDJwZ18yeFpDYU5MNy01TGJlNWc2b3BEODNSV2hJZ1B3MldqNDA1U25Od1hwQS1Lb3k2bDlScm5xakRZWmJBX1h4NUltdy0tRFVHMDRwM0E?oc=5
 
-🖨 With 45% Revenue Growth & a New 3D Printer, BigRep Returns to Private Ownership
-BigRep GmbH has been on a bit of a roller coaster recently, but with this latest news, I’m hoping that means the ride has stopped.
-Reporting approximately 45% revenue growth, reported by 3DPrint.com on Oct 28, 2026.
-Read more ? https://3dprint.com/335491/with-45-revenue-growth-a-new-3d-printer-bigrep-is-back-to-private-ownership
+🖨 Stratasys teases new 'high-volume production' 3D printer
+The machine name and tech specs will be revealed in Frankfurt next month.
+Reported by TCT Magazine on Oct 29, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/10/F870.png
+Read more ? https://www.tctmagazine.com/stratasys-teases-new-high-volume-production-3d-printer
 
-🖨 How AM Funding Shifted in China and the US, 2021–2025
-Additive manufacturing (AM) funding has shifted in China and the United States over the past five years, but in different ways.
-In China, metal 3D printing companies accounted for a, reported by 3DPrint.com on Oct 28, 2026.
-Read more ? https://3dprint.com/335249/how-am-funding-shifted-in-china-and-the-us-2021-2025
+🖨 CMS To Debut Krearob Robotic Large-Format 3D Printer at Formnext with Up to 80% Material Savings
+Italian machinery manufacturer CMS SpA will present its Krearob robotic large format additive manufacturing (LFAM) system at Formnext in Frankfurt.
+This will be the system’s first appearance at the trade show, and CMS plans live demonstrations at Hall 12.0, Stand D51, reported by 3D Printing Industry on Oct 29, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/10/krearob_2_5@2x-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/cms-to-debut-krearob-robotic-large-format-3d-printer-at-formnext-with-up-to-80-material-savings-256021
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
