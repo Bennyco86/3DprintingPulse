@@ -1,0 +1,43 @@
+# Quality3Ds Daily 3D Printing News - 2026-11-02
+
+## Stories
+
+🚨 Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more — deep cuts across company's 3D printer and filament lineup - Tom's Hardware
+Bambu Lab's Black Friday sale cuts up to $300 on the flagship H2C printer and more — deep cuts across company's 3D printer and filament lineup Tom's Hardware
+Reported by Google News - 3D Printing on Nov 01, 2026.
+Read more ? https://news.google.com/rss/articles/CBMijgJBVV95cUxQeWFadmVhWTB1enYzZUR3bGNQSm5ERm5yYXNzLUxsekNIVVZiSU9mWlNQX0g2UmFleGNjVDVJdFQ1TXVsRnJ0QTIyU0JKeVpBR3NOTFNnWjVhd2lNZUg1TGtvNjJOdXpjTzl2WnYzZGRjWklYTGxxSU5MOU81RWxsbGtab29Yd0NqeGg2b2xLOVB5WldYd0ZBQ2ZOZVBRN3ZEUnItMEE3TjJNcXBCTVQzY1pOMU9MTEt5RUVWQVNYTEpiSHg5aG5hbXRib0FFUWk3d1RwNU15NU5HZ1M0WHFVRm5xdnh2UzNYNy1FdURWdWViV1J4ZjRDcFVnM0I5VFEtMm9PQVV0ZmV0Rk1pLWc?oc=5
+
+💻 3D Printed Cosplay Steals the Show at L.A. Comic Con
+Superhero armor, fantasy swords, sci-fi helmets, and costumes that look like they came straight out of a movie.
+Los Angeles Comic Con is full of them this Halloween weekend, and, reported by 3DPrint.com on Nov 01, 2026.
+Read more ? https://3dprint.com/335951/3d-printed-cosplay-steals-the-show-at-l-a-comic-con
+
+🖨 This cool self-locking watch display case costs around $55, but you need a 3D printer - Notebookcheck
+This cool self-locking watch display case costs around $55, but you need a 3D printer Notebookcheck
+Reported by Google News - 3D Printing on Nov 01, 2026.
+Read more ? https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWQ5dThqS09rUXJyRVdyMjFyY1c2NXR4VmJ6Tl91OTZ1TE92ekpteEROWFoyTVFfa09FYkRYemRNcnJSZC1pWmZlZ2ZtVzZWLUJmN29YVVFydXVlX3RsaHVQcERzNlpzdWtsdVoxYUlPOVdVSkZPcXpKenpLN2txbm1WRnFxbDV6cWpKbkdXS3hPRHFZUG1PSVExeFdzS3hRMVcyOVlKaTV3bEhlSzUwSmNGNzV0bHMzMTBsVEJ3eGNMTmpESV9j?oc=5
+
+🖨 This brilliant budget 3D printer is the one I'd buy if I were getting into the hobby - Creative Bloq
+This brilliant budget 3D printer is the one I'd buy if I were getting into the hobby Creative Bloq
+Reported by Google News - 3D Printing on Nov 01, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZW9TVUNSWko4VUdqNzR2NnhLT2lMRFkzMG03UmtyQkFxUlhDWHoxeUY0YVZBaUFEei1JRWZQZ09FSzAyY3pXZnFCd1Q5a0VZX0JzcjZOZERha1hVSnpVYVZsbVZubzFLSURZd3VuUzQwUWdQd1d1bFNrWTV5eWJhTFNfSFd2VXR6MkRMdDFqRjlhSEZQQThmS2tiZzBPeUNKaVFNdDhhZXJvMEJwV3RyU09UOFMtYU9HV0tvQncwdks?oc=5
+
+🖨 5 Expensive Hobbies Where Owning A 3D Printer Actually Saves You Money - Engadget
+5 Expensive Hobbies Where Owning A 3D Printer Actually Saves You Money Engadget
+Reported by Google News - 3D Printing on Nov 01, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRzNCUkZVQlBlZTMtTDlrV3p6UEd2MVVoYVdyRHZDNlRUVjBDOUZ1ejh2dE01bkE4RkV3ajZUZ3hWUWptcnBtYlhSNGk0NXpkaGNpdTBIempBSzFCM3p2ZUJZaXVTM0Q5ZGpDUFFPLVN4ZG9HNFZnWGcwbDJ4SVduUWtrSzBKUEtSa2Q4?oc=5
+
+🖨 Nylon Filament for 3D Printing Market Forecast to 2035, Driven by Automotive Lightweighting and Functional Part Production - IndexBox
+Nylon Filament for 3D Printing Market Forecast to 2035, Driven by Automotive Lightweighting and Functional Part Production IndexBox
+Reported by Google News - 3D Printing on Oct 31, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTlJ0SVh5akZOdXg0RU9uMUNOYWR1Y0FFbHF0Z0ItSnRXd0tIT2hTSWZlQ2FjR014b1RqNDc1bjhoMkF4ZzJiNzVqdnlFdnNlakwzcDNDMVFoOTBsTjYwZW1oRkhvQW9HLVJQMFRiV3pxTmlYbUNkS3BQMDd2Rms2M0lVWWQ1czRiU0dBQVJQb1h4bWQ0aXhCMHNRcnQ5ODFqTHNMUXpDcGJ5ZlNxaXVSRk9VVHp2cHdKYVYzRTQ5OGdfT1FXdXVMYW8yWl9aMVFjMVY5bE4zMFJDc1J1MldMb1F6Q2l2Zw?oc=5
+
+🖨 Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off — save $70 on one of the best 3D printers for beginners - Tom's Hardware
+Grab the award-winning Bambu Lab P1S 3D printer with AMS for $70 off — save $70 on one of the best 3D printers for beginners Tom's Hardware
+Reported by Google News - 3D Printing on Oct 31, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUXlxbERzTUd4dmJuSThFVmFCWXpVRWV2NkJMTlgwQmVGaGxCNGJuX1hqazdMMG8xZGxnZThuVTRXWFhBbDdqR1V1VlVNejNWQnhRQllFd2hhSEVyam9HSmM3RnR0cnJGblZ1Y1BETjhraGc0WnVIa0JDbTlaMWd1b1ZYNW1wVTRHR0JOTmxCMHpmSXJQWGtEb0dBME1MMWh2Mm9JUlB1azVqUVRTN0hPenU4bkRsQnRQRlpabXFYRk1ET2M5Z2JVYlhPNnpobC1iSUhJWmZDRFFIdnppZjhqSHhnQ3RVc05LQXF0NHVrLVZ0Mjg3ZnUyRG02UHlGUQ?oc=5
+
+🖨 Prague Firefighters 3D Print Their Own Gear on a Prusa CORE One L - https://3dprinting.com/
+Prague Firefighters 3D Print Their Own Gear on a Prusa CORE One L https://3dprinting.com/
+Reported by Google News - 3D Printing on Oct 31, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXY1MEloSFZacDdfRW04WWRaSS16SDA5YTA5VkhsdUNzbTN4NlRoMHVaMEpTazhnVFM4NUV6UmhzejJGaWZkM29DdXRRX2lWOTJBMWxvRjR5TmVjUEZPYnZQX2hxaXZQTDY1TnpJajFYUjg0dDJGcXFYcks3a0NqenRPZUVCdTlTVEN2SVBHLWI1ZkQzWjJKUlBR?oc=5
