@@ -1,0 +1,45 @@
+# Quality3Ds Daily 3D Printing News - 2026-11-06
+
+## Stories
+
+🔥 I ordered my wedding band online, but first I got to try on a 3D-printed version - Business Insider
+I ordered my wedding band online, but first I got to try on a 3D-printed version Business Insider
+Reported by Google News - 3D Printing on Nov 05, 2026.
+Read more ? https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXI0OEdXQWg3VmVYQVdacW9iRHpkd2dSOU5PM0duaGRqbjFSa21Ha2VBWWlZemJZM2V5UVpHSlBYeW5yY0F5MlFkczJyMXVDWXVhbTBtSWl2UFoyVTlQem1XZi1vTllUQ3FwRHRBQjdGR0llaUw5eEU5dXN1Tkppc0w3VTVzb2RGWFBsUm53aEo3Z0hVX3c?oc=5
+
+🚨 Bambu Lab Launches the H3C, a Nine-Tool Changer Priced From $2,499 - https://3dprinting.com/
+Bambu Lab Launches the H3C, a Nine-Tool Changer Priced From $2,499 https://3dprinting.com/
+Reported by Google News - New Printer Releases on Nov 03, 2026.
+Read more ? https://news.google.com/rss/articles/CBMingFBVV95cUxNOTduV1lQUjhlUjBsc0dqQjItQXNFY2Z1T184VURnVTkwUF84U2wzWHNSekFLcXNfZFBwY2pyUTB1b0M5SkdacWk5SkdsTnJaaUVDQzBtWGpaMmt4S3hlVUN1U2taOG9sdEl3RU8yRFJ4ZXlGa2EtSkZyZlhERHo2Y2lESHB6UE84ZXB2TkR6VkdZdTB2M3Rvc0JVNmQxdw?oc=5
+
+💻 3D Printing Financials: 3D Systems Still Posting Losses, But Sees 2027 Tailwinds
+3D Systems announced in August that Dr.
+Jeff Graves, the company’s CEO since early 2020, is planning to retire, and Joris Peels wrote an excellent post at the time of, reported by 3DPrint.com on Nov 05, 2026.
+Read more ? https://3dprint.com/336169/3d-printing-financials-3d-systems-still-posting-losses-but-sees-2027-tailwinds
+
+🖨 From Invention to Industrialization: The Next Era of Additive Manufacturing
+The next phase of AM will not be defined simply by faster 3D printers or larger build volumes, writes 3D Systems' Colin Blain, it will be defined by the maturation of additive into a repeatable, validated and...
+Reported by TCT Magazine on Nov 05, 2026.
+Read more ? https://www.tctmagazine.com/from-invention-to-industrialization-the-next-era-of-additive-manufacturing
+
+🖨 Phase3D introduces next-generation Fringe Inspection hardware for LPBF 3D printing
+Chicago-based additive manufacturing inspection technology developer Phase3D has introduced a new generation of its Fringe Inspection platform, featuring purpose-built hardware designed for integration into laser...
+Developed over several years, the new hardware replaces Phase3D’s previous reliance on off-the-shelf components with a custom architecture designed specifically for LPBF inspection, reported by 3D Printing Industry on Nov 05, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/image-1-150x100.png
+Read more ? https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229
+
+🖨 Voting opens for the 2026 3D Printing Industry Awards: Meet this year’s nominees
+Voting opens for the 2026 3D Printing Industry Awards: Meet this year’s nominees The finalists for the 2026 3D Printing Industry Awards have been announced, and voting is now open.
+From industrial metal additive manufacturing and desktop 3D printing to breakthrough research, sustainability, and the people shaping the industry, this year’s shortlist reflects the breadth…, reported by 3D Printing Industry on Nov 04, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/2026-3DPI-Awards-Vote-Now-150x100.png
+Read more ? https://3dprintingindustry.com/news/voting-opens-for-the-2026-3d-printing-industry-awards-meet-this-years-nominees-256219
+
+🖨 The AM Production Gap Is Real. So Is the Progress
+Additive manufacturing (AM) has become very good at proving what is possible.
+Companies can print complex metal parts, reduce weight, combine multiple components into one, and produce designs that are, reported by 3DPrint.com on Nov 05, 2026.
+Read more ? https://3dprint.com/336114/the-am-production-gap-is-real-so-is-the-progress
+
+🖨 Beyond the Prototype: How TPM3D Is Putting Industrial SLS to Work on the Factory Floor
+A structural component for an autonomous police patrol vehicle in Dubai went from weighing 27 kilograms to just four.
+Delivery time dropped from seven days to two, reported by 3DPrint.com on Nov 05, 2026.
+Read more ? https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls
