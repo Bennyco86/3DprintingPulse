@@ -2,49 +2,52 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #303 - 2026-11-06
+### 3D PRINTING PULSE #304 - 2026-11-07
 
-🔥 I ordered my wedding band online, but first I got to try on a 3D-printed version - Business Insider
-I ordered my wedding band online, but first I got to try on a 3D-printed version Business Insider
-Reported by Google News - 3D Printing on Nov 05, 2026.
-Read more ? https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXI0OEdXQWg3VmVYQVdacW9iRHpkd2dSOU5PM0duaGRqbjFSa21Ha2VBWWlZemJZM2V5UVpHSlBYeW5yY0F5MlFkczJyMXVDWXVhbTBtSWl2UFoyVTlQem1XZi1vTllUQ3FwRHRBQjdGR0llaUw5eEU5dXN1Tkppc0w3VTVzb2RGWFBsUm53aEo3Z0hVX3c?oc=5
+🔥 Sinterit winds down manufacturing after bankruptcy filing - 3d adept
+Sinterit winds down manufacturing after bankruptcy filing 3d adept
+Reported by Google News - 3D Printing on Nov 06, 2026.
+Read more ? https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHpMY1NUTXpBLVhnRnZYOFEtcmtjY0F5TW16UEJJWHVaSElNRl9vOVh4eGUzVEM4SmMzR1hPZVd5UXVxNlJhLUs0MGZyUGdFSWc1YXNxYkxnV0lxZVY4MW1YQzhBOHVaWDVDTFJheEVycnNfRllfWkgtY2M4cUJ2a3IxVEg?oc=5
 
-🚨 Bambu Lab Launches the H3C, a Nine-Tool Changer Priced From $2,499 - https://3dprinting.com/
-Bambu Lab Launches the H3C, a Nine-Tool Changer Priced From $2,499 https://3dprinting.com/
-Reported by Google News - New Printer Releases on Nov 03, 2026.
-Read more ? https://news.google.com/rss/articles/CBMingFBVV95cUxNOTduV1lQUjhlUjBsc0dqQjItQXNFY2Z1T184VURnVTkwUF84U2wzWHNSekFLcXNfZFBwY2pyUTB1b0M5SkdacWk5SkdsTnJaaUVDQzBtWGpaMmt4S3hlVUN1U2taOG9sdEl3RU8yRFJ4ZXlGa2EtSkZyZlhERHo2Y2lESHB6UE84ZXB2TkR6VkdZdTB2M3Rvc0JVNmQxdw?oc=5
+🚨 Bambu Lab launches H3C desktop 3D printer with nine-tool capability
+The company expects the printer to eliminate 'long-standing compromises' between speed, reliability, and multi-material capability.
+Reported by TCT Magazine on Nov 03, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Core-Tech_Swaptek----9-Tools.jpg
+Read more ? https://www.tctmagazine.com/bambu-lab-launches-h3c-desktop-3d-printer-with-nine-tool-capability
 
-💻 3D Printing Financials: 3D Systems Still Posting Losses, But Sees 2027 Tailwinds
-3D Systems announced in August that Dr.
-Jeff Graves, the company’s CEO since early 2020, is planning to retire, and Joris Peels wrote an excellent post at the time of, reported by 3DPrint.com on Nov 05, 2026.
-Read more ? https://3dprint.com/336169/3d-printing-financials-3d-systems-still-posting-losses-but-sees-2027-tailwinds
+📷 Elegoo M1 Ultra review: A good first entry into the scanner market - Tom's Hardware
+Elegoo M1 Ultra review: A good first entry into the scanner market Tom's Hardware
+Reported by Google News - 3D Printing on Nov 06, 2026.
+Read more ? https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3Mxa2FMQUQyaXFIWGY2dVpZbzNVczQ3RTlFQU9xUUQxOFRIdHViaGlOZ195WDM5aTZNM0RzQ212NkJiYnVRUjdZcFVYRHFhWlJVNXY4akQzTmNIT1JjVk5zaXNoUzRaQm9UTmgybzYzcmZQSENOU29Rd0M4VFU0SA?oc=5
 
-🖨 From Invention to Industrialization: The Next Era of Additive Manufacturing
-The next phase of AM will not be defined simply by faster 3D printers or larger build volumes, writes 3D Systems' Colin Blain, it will be defined by the maturation of additive into a repeatable, validated and...
-Reported by TCT Magazine on Nov 05, 2026.
-Read more ? https://www.tctmagazine.com/from-invention-to-industrialization-the-next-era-of-additive-manufacturing
+💻 Additive Manufacturing Simulation, Monitoring, Inspection, & More at Formnext 2026
+Formnext 2026 is getting closer, and we’re already seeing lots of 3D printing industry news ahead of the trade show in Frankfurt.
+In this pre-event roundup, we’ll tell you about, reported by 3DPrint.com on Nov 06, 2026.
+Read more ? https://3dprint.com/336309/additive-manufacturing-simulation-monitoring-inspection-more-at-formnext-2026
 
-🖨 Phase3D introduces next-generation Fringe Inspection hardware for LPBF 3D printing
-Chicago-based additive manufacturing inspection technology developer Phase3D has introduced a new generation of its Fringe Inspection platform, featuring purpose-built hardware designed for integration into laser...
-Developed over several years, the new hardware replaces Phase3D’s previous reliance on off-the-shelf components with a custom architecture designed specifically for LPBF inspection, reported by 3D Printing Industry on Nov 05, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/image-1-150x100.png
-Read more ? https://3dprintingindustry.com/news/phase3d-introduces-next-generation-fringe-inspection-hardware-for-lpbf-3d-printing-256229
+🖨 Pulsed Arc 3D Printing Produces Meter-Tall Titanium Single Crystals
+A group of researchers from institutions in China and the United States has 3D printed titanium alloy single crystals that reach a meter in height.
+Large single crystals have typically been out of reach for metal additive manufacturing (metal AM), and the study, published in Nature, describes a way past that barrier, reported by 3D Printing Industry on Nov 06, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/3d-printing-process-cr-1-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242
 
-🖨 Voting opens for the 2026 3D Printing Industry Awards: Meet this year’s nominees
-Voting opens for the 2026 3D Printing Industry Awards: Meet this year’s nominees The finalists for the 2026 3D Printing Industry Awards have been announced, and voting is now open.
-From industrial metal additive manufacturing and desktop 3D printing to breakthrough research, sustainability, and the people shaping the industry, this year’s shortlist reflects the breadth…, reported by 3D Printing Industry on Nov 04, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/2026-3DPI-Awards-Vote-Now-150x100.png
-Read more ? https://3dprintingindustry.com/news/voting-opens-for-the-2026-3d-printing-industry-awards-meet-this-years-nominees-256219
+🖨 From Foot Scan to Sandal: Arkema and Carbon Expand Collaboration on 3D Printed Elastomers
+Chemical company Arkema and 3D printer manufacturer Carbon have strengthened a collaboration that now spans more than 13 years.
+They are pitching their combined materials and production expertise as a way for brands to bring 3D printed footwear, sporting goods and other consumer products to market, reported by 3D Printing Industry on Nov 06, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/1793806009631-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers-256259
 
-🖨 The AM Production Gap Is Real. So Is the Progress
-Additive manufacturing (AM) has become very good at proving what is possible.
-Companies can print complex metal parts, reduce weight, combine multiple components into one, and produce designs that are, reported by 3DPrint.com on Nov 05, 2026.
-Read more ? https://3dprint.com/336114/the-am-production-gap-is-real-so-is-the-progress
+🖨 HP and Hyperion Partner on 3D Printed Tungsten Carbide Production with Metal Jet
+HP Additive Manufacturing and Hyperion Materials & Technologies have signed a Strategic Preferred Partner Agreement to bring tungsten carbide (WC) additive manufacturing (AM) into commercial use.
+Announced in Barcelona on October 28, the deal pairs HP’s Metal Jet binder jetting platform with Hyperion’s WC sintering and finishing operations, reported by 3D Printing Industry on Nov 06, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/hp-hyperion-tungsten-carbide-binder-jet-partnershi-1-150x100.webp
+Read more ? https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246
 
-🖨 Beyond the Prototype: How TPM3D Is Putting Industrial SLS to Work on the Factory Floor
-A structural component for an autonomous police patrol vehicle in Dubai went from weighing 27 kilograms to just four.
-Delivery time dropped from seven days to two, reported by 3DPrint.com on Nov 05, 2026.
-Read more ? https://3dprint.com/336168/3d-printing-can-make-the-impossible-tpm3d-is-focused-on-making-it-practical-with-industrial-sls
+📰 3D Printed Microneedles Meet Hanji in Breathable Patch for Drug Delivery and Uric Acid Sensing
+A team at Jeonbuk National University (JBNU) has built a wearable patch on traditional Korean mulberry paper (hanji).
+It carries 3D printed microneedles for drug delivery and printed electrodes that wirelessly track uric acid in sweat, reported by 3D Printing Industry on Nov 06, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/JBNUU_51_5_JBNUU_51_Infographic_final-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
