@@ -2,52 +2,50 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #304 - 2026-11-07
+### 3D PRINTING PULSE #305 - 2026-11-08
 
-🔥 Sinterit winds down manufacturing after bankruptcy filing - 3d adept
-Sinterit winds down manufacturing after bankruptcy filing 3d adept
+🚨 Bambu Lab H3C Launches With 9 PrintTools for $2,499
+Bambu Lab has plenty of new developments to share with the industry!
+After unveiling its R1 laser cutter and announcing the upcoming release of its first 3D scanner, the company is once again turning its attention to 3D printing with…, reported by 3D Natives on Nov 03, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/bambu-lab-h2c-cover.jpg
+Read more ? https://www.3dnatives.com/en/bambu-lab-h3c-03112026
+
+💻 Mosquito Dreams Part 4: Airbus Finally Makes Sense
+An iconic cafe chair helped usher in an era of composite manufacturing and bent wood.
+The resulting Mosquito bomber, fighter, multirole everything, was an enormous success, reported by 3DPrint.com on Nov 06, 2026.
+Read more ? https://3dprint.com/332026/mosquito-dreams-part-4-airbus-finally-makes-sense
+
+🦺 restor3d Moves Velora Hip Cup to Full Commercial Release and Completes First Identity KA Knee Cases
+US orthopedic company restor3d is putting its Velora Acetabular System into full commercial release this month.
+Velora is a 3D printed titanium hip cup that has finished its limited market release, reported by 3D Printing Industry on Nov 06, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/restor3d_AAHKS2026_BusinessWire_Graphic_2-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases-256256
+
+🚀 Machine Learning Predicts Wire Arc 3D Printed Aluminum Strength
+Wire arc additive manufacturing (WAAM) has become an important metal additive manufacturing (metal AM) method for large structural parts, offering fast deposition, efficient material use and flexible robotic setups.
+With aluminum, though, part quality depends heavily on process settings, reported by 3D Printing Industry on Nov 06, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Kit-robotico-ABB-con-muestras-de-soldadura-150x100.png
+Read more ? https://3dprintingindustry.com/news/machine-learning-predicts-wire-arc-3d-printed-aluminum-strength-256249
+
+🖨 Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live — early discounts mean you can score up to 54% off filament and resin machines, perfect for pro hobbyists and beginners - Tom's Hardware
+Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live — early discounts mean you can score up to 54% off filament and resin machines, perfect for pro hobbyists and...
+Reported by Google News - 3D Printing on Nov 07, 2026.
+Read more ? https://news.google.com/rss/articles/CBMi_gJBVV95cUxQV1g4QWo5T2xDSDVyUU45WTdXNFpWLUo5aURyZ3B6ZHp0V1I2R0l6MjIxS2pQU3BtZ1RsbDdLRG9XRDV1Y3NGZVYzYlRYeFFacHQxLXFsV1JsRDNYM0tPZTd1bnF6VEtKQWxuZmV0MERsdTl3WWlISjNoVEw1VF9iNXBWYjVPY1hwM0lvUWRQR3J3WUU1TU1NMTlMRmt3Q1pzVjg5X09qZ2lUZW9pZjZGX2wwRnkwV1VGSzA5Y1pMQUgxeF9YcnRnMzBnYTFXamdrakFDM0J4dFdzakdBazFkSVZBTUFfWEc1aEpXZE9LS1owdzFzQ2FPelI2TVBpb01fY2VRdzctNFZIU2s2MmxJeXA4SVNzdm9VUVJ3ZzNqdzl2d0dfYnhqSnFPTFZUYnRqdlhvVS1wTGttRmJ6LTdra2VCYVRjLWlyU3FGMWFMbjNqZ2w3VnRfNUs3WEJNMmlGMTR3aThuUHh4dW1tdmxXbzFaM3JpVnpsaTlReGFR?oc=5
+
+🖨 The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday - IGN
+The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday IGN
 Reported by Google News - 3D Printing on Nov 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMihAFBVV95cUxOeHpMY1NUTXpBLVhnRnZYOFEtcmtjY0F5TW16UEJJWHVaSElNRl9vOVh4eGUzVEM4SmMzR1hPZVd5UXVxNlJhLUs0MGZyUGdFSWc1YXNxYkxnV0lxZVY4MW1YQzhBOHVaWDVDTFJheEVycnNfRllfWkgtY2M4cUJ2a3IxVEg?oc=5
+Read more ? https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT01ZdDZHVkRQcm53bm1vVDMxalFsUFlpcThIbEZqaHk0aUp0RlJVSEJ3RmRpN1RGdmoxRVB0VGF5WFVKVkJsY0s0Rl9GN3g5TnVQMG9OMWF5bTdESTViVkx3cFoyVkdUOXhGSkpoNlJDXzJJcTJsTTVYV0FWOWpVSnhROEpVUjkzUWdJ?oc=5
 
-🚨 Bambu Lab launches H3C desktop 3D printer with nine-tool capability
-The company expects the printer to eliminate 'long-standing compromises' between speed, reliability, and multi-material capability.
-Reported by TCT Magazine on Nov 03, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Core-Tech_Swaptek----9-Tools.jpg
-Read more ? https://www.tctmagazine.com/bambu-lab-launches-h3c-desktop-3d-printer-with-nine-tool-capability
-
-📷 Elegoo M1 Ultra review: A good first entry into the scanner market - Tom's Hardware
-Elegoo M1 Ultra review: A good first entry into the scanner market Tom's Hardware
+🖨 The FlashForge AD5X Multi-Color 3D Printer Drops Below $200 for the First Time Ever Ahead of Black Friday - IGN
+The FlashForge AD5X Multi-Color 3D Printer Drops Below $200 for the First Time Ever Ahead of Black Friday IGN
 Reported by Google News - 3D Printing on Nov 06, 2026.
-Read more ? https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3Mxa2FMQUQyaXFIWGY2dVpZbzNVczQ3RTlFQU9xUUQxOFRIdHViaGlOZ195WDM5aTZNM0RzQ212NkJiYnVRUjdZcFVYRHFhWlJVNXY4akQzTmNIT1JjVk5zaXNoUzRaQm9UTmgybzYzcmZQSENOU29Rd0M4VFU0SA?oc=5
+Read more ? https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQldaOGJmcUExZ1FlLTNRaU4xNTBhU1BMOFhHbU40VERwUkpwTFJKSlotRld0V3dIXzdCc1NNQW9OR1hOMlh2Y0s3VW1PQkdtWFpfaGtDZndqT3hqa29qS1VQbFJqdjhxRFE2cV9qc0poNUQxYmRucVJxQl83Mjg?oc=5
 
-💻 Additive Manufacturing Simulation, Monitoring, Inspection, & More at Formnext 2026
-Formnext 2026 is getting closer, and we’re already seeing lots of 3D printing industry news ahead of the trade show in Frankfurt.
-In this pre-event roundup, we’ll tell you about, reported by 3DPrint.com on Nov 06, 2026.
-Read more ? https://3dprint.com/336309/additive-manufacturing-simulation-monitoring-inspection-more-at-formnext-2026
-
-🖨 Pulsed Arc 3D Printing Produces Meter-Tall Titanium Single Crystals
-A group of researchers from institutions in China and the United States has 3D printed titanium alloy single crystals that reach a meter in height.
-Large single crystals have typically been out of reach for metal additive manufacturing (metal AM), and the study, published in Nature, describes a way past that barrier, reported by 3D Printing Industry on Nov 06, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/3d-printing-process-cr-1-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/pulsed-arc-3d-printing-produces-meter-tall-titanium-single-crystals-256242
-
-🖨 From Foot Scan to Sandal: Arkema and Carbon Expand Collaboration on 3D Printed Elastomers
-Chemical company Arkema and 3D printer manufacturer Carbon have strengthened a collaboration that now spans more than 13 years.
-They are pitching their combined materials and production expertise as a way for brands to bring 3D printed footwear, sporting goods and other consumer products to market, reported by 3D Printing Industry on Nov 06, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/1793806009631-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/from-foot-scan-to-sandal-arkema-and-carbon-expand-collaboration-on-3d-printed-elastomers-256259
-
-🖨 HP and Hyperion Partner on 3D Printed Tungsten Carbide Production with Metal Jet
-HP Additive Manufacturing and Hyperion Materials & Technologies have signed a Strategic Preferred Partner Agreement to bring tungsten carbide (WC) additive manufacturing (AM) into commercial use.
-Announced in Barcelona on October 28, the deal pairs HP’s Metal Jet binder jetting platform with Hyperion’s WC sintering and finishing operations, reported by 3D Printing Industry on Nov 06, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/hp-hyperion-tungsten-carbide-binder-jet-partnershi-1-150x100.webp
-Read more ? https://3dprintingindustry.com/news/hp-and-hyperion-partner-on-3d-printed-tungsten-carbide-production-with-metal-jet-256246
-
-📰 3D Printed Microneedles Meet Hanji in Breathable Patch for Drug Delivery and Uric Acid Sensing
-A team at Jeonbuk National University (JBNU) has built a wearable patch on traditional Korean mulberry paper (hanji).
-It carries 3D printed microneedles for drug delivery and printed electrodes that wirelessly track uric acid in sweat, reported by 3D Printing Industry on Nov 06, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/JBNUU_51_5_JBNUU_51_Infographic_final-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/3d-printed-microneedles-meet-hanji-in-breathable-patch-for-drug-delivery-and-uric-acid-sensing-256253
+🖨 Claude and a 3D printer are an absurdly useful combination - MakeUseOf
+Claude and a 3D printer are an absurdly useful combination MakeUseOf
+Reported by Google News - 3D Printing on Nov 06, 2026.
+Read more ? https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNThoejNTYkh3Wk5kdUV0RkJDcElaZXNuNUQwREtZNkZHMWpYRmZuUW5qMy1hV21TSEwtdGZ5ZXdHR2VSVDVhWmNLRGJOb09HNmlzVzdvVlR0OVA2d2FqZU9uUjczbHc1OGtYR05RcmRlQUd6amdON2FMVGE?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
