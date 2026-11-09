@@ -1,48 +1,52 @@
-﻿# 3D PRINTING PULSE #305 - 2026-11-08
+﻿# 3D PRINTING PULSE #307 - 2026-11-10
 
-🚨 Bambu Lab H3C Launches With 9 PrintTools for $2,499
-Bambu Lab has plenty of new developments to share with the industry!
-After unveiling its R1 laser cutter and announcing the upcoming release of its first 3D scanner, the company is once again turning its attention to 3D printing with…, reported by 3D Natives on Nov 03, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/bambu-lab-h2c-cover.jpg
-🔗 Read more: https://www.3dnatives.com/en/bambu-lab-h3c-03112026
+🔥 Sinterit under court supervision as printer production winds down
+Polish selective laser sintering 3D printer manufacturer Sinterit has come under the control of a temporary court supervisor, as of October 28.
+The appointment followed a bankruptcy petition the company filed in July, and the firm is now winding down production while working with the court on ways to keep its service, consulting and sales … The post Sinterit, reported by VoxelMatters on Nov 09, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/01/sinterit-CMF-1-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/sinterit-under-court-supervision-as-printer-production-winds-down
 
-💻 Mosquito Dreams Part 4: Airbus Finally Makes Sense
-An iconic cafe chair helped usher in an era of composite manufacturing and bent wood.
-The resulting Mosquito bomber, fighter, multirole everything, was an enormous success, reported by 3DPrint.com on Nov 06, 2026.
-🔗 Read more: https://3dprint.com/332026/mosquito-dreams-part-4-airbus-finally-makes-sense
+📷 Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners! - Notebookcheck
+Revopoint Black Friday Sale Is Here — Save Up to 50% on 3D Scanners!
+Reported by Google News - 3D Printing on Nov 09, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMirgFBVV95cUxPNXFVNlVoQlNPYzhXWXluamdjSlJUcHk0eklXWGJ0ZjdiUmhDMERWX3FQQ255azdvLXc1OHpjM3hUNm5lZ3Baei1lVnhMZE02ZkoybC1NbVFxeGVaS2pRUjJ1RWlieDZXUGtVTTJ4a2dNbmdIRzhZbmR6c1A3OE41RHM1ekx5c0ExRmZnbVlCSHhkcVJ6ZFYyVGREdTl3dEZVY0dkNVBuVU4yVHo4c0E?oc=5
 
-🦺 restor3d Moves Velora Hip Cup to Full Commercial Release and Completes First Identity KA Knee Cases
-US orthopedic company restor3d is putting its Velora Acetabular System into full commercial release this month.
-Velora is a 3D printed titanium hip cup that has finished its limited market release, reported by 3D Printing Industry on Nov 06, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/restor3d_AAHKS2026_BusinessWire_Graphic_2-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/restor3d-moves-velora-hip-cup-to-full-commercial-release-and-completes-first-identity-ka-knee-cases-256256
+💻 #259 How ATDM is addressing the US Submarine Industrial Base skills gap
+Accelerated Training in Defence Manufacturing is a 16-week program is designed to prepare workers for careers in advanced manufacturing, with a primary focus on the Submarine Industrial Base.
+Reported by TCT Magazine on Nov 09, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Additive-Insight-Re-Design--37-.png
+🔗 Read more: https://www.tctmagazine.com/podcasts/259-how-atdm-is-addressing-the-us-submarine-industrial-base-skills-gap
 
-🚀 Machine Learning Predicts Wire Arc 3D Printed Aluminum Strength
-Wire arc additive manufacturing (WAAM) has become an important metal additive manufacturing (metal AM) method for large structural parts, offering fast deposition, efficient material use and flexible robotic setups.
-With aluminum, though, part quality depends heavily on process settings, reported by 3D Printing Industry on Nov 06, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/Kit-robotico-ABB-con-muestras-de-soldadura-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/machine-learning-predicts-wire-arc-3d-printed-aluminum-strength-256249
+♻️ Polymaker and Rapid Fusion Partner on Large-Format 3D Printing With Glass Fiber PETG Pellets
+Materials manufacturer Polymaker has partnered with Rapid Fusion, a UK-based developer of large-format additive manufacturing (LFAM) systems.
+The agreement took effect at the start of 2026 and adds Rapid Fusion to Polymaker’s PolyCore Hardware Partner network, reported by 3D Printing Industry on Nov 09, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/polymaker-rapid-fusion-cover-150x100.webp
+🔗 Read more: https://3dprintingindustry.com/news/polymaker-and-rapid-fusion-partner-on-large-format-3d-printing-with-glass-fiber-petg-pellets-256270
 
-🖨 Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live — early discounts mean you can score up to 54% off filament and resin machines, perfect for pro hobbyists and beginners - Tom's Hardware
-Grab a new Elegoo 3D printer from as little as $159 right now, thanks to Black Friday sale, now live — early discounts mean you can score up to 54% off filament and resin machines, perfect for pro hobbyists and...
-Reported by Google News - 3D Printing on Nov 07, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi_gJBVV95cUxQV1g4QWo5T2xDSDVyUU45WTdXNFpWLUo5aURyZ3B6ZHp0V1I2R0l6MjIxS2pQU3BtZ1RsbDdLRG9XRDV1Y3NGZVYzYlRYeFFacHQxLXFsV1JsRDNYM0tPZTd1bnF6VEtKQWxuZmV0MERsdTl3WWlISjNoVEw1VF9iNXBWYjVPY1hwM0lvUWRQR3J3WUU1TU1NMTlMRmt3Q1pzVjg5X09qZ2lUZW9pZjZGX2wwRnkwV1VGSzA5Y1pMQUgxeF9YcnRnMzBnYTFXamdrakFDM0J4dFdzakdBazFkSVZBTUFfWEc1aEpXZE9LS1owdzFzQ2FPelI2TVBpb01fY2VRdzctNFZIU2s2MmxJeXA4SVNzdm9VUVJ3ZzNqdzl2d0dfYnhqSnFPTFZUYnRqdlhvVS1wTGttRmJ6LTdra2VCYVRjLWlyU3FGMWFMbjNqZ2w3VnRfNUs3WEJNMmlGMTR3aThuUHh4dW1tdmxXbzFaM3JpVnpsaTlReGFR?oc=5
+🖨 DIAL 3D prints thick, functional inks at voxel resolution
+Researchers at Northwestern University have developed a hybrid 3D printing method called direct ink additive lithography (DIAL), built to print thick, particle-filled extrusion inks at speeds and resolutions closer...
+The work, led by Pranav Kaarthik, was published in Science Advances, reported by VoxelMatters on Nov 09, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/DIAL-method-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/dial-3d-prints-thick-functional-inks-at-voxel-resolution
 
-🖨 The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday - IGN
-The Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to a Mere $131 Ahead of Black Friday IGN
-Reported by Google News - 3D Printing on Nov 06, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT01ZdDZHVkRQcm53bm1vVDMxalFsUFlpcThIbEZqaHk0aUp0RlJVSEJ3RmRpN1RGdmoxRVB0VGF5WFVKVkJsY0s0Rl9GN3g5TnVQMG9OMWF5bTdESTViVkx3cFoyVkdUOXhGSkpoNlJDXzJJcTJsTTVYV0FWOWpVSnhROEpVUjkzUWdJ?oc=5
+🖨 Velo3D &amp; Sandia National Laboratories announce five-year metal 3D printing research partnership
+The two organisations signed a Cooperative Research and Development Agreement (CRADA) in January 2026.
+Reported by TCT Magazine on Nov 09, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Velo-3D-Sapphire-C_Original-1024x683.png
+🔗 Read more: https://www.tctmagazine.com/velo3d-sandia-national-laboratories-announce-five-year-metal-3d-printing-research-partnership
 
-🖨 The FlashForge AD5X Multi-Color 3D Printer Drops Below $200 for the First Time Ever Ahead of Black Friday - IGN
-The FlashForge AD5X Multi-Color 3D Printer Drops Below $200 for the First Time Ever Ahead of Black Friday IGN
-Reported by Google News - 3D Printing on Nov 06, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMif0FVX3lxTE5sQldaOGJmcUExZ1FlLTNRaU4xNTBhU1BMOFhHbU40VERwUkpwTFJKSlotRld0V3dIXzdCc1NNQW9OR1hOMlh2Y0s3VW1PQkdtWFpfaGtDZndqT3hqa29qS1VQbFJqdjhxRFE2cV9qc0poNUQxYmRucVJxQl83Mjg?oc=5
+🖨 AXILOOP’s New MC8 Desktop 3D Printer Built Around Eight Independent Toolheads
+Picture a product designer preparing a four-color prototype for a client review.
+On a single-nozzle machine, every color change means unloading one filament, loading the next, and pushing plastic through the nozzle until the old color clears, reported by 3D Printing Industry on Nov 09, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/10/mmexport1792679131135-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/axiloops-new-mc8-desktop-3d-printer-built-around-eight-independent-toolheads-256110
 
-🖨 Claude and a 3D printer are an absurdly useful combination - MakeUseOf
-Claude and a 3D printer are an absurdly useful combination MakeUseOf
-Reported by Google News - 3D Printing on Nov 06, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNThoejNTYkh3Wk5kdUV0RkJDcElaZXNuNUQwREtZNkZHMWpYRmZuUW5qMy1hV21TSEwtdGZ5ZXdHR2VSVDVhWmNLRGJOb09HNmlzVzdvVlR0OVA2d2FqZU9uUjczbHc1OGtYR05RcmRlQUd6amdON2FMVGE?oc=5
+💻 Snowbird Technology reports cost savings on 4 parts 3D printed during RIMPAC 2026 exercise
+Snowbird Technologies has recorded significant cost savings with the additive manufacture of several components during RIMPAC 2026.The company utilised its SAMM Tech deployable hybrid manufacturing system to print...
+Reported by TCT Magazine on Nov 09, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Snowbird_Essex_Post.png
+🔗 Read more: https://www.tctmagazine.com/snowbird-technology-reports-cost-savings-on-4-parts-3d-printed-during-rimpac-2026-exercise
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Big conversation driver today: "Bambu Lab H3C Launches With 9 PrintTools for $2,499" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Source: https://www.3dnatives.com/en/bambu-lab-h3c-03112026 | Complete rundown: https://www.quality3ds.com/
+The story setting the tone today is "Sinterit under court supervision as printer production winds down" because it highlights where practical 3D printing innovation is moving next. Read it here: https://www.voxelmatters.com/sinterit-under-court-supervision-as-printer-production-winds-down | Full pulse: https://www.quality3ds.com/
