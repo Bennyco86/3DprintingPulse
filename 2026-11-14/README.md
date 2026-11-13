@@ -1,0 +1,50 @@
+# Quality3Ds Daily 3D Printing News - 2026-11-14
+
+## Stories
+
+🚨 Raise3D launches new FDM 3D printers ahead of Formnext
+The T450 and T700 machines share the same tech platform, are both equipped with an actively heated build chamber and feature build volumes of 450 × 350 × 400 mm and 700 × 500 × 1,000 mm, respectively.
+Reported by TCT Magazine on Nov 13, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/assets_MS2031777_000001_20261110062559EST_image_1.png
+Read more ? https://www.tctmagazine.com/raise3d-launches-new-fdm-3d-printers-ahead-of-formnext
+
+📷 Einstar EZ GO: Your First AI-Powered Mobile 3D Scanner - develop3d
+Einstar EZ GO: Your First AI-Powered Mobile 3D Scanner develop3d
+Reported by Google News - 3D Scanners on Nov 13, 2026.
+Read more ? https://news.google.com/rss/articles/CBMickFVX3lxTE1JNDVJN1JuNGJwOGhhTWo2c3kxSnpUYkRfT25tRVBzV2t2UnRucmE0dV94ejJOdXFUcHA1V0Y5eWlfVlkyUTVsVmJDNF92MEVmSEdndjV6Xzh4OTlkRC1BN2luUVhfbUItYlhLMTRVT3dxUQ?oc=5
+
+💻 VulcanForms raises $500m to accelerate manufacturing expansion
+VulcanForms says the investment marks a 'significant milestone in the company's transition from breakthrough manufacturing technology to industrial-scale production.'
+Reported by TCT Magazine on Nov 13, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/printer-grid-1.png
+Read more ? https://www.tctmagazine.com/vulcanforms-raises-500m-to-accelerate-manufacturing-expansion
+
+🖨 ATLIX to Showcase xBUILD 5000 and Robotic Automation at Formnext 2026
+ATLIX, a metal additive manufacturing systems provider, will present its complete machine portfolio, customer applications and an automation concept at Formnext 2026 in Frankfurt from 17 to 20 November, marking its...
+A central display will focus on the xBUILD 5000, the manufacturer’s production-scale laser lowder…, reported by 3D Printing Industry on Nov 13, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/ATLIX_Formnext_booth_xBUILD5000-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/atlix-to-showcase-xbuild-5000-and-robotic-automation-at-formnext-2026-256543
+
+🖨 PPprint Introduces Flexible P-TPO 835 Filament for Polypropylene 3D Printing
+PPprint GmbH, a company offering polypropylene materials and accessories for extrusion-based 3D printing, has introduced P-TPO 835 flex, a flexible filament for soft, adaptable and impact-resistant parts.
+Listed properties include low weight, chemical resistance, strong layer adhesion, recyclability, no water absorption and sterilizability, reported by 3D Printing Industry on Nov 13, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Filament-flex-black-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing-256460
+
+🖨 AltForm to Debut Expandable ZENIT Modular DED Cells for Titanium and Aluminum Parts at Formnext 2026
+Italian metal additive manufacturing (metal AM) and laser systems maker AltForm will introduce ZENIT Modular at Formnext 2026 in Frankfurt.
+ZENIT Modular is a family of Directed Energy Deposition (DED) cells in three sizes, from 2 x 2 m to 4 x 4 m, reported by 3D Printing Industry on Nov 13, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Print_Brilliance_400_background_industrial-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/altform-to-debut-expandable-zenit-modular-ded-cells-for-titanium-and-aluminum-parts-at-formnext-2026-256572
+
+🖨 InfiMech Brings Up to Eight Independent Printheads to Desktop 3D Printing with Its MX Series
+Multi-color printing has become a highly sought-after feature in desktop FDM 3D printers.
+On most machines, however, every color change wastes time and plastic, reported by 3D Natives on Nov 12, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/InfiMech-cover.jpg
+Read more ? https://www.3dnatives.com/en/infimech-mx-series-12112026
+
+📰 iAM Marketplace to demonstrate injection molding with RG 3280 printed tooling at Formnext 2026
+Live polypropylene molding and examples of dissolvable xMOLD tooling will show how printed molds can support product development in intended thermoplastics.
+iAM Marketplace will demonstrate injection molding with 3D printed Ultracur3D RG 3280 tooling at Formnext 2026, using an APSX-PIM V3 to mold polypropylene parts, reported by 3D Printing Industry on Nov 13, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/RG3280-MD-Electronik-Molds-150x100.png
+Read more ? https://3dprintingindustry.com/news/iam-marketplace-to-demonstrate-injection-molding-with-rg-3280-printed-tooling-at-formnext-2026-256615

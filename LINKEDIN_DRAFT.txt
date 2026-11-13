@@ -1,52 +1,52 @@
-﻿# 3D PRINTING PULSE #310 - 2026-11-13
+﻿# 3D PRINTING PULSE #311 - 2026-11-14
 
-🚨 Creality Launches mBox 3D Printer for Children: Technical Specifications and Pricing
-Creality has released mBox, a desktop 3D printer that children operate themselves.
-It is aimed at young users between 6 and 16 who like drawing, block building, model making, DIY projects or technology, whether they print alone or with a parent, reported by 3D Printing Industry on Nov 12, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/assets_MS2030484_000001_20261109062848EST_image_4-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/creality-launches-mbox-3d-printer-for-children-technical-specifications-and-pricing-256411
+🚨 Raise3D launches new FDM 3D printers ahead of Formnext
+The T450 and T700 machines share the same tech platform, are both equipped with an actively heated build chamber and feature build volumes of 450 × 350 × 400 mm and 700 × 500 × 1,000 mm, respectively.
+Reported by TCT Magazine on Nov 13, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/assets_MS2031777_000001_20261110062559EST_image_1.png
+🔗 Read more: https://www.tctmagazine.com/raise3d-launches-new-fdm-3d-printers-ahead-of-formnext
 
-🚨 SHINING 3D’s Latest EINSTAR EZ GO Aims to Cut the Learning Curve for 3D Scanning
-Chinese 3D scanner manufacturer SHINING 3D has launched the EINSTAR EZ GO, a wireless handheld 3D scanner that pairs with a phone or tablet.
-It can also operate without an additional high-performance computer when scanning through a mobile device, reported by 3D Printing Industry on Nov 12, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/ez-go-pr-图-03-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/shining-3ds-latest-einstar-ez-go-aims-to-cut-the-learning-curve-for-3d-scanning-256532
+📷 Einstar EZ GO: Your First AI-Powered Mobile 3D Scanner - develop3d
+Einstar EZ GO: Your First AI-Powered Mobile 3D Scanner develop3d
+Reported by Google News - 3D Scanners on Nov 13, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMickFVX3lxTE1JNDVJN1JuNGJwOGhhTWo2c3kxSnpUYkRfT25tRVBzV2t2UnRucmE0dV94ejJOdXFUcHA1V0Y5eWlfVlkyUTVsVmJDNF92MEVmSEdndjV6Xzh4OTlkRC1BN2luUVhfbUItYlhLMTRVT3dxUQ?oc=5
 
-🚨 Raise3D Closes $15 Million Round and Introduces T450 and T700 Large-Format 3D Printers - https://3dprinting.com/
-Raise3D Closes $15 Million Round and Introduces T450 and T700 Large-Format 3D Printers https://3dprinting.com/
-Reported by Google News - 3D Printing on Nov 10, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUxmbW94bXJsQWRzaE5kNVkyOGU1eEVTRDAyMnl0T1ZYSTA5OXdQVDBCajhyelZwTm1BTUR2cTE4WWprWDdMLXhnQnpkLVhyQWliTWJDRzR1VzY5MkxoNGxCYWZBT19kN2NhV1pLblZNZHdIbDQ0MmQ3RlFHMmVrcDgteGc0U1hzc0ozdkJYNjQ3a3JiRE1ubjhQSXp1Z1VhQkZGWGQ4QlVkR0FoakVXVzlZM3k?oc=5
+💻 VulcanForms raises $500m to accelerate manufacturing expansion
+VulcanForms says the investment marks a 'significant milestone in the company's transition from breakthrough manufacturing technology to industrial-scale production.'
+Reported by TCT Magazine on Nov 13, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/printer-grid-1.png
+🔗 Read more: https://www.tctmagazine.com/vulcanforms-raises-500m-to-accelerate-manufacturing-expansion
 
-💻 Stratasys &amp; Nano Dimension mutually agree to terminate $42.5m MarkForged acquisition deal
-The companies have said the regulatory process is set to be longer and more expensive than initially anticipated.
-Reported by TCT Magazine on Nov 12, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/mforged.png
-🔗 Read more: https://www.tctmagazine.com/stratasys-nano-dimension-mutually-agree-to-terminate-42-5m-markforged-acquisition-deal
+🖨 ATLIX to Showcase xBUILD 5000 and Robotic Automation at Formnext 2026
+ATLIX, a metal additive manufacturing systems provider, will present its complete machine portfolio, customer applications and an automation concept at Formnext 2026 in Frankfurt from 17 to 20 November, marking its...
+A central display will focus on the xBUILD 5000, the manufacturer’s production-scale laser lowder…, reported by 3D Printing Industry on Nov 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/ATLIX_Formnext_booth_xBUILD5000-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/atlix-to-showcase-xbuild-5000-and-robotic-automation-at-formnext-2026-256543
 
-🖨 How Formlabs made its $700 3D printer
-"We want to be the global leader in everything we do."
-Reported by TCT Magazine on Nov 12, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Screenshot-2026-11-12-at-16.00.36.png
-🔗 Read more: https://www.tctmagazine.com/formlabs-ceo-max-lobovsky-on-its-700-3d-printer-2
+🖨 PPprint Introduces Flexible P-TPO 835 Filament for Polypropylene 3D Printing
+PPprint GmbH, a company offering polypropylene materials and accessories for extrusion-based 3D printing, has introduced P-TPO 835 flex, a flexible filament for soft, adaptable and impact-resistant parts.
+Listed properties include low weight, chemical resistance, strong layer adhesion, recyclability, no water absorption and sterilizability, reported by 3D Printing Industry on Nov 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/Filament-flex-black-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing-256460
 
-🖨 BCN3D’s Aurora 3D Printer Generates Parts using AI Parametric Design: Technical Specifications and Pricing
-3D printer manufacturer BCN3D has introduced Aurora, an industrial fused filament fabrication (FFF) 3D printer with built-in AI parametric design.
-Aurora’s headline claim is that users need no 3D design to produce a part, reported by 3D Printing Industry on Nov 12, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/aurora_vista-frontal-ligeramente_5jYi7l0Kxe-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/bcn3ds-aurora-3d-printer-generates-parts-using-ai-parametric-design-technical-specifications-and-pricing-256521
+🖨 AltForm to Debut Expandable ZENIT Modular DED Cells for Titanium and Aluminum Parts at Formnext 2026
+Italian metal additive manufacturing (metal AM) and laser systems maker AltForm will introduce ZENIT Modular at Formnext 2026 in Frankfurt.
+ZENIT Modular is a family of Directed Energy Deposition (DED) cells in three sizes, from 2 x 2 m to 4 x 4 m, reported by 3D Printing Industry on Nov 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/Print_Brilliance_400_background_industrial-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/altform-to-debut-expandable-zenit-modular-ded-cells-for-titanium-and-aluminum-parts-at-formnext-2026-256572
 
-🖨 Addivate purchases ARGO 1000 HYPERMELT to expand fleet of ROBOZE 3D printers
-The company is already running four ROBOZE ARGO 500 HYPERSPEED systems, but sees the ARGO 1000 HYPERMELT as a way of expanding the range of applications it can address with additive manufacturing.
-Reported by TCT Magazine on Nov 12, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/img_0729-1-1024x576.png
-🔗 Read more: https://www.tctmagazine.com/addivate-purchases-argo-1000-hypermelt-to-expand-fleet-of-roboze-3d-printers
+🖨 InfiMech Brings Up to Eight Independent Printheads to Desktop 3D Printing with Its MX Series
+Multi-color printing has become a highly sought-after feature in desktop FDM 3D printers.
+On most machines, however, every color change wastes time and plastic, reported by 3D Natives on Nov 12, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/InfiMech-cover.jpg
+🔗 Read more: https://www.3dnatives.com/en/infimech-mx-series-12112026
 
-🖨 Dyndrite LPBF Pro software to run on Xact Metal 3D printers
-The new offering, the partners say, will give customers advanced toolpath control capabilities, including arcs, Bezier curves, and wobble beyond linear moves, as well as delay and skywriting settings and more laser...
-Reported by TCT Magazine on Nov 12, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/653fc84a05bcbe86cf4ccf13_Additive_20cam_201000px--2-.png
-🔗 Read more: https://www.tctmagazine.com/dyndrite-lpbf-pro-software-to-run-on-xact-metal-3d-printers
+📰 iAM Marketplace to demonstrate injection molding with RG 3280 printed tooling at Formnext 2026
+Live polypropylene molding and examples of dissolvable xMOLD tooling will show how printed molds can support product development in intended thermoplastics.
+iAM Marketplace will demonstrate injection molding with 3D printed Ultracur3D RG 3280 tooling at Formnext 2026, using an APSX-PIM V3 to mold polypropylene parts, reported by 3D Printing Industry on Nov 13, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/RG3280-MD-Electronik-Molds-150x100.png
+🔗 Read more: https://3dprintingindustry.com/news/iam-marketplace-to-demonstrate-injection-molding-with-rg-3280-printed-tooling-at-formnext-2026-256615
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Creality Launches mBox 3D Printer for Children: Technical Specifications and Pricing" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://3dprintingindustry.com/news/creality-launches-mbox-3d-printer-for-children-technical-specifications-and-pricing-256411 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Raise3D launches new FDM 3D printers ahead of Formnext" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://www.tctmagazine.com/raise3d-launches-new-fdm-3d-printers-ahead-of-formnext | Full coverage: https://www.quality3ds.com/
