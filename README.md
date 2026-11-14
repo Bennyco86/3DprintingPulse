@@ -2,54 +2,52 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #311 - 2026-11-14
+### 3D PRINTING PULSE #312 - 2026-11-15
 
-🚨 Raise3D launches new FDM 3D printers ahead of Formnext
-The T450 and T700 machines share the same tech platform, are both equipped with an actively heated build chamber and feature build volumes of 450 × 350 × 400 mm and 700 × 500 × 1,000 mm, respectively.
-Reported by TCT Magazine on Nov 13, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/assets_MS2031777_000001_20261110062559EST_image_1.png
-Read more ? https://www.tctmagazine.com/raise3d-launches-new-fdm-3d-printers-ahead-of-formnext
+🔥 Delaware Lost Its ‘Ghost Gun’ Ban Fight. Now It Wants a Do-Over - AmmoLand Shooting Sports News
+Delaware Lost Its ‘Ghost Gun’ Ban Fight.
+Now It Wants a Do-Over AmmoLand Shooting Sports News, reported by Google News - 3D Printing Viral on Nov 13, 2026.
+Read more ? https://news.google.com/rss/articles/CBMid0FVX3lxTE5NbzkyNlJHUWt0TTBNbUhlSXA2R2lXNXh4WFVlY0JXRFBDSDZ1UlVzOVZfUUJabEViMWxIbXhiSkU1c1lXNnB3aDRZck43ZUMwSlBpVVZzY05IdUhhbXBxb0xYMzZ2MGVTQ3NremNfeG5nUDg2NVRr?oc=5
 
-📷 Einstar EZ GO: Your First AI-Powered Mobile 3D Scanner - develop3d
-Einstar EZ GO: Your First AI-Powered Mobile 3D Scanner develop3d
-Reported by Google News - 3D Scanners on Nov 13, 2026.
-Read more ? https://news.google.com/rss/articles/CBMickFVX3lxTE1JNDVJN1JuNGJwOGhhTWo2c3kxSnpUYkRfT25tRVBzV2t2UnRucmE0dV94ejJOdXFUcHA1V0Y5eWlfVlkyUTVsVmJDNF92MEVmSEdndjV6Xzh4OTlkRC1BN2luUVhfbUItYlhLMTRVT3dxUQ?oc=5
+💻 Mosquito Dreams Part 5: Bakelite With a Bird Strike
+The De Havilland Mosquito was a remarkably successful aircraft.
+Though not as lauded as the Spitfire, it still played an important role in special missions, taking the fight to the, reported by 3DPrint.com on Nov 13, 2026.
+Read more ? https://3dprint.com/333079/mosquito-dreams-part-5-bakelite-with-a-bird-strike
 
-💻 VulcanForms raises $500m to accelerate manufacturing expansion
-VulcanForms says the investment marks a 'significant milestone in the company's transition from breakthrough manufacturing technology to industrial-scale production.'
-Reported by TCT Magazine on Nov 13, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/printer-grid-1.png
-Read more ? https://www.tctmagazine.com/vulcanforms-raises-500m-to-accelerate-manufacturing-expansion
+🖨 ‘Don’t try to sell printers’  HP’s François Minec on ADDMAN’s 81-machine expansion
+ADDMAN was already paying other service bureaus to print parts when it announced plans to add 81 HP Jet Fusion 5620 Pro systems.
+Forecast 3D, an early HP production partner that ADDMAN acquired, had been sending work out as investment in its own fleet slowed, reported by 3D Printing Industry on Nov 14, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/HP-in-China.-Photo-by-Michael-Petch-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/dont-try-to-sell-printers-hps-francois-minec-on-addmans-81-machine-expansion-256680
 
-🖨 ATLIX to Showcase xBUILD 5000 and Robotic Automation at Formnext 2026
-ATLIX, a metal additive manufacturing systems provider, will present its complete machine portfolio, customer applications and an automation concept at Formnext 2026 in Frankfurt from 17 to 20 November, marking its...
-A central display will focus on the xBUILD 5000, the manufacturer’s production-scale laser lowder…, reported by 3D Printing Industry on Nov 13, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/ATLIX_Formnext_booth_xBUILD5000-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/atlix-to-showcase-xbuild-5000-and-robotic-automation-at-formnext-2026-256543
+🖨 TANIOBIS Awards 2026 Doctoral Prize for Electrolyte and Metal-Organic Framework Research
+TANIOBIS, a producer of tantalum and niobium powders and compounds, has split its 2026 Doctoral Award in Solid-State Chemistry and Materials Research between Dr.
+Vasiliki Faka and Dr, reported by 3D Printing Industry on Nov 14, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Image-1-2-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/taniobis-awards-2026-doctoral-prize-for-electrolyte-and-metal-organic-framework-research-256440
 
-🖨 PPprint Introduces Flexible P-TPO 835 Filament for Polypropylene 3D Printing
-PPprint GmbH, a company offering polypropylene materials and accessories for extrusion-based 3D printing, has introduced P-TPO 835 flex, a flexible filament for soft, adaptable and impact-resistant parts.
-Listed properties include low weight, chemical resistance, strong layer adhesion, recyclability, no water absorption and sterilizability, reported by 3D Printing Industry on Nov 13, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Filament-flex-black-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/ppprint-introduces-flexible-p-tpo-835-filament-for-polypropylene-3d-printing-256460
+🚀 kabkin Prompt-to-Product draws 100+ industrial enquiries
+German engineering company kabkin says its Prompt-to-Product platform has generated more than 100 qualified industrial project enquiries since its current version went live in early 2026.
+Announced on 21 September, the milestone covers B2B requirements involving mechanical functions, movement, installation space, loads, safety, costs and deadlines, reported by 3D Printing Industry on Nov 14, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/promptoproductkabkin-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/kabkin-prompt-to-product-draws-100-industrial-enquiries-256663
 
-🖨 AltForm to Debut Expandable ZENIT Modular DED Cells for Titanium and Aluminum Parts at Formnext 2026
-Italian metal additive manufacturing (metal AM) and laser systems maker AltForm will introduce ZENIT Modular at Formnext 2026 in Frankfurt.
-ZENIT Modular is a family of Directed Energy Deposition (DED) cells in three sizes, from 2 x 2 m to 4 x 4 m, reported by 3D Printing Industry on Nov 13, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Print_Brilliance_400_background_industrial-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/altform-to-debut-expandable-zenit-modular-ded-cells-for-titanium-and-aluminum-parts-at-formnext-2026-256572
+📰 Xometry tops $1 billion revenue run rate in Q3
+US Digital manufacturing marketplace Xometry exceeded a $1 billion annualized revenue run rate in the third quarter of 2026, reporting record $252.4 million, up 40% year on year, and 10.1% quarter on quarter.
+The annualized figure reflects the company’s latest quarterly revenue extrapolated over 12 months, rather than revenue already earned during 2026, reported by 3D Printing Industry on Nov 14, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2023/11/The-Xometry-Marketplace.-Image-via-Xometry-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/xometry-tops-1-billion-revenue-run-rate-in-q3-256653
 
-🖨 InfiMech Brings Up to Eight Independent Printheads to Desktop 3D Printing with Its MX Series
-Multi-color printing has become a highly sought-after feature in desktop FDM 3D printers.
-On most machines, however, every color change wastes time and plastic, reported by 3D Natives on Nov 12, 2026.
-Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/InfiMech-cover.jpg
-Read more ? https://www.3dnatives.com/en/infimech-mx-series-12112026
+📰 LLNL Cuts NIF Target Component Production from Ten Days to One with Two-Photon Polymerization
+Lawrence Livermore National Laboratory (LLNL) is now making compound parabolic concentrators (CPCs) for targets at its National Ignition Facility (NIF) with two-photon polymerization (2PP), a laser-based additive...
+Printing the cone in one piece has cut its production time from ten days to one, reported by 3D Printing Industry on Nov 13, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Ext_Additive1_1200x800-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/llnl-cuts-nif-target-component-production-from-ten-days-to-one-with-two-photon-polymerization-256578
 
-📰 iAM Marketplace to demonstrate injection molding with RG 3280 printed tooling at Formnext 2026
-Live polypropylene molding and examples of dissolvable xMOLD tooling will show how printed molds can support product development in intended thermoplastics.
-iAM Marketplace will demonstrate injection molding with 3D printed Ultracur3D RG 3280 tooling at Formnext 2026, using an APSX-PIM V3 to mold polypropylene parts, reported by 3D Printing Industry on Nov 13, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/RG3280-MD-Electronik-Molds-150x100.png
-Read more ? https://3dprintingindustry.com/news/iam-marketplace-to-demonstrate-injection-molding-with-rg-3280-printed-tooling-at-formnext-2026-256615
+🖨 This resin printer feeds resin on a moving membrane instead of a vat - The Gadgeteer
+This resin printer feeds resin on a moving membrane instead of a vat The Gadgeteer
+Reported by Google News - 3D Printing on Nov 14, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDVxMnZsbVhmTlhhQm54SmxoNzBUZmRDQVg2b1pVcDhNaERfNHBJeXhvbV84ajRJN1hYZWpMenQwTFVtLUFNNExmM1BfTnlobWI0b3lPNjJPWUhDb1N2NE0wRXF0dmxOc3lfMk5wRkFvMUhPaXVIY29VU3F3STFyT1RyT0dWVDliLTZ2eUVqTUk2VGpGTzF3dW5nbVp2WW9GTVlGejlDekhlUQ?oc=5
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
