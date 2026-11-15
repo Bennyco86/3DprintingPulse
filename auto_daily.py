@@ -2,10 +2,13 @@ import datetime
 import email.utils
 import glob
 import html
+from html.parser import HTMLParser
 import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -390,7 +393,7 @@ def extract_atom_link(entry):
             return href
     return get_text(entry, "{*}link")
 
-def extract_image_from_element(element):
+def extract_image_from_element(element, base_url=""):
     for tag in ("thumbnail", "content"):
         for node in element.findall(f".//{{*}}{tag}"):
             url = node.attrib.get("url") or node.attrib.get("href")
@@ -419,17 +422,88 @@ def extract_image_from_element(element):
         if href and rel == "enclosure" and (not media_type or media_type.startswith("image/")):
             return href
 
+    for node in element.iter():
+        if node.tag.split("}")[-1] in {"description", "summary", "encoded", "content"} and node.text:
+            image = extract_html_image(node.text, base_url)
+            if image:
+                return image
     return ""
+
+
+class ImageParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.meta = {}
+        self.images = []
+
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "meta":
+            key = (attrs.get("property") or attrs.get("name") or "").lower()
+            if key in {"og:image", "og:image:secure_url", "twitter:image", "twitter:image:src"}:
+                self.meta[key] = attrs.get("content", "")
+        if tag == "img":
+            for key in ("data-src", "data-lazy-src", "src"):
+                value = attrs.get(key, "")
+                if value and not value.startswith("data:"):
+                    self.images.append(value)
+                    break
+
+
+def extract_html_image(markup, base_url="", metadata_only=False):
+    parser = ImageParser()
+    parser.feed(html.unescape(markup or ""))
+    candidates = [parser.meta.get(key, "") for key in
+                  ("og:image:secure_url", "og:image", "twitter:image", "twitter:image:src")]
+    if not metadata_only:
+        candidates.extend(parser.images)
+    for candidate in candidates:
+        url = urllib.parse.urljoin(base_url, candidate)
+        if candidate and is_valid_story_url(url):
+            return url
+    return ""
+
+
+def fetch_bytes(url, limit=4_000_000):
+    """Bounded requests; retry transient errors and broken unconditional 304s."""
+    for attempt in range(3):
+        request_url = url
+        if attempt:
+            parts = urllib.parse.urlsplit(url)
+            query = urllib.parse.parse_qsl(parts.query) + [("_pulse", str(time.time_ns()))]
+            request_url = urllib.parse.urlunsplit(parts._replace(query=urllib.parse.urlencode(query)))
+        req = urllib.request.Request(request_url, headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(req, timeout=15) as response:
+                return response.read(limit), response.geturl()
+        except urllib.error.HTTPError as exc:
+            if exc.code not in {304, 429, 500, 502, 503, 504} or attempt == 2:
+                raise
+        except (urllib.error.URLError, TimeoutError):
+            if attempt == 2:
+                raise
+        time.sleep(0.5 * (2 ** attempt))
+
+
+def enrich_story_image(item):
+    if item.get("image"):
+        return
+    url = item.get("url", "")
+    if not is_valid_story_url(url) or urllib.parse.urlsplit(url).hostname == "news.google.com":
+        return
+    try:
+        data, resolved = fetch_bytes(url, limit=1_500_000)
+        item["image"] = extract_html_image(data.decode("utf-8", errors="replace"), resolved, metadata_only=True)
+    except Exception as exc:
+        print(f"Warning: image lookup failed for {url}: {exc}", file=sys.stderr)
 
 
 def fetch_feed(source):
     url = source.get("url", "")
     if not url:
         return []
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
-        with urllib.request.urlopen(req, timeout=20) as response:
-            data = response.read()
+        data, _ = fetch_bytes(url)
     except Exception as exc:
         print(f"Warning: failed to fetch {url}: {exc}", file=sys.stderr)
         return []
@@ -446,7 +520,9 @@ def fetch_feed(source):
         link = get_text(item, "link", "{*}link")
         summary = fix_mojibake(get_text(item, "description", "{*}description"), "rss_summary")
         published = get_text(item, "pubDate", "{*}pubDate", "dc:date", "{*}date")
-        image = extract_image_from_element(item)
+        image = extract_image_from_element(item, link)
+        if image:
+            image = urllib.parse.urljoin(link, image)
         items.append({
             "title": title,
             "url": link,
@@ -464,7 +540,9 @@ def fetch_feed(source):
         link = extract_atom_link(entry)
         summary = fix_mojibake(get_text(entry, "{*}summary", "{*}content"), "atom_summary")
         published = get_text(entry, "{*}published", "{*}updated")
-        image = extract_image_from_element(entry)
+        image = extract_image_from_element(entry, link)
+        if image:
+            image = urllib.parse.urljoin(link, image)
         items.append({
             "title": title,
             "url": link,
@@ -526,9 +604,15 @@ def major_release_signature_from_text(text):
 
     model = ""
     for hint in sorted(MAJOR_RELEASE_MODEL_HINTS, key=len, reverse=True):
-        if hint in text:
+        if re.search(r"(?<!\w)" + re.escape(hint) + r"(?!\w)", text):
             model = hint
             break
+
+    # New model names must work without updating a hard-coded allowlist.
+    if not model and brand:
+        match = re.search(r"\b([a-z]{1,3}\d+[a-z]{0,2})(?:\s+(pro|plus|max|ultra))?\b", text)
+        if match:
+            model = match.group(0)
 
     if brand and model:
         return f"{brand}:{model}"
@@ -669,7 +753,7 @@ def source_preference_score(source_name):
     return 1
 
 
-def load_seen_story_history(project_root, exclude_date=None):
+def load_seen_story_history(project_root, exclude_date=None, before_date=None):
     seen_urls = set()
     seen_title_signatures = set()
     seen_title_topic_tokens = set()
@@ -680,6 +764,8 @@ def load_seen_story_history(project_root, exclude_date=None):
     if exclude_date:
         skip_path = os.path.normcase(os.path.join(project_root, exclude_date, "README.md"))
     for path in paths:
+        if before_date and os.path.basename(os.path.dirname(path)) >= before_date:
+            continue
         if skip_path and os.path.normcase(path) == skip_path:
             continue
         try:
@@ -694,9 +780,8 @@ def load_seen_story_history(project_root, exclude_date=None):
                     if "Read more" not in stripped:
                         if (
                             not pending_title
-                            and len(stripped) <= 180
                             and len(stripped.split()) >= 3
-                            and not stripped.endswith(".")
+                            and not stripped.startswith("#")
                             and "Image ?" not in stripped
                         ):
                             pending_title = stripped
@@ -789,10 +874,9 @@ def select_stories(items, seen_history):
             continue
         if any(title_topics_overlap(item["title_topic_tokens"], seen) for seen in seen_title_topic_tokens):
             continue
-        if item["category"] == "major_printer_release":
-            signature = major_release_signature(item)
-            if signature and signature in seen_major_signatures:
-                continue
+        signature = major_release_signature(item)
+        if signature and signature in seen_major_signatures:
+            continue
         candidates.append(item)
 
     if not candidates:
@@ -827,10 +911,9 @@ def select_stories(items, seen_history):
         topic_tokens = item.get("title_topic_tokens") or frozenset()
         if any(title_topics_overlap(topic_tokens, used) for used in used_title_topic_tokens):
             return False
-        if item.get("category") == "major_printer_release":
-            signature = run_level_major_signature(item)
-            if signature and signature in used_major_signatures:
-                return False
+        signature = major_release_signature(item)
+        if signature and signature in used_major_signatures:
+            return False
         return True
 
     def mark_selected(item):
@@ -839,10 +922,9 @@ def select_stories(items, seen_history):
             used_signatures.add(item["title_signature"])
         if item.get("title_topic_tokens"):
             used_title_topic_tokens.add(item["title_topic_tokens"])
-        if item.get("category") == "major_printer_release":
-            signature = run_level_major_signature(item)
-            if signature:
-                used_major_signatures.add(signature)
+        signature = major_release_signature(item)
+        if signature:
+            used_major_signatures.add(signature)
 
     for category in REQUIRED_CATEGORIES:
         for item in recent:
@@ -983,6 +1065,7 @@ def main():
         ""
     ]
     for item in selected:
+        enrich_story_image(item)
         lines.extend(build_story_lines(item))
 
     with open(out_file, "w", encoding="utf-8", newline="\n") as handle:

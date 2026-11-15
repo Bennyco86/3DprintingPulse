@@ -3,6 +3,7 @@
 !README.md
 !auto_daily.py
 !generate_rss.py
+!test_pulse.py
 !run_daily.ps1
 !publish.ps1
 !setup_scheduled_task.ps1

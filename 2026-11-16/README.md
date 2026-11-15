@@ -2,42 +2,49 @@
 
 ## Stories
 
+📷 POWDERBED brings an off-the-shelf LPBF controller to Formnext 2026
+Danish startup POWDERBED will make its Formnext debut next week with Core 1, an off-the-shelf scanner and laser controller for laser powder bed fusion machines that ships with open-source machine control software.
+The company is exhibiting on the Sensortherm stand at Formnext 2026 in Frankfurt, which runs from November 17 to 20, reported by VoxelMatters on Nov 15, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/core1-front-cutout-1672-150x150.jpg
+Read more ? https://www.voxelmatters.com/powderbed-brings-an-off-the-shelf-lpbf-controller-to-formnext-2026
+
+💻 16-year-old F3 champion designs and 3D prints a new front wing at the track
+Nicolas Lenzi Loeffler, a 16-year-old racing driver from Munich, designed and 3D printed a custom front wing upgrade for his Dallara F312 Mercedes-AMG Formula 3 car and ran it at the Mugello race weekend.
+The project went from a digital CAD model to a finished part on the car, and he built the base structure … The post 16-year-old F3 champion designs and 3D prints a new front wing at the track appeared first on, reported by VoxelMatters on Nov 15, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/16-year-old-F3-champion-designs-and-3D-prints-front-wing1794337957662-150x150.jpg
+Read more ? https://www.voxelmatters.com/16-year-old-f3-champion-designs-and-3d-prints-a-new-front-wing-at-the-track
+
+🖨 ABS and Radian Forge begin WAAM marine components digital testing
+Classification organization ABS and Radian Forge have signed a joint development project to evaluate whether digital manufacturing data could support the qualification of metal components produced by wire arc...
+The JDP was set up to examine whether manufacturing process parameters, real-time sensor data, inspection records and material testing results could provide a sound … The post ABS and Radian Forge begin WAAM marine, reported by VoxelMatters on Nov 14, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/ABS-Radian-Forge-150x150.jpeg
+Read more ? https://www.voxelmatters.com/abs-and-radian-forge-begins-waam-marine-components-digital-testing
+
+🚀 SPEE3D opens first NodeZERO factory in Darwin as start of 50-site CriticalSPEE3D network
+SPEE3D has launched Phase One of NodeZERO in Darwin, the first of 50 advanced manufacturing factories the Australian company plans to set up across the Asia Pacific region under the name CriticalSPEE3D.
+The network is designed to make critical metal parts at the point of consumption for gas plants, mines, ports and defense bases, reported by VoxelMatters on Nov 15, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/SPEE3D-CriticalSPEE3D-network-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/spee3d-opens-first-nodezero-factory-in-darwin-as-start-of-50-site-criticalspee3d-network
+
+🚀 ATLIX and DHR Engineering bring automated metal AM concept to Formnext 2026
+ATLIX and DHR Engineering will present a concept demonstration of continuous, automated metal additive manufacturing at Formnext 2026, combining the ATLIX xBUILD 3000 system with a robotic cell developed by DHR.
+The setup is the first result of a collaboration between the German metal AM system provider, reported by VoxelMatters on Nov 15, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/ATLIX-and-DHR-Engineering-150x150.jpg
+Read more ? https://www.voxelmatters.com/atlix-and-dhr-engineering-bring-automated-metal-am-concept-to-formnext-2026
+
+📰 Callaway invests $15 million in titanium 3D printing facility in Texas
+Callaway Golf Company (NYSE: CALY) committed $15 million to a new advanced 3D printing facility in Fort Worth, Texas.
+The site will expand the golf equipment maker’s titanium R&D and manufacturing capabilities, and Callaway plans to use it to develop club designs that conventional manufacturing cannot produce, reported by VoxelMatters on Nov 14, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/cg-2026-quantum-family-price-drop-medium_desktop_1920x648_2026-11-05-e1794674928869-150x150.jpg
+Read more ? https://www.voxelmatters.com/callaway-invests-15-million-in-titanium-3d-printing-facility-in-texas
+
+🚀 FKM reports 67% productivity gain on unreleased EOS polymer platform
+FKM Additive Manufacturing recorded a 67% rise in productivity on one production part after running the next generation of the EOS polymer platform ahead of its market launch, with an unveiling scheduled for Formnext.
+Build time per component fell from 3 hours 10 minutes to 1 hour 54 minutes compared with the previous machine, according … The post FKM reports 67% productivity gain on unreleased EOS polymer platform appeared first, reported by VoxelMatters on Nov 14, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/FKM-EOS-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/fkm-reports-67-productivity-gain-on-unreleased-eos-polymer-platform
+
 💻 OpticalShift to Give Color Shift Effects to 3D Printed Parts
 Grayson Carpenter previously developed CMYKForge.
 This software tool takes your image and transforms it into a color material extrusion 3D print, reported by 3DPrint.com on Nov 15, 2026.
 Read more ? https://3dprint.com/336600/opticalshift-to-give-color-shift-effects-to-3d-printed-parts
-
-🖨 These Are Some Of The Strongest 3D Printer Filaments For Durable Parts - Engadget
-These Are Some Of The Strongest 3D Printer Filaments For Durable Parts Engadget
-Reported by Google News - 3D Printing on Nov 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMinAFBVV95cUxOWHFuSGNCX0l5TGdnN0NDYXJHeEFZQW9qU3Y1WEYzV0dfcEs3X2pPOGxTakFTWTZiSF8wMV9OdEt0RUlDN2dYaWI4SF95SDA0UnczS2RmZUNPYXdoOWtzajhEdVhCMFZ3NlJuek5EMnpHbFNtQllEQXNjMkxhS1gyTHhSMFRoZDZDWmZKXzR1Q3dacW1YRU1ZY0prdzI?oc=5
-
-🖨 Prusa Files Patent for 3D Printer Nozzle Cleaning Station: Scraper, Brush, and Parking Platform in a Row - 3Druck.com
-Prusa Files Patent for 3D Printer Nozzle Cleaning Station: Scraper, Brush, and Parking Platform in a Row 3Druck.com
-Reported by Google News - 3D Printing on Nov 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMi4AFBVV95cUxONU1OVzhjV3A4dV80T3p3RElENWsydW5fRzYwQXRmZjhtTXdELXlmZkNmTUJHYnJJX282eUNuSkh5bXVkeHJCY2pJaWRBQU5RWW5tLXJFZHdyUVh5V2tPR0xTLUJycTBINkt3ZWdqWW1rZlNGaFd5TXE3OGhlNFUzay1qZXU2c2pBNDhXbXA1Qk1qVWRPUlNnOTJtczZJQkxSeTZQbG00bk1IRFRKUFpMX3A1NWkwcTY4bU00M20zTUxiTW9rbjFpNXlIcllvS2d4d1ZHaDdKS1NZWFNGY1RLLQ?oc=5
-
-🖨 I made two 3D models with Meshy 7.1, and each went from idea to printer in under 20 minutes - How-To Geek
-I made two 3D models with Meshy 7.1, and each went from idea to printer in under 20 minutes How-To Geek
-Reported by Google News - 3D Printing on Nov 14, 2026.
-Read more ? https://news.google.com/rss/articles/CBMitwFBVV95cUxNR0RBd2syNmJhVG1VcC1QQ2ZlRk1pTHZMWTBoZ3VpeTNYenhtcEhrMG1Ecms5SlNqUDdIajdESjR0VU9hU1BVZ0NyY2tXdUZPdnQ5clZXdE5VejRWTFlmTFd2WTBwZXdnaXhoV3dVeUJzU1d4M2JEelZnVDdSaWplOUV5NFRhb0o1OEdQVjBvblA3dkJlUEJDRTFQd3RiX2xfdjNkSERWNXJIMXk1bUZfUEtxZ2M4T28?oc=5
-
-🖨 Resin 3D printing just got safer and easier to deal with - How-To Geek
-Resin 3D printing just got safer and easier to deal with How-To Geek
-Reported by Google News - 3D Printing on Nov 14, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfTV94cVRFc3MwcWl6bGVaZWllbjVLd3gwRldfQkRPcldCLS0xUzlOTXRWaU80eTFCUVRDMjZmaUpBdVhubEhMRFJHSEIwbl9IaWtic0Nld1AzSWVwMFBHTTZSaFU1VEh0?oc=5
-
-🖨 Open-source 3D printer uses $30 of classic LEGO bricks for 92% of its build — $180 "Studprint" relies on just 13 non-LEGO parts and prints a Benchy in 1.25 hours - Tom's Hardware
-Open-source 3D printer uses $30 of classic LEGO bricks for 92% of its build — $180 "Studprint" relies on just 13 non-LEGO parts and prints a Benchy in 1.25 hours Tom's Hardware
-Reported by Google News - 3D Printing on Nov 14, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiogJBVV95cUxPLXA2VTNKamVTTVdsSTVCRUl5anBwUlp2RHpHRHJXVjdGQ05KdVRkaXJOY1NTcHJQeFhDUEZRS0Nla1F4b0V3SnJvektSY2ZEYndfLWJ6cjl0ZlZUZzJWUmE3UDlyMnN3eTZKMDVYTXhZMzBYOEVyX2RvM0J5WmN0QllXbjJXbEwxcG5YeThqZXVmUXc0eXp4SXZlMVBRVkliZDRrejF5dzc5dnFIWmZNOTM3OWxMNElhNVVyZWxUVC1BdXhTc0Vhb2pleXBzSkdQd2lNN1g5bjMxU1JhdXdhWXctZ3JQeEdQaWlEMmZRVzMyQXF5UjYtalhzQ01vOFZYM2Vza2phbEZlM0ZVZEVPVld6ZDdvcmNENGUtd0cwR0JHQQ?oc=5
-
-🖨 Beginner-friendly 3D printer at best price in limited-time Amazon deal - PC Guide
-Beginner-friendly 3D printer at best price in limited-time Amazon deal PC Guide
-Reported by Google News - 3D Printing on Nov 14, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiowFBVV95cUxOajZ2NTg3RTR4M2hyUVpSUEJtQktBX3JkU0hoRXRtdHdUMW9MTm1kVVloZm9RX25yRGdHRkRCcFNteWUyTWNWTUlTMXl6bEszLV9WSTNMLXZuR0IyWWR4a2l1d2ZTa3padC1xRTZCdW1BZUhKQzFnUFB3eGVMUS1GN3hEZGl6QUdGZWliRUI4TF9maVFHVExBdXlpSnVYRGxucHhF?oc=5
-
-💻 CHS student designs, 3D prints and builds accessibility aid - The Cullman Tribune
-CHS student designs, 3D prints and builds accessibility aid The Cullman Tribune
-Reported by Google News - 3D Printing on Nov 15, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiowFBVV95cUxPeGhIeGpGNFEtaFYxenJpdUhkV3ZUeGlETUlwOGlPZXhCelJrN3dQWTdCWm9SMWF1cFVfVmRtbVRUVmZiTEl2ZVZMVW05R1A5WlJ5dXZ6SkRYVjRCcDBXYllPbE82YlpwaklWeUlsbEZJTnpTTnVmUFVQX0hBNTdhR00wbWxPVkIwa1d5bzNzQ0ZFRUtWRk5ZbUJSNXd3cEJ2SFAw?oc=5

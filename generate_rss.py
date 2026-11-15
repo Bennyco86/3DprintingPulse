@@ -84,7 +84,7 @@ def extract_story_entries(markdown_body):
             continue
 
         if not current_title and "Read more" not in line and "Image ?" not in line:
-            if len(line) <= 180 and len(line.split()) >= 3 and not line.endswith("."):
+            if len(line.split()) >= 3 and not line.startswith("#"):
                 current_title = line
                 current_line = line_number
             continue
@@ -167,6 +167,31 @@ def build_latest_section(pulse_title, markdown_body):
         "<!-- PULSE:END -->"
     ])
 
+
+def filter_archive_repeats(markdown_body, history):
+    """Keep original daily notes; omit repeated coverage from the public feed."""
+    kept = []
+    for block in re.split(r"\n\s*\n", markdown_body.strip()):
+        entries = extract_story_entries(block)
+        if not entries:
+            continue
+        entry = entries[0]
+        url = auto_daily.normalize_url(entry["url"])
+        title = auto_daily.normalize_title_for_dedupe(entry["title"])
+        tokens = auto_daily.title_topic_tokens(entry["title"])
+        model = auto_daily.major_release_signature_from_text(entry["title"])
+        repeated = (url in history["urls"] or title in history["title_signatures"]
+                    or any(auto_daily.title_topics_overlap(tokens, old) for old in history["title_topic_tokens"])
+                    or (model and model in history["major_signatures"]))
+        if not repeated:
+            kept.append(block)
+        history["urls"].add(url)
+        history["title_signatures"].add(title)
+        history["title_topic_tokens"].add(tokens)
+        if model:
+            history["major_signatures"].add(model)
+    return "\n\n".join(kept)
+
 def update_root_readme(pulse_title, markdown_body):
     if not os.path.exists(README_FILE):
         return
@@ -234,11 +259,17 @@ def generate_rss():
 
     latest_payload = None
 
+    history = auto_daily.load_seen_story_history(
+        os.path.dirname(os.path.abspath(__file__)), before_date=dated_files[-1][1])
+    public_bodies = {}
+    for file_path, date_str, _ in reversed(dated_files):
+        public_bodies[date_str] = filter_archive_repeats(load_markdown_body(file_path), history)
+
     for idx, (file_path, date_str, current_date) in enumerate(dated_files):
 
         pulse_num = calculate_pulse_number(current_date)
         
-        markdown_body = load_markdown_body(file_path)
+        markdown_body = public_bodies[date_str]
 
         # Convert to HTML
         html_body = markdown.markdown(markdown_body)
