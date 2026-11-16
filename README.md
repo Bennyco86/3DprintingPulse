@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #313 - 2026-11-16
+### 3D PRINTING PULSE #314 - 2026-11-17
 
-📷 POWDERBED brings an off-the-shelf LPBF controller to Formnext 2026
-Danish startup POWDERBED will make its Formnext debut next week with Core 1, an off-the-shelf scanner and laser controller for laser powder bed fusion machines that ships with open-source machine control software.
-The company is exhibiting on the Sensortherm stand at Formnext 2026 in Frankfurt, which runs from November 17 to 20, reported by VoxelMatters on Nov 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/core1-front-cutout-1672-150x150.jpg
-Read more ? https://www.voxelmatters.com/powderbed-brings-an-off-the-shelf-lpbf-controller-to-formnext-2026
+🚨 Bambu Wants to Run Circles Around You
+Bambu Lab is unveiling Bambu Circle, essentially its own 3D printing service.
+The company wants to build a network of local people who offer services, community, filament sales, printer sales,, reported by 3DPrint.com on Nov 16, 2026.
+Image ? https://3dprint.com/wp-content/uploads/2026/04/WHASER_Whale_Wise-1-1024x644.jpg
+Read more ? https://3dprint.com/336804/bambu-wants-to-run-circles-around-you
 
-💻 16-year-old F3 champion designs and 3D prints a new front wing at the track
-Nicolas Lenzi Loeffler, a 16-year-old racing driver from Munich, designed and 3D printed a custom front wing upgrade for his Dallara F312 Mercedes-AMG Formula 3 car and ran it at the Mugello race weekend.
-The project went from a digital CAD model to a finished part on the car, and he built the base structure … The post 16-year-old F3 champion designs and 3D prints a new front wing at the track appeared first on, reported by VoxelMatters on Nov 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/16-year-old-F3-champion-designs-and-3D-prints-front-wing1794337957662-150x150.jpg
-Read more ? https://www.voxelmatters.com/16-year-old-f3-champion-designs-and-3d-prints-a-new-front-wing-at-the-track
+📷 SHINING 3D positions FreeScan Omni as a standalone scanner for on-site inspection
+SHINING 3D’s FreeScan Omni, a wireless handheld metrology 3D scanner and winner of a Red Dot Award for industrial design in 2026, is a device that completes scanning, inspection and reporting without a separate...
+Running the company’s inspection software, SHINING3D Inspect, on board, quality teams are able to evaluate parts at the shopfloor or … The post SHINING 3D positions FreeScan Omni as a standalone scanner for on-site, reported by VoxelMatters on Nov 16, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Shining3D-Omni-02-150x150.jpg
+Read more ? https://www.voxelmatters.com/shining-3d-positions-freescan-omni-as-a-standalone-scanner-for-on-site-inspection
 
-🖨 ABS and Radian Forge begin WAAM marine components digital testing
-Classification organization ABS and Radian Forge have signed a joint development project to evaluate whether digital manufacturing data could support the qualification of metal components produced by wire arc...
-The JDP was set up to examine whether manufacturing process parameters, real-time sensor data, inspection records and material testing results could provide a sound … The post ABS and Radian Forge begin WAAM marine, reported by VoxelMatters on Nov 14, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/ABS-Radian-Forge-150x150.jpeg
-Read more ? https://www.voxelmatters.com/abs-and-radian-forge-begins-waam-marine-components-digital-testing
+📷 How Can Manufacturers Trust Metrology 3D Scanner Data? - The National Law Review
+How Can Manufacturers Trust Metrology 3D Scanner Data?
+The National Law Review, reported by Google News - 3D Scanners on Nov 16, 2026.
+Read more ? https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGNoRVozelYyUkRpdmdOcWNQbmRuaXhES19JZi1xRjlSV2V1bVkwZWVhRm5fVXpVN0ZjMlZCLTdiX3l1MWxBT19Hc0F5VUhsYzVIdXo4WXNENXI4dWQtTFhwQ0ZPME9zUHNaZlRQaEhBVXRsb2RfelpWUHpjQWdGX2VOMmNTTEg3ZFhNanpFX2JNeWx0WjJtaw?oc=5
 
-🚀 SPEE3D opens first NodeZERO factory in Darwin as start of 50-site CriticalSPEE3D network
-SPEE3D has launched Phase One of NodeZERO in Darwin, the first of 50 advanced manufacturing factories the Australian company plans to set up across the Asia Pacific region under the name CriticalSPEE3D.
-The network is designed to make critical metal parts at the point of consumption for gas plants, mines, ports and defense bases, reported by VoxelMatters on Nov 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/SPEE3D-CriticalSPEE3D-network-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/spee3d-opens-first-nodezero-factory-in-darwin-as-start-of-50-site-criticalspee3d-network
+💻 Formnext 2026: UK Additive Manufacturing:  Britain invented the future of manufacturing. Why does it struggle to manufacture it?
+Britain helped pioneer industrial mass production and remains a centre of additive manufacturing research.
+Ahead of Formnext 2026, our UK Additive Manufacturing series spoke with founders, manufacturers and industry leaders describe what it takes to turn that expertise into companies that build machines, win repeat orders, reported by 3D Printing Industry on Nov 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Craig-Pyser-at-AMufacture.-Photo-by-Michael-Petch-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/formnext-2026-uk-additive-manufacturing-britain-invented-the-future-of-manufacturing-why-does-it-struggle-to-manufacture-it-256787
 
-🚀 ATLIX and DHR Engineering bring automated metal AM concept to Formnext 2026
-ATLIX and DHR Engineering will present a concept demonstration of continuous, automated metal additive manufacturing at Formnext 2026, combining the ATLIX xBUILD 3000 system with a robotic cell developed by DHR.
-The setup is the first result of a collaboration between the German metal AM system provider, reported by VoxelMatters on Nov 15, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/ATLIX-and-DHR-Engineering-150x150.jpg
-Read more ? https://www.voxelmatters.com/atlix-and-dhr-engineering-bring-automated-metal-am-concept-to-formnext-2026
+🖨 UK Additive Manufacturing: Rapid Fusion finds its market
+For 3D Printing Industry’s AM UK series ahead of Formnext 2026, co-founder Jake Hand explains what it takes to replace a machined aluminium tool with a 3D printed one, and what Rapid Fusion got wrong about the market...
+A defence customer began earning back the cost of its Rapid Fusion machine during…, reported by 3D Printing Industry on Nov 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Jake-Hand.-Photo-via-Rapid-Fusion-150x100.jpeg
+Read more ? https://3dprintingindustry.com/news/uk-additive-manufacturing-rapid-fusion-finds-its-market-256775
 
-📰 Callaway invests $15 million in titanium 3D printing facility in Texas
-Callaway Golf Company (NYSE: CALY) committed $15 million to a new advanced 3D printing facility in Fort Worth, Texas.
-The site will expand the golf equipment maker’s titanium R&D and manufacturing capabilities, and Callaway plans to use it to develop club designs that conventional manufacturing cannot produce, reported by VoxelMatters on Nov 14, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/cg-2026-quantum-family-price-drop-medium_desktop_1920x648_2026-11-05-e1794674928869-150x150.jpg
-Read more ? https://www.voxelmatters.com/callaway-invests-15-million-in-titanium-3d-printing-facility-in-texas
+🖨 UK Additive Manufacturing: How Wayland Additive brought semi-con tech to metal AM
+Wayland’s founders set out to stop metal powder lifting under an electron beam, along the way they solved a persistent problem with metal AM.
+Ahead of Formnext 2026, chief executive Will Richardson explains how solving that problem gave the Huddersfield machine builder another way to control the metal itself, reported by 3D Printing Industry on Nov 16, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2019/09/additive-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/uk-additive-manufacturing-how-wayland-additive-brought-semi-con-tech-to-metal-am-256771
 
-🚀 FKM reports 67% productivity gain on unreleased EOS polymer platform
-FKM Additive Manufacturing recorded a 67% rise in productivity on one production part after running the next generation of the EOS polymer platform ahead of its market launch, with an unveiling scheduled for Formnext.
-Build time per component fell from 3 hours 10 minutes to 1 hour 54 minutes compared with the previous machine, according … The post FKM reports 67% productivity gain on unreleased EOS polymer platform appeared first, reported by VoxelMatters on Nov 14, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/FKM-EOS-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/fkm-reports-67-productivity-gain-on-unreleased-eos-polymer-platform
+🖨 VoxelMatters Metal AM Focus 2026 eBook
+In 2026, we continue the tradition of publishing a broad-reaching, trend-aligned Metal AM eBook.
+This year, we are excited to bring to you a variety of content, including insights from VoxelMatters’ new Metal AM Market report, new technology focuses, adoption trends, post-processing innovations, and more.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Metal-AM-2026-eBook-Feature-Image-150x150.png
+Read more ? https://www.voxelmatters.com/voxelmatters-metal-am-focus-2026-ebook
 
-💻 OpticalShift to Give Color Shift Effects to 3D Printed Parts
-Grayson Carpenter previously developed CMYKForge.
-This software tool takes your image and transforms it into a color material extrusion 3D print, reported by 3DPrint.com on Nov 15, 2026.
-Read more ? https://3dprint.com/336600/opticalshift-to-give-color-shift-effects-to-3d-printed-parts
+🖨 BMW Group to install ATLIX xBUILD 5000 metal 3D printers at Additive Manufacturing Campus
+The automotive company is expected to deploy the systems to support the production of aluminium components for prototyping and series use.
+Reported by TCT Magazine on Nov 16, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/xBUILD_5000_background.png
+Read more ? https://www.tctmagazine.com/bmw-group-to-install-atlix-xbuild-5000-metal-3d-printers-at-additive-manufacturing-campus
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
