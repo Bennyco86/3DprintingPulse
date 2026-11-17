@@ -2,54 +2,54 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #314 - 2026-11-17
+### 3D PRINTING PULSE #315 - 2026-11-18
 
-🚨 Bambu Wants to Run Circles Around You
-Bambu Lab is unveiling Bambu Circle, essentially its own 3D printing service.
-The company wants to build a network of local people who offer services, community, filament sales, printer sales,, reported by 3DPrint.com on Nov 16, 2026.
-Image ? https://3dprint.com/wp-content/uploads/2026/04/WHASER_Whale_Wise-1-1024x644.jpg
-Read more ? https://3dprint.com/336804/bambu-wants-to-run-circles-around-you
+🚨 QIDI Launches Q3D Dual-Nozzle Filament 3D Printer With a 70°C Heated Chamber at Formnext 2026 - https://3dprinting.com/
+QIDI Launches Q3D Dual-Nozzle Filament 3D Printer With a 70°C Heated Chamber at Formnext 2026 https://3dprinting.com/
+Reported by Google News - 3D Printing on Nov 17, 2026.
+Read more ? https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzZidGdpSEVFcjh4QzdrdlpQWUtSNk93dFcweWRiUEhGbFNsWlZZdFhTdGZTdnIxMmpoSDVlTE1ZdW1GdVRrRW1BY1lIMElEcDJSWDRQSTlNc19fZ3BSajVxX3R0RnBuSE85TUFVUVJxVGIwdFkwMVZ3TV9xT0paQ1Z1cm91VTc0OU41T2dIVVJaelJHZlJNcXNlbFFOeGJIS3lRQy1qcGVpSzRrN21QNDlxdkY4aEUwSm85VXB3?oc=5
 
-📷 SHINING 3D positions FreeScan Omni as a standalone scanner for on-site inspection
-SHINING 3D’s FreeScan Omni, a wireless handheld metrology 3D scanner and winner of a Red Dot Award for industrial design in 2026, is a device that completes scanning, inspection and reporting without a separate...
-Running the company’s inspection software, SHINING3D Inspect, on board, quality teams are able to evaluate parts at the shopfloor or … The post SHINING 3D positions FreeScan Omni as a standalone scanner for on-site, reported by VoxelMatters on Nov 16, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Shining3D-Omni-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/shining-3d-positions-freescan-omni-as-a-standalone-scanner-for-on-site-inspection
+📷 Artec Jet maps 51,500 m² of Arctic snowpatch in two hours
+Researchers from Aberystwyth University have used Artec 3D’s Jet mobile LiDAR 3D scanner to capture around 51,500 m² of a Norwegian snowpatch and surrounding terrain in two hours as part of a study into disappearing...
+Working with Deri Jones & Associates (DJA) and the Norwegian Institute for Nature Research (NINA), the team…, reported by 3D Printing Industry on Nov 17, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Artec-Jet-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/artec-jet-maps-51500-m%c2%b2-of-arctic-snowpatch-in-two-hours-256761
 
-📷 How Can Manufacturers Trust Metrology 3D Scanner Data? - The National Law Review
-How Can Manufacturers Trust Metrology 3D Scanner Data?
-The National Law Review, reported by Google News - 3D Scanners on Nov 16, 2026.
-Read more ? https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGNoRVozelYyUkRpdmdOcWNQbmRuaXhES19JZi1xRjlSV2V1bVkwZWVhRm5fVXpVN0ZjMlZCLTdiX3l1MWxBT19Hc0F5VUhsYzVIdXo4WXNENXI4dWQtTFhwQ0ZPME9zUHNaZlRQaEhBVXRsb2RfelpWUHpjQWdGX2VOMmNTTEg3ZFhNanpFX2JNeWx0WjJtaw?oc=5
+💻 BMW to use ATLIX xBUILD 5000 machines for aluminum part production
+German industrial AM company ATLIX, formed from what was the AM business of machine tool company Trumpf, is expanding an existing collaboration with the BMW Group and will install its xBUILD 5000 LPBF systems at...
+According to ATLIX, the installed systems will be deployed for the production of aluminum components … The post BMW to use ATLIX xBUILD 5000 machines for aluminum part production appeared first on VoxelMatters - The...
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/ATLIX-BMW-1-1-150x150.png
+Read more ? https://www.voxelmatters.com/bmw-to-use-atlix-xbuild-5000-machines-for-aluminum-part-production
 
-💻 Formnext 2026: UK Additive Manufacturing:  Britain invented the future of manufacturing. Why does it struggle to manufacture it?
-Britain helped pioneer industrial mass production and remains a centre of additive manufacturing research.
-Ahead of Formnext 2026, our UK Additive Manufacturing series spoke with founders, manufacturers and industry leaders describe what it takes to turn that expertise into companies that build machines, win repeat orders, reported by 3D Printing Industry on Nov 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Craig-Pyser-at-AMufacture.-Photo-by-Michael-Petch-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/formnext-2026-uk-additive-manufacturing-britain-invented-the-future-of-manufacturing-why-does-it-struggle-to-manufacture-it-256787
+🖨 Axtra3D adds xMOLD and ATARU BLACK materials to its Lumia X1 portfolio
+Axtra3D has introduced two partner materials for its Lumia X1 industrial 3D printing platform at Formnext 2026: Ultracur3D xMOLD, a dissolvable photopolymer from AM Marketplace, and ATARU BLACK, a high-temperature...
+Both join the company’s Axtra Solutions portfolio, under which customers receive tuned print profiles backed by Axtra3D’s applications team and material partners, reported by VoxelMatters on Nov 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/AxtraSolutions-Axtra3D-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/axtra3d-adds-xmold-and-ataru-black-materials-to-its-lumia-x1-portfolio
 
-🖨 UK Additive Manufacturing: Rapid Fusion finds its market
-For 3D Printing Industry’s AM UK series ahead of Formnext 2026, co-founder Jake Hand explains what it takes to replace a machined aluminium tool with a 3D printed one, and what Rapid Fusion got wrong about the market...
-A defence customer began earning back the cost of its Rapid Fusion machine during…, reported by 3D Printing Industry on Nov 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Jake-Hand.-Photo-via-Rapid-Fusion-150x100.jpeg
-Read more ? https://3dprintingindustry.com/news/uk-additive-manufacturing-rapid-fusion-finds-its-market-256775
+🖨 Nippon Sanso introduces 3DPro RotoTIG WAAM head
+Nippon Sanso, a Mitsubishi subsidiary and specialist in industrial gases, welding, and process technologies, is demonstrating its 3DPro RotoTIG torch at Formnext 2026.
+Developed specifically for metal AM, the head for WAAM systems brings Nippon Sanso’s proprietary Rotary TIG Welding Technology into the additive production process, reported by VoxelMatters on Nov 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/RotoTIG-150x150.jpg
+Read more ? https://www.voxelmatters.com/nippon-sanso-introduces-3dpro-rototig-waam-head
 
-🖨 UK Additive Manufacturing: How Wayland Additive brought semi-con tech to metal AM
-Wayland’s founders set out to stop metal powder lifting under an electron beam, along the way they solved a persistent problem with metal AM.
-Ahead of Formnext 2026, chief executive Will Richardson explains how solving that problem gave the Huddersfield machine builder another way to control the metal itself, reported by 3D Printing Industry on Nov 16, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2019/09/additive-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/uk-additive-manufacturing-how-wayland-additive-brought-semi-con-tech-to-metal-am-256771
+🖨 Continuum Powders unveils the Argos atomization platform at Formnext 2026
+Continuum Powders has introduced its Argos Melt-to-Powder (M2P) Atomization Platform at Formnext 2026.
+The system pairs cold-hearth plasma melting with inert gas atomization and has been built for industrial-scale production of metal powders for additive manufacturing and advanced manufacturing, reported by VoxelMatters on Nov 17, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Continuum-Powders-Argos-platform-150x150.jpg
+Read more ? https://www.voxelmatters.com/continuum-powders-unveils-the-argos-atomization-platform-at-formnext-2026
 
-🖨 VoxelMatters Metal AM Focus 2026 eBook
-In 2026, we continue the tradition of publishing a broad-reaching, trend-aligned Metal AM eBook.
-This year, we are excited to bring to you a variety of content, including insights from VoxelMatters’ new Metal AM Market report, new technology focuses, adoption trends, post-processing innovations, and more.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Metal-AM-2026-eBook-Feature-Image-150x150.png
-Read more ? https://www.voxelmatters.com/voxelmatters-metal-am-focus-2026-ebook
+🖨 Nikon SLM Solutions tackles metal 3D printing speed, reliability and scaling with MACHX
+"It is built for the parts most of the industry actually makes, and for the factories that need to make many more of them."
+Reported by TCT Magazine on Nov 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/8-1-81--1.jpg
+Read more ? https://www.tctmagazine.com/nikon-slm-solutions-tackles-metal-3d-printing-speed-reliability-and-scaling-with-machx
 
-🖨 BMW Group to install ATLIX xBUILD 5000 metal 3D printers at Additive Manufacturing Campus
-The automotive company is expected to deploy the systems to support the production of aluminium components for prototyping and series use.
-Reported by TCT Magazine on Nov 16, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/xBUILD_5000_background.png
-Read more ? https://www.tctmagazine.com/bmw-group-to-install-atlix-xbuild-5000-metal-3d-printers-at-additive-manufacturing-campus
+🖨 Built to multiply: Nikon SLM Solutions introduces MACHX
+Nikon SLM's Sam O'Leary on the company's new MACHX metal additive manufacturing system.
+Reported by TCT Magazine on Nov 17, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Inside---Macro-X-Grille-on-Nikon-MACHX-2.png
+Read more ? https://www.tctmagazine.com/built-to-multiply-nikon-slm-solutions-introduces-machx
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
