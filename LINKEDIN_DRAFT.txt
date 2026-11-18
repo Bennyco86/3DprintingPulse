@@ -1,52 +1,49 @@
-﻿# 3D PRINTING PULSE #315 - 2026-11-18
+﻿# 3D PRINTING PULSE #316 - 2026-11-19
 
-🚨 QIDI Launches Q3D Dual-Nozzle Filament 3D Printer With a 70°C Heated Chamber at Formnext 2026 - https://3dprinting.com/
-QIDI Launches Q3D Dual-Nozzle Filament 3D Printer With a 70°C Heated Chamber at Formnext 2026 https://3dprinting.com/
-Reported by Google News - 3D Printing on Nov 17, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzZidGdpSEVFcjh4QzdrdlpQWUtSNk93dFcweWRiUEhGbFNsWlZZdFhTdGZTdnIxMmpoSDVlTE1ZdW1GdVRrRW1BY1lIMElEcDJSWDRQSTlNc19fZ3BSajVxX3R0RnBuSE85TUFVUVJxVGIwdFkwMVZ3TV9xT0paQ1Z1cm91VTc0OU41T2dIVVJaelJHZlJNcXNlbFFOeGJIS3lRQy1qcGVpSzRrN21QNDlxdkY4aEUwSm85VXB3?oc=5
+🚨 New Revopoint MIRACO 2 3D Scanner Automates Scan-to-CAD Workflows
+Standalone 3D scanners in 2026 can handle capture, meshing, and basic inspection without a PC.
+The manual post-processing that follows, turning scan data into finished CAD models or inspection reports, is still where most of the time goes, reported by 3D Printing Industry on Nov 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/1720x274-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/new-revopoint-miraco-2-3d-scanner-automates-scan-to-cad-workflows-256908
 
-📷 Artec Jet maps 51,500 m² of Arctic snowpatch in two hours
-Researchers from Aberystwyth University have used Artec 3D’s Jet mobile LiDAR 3D scanner to capture around 51,500 m² of a Norwegian snowpatch and surrounding terrain in two hours as part of a study into disappearing...
-Working with Deri Jones &amp; Associates (DJA) and the Norwegian Institute for Nature Research (NINA), the team…, reported by 3D Printing Industry on Nov 17, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/Artec-Jet-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/artec-jet-maps-51500-m%c2%b2-of-arctic-snowpatch-in-two-hours-256761
+🚨 Revopoint MIRACO 2 3D Scanner Launches on Kickstarter - 80 Level
+Revopoint MIRACO 2 3D Scanner Launches on Kickstarter 80 Level
+Reported by Google News - 3D Scanners on Nov 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1hWd2ZrRXk5RWVxWTVrUXdaQzRNUjhuWHlPQzBnbEhYZy0tMHYwQTJLaEFPOUFwUl9WSVhwOVZNU0V0Q2VLbjlSRG1reWJoTkkySzd6SjN3Z21yNUxaMXVaUXlMUTIzZmI2MW84ZnBDTUplb2cydUdwN2JWRTNHS1RsTThWZ2xEYTVZanNHUTZhZkc3Mjh4cWg5Ny0xck0zX2c?oc=5
 
-💻 BMW to use ATLIX xBUILD 5000 machines for aluminum part production
-German industrial AM company ATLIX, formed from what was the AM business of machine tool company Trumpf, is expanding an existing collaboration with the BMW Group and will install its xBUILD 5000 LPBF systems at...
-According to ATLIX, the installed systems will be deployed for the production of aluminum components … The post BMW to use ATLIX xBUILD 5000 machines for aluminum part production appeared first on VoxelMatters - The...
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/ATLIX-BMW-1-1-150x150.png
-🔗 Read more: https://www.voxelmatters.com/bmw-to-use-atlix-xbuild-5000-machines-for-aluminum-part-production
+📷 Creality Debuts 42-Line Raptor Pro Max, a High-Performance Handheld 3D Scanner for Faster Automotive Capture - Comics Gaming Magazine
+Creality Debuts 42-Line Raptor Pro Max, a High-Performance Handheld 3D Scanner for Faster Automotive Capture Comics Gaming Magazine
+Reported by Google News - 3D Scanners on Nov 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMid0FVX3lxTE82Rk8xclFCU1VZSXZnelhDLTlyZVlFakZmdXNkMTNYdnE2UGQ4VmZ2X0xhWVR6SG1Zd0JBSnV5Qks3eC05c01Ydm8wQ3R0WHR2UEE5OHc5c2NDN3V1TnBndW5UVnQ5dTZ6RlZ1RWtaRkhsNFBHelR3?oc=5
 
-🖨 Axtra3D adds xMOLD and ATARU BLACK materials to its Lumia X1 portfolio
-Axtra3D has introduced two partner materials for its Lumia X1 industrial 3D printing platform at Formnext 2026: Ultracur3D xMOLD, a dissolvable photopolymer from AM Marketplace, and ATARU BLACK, a high-temperature...
-Both join the company’s Axtra Solutions portfolio, under which customers receive tuned print profiles backed by Axtra3D’s applications team and material partners, reported by VoxelMatters on Nov 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/AxtraSolutions-Axtra3D-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/axtra3d-adds-xmold-and-ataru-black-materials-to-its-lumia-x1-portfolio
+📷 Revopoint MIRACO 2: AI-Powered Standalone 3D Scanner - 3DVF
+Revopoint MIRACO 2: AI-Powered Standalone 3D Scanner 3DVF
+Reported by Google News - 3D Scanners on Nov 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDFsMTlBTkl5ZHNmTHVlbmRsV0ttWW50ZS1PX0JIWmpMLXp3d216YVRiOEJRRGNNMmp2TzdjSmx5YlU1UXBQSzFPNVNrQnZhVXA2YlJQR0hyNHVaTlNGeWRTRElmMF9VUENrVnNMNzdacFM4RURwdm5IUi1mZXlPbm5WMzlRQ2VGQ3ZfUklNLUZZdUdlNEZnanVB?oc=5
 
-🖨 Nippon Sanso introduces 3DPro RotoTIG WAAM head
-Nippon Sanso, a Mitsubishi subsidiary and specialist in industrial gases, welding, and process technologies, is demonstrating its 3DPro RotoTIG torch at Formnext 2026.
-Developed specifically for metal AM, the head for WAAM systems brings Nippon Sanso’s proprietary Rotary TIG Welding Technology into the additive production process, reported by VoxelMatters on Nov 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/RotoTIG-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/nippon-sanso-introduces-3dpro-rototig-waam-head
+💻 You Can Now Add Text to the Nike Air Max 1000 Uppers - Complex
+You Can Now Add Text to the Nike Air Max 1000 Uppers Complex
+Reported by Google News - 3D Printing on Nov 18, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVl1TTJYNktyeVhjMVBqN2tXQlpwMGhaZTdJc3hqcnBBR092MkhqeTljbGNkZUx5YzVPQ0pMQlUyaFJ4Mk5WRnljVVJuaExqWGt6cEN3NU4tQ2Q3X19TLWZ5aVIzS2FDd0h6YUN6SzJvSzN4TmFWbXVwZ0NfRzhNWjdpeExNN1FaNE5uSWQxVmhCNTJ3SzBZ?oc=5
 
-🖨 Continuum Powders unveils the Argos atomization platform at Formnext 2026
-Continuum Powders has introduced its Argos Melt-to-Powder (M2P) Atomization Platform at Formnext 2026.
-The system pairs cold-hearth plasma melting with inert gas atomization and has been built for industrial-scale production of metal powders for additive manufacturing and advanced manufacturing, reported by VoxelMatters on Nov 17, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/Continuum-Powders-Argos-platform-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/continuum-powders-unveils-the-argos-atomization-platform-at-formnext-2026
+♻️ WASP brings upgraded ceramic, pellet and robotic 3D printing tech to Formnext 2026
+Italian 3D printer manufacturer WASP will introduce an upgraded ceramic Continuous Feeding System (CFS) with twice the maximum material output of its predecessor at Formnext 2026, alongside a 120°C locally heated...
+The technologies target ceramic serial production, technical polymer processing and robotic additive…, reported by 3D Printing Industry on Nov 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/CFS_LDM_450_11_Formnext_2026-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/wasp-brings-upgraded-ceramic-pellet-and-robotic-3d-printing-tech-to-formnext-2026-256872
 
-🖨 Nikon SLM Solutions tackles metal 3D printing speed, reliability and scaling with MACHX
-"It is built for the parts most of the industry actually makes, and for the factories that need to make many more of them."
-Reported by TCT Magazine on Nov 17, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/8-1-81--1.jpg
-🔗 Read more: https://www.tctmagazine.com/nikon-slm-solutions-tackles-metal-3d-printing-speed-reliability-and-scaling-with-machx
+🖨 BMW to add ATLIX xBUILD 5000 printers that automate the full build cycle to keep production running
+ATLIX, the Italian metal 3D printer maker spun out of TRUMPF, will install its xBUILD 5000 laser powder bed fusion (LPBF) systems at the BMW Group‘s Additive Manufacturing Campus in Oberschleißheim, Germany.
+The deal widens a partnership between the two companies that dates back to 2019, reported by 3D Printing Industry on Nov 18, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-at-12.07.19-300x300-1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/bmw-to-add-atlix-xbuild-5000-printers-that-automate-the-full-build-cycle-to-keep-production-running-256853
 
-🖨 Built to multiply: Nikon SLM Solutions introduces MACHX
-Nikon SLM's Sam O'Leary on the company's new MACHX metal additive manufacturing system.
-Reported by TCT Magazine on Nov 17, 2026.
-🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Inside---Macro-X-Grille-on-Nikon-MACHX-2.png
-🔗 Read more: https://www.tctmagazine.com/built-to-multiply-nikon-slm-solutions-introduces-machx
+🖨 3DCERAM aims to open the door to ceramic 3D printing with compact machine
+"We want to remove this barrier and offer them an accessible starting point, with the possibility to scale up to our larger SLA platforms as their business grows."
+Reported by TCT Magazine on Nov 18, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/1794300145262.jpeg
+🔗 Read more: https://www.tctmagazine.com/3dceram-aims-to-open-the-door-to-ceramic-3d-printing-with-compact-machine
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "QIDI Launches Q3D Dual-Nozzle Filament 3D Printer With a 70°C Heated Chamber at Formnext 2026 - https://3dprinting.com/" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzZidGdpSEVFcjh4QzdrdlpQWUtSNk93dFcweWRiUEhGbFNsWlZZdFhTdGZTdnIxMmpoSDVlTE1ZdW1GdVRrRW1BY1lIMElEcDJSWDRQSTlNc19fZ3BSajVxX3R0RnBuSE85TUFVUVJxVGIwdFkwMVZ3TV9xT0paQ1Z1cm91VTc0OU41T2dIVVJaelJHZlJNcXNlbFFOeGJIS3lRQy1qcGVpSzRrN21QNDlxdkY4aEUwSm85VXB3?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Creality Debuts 42-Line Raptor Pro Max, a High-Performance Handheld 3D Scanner for Faster Automotive Capture - Comics Gaming Magazine" because it highlights where practical 3D printing innovation is moving next. Direct link: https://news.google.com/rss/articles/CBMid0FVX3lxTE82Rk8xclFCU1VZSXZnelhDLTlyZVlFakZmdXNkMTNYdnE2UGQ4VmZ2X0xhWVR6SG1Zd0JBSnV5Qks3eC05c01Ydm8wQ3R0WHR2UEE5OHc5c2NDN3V1TnBndW5UVnQ5dTZ6RlZ1RWtaRkhsNFBHelR3?oc=5 | Full coverage: https://www.quality3ds.com/
