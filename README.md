@@ -2,52 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #317 - 2026-11-20
+### 3D PRINTING PULSE #318 - 2026-11-21
 
-🚨 Bambu Lab introduces Bambu Circle partner network at Formnext 2026
-3D printer manufacturer Bambu Lab is introducing Bambu Circle, a new program designed to help enthusiasts and entrepreneurs establish local businesses around 3D printing, at Formnext 2026 in Frankfurt, Germany.
-The initiative will create a network of authorized partners offering services such as printer maintenance, equipment and material sales, 3D printing services, and technical training.…, reported by 3D Printing Industry on Nov 19, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/image-17-150x100.png
-Read more ? https://3dprintingindustry.com/news/bambu-lab-introduces-bambu-circle-partner-network-at-formnext-2026-256985
+🖨 The Best New Desktop & Industrial 3D Printers from Formnext 2026: Toolchangers, Throughput & Technical Firsts - All3DP
+The Best New Desktop & Industrial 3D Printers from Formnext 2026: Toolchangers, Throughput & Technical Firsts All3DP
+Reported by Google News - 3D Printing on Nov 20, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVJMHJsX1MzbVY1TU45ZFg4S2dhbjVkc0VVRUhiS1pQQkI5NUhGR2RzQXFGblJ3RDl1NlViNDdZTllsWXY1QTRabzBkVDVwTm5jNExiVHpLX1FjdHN5MjVOUnJLdGJ1b3VvX296ZEF3NEZVdUQxXy1kNXlVSGVaUGVxZ29Xcnk1R3hMdzF1SU9RclJjLURGdHIyTFdvSUJYemJJcTBqdE42bkJxY3lfajZNekFINVNHdzMzRDR5X05zb2c?oc=5
 
-🚨 Creality Launches Raptor Pro Max Handheld 3D Scanner - www.marketscreener.com
-Creality Launches Raptor Pro Max Handheld 3D Scanner www.marketscreener.com
-Reported by Google News - 3D Scanners on Nov 19, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcUhXMy0wQ0dDMk5lNTBIVjFDMXloTTl4a3VWcFRLQjBzc2FyR1pfVzJYUGduUUJqVzdWR29CQTlfLVVsX1FGUFQ3NWpZRUZ4YWt4VFhyWmlrNjk0TVAwTjJ5MTQyc1kyWjdNendnYUhCMU9EU0czbHVnUFh0YXhzajBwN1dnQThPZU1McFVZVlcwMlA4NXIwRUxYSWNidlBZT3pCTl9oZUQ?oc=5
+🚨 Elegoo unveils its multi-toolhead Centauri X Ultra 3D printer at FormNext - OC3D
+Elegoo unveils its multi-toolhead Centauri X Ultra 3D printer at FormNext OC3D
+Reported by Google News - 3D Printing on Nov 20, 2026.
+Read more ? https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2h2OWd4MmVXM3RJNFRTa1ZQWURWQWlHRWZMZjNKVWViSVRtdDVLV2E3ZVZ2ZklrV1BIVUFxZkNEckE2MnI4VWxBeXNLWFdrczBTV3JwYWZLdG93UmJtR0E4X2JqQldhSGVya09YcHZMRkpLc0lKdFdvZ2ZKZGVRcGQ3ZkZOaWdhcGVobENEWWo1cC1fMUpONXpxU2ZBLVRNd0w5S0wyUktHZzBm?oc=5
 
-📷 SHINING 3D highlighting its wireless 3D scanning range at Formnext 2026
-SHINING 3D is using this week’s Formnext to present a 3D scanning lineup that runs without cables at every tier, from a phone-based entry-level scanner to standalone metrology systems and a cart-free intraoral scanner.
-The company presents wireless operation as an architecture applied across its range rather than a feature added model by model, reached … The post SHINING 3D highlighting its wireless 3D scanning range at Formnext, reported by VoxelMatters on Nov 19, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Shining-3D-Formnext-02-150x150.jpg
-Read more ? https://www.voxelmatters.com/shining-3d-highlighting-its-wireless-3d-scanning-range-at-formnext-2026
+💻 Freiburg researchers win €10 million ERC grant for CHiC2PRINT project
+Two University of Freiburg researchers have received a Synergy Grant from the European Research Council worth €10 million ($10.9m) over six years.
+The funding will support CHiC2PRINT, a project combining sustainable 3D printing with low-cost, high-performance plastics from industrial production, reported by VoxelMatters on Nov 20, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/ERC-Freiburg-funding-150x150.jpg
+Read more ? https://www.voxelmatters.com/freiburg-researchers-win-e10-million-erc-grant-for-chic2print-project
 
-📷 Revopoint's New MIRACO 2 3D Scanner Comes with Six Scanning Modes, Standalone Operation - Hackster.io
-Revopoint's New MIRACO 2 3D Scanner Comes with Six Scanning Modes, Standalone Operation Hackster.io
-Reported by Google News - 3D Scanners on Nov 19, 2026.
-Read more ? https://news.google.com/rss/articles/CBMixwFBVV95cUxQQTJPQnNZWG9tcEYzeWV0c1VrWXBqNmlBWHdObVluYW9nVTltWlczUDJHLUZyMXBnVGdNdW5rcUpUNWItV1FzUDRyaC1ZM3VSdnRlWEptZTRVRkJSaFRaU0o1NS1lZW1YSnh3YTJzdG9zeE40elcxUUFvempiendVVlVhYVdBSmVJcWhjRzZWekpCRDBGS3FmR1hQeHFxd1JVdXdLei0wNEszMFU1SU1SZmtFdjhBYXYwTEdSbWlqdTkzaWtnRTEw?oc=5
+♻️ Pollen AM & RHEON Labs Bring Pellet 3D Printing to Football Helmets
+A couple of months ago, I wrote about why the progress made in leveraging additive manufacturing (AM) to improve the effectiveness of football helmets is so exciting.
+That post also, reported by 3DPrint.com on Nov 20, 2026.
+Image ? https://3dprint.com/wp-content/uploads/2026/11/Pollen-AM-Pam-Pro-with-printed-part-680x1024.jpg
+Read more ? https://3dprint.com/337027/pollen-am-rheon-labs-bring-pellet-3d-printing-to-football-helmets
 
-💻 Siemens is the Most Logical Company to Lead the AI for AM Market
-It would be an understatement to say that there are misunderstandings about the AI investment era, to the extent that it would be far less complicated to try to pinpoint...
-Reported by 3DPrint.com on Nov 19, 2026.
-Image ? https://3dprint.com/wp-content/uploads/2023/11/img_0757-1-1024x576.jpg
-Read more ? https://3dprint.com/337100/siemens-is-the-most-logical-company-to-lead-the-ai-for-am-market
+🖨 AMufacture doubles its HP Multi Jet Fusion capacity in the UK
+UK contract manufacturer AMufacture has doubled its additive manufacturing production capacity by installing new HP Multi Jet Fusion 5620 Pro printers at its UK base in Portsmouth.
+The company says the expansion makes it the UK’s leading contract manufacturer specializing in HP’s MJF technology, reported by VoxelMatters on Nov 20, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/AMufacture-HP-expansion-150x150.jpg
+Read more ? https://www.voxelmatters.com/amufacture-doubles-its-hp-multi-jet-fusion-capacity-in-the-uk
 
-♻️ BigRep unveils large-format pellet-based 3D printer - TCT Magazine
-BigRep unveils large-format pellet-based 3D printer TCT Magazine
-Reported by Google News - 3D Printing on Nov 18, 2026.
-Read more ? https://news.google.com/rss/articles/CBMihwFBVV95cUxQNG5TUHpXSVN4OC0tM25MZ2cyYzFyRUd4MnpOamVEY1VlVEhfczZ4aG1VWkM2MjRhVzM2ODVWMmVBeEIwalE0MmMteEdSNk1SZTZQbkFGQ1ZjYTFaVXlLNG5pMXI2ZGNJOFJ6c1ZJVm9YcXpTbHBPeW1OLUZsMzdTZmRCZjZlMWc?oc=5
+🖨 EOS Presents HELIOR Triple-Laser SLS Platform at Formnext 2026: Technical Specifications and Pricing
+EOS has introduced HELIOR, a large-format polymer additive manufacturing (AM) system based on selective laser sintering (SLS), at Formnext 2026 in Frankfurt.
+The machine pairs three 70 W lasers with a roller recoater whose settings can be adjusted independently, reported by 3D Printing Industry on Nov 20, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/EOS_HELIOR_Production_Floor-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/eos-presents-helior-triple-laser-sls-platform-at-formnext-2026-technical-specifications-and-pricing-256919
 
-🖨 Xenia Adds 15% Carbon Fiber to PEBA Filament for Stiff, Impact-Absorbing Drone and Robotics Parts
-Italian materials producer Xenia has released XECARB PEBA-CF, a filament for fused filament fabrication (FFF) 3D printing that pairs a polyether block amide (PEBA) matrix with 15 percent carbon fiber.
-The company presented the material at Formnext 2026, reported by 3D Printing Industry on Nov 19, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Xenia_3DF_XECARB_PEBA-CF-optimized-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/xenia-adds-15-carbon-fiber-to-peba-filament-for-stiff-impact-absorbing-drone-and-robotics-parts-256882
+🖨 AddUp integrates Dyndrite LPBF Pro software with FormUp metal 3D printers
+Announced at Formnext, the integration of LPBF Pro will allow FormUp users to produce parts from build files created outside AddUp's own software suite for the first time.
+Reported by TCT Magazine on Nov 19, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Dyndrite_20LPBF_20Pro_20UI_20-_20Python_20editor_20-3840x2065-.png
+Read more ? https://www.tctmagazine.com/addup-integrates-dyndrite-lpbf-pro-software-with-formup-metal-3d-printers
 
-🖨 ABS and Radian Forge Test Whether Sensor Data Can Qualify 3D Printed Ship Parts
-ABS and Portsmouth, Virginia-based Radian Forge have signed a joint development project (JDP).
-The project will evaluate whether digital manufacturing data can be used to qualify metal components built with wire arc additive manufacturing (WAAM), reported by 3D Printing Industry on Nov 19, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/b967a9462c5248ca951f9377907cb439-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/abs-and-radian-forge-test-whether-sensor-data-can-qualify-3d-printed-ship-parts-256788
+🖨 GERG GmbH places multi-unit MACHX 450C order, Nikon SLM Solutions confirms
+With these MACHX systems, GERG is said to be setting up a new department dedicated to serial production on large-format systems.
+Reported by TCT Magazine on Nov 19, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Media--15--2-1.jpeg
+Read more ? https://www.tctmagazine.com/gerg-gmbh-places-multi-unit-machx-450c-order-nikon-slm-solutions-confirms
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
