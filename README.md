@@ -2,53 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #318 - 2026-11-21
+### 3D PRINTING PULSE #319 - 2026-11-22
 
-🖨 The Best New Desktop & Industrial 3D Printers from Formnext 2026: Toolchangers, Throughput & Technical Firsts - All3DP
-The Best New Desktop & Industrial 3D Printers from Formnext 2026: Toolchangers, Throughput & Technical Firsts All3DP
-Reported by Google News - 3D Printing on Nov 20, 2026.
-Read more ? https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmVJMHJsX1MzbVY1TU45ZFg4S2dhbjVkc0VVRUhiS1pQQkI5NUhGR2RzQXFGblJ3RDl1NlViNDdZTllsWXY1QTRabzBkVDVwTm5jNExiVHpLX1FjdHN5MjVOUnJLdGJ1b3VvX296ZEF3NEZVdUQxXy1kNXlVSGVaUGVxZ29Xcnk1R3hMdzF1SU9RclJjLURGdHIyTFdvSUJYemJJcTBqdE42bkJxY3lfajZNekFINVNHdzMzRDR5X05zb2c?oc=5
+📷 Tech made in Luxembourg: 3D scanner deployed to measure Norway's melting glaciers - RTL Today
+Tech made in Luxembourg: 3D scanner deployed to measure Norway's melting glaciers RTL Today
+Reported by Google News - 3D Scanners on Nov 21, 2026.
+Read more ? https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnd4VXZyaXlYamlRa1pUbWVXWVNQa1JIbTJuS21XRnNEVVBnUk5JU09aVVk2bVQ4OWdIMEsxeVdlSkNfeUFsMHotZG9nclBpWmktT0hLM1FSSVZiaUJMT3lIUkVMWDMzMm9tYUIyVWEyWTF3QWhIY2ZmUWFyOGg2QXFBMWI4aTRfdmJTcjJPay00WUdfbXNJUmRzSkZNOUE?oc=5
 
-🚨 Elegoo unveils its multi-toolhead Centauri X Ultra 3D printer at FormNext - OC3D
-Elegoo unveils its multi-toolhead Centauri X Ultra 3D printer at FormNext OC3D
-Reported by Google News - 3D Printing on Nov 20, 2026.
-Read more ? https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2h2OWd4MmVXM3RJNFRTa1ZQWURWQWlHRWZMZjNKVWViSVRtdDVLV2E3ZVZ2ZklrV1BIVUFxZkNEckE2MnI4VWxBeXNLWFdrczBTV3JwYWZLdG93UmJtR0E4X2JqQldhSGVya09YcHZMRkpLc0lKdFdvZ2ZKZGVRcGQ3ZkZOaWdhcGVobENEWWo1cC1fMUpONXpxU2ZBLVRNd0w5S0wyUktHZzBm?oc=5
+📷 Revopoint MIRACO 2 arrives on Kickstarter on November 18 - Foro3D
+Revopoint MIRACO 2 arrives on Kickstarter on November 18 Foro3D
+Reported by Google News - 3D Scanners on Nov 21, 2026.
+Read more ? https://news.google.com/rss/articles/CBMioAFBVV95cUxPalJIZGdkb203bFlpWjRKaFcyN1hfUFdVTWxWS01oQnVzbEg5UGtTTS1sWWtyb0hGNHdldHBSZjRjSUpoN3BncW1lSEtNbjdWVUxsaTV3V21VM0FVVXJhU09obktIX254ZVpfdDAyWVl2STVKTFJvMmg3dTk2b1psTWQ4dmxWM2tyb2oyWjhjSExHY0NYU21HQXpESGN2ZWhK?oc=5
 
-💻 Freiburg researchers win €10 million ERC grant for CHiC2PRINT project
-Two University of Freiburg researchers have received a Synergy Grant from the European Research Council worth €10 million ($10.9m) over six years.
-The funding will support CHiC2PRINT, a project combining sustainable 3D printing with low-cost, high-performance plastics from industrial production, reported by VoxelMatters on Nov 20, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/ERC-Freiburg-funding-150x150.jpg
-Read more ? https://www.voxelmatters.com/freiburg-researchers-win-e10-million-erc-grant-for-chic2print-project
+💻 2026 Formnext Award winners announced
+Yesterday at Formnext 2026, six AM innovators became recipients of the highly sought after Formnext Awards.
+Based on input from an expert jury panel and an online voting system, the winners were selected from a set of pretty impressive finalists, who we covered in some depth last week, reported by VoxelMatters on Nov 20, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/formnext-awards-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/2026-formnext-award-winners-announced
 
-♻️ Pollen AM & RHEON Labs Bring Pellet 3D Printing to Football Helmets
-A couple of months ago, I wrote about why the progress made in leveraging additive manufacturing (AM) to improve the effectiveness of football helmets is so exciting.
-That post also, reported by 3DPrint.com on Nov 20, 2026.
-Image ? https://3dprint.com/wp-content/uploads/2026/11/Pollen-AM-Pam-Pro-with-printed-part-680x1024.jpg
-Read more ? https://3dprint.com/337027/pollen-am-rheon-labs-bring-pellet-3d-printing-to-football-helmets
+🖨 Fraunhofer IAPT uses ultrasound to free metal AM parts
+German applied research institute Fraunhofer IAPT has developed an automated process that uses ultrasound to remove support structures from 3D printed metal parts.
+According to the institute, the supports come away cleanly within a few minutes and without manual work, reported by 3D Printing Industry on Nov 21, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Entstuetzen-mit-Ultraschall-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/fraunhofer-iapt-uses-ultrasound-to-free-metal-am-parts-256849
 
-🖨 AMufacture doubles its HP Multi Jet Fusion capacity in the UK
-UK contract manufacturer AMufacture has doubled its additive manufacturing production capacity by installing new HP Multi Jet Fusion 5620 Pro printers at its UK base in Portsmouth.
-The company says the expansion makes it the UK’s leading contract manufacturer specializing in HP’s MJF technology, reported by VoxelMatters on Nov 20, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/AMufacture-HP-expansion-150x150.jpg
-Read more ? https://www.voxelmatters.com/amufacture-doubles-its-hp-multi-jet-fusion-capacity-in-the-uk
+🖨 How FELIX Printers Builds 3D Printers for Just One Customer
+What does it take for a 3D printer to achieve lights-out production?
+And what does it mean for a printer to be built for one specific application and one specific customer, reported by 3D Natives on Nov 20, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/felix-cover.jpg
+Read more ? https://www.3dnatives.com/en/felix-printers-targeted-production-power-20112026
 
-🖨 EOS Presents HELIOR Triple-Laser SLS Platform at Formnext 2026: Technical Specifications and Pricing
-EOS has introduced HELIOR, a large-format polymer additive manufacturing (AM) system based on selective laser sintering (SLS), at Formnext 2026 in Frankfurt.
-The machine pairs three 70 W lasers with a roller recoater whose settings can be adjusted independently, reported by 3D Printing Industry on Nov 20, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/EOS_HELIOR_Production_Floor-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/eos-presents-helior-triple-laser-sls-platform-at-formnext-2026-technical-specifications-and-pricing-256919
+🖨 Industrial 3D Printing 2026: The Year of Magical Thinking Part 1
+An impressive $500 million raise by VulcanForms brings its total funding to $1 billion.
+What’s more, the funding comes from Apollo and JPMorgan, not venture capitalists (VCs), reported by 3DPrint.com on Nov 20, 2026.
+Image ? https://3dprint.com/wp-content/uploads/2026/08/H7c35423bacd04ed097adb13dc89bd9c4a.jpg
+Read more ? https://3dprint.com/336959/3d-printing-service-bureau-landscape-2026-the-year-of-magical-thinking-part-1
 
-🖨 AddUp integrates Dyndrite LPBF Pro software with FormUp metal 3D printers
-Announced at Formnext, the integration of LPBF Pro will allow FormUp users to produce parts from build files created outside AddUp's own software suite for the first time.
-Reported by TCT Magazine on Nov 19, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Dyndrite_20LPBF_20Pro_20UI_20-_20Python_20editor_20-3840x2065-.png
-Read more ? https://www.tctmagazine.com/addup-integrates-dyndrite-lpbf-pro-software-with-formup-metal-3d-printers
+🚀 SWISSto12 passes critical design review for UNIVITY’s dual-band 5G satellite antennas
+SWISSto12 has completed the critical design review for the S-band and Ka-band phased array antennas it was building for UNIVITY’s 5G non-terrestrial network (NTN) demonstration satellites.
+The Swiss company said that the review cleared the program to begin flight hardware production, reported by VoxelMatters on Nov 21, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/SWISSto12-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/swissto12-passes-critical-design-review-for-univitys-dual-band-5g-satellite-antennas
 
-🖨 GERG GmbH places multi-unit MACHX 450C order, Nikon SLM Solutions confirms
-With these MACHX systems, GERG is said to be setting up a new department dedicated to serial production on large-format systems.
-Reported by TCT Magazine on Nov 19, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/Media--15--2-1.jpeg
-Read more ? https://www.tctmagazine.com/gerg-gmbh-places-multi-unit-machx-450c-order-nikon-slm-solutions-confirms
+🚀 Pratt & Whitney uses LPBF to develop its Valox small engine family
+Pratt & Whitney is developing Valox, a family of lightweight engines for small munitions and uncrewed aircraft, using metal additive manufacturing and digital engineering tools.
+The engines are designed to deliver 500 to 1,800 pounds of thrust (about 2.2 to 8 kilonewtons), and the company is targeting a production cycle that moves from clean-sheet design … The post Pratt & Whitney uses LPBF, reported by VoxelMatters on Nov 20, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Pratt-Whitney-Valox-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/pratt-whitney-uses-lpbf-to-develop-its-valox-small-engine-family
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.

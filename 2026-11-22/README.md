@@ -1,0 +1,49 @@
+# Quality3Ds Daily 3D Printing News - 2026-11-22
+
+## Stories
+
+📷 Tech made in Luxembourg: 3D scanner deployed to measure Norway's melting glaciers - RTL Today
+Tech made in Luxembourg: 3D scanner deployed to measure Norway's melting glaciers RTL Today
+Reported by Google News - 3D Scanners on Nov 21, 2026.
+Read more ? https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnd4VXZyaXlYamlRa1pUbWVXWVNQa1JIbTJuS21XRnNEVVBnUk5JU09aVVk2bVQ4OWdIMEsxeVdlSkNfeUFsMHotZG9nclBpWmktT0hLM1FSSVZiaUJMT3lIUkVMWDMzMm9tYUIyVWEyWTF3QWhIY2ZmUWFyOGg2QXFBMWI4aTRfdmJTcjJPay00WUdfbXNJUmRzSkZNOUE?oc=5
+
+📷 Revopoint MIRACO 2 arrives on Kickstarter on November 18 - Foro3D
+Revopoint MIRACO 2 arrives on Kickstarter on November 18 Foro3D
+Reported by Google News - 3D Scanners on Nov 21, 2026.
+Read more ? https://news.google.com/rss/articles/CBMioAFBVV95cUxPalJIZGdkb203bFlpWjRKaFcyN1hfUFdVTWxWS01oQnVzbEg5UGtTTS1sWWtyb0hGNHdldHBSZjRjSUpoN3BncW1lSEtNbjdWVUxsaTV3V21VM0FVVXJhU09obktIX254ZVpfdDAyWVl2STVKTFJvMmg3dTk2b1psTWQ4dmxWM2tyb2oyWjhjSExHY0NYU21HQXpESGN2ZWhK?oc=5
+
+💻 2026 Formnext Award winners announced
+Yesterday at Formnext 2026, six AM innovators became recipients of the highly sought after Formnext Awards.
+Based on input from an expert jury panel and an online voting system, the winners were selected from a set of pretty impressive finalists, who we covered in some depth last week, reported by VoxelMatters on Nov 20, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/formnext-awards-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/2026-formnext-award-winners-announced
+
+🖨 Fraunhofer IAPT uses ultrasound to free metal AM parts
+German applied research institute Fraunhofer IAPT has developed an automated process that uses ultrasound to remove support structures from 3D printed metal parts.
+According to the institute, the supports come away cleanly within a few minutes and without manual work, reported by 3D Printing Industry on Nov 21, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Entstuetzen-mit-Ultraschall-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/fraunhofer-iapt-uses-ultrasound-to-free-metal-am-parts-256849
+
+🖨 How FELIX Printers Builds 3D Printers for Just One Customer
+What does it take for a 3D printer to achieve lights-out production?
+And what does it mean for a printer to be built for one specific application and one specific customer, reported by 3D Natives on Nov 20, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/felix-cover.jpg
+Read more ? https://www.3dnatives.com/en/felix-printers-targeted-production-power-20112026
+
+🖨 Industrial 3D Printing 2026: The Year of Magical Thinking Part 1
+An impressive $500 million raise by VulcanForms brings its total funding to $1 billion.
+What’s more, the funding comes from Apollo and JPMorgan, not venture capitalists (VCs), reported by 3DPrint.com on Nov 20, 2026.
+Image ? https://3dprint.com/wp-content/uploads/2026/08/H7c35423bacd04ed097adb13dc89bd9c4a.jpg
+Read more ? https://3dprint.com/336959/3d-printing-service-bureau-landscape-2026-the-year-of-magical-thinking-part-1
+
+🚀 SWISSto12 passes critical design review for UNIVITY’s dual-band 5G satellite antennas
+SWISSto12 has completed the critical design review for the S-band and Ka-band phased array antennas it was building for UNIVITY’s 5G non-terrestrial network (NTN) demonstration satellites.
+The Swiss company said that the review cleared the program to begin flight hardware production, reported by VoxelMatters on Nov 21, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/SWISSto12-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/swissto12-passes-critical-design-review-for-univitys-dual-band-5g-satellite-antennas
+
+🚀 Pratt & Whitney uses LPBF to develop its Valox small engine family
+Pratt & Whitney is developing Valox, a family of lightweight engines for small munitions and uncrewed aircraft, using metal additive manufacturing and digital engineering tools.
+The engines are designed to deliver 500 to 1,800 pounds of thrust (about 2.2 to 8 kilonewtons), and the company is targeting a production cycle that moves from clean-sheet design … The post Pratt & Whitney uses LPBF, reported by VoxelMatters on Nov 20, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Pratt-Whitney-Valox-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/pratt-whitney-uses-lpbf-to-develop-its-valox-small-engine-family
