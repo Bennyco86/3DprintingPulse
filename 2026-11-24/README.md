@@ -1,0 +1,51 @@
+# Quality3Ds Daily 3D Printing News - 2026-11-24
+
+## Stories
+
+🔥 Black Friday Deals on SUNLU’s New Filament Drying Hardware
+A 3D print fails with the same file, same printer, and same settings that worked last week.
+The first layer looks rough, there’s stringing everywhere, reported by 3D Printing Industry on Nov 23, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/pr2-lo-res-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/black-friday-deals-on-sunlus-new-filament-drying-hardware-257188
+
+🚀 Makera Brings Steel Milling and 12-Tool Automatic Tool Changing to the Desktop With A1S
+Makera brought its full machine portfolio to Formnext 2026 at Messe Frankfurt in Germany, and the A1S desktop CNC machine led the lineup.
+The company displayed the machine in Hall 12.0, at Booth B01, and planned to open pre-orders on November 18, the date of its official launch, reported by 3D Printing Industry on Nov 23, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/20261117014730EST_image_1-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/makera-brings-steel-milling-and-12-tool-automatic-tool-changing-to-the-desktop-with-a1s-257177
+
+💻 NATO & Ukraine to Partner on 3D Printed Drones
+Well folks, I suggested that, depending on the results of the 2026 US midterm elections — i.e., if the Democrats won big, as was expected — we should expect a...
+Reported by 3DPrint.com on Nov 23, 2026.
+Image ? https://3dprint.com/wp-content/uploads/2026/11/large_3d-printers-for-uavs-site-01-en-c9bfa1371f.webp
+Read more ? https://3dprint.com/337368/nato-ukraine-to-partner-on-3d-printed-drones
+
+🖨 AXILOOP MC8: A Modular Printer Built to Last
+Desktop 3D printers are becoming increasingly advanced, but what happens when it’s time to repair a component or perform maintenance on the machine?
+AXILOOP aims to simplify these tasks with the MC8, a modular 3D printer designed to be easy…, reported by 3D Natives on Nov 23, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/AXILOOP-cover-2.jpg
+Read more ? https://www.3dnatives.com/en/axiloop-mc8-formnext-23112026
+
+🖨 3D Printing Market Hits $4.58 Billion in Q3, Metal Services Outpace Industry
+AM Research Q3 2026 Market Data Metal & polymer AM markets · Data and forecasts EXPLORE THE DATA ↗ The global 3D printing market reached $4.58 billion in the third...
+Reported by 3DPrint.com on Nov 23, 2026.
+Image ? https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png
+Read more ? https://3dprint.com/337494/3d-printing-market-hits-4-58-billion-in-q3-metal-services-outpace-industry
+
+📰 MKS releases Ophir BeamPeek 2 laser analysis system for AM chambers
+has released the Ophir BeamPeek 2, a high-power beam analysis and power measurement system for lasers used in additive manufacturing and laser welding.
+The Massachusetts-based company says the unit measures beam profile, focal spot, beam caustic and M², and power simultaneously in under three seconds, and tracks those parameters over time to support … The post MKS, reported by VoxelMatters on Nov 23, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/MKS-Ophire-BeamPeek-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/mks-releases-ophir-beampeek-2-laser-analysis-system-for-am-chambers
+
+📰 Formnext 2026: A closer look at 12 new 3D printing technologies
+Come with us on a whistle stop tour of the Formnext show floor.
+Reported by TCT Magazine on Nov 23, 2026.
+Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/da7c5c29-0ad5-4e48-9aa1-1905d1feb9a0.jpg
+Read more ? https://www.tctmagazine.com/formnext-2026-a-closer-look-at-12-new-3d-printing-technologies
+
+🚀 Xometry and HP connect MJF build planning to Xometry Workcenter
+Xometry and HP have initiated a collaboration that links HP’s Multi Jet Fusion build-planning software with Xometry Workcenter, Xometry’s job management platform.
+The integration is built to let manufacturers in the Xometry Partner Network fill unused space in their MJF builds with Xometry jobs, reported by VoxelMatters on Nov 23, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/Xometry-HP-01-150x150.jpg
+Read more ? https://www.voxelmatters.com/xometry-and-hp-connect-mjf-build-planning-to-xometry-workcenter

@@ -1,51 +1,53 @@
-﻿# 3D PRINTING PULSE #320 - 2026-11-23
+﻿# 3D PRINTING PULSE #321 - 2026-11-24
 
-🔥 I 3D printed my own smart watch band and it went about as well as you’d expect - How-To Geek
-I 3D printed my own smart watch band and it went about as well as you’d expect How-To Geek
-Reported by Google News - 3D Printing on Nov 22, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wa2JfV19oU2lJSWhTT1M1YlhVM0FLeHE3am5yTDR1ajNJcGF2X3kwTnZRNGN3ZWtTeXVUN19heUxUV3pDLXNIbTJPeHl3eWNXYUVsclN3QU8tM1B3MktEUXV3d0FlQQ?oc=5
+🔥 Black Friday Deals on SUNLU’s New Filament Drying Hardware
+A 3D print fails with the same file, same printer, and same settings that worked last week.
+The first layer looks rough, there’s stringing everywhere, reported by 3D Printing Industry on Nov 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/pr2-lo-res-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/black-friday-deals-on-sunlus-new-filament-drying-hardware-257188
 
-🖨 Elegoo Centauri X Ultra: Tool changer with four print heads and heated spool boxes - 3Druck.com
-Elegoo Centauri X Ultra: Tool changer with four print heads and heated spool boxes 3Druck.com
-Reported by Google News - Tool and Nozzle Changers on Nov 17, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2hZSFRXUjlfTEUtV2ZFVldrZzVRbHVTbnNCQzNsaXFaVnZzRklOVFM5SlA1N3BNaU5rWlJ3UlM2aUxQVm5uSFkzX2dCSmVtRzJ4QVp3cGJPTGpFbzY2bEM3MEN0Y0YyUG9pNjExV3NsQXFhOW0tbjk4VTNualRJTDExbllEeE16QllVa0h1SmxjWDZydXN6TWt6SGM1SGV4X21JZUhrOVlCOXd2c2tWaFUtV3ZjOGhlYS1iWkZ3MjhmRzNZZEJrRzlsV0dhTzZE?oc=5
+🚀 Makera Brings Steel Milling and 12-Tool Automatic Tool Changing to the Desktop With A1S
+Makera brought its full machine portfolio to Formnext 2026 at Messe Frankfurt in Germany, and the A1S desktop CNC machine led the lineup.
+The company displayed the machine in Hall 12.0, at Booth B01, and planned to open pre-orders on November 18, the date of its official launch, reported by 3D Printing Industry on Nov 23, 2026.
+🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/20261117014730EST_image_1-150x100.jpg
+🔗 Read more: https://3dprintingindustry.com/news/makera-brings-steel-milling-and-12-tool-automatic-tool-changing-to-the-desktop-with-a1s-257177
 
-💻 Formnext 2026: Snow Day at a Turning Point for 3D Printing
-Friday at Formnext always feels like a snow day.
-All the management types have gone, reported by 3DPrint.com on Nov 22, 2026.
-🖼️ Image: https://3dprint.com/wp-content/uploads/2026/11/IMG_6174-1-scaled-e1795182846938.jpeg
-🔗 Read more: https://3dprint.com/337433/formnext-2026-day-4-snow-day
+💻 NATO &amp; Ukraine to Partner on 3D Printed Drones
+Well folks, I suggested that, depending on the results of the 2026 US midterm elections — i.e., if the Democrats won big, as was expected — we should expect a...
+Reported by 3DPrint.com on Nov 23, 2026.
+🖼️ Image: https://3dprint.com/wp-content/uploads/2026/11/large_3d-printers-for-uavs-site-01-en-c9bfa1371f.webp
+🔗 Read more: https://3dprint.com/337368/nato-ukraine-to-partner-on-3d-printed-drones
 
-🖨 Fraunhofer ADDITIV Unveils New Way to Build Function Into 3D Printed Parts
-Fraunhofer ADDITIV, a network of German research institutes focused on additive manufacturing, exhibited a range of technologies at Formnext 2026, with exhibits covering functional integration, process efficiency,...
-The exhibits at its Hall 11.0 Booth D31 spanned metals, polymers, ceramics, and multi-material systems, reported by 3D Printing Industry on Nov 22, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/ProFi-Finger-Fraunhofer-CPM-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/fraunhofer-additiv-unveils-new-way-to-build-function-into-3d-printed-parts-257155
+🖨 AXILOOP MC8: A Modular Printer Built to Last
+Desktop 3D printers are becoming increasingly advanced, but what happens when it’s time to repair a component or perform maintenance on the machine?
+AXILOOP aims to simplify these tasks with the MC8, a modular 3D printer designed to be easy…, reported by 3D Natives on Nov 23, 2026.
+🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/AXILOOP-cover-2.jpg
+🔗 Read more: https://www.3dnatives.com/en/axiloop-mc8-formnext-23112026
 
-🚀 Ursa Major receives $10.9 million AFRL option to continue Draper engine development
-The Air Force Research Laboratory (AFRL) has exercised a $10.9 million option on Ursa Major’s contract to continue development of Draper, a storable liquid rocket engine the company built for hypersonic applications.
-The option follows flights of the Affordable Rapid Missile Demonstrator under the same contract, which Ursa Major described as successful, reported by VoxelMatters on Nov 22, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/Ursa-Major-01-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/ursa-major-receives-10-9-million-afrl-option-to-continue-draper-engine-development
+🖨 3D Printing Market Hits $4.58 Billion in Q3, Metal Services Outpace Industry
+AM Research Q3 2026 Market Data Metal &amp; polymer AM markets · Data and forecasts EXPLORE THE DATA ↗ The global 3D printing market reached $4.58 billion in the third...
+Reported by 3DPrint.com on Nov 23, 2026.
+🖼️ Image: https://s.w.org/images/core/emoji/17.0.2/72x72/2197.png
+🔗 Read more: https://3dprint.com/337494/3d-printing-market-hits-4-58-billion-in-q3-metal-services-outpace-industry
 
-🚀 Siemens connects agentic AI and additive manufacturing in an end-to-end digital thread
-Siemens is building an end-to-end digital thread for additive manufacturing that runs on Industrial AI.
-It is the first time the company has connected agentic, prompt-based engineering with an adaptive production environment, reported by VoxelMatters on Nov 22, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/siemens_AM_a05e01c0-c442-4904-9fef-4a287c917cb7-high-150x150.webp
-🔗 Read more: https://www.voxelmatters.com/siemens-connects-agentic-ai-and-additive-manufacturing-in-an-end-to-end-digital-thread
+📰 MKS releases Ophir BeamPeek 2 laser analysis system for AM chambers
+has released the Ophir BeamPeek 2, a high-power beam analysis and power measurement system for lasers used in additive manufacturing and laser welding.
+The Massachusetts-based company says the unit measures beam profile, focal spot, beam caustic and M², and power simultaneously in under three seconds, and tracks those parameters over time to support … The post MKS, reported by VoxelMatters on Nov 23, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/MKS-Ophire-BeamPeek-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/mks-releases-ophir-beampeek-2-laser-analysis-system-for-am-chambers
 
-🦺 Linton Lifesciences acquires EnvisionTEC’s 3D-Bioplotter business
-Linton Lifesciences acquired the 3D-Bioplotter platform, along with its technology and operations, from EnvisionTEC GmbH.
-The deal brings one of the longest-running systems in biofabrication into a young Boston company that develops bioprinted implants, starting with vascular grafts, reported by VoxelMatters on Nov 22, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/linton-bioplotter-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/linton-lifesciences-acquires-envisiontecs-3d-bioplotter-business
+📰 Formnext 2026: A closer look at 12 new 3D printing technologies
+Come with us on a whistle stop tour of the Formnext show floor.
+Reported by TCT Magazine on Nov 23, 2026.
+🖼️ Image: https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/da7c5c29-0ad5-4e48-9aa1-1905d1feb9a0.jpg
+🔗 Read more: https://www.tctmagazine.com/formnext-2026-a-closer-look-at-12-new-3d-printing-technologies
 
-📰 Solukon Consolidates Two Depowdering Systems With New SFM-AT850
-Post-processing system manufacturer Solukon is replacing two of its automated depowdering systems with one.
-Having made its public debut at Formnext 2026, the SFM-AT850 succeeds the SFM-AT800-S and SFM-AT1000-S with a machine that handles heavier parts in a smaller footprint, reported by 3D Printing Industry on Nov 22, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/PM_AT850_2026_Front-Top-Loading-1536x864-1-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/solukon-consolidates-two-depowdering-systems-with-new-sfm-at850-257147
+🚀 Xometry and HP connect MJF build planning to Xometry Workcenter
+Xometry and HP have initiated a collaboration that links HP’s Multi Jet Fusion build-planning software with Xometry Workcenter, Xometry’s job management platform.
+The integration is built to let manufacturers in the Xometry Partner Network fill unused space in their MJF builds with Xometry jobs, reported by VoxelMatters on Nov 23, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/Xometry-HP-01-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/xometry-and-hp-connect-mjf-build-planning-to-xometry-workcenter
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-If you only open one story from today, make it "I 3D printed my own smart watch band and it went about as well as you’d expect - How-To Geek" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wa2JfV19oU2lJSWhTT1M1YlhVM0FLeHE3am5yTDR1ajNJcGF2X3kwTnZRNGN3ZWtTeXVUN19heUxUV3pDLXNIbTJPeHl3eWNXYUVsclN3QU8tM1B3MktEUXV3d0FlQQ?oc=5 | Full coverage: https://www.quality3ds.com/
+The story setting the tone today is "Black Friday Deals on SUNLU’s New Filament Drying Hardware" because it highlights where practical 3D printing innovation is moving next. Read it here: https://3dprintingindustry.com/news/black-friday-deals-on-sunlus-new-filament-drying-hardware-257188 | Full pulse: https://www.quality3ds.com/
