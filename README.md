@@ -2,54 +2,53 @@
 
 ## Latest Pulse
 <!-- PULSE:START -->
-### 3D PRINTING PULSE #323 - 2026-11-26
+### 3D PRINTING PULSE #324 - 2026-11-27
 
-🔥 DN Solutions and Addiguru Aim to Catch Metal AM Defects Before They Reach the CNC
-South Korean machine tool manufacturer DN Solutions and U.S.-based software company Addiguru showed a joint demonstration at Formnext 2026 in which Addiguru’s automated in-situ monitoring software analysed build data...
-The goal is to identify potential defects earlier in the additive manufacturing process and reduce the time…, reported by 3D Printing Industry on Nov 25, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Addiguru-Bringing_Anomaly_Detection_Directly_into_the_3D_Part-150x100.png
-Read more ? https://3dprintingindustry.com/news/dn-solutions-and-addiguru-aim-to-catch-metal-am-defects-before-they-reach-the-cnc-257233
+🚨 Elegoo unveils Saturn 5 Ultra at Formnext: resin printer with automatic resin feeding set to launch in early 2027 - 3Druck.com
+Elegoo unveils Saturn 5 Ultra at Formnext: resin printer with automatic resin feeding set to launch in early 2027 3Druck.com
+Reported by Google News - New Printer Releases on Nov 18, 2026.
+Read more ? https://news.google.com/rss/articles/CBMiggJBVV95cUxPSER4NHJaVGcyeVB6anhkZVRJR0hyUGc2d1hvOE14RllxT2RGQml1SGZqMFQtSUFJcFJ4ZXFoOUlFaEVybnp0ZUIxU3E4dU1QRnRuNDhZQXQ0YjEyRHBHN1p2SWhkZS1zd3ZmcS1EaGNBdk41cUFxaFQ2SVJ5MnNyMWR5bS1OamNQbGgzak94V194Rkk3cGtoSUpaVkViSTVIdXVZZXpob1Z6d201eWxuNU1zZHRFak1mWElURS1JZ0tRVlFLOHZUV3dxY0dKWlRDNnNZa0JJTmV1amxQY012cy1Ea05YbUludDhsazU3NHJKaXB6NWFibVgyMHpyRnA1OGc?oc=5
 
-🚨 SHINING 3D successfully shows off full wireless scanner range at Formnext
-SHINING 3D presented its 3D scanning portfolio built on a single wireless architecture at Formnext 2026, with cable-free systems spanning metrology-grade, professional and entry-level scanners, alongside its dental line.
-The show, at Messe Frankfurt, also gave the Einstar EZ GO, a phone-based scanner launched the week before, its first public appearance at the entry point … The post SHINING 3D successfully shows off full wireless, reported by VoxelMatters on Nov 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/SHINING-3D-Formnext-review-01-150x150.jpg
-Read more ? https://www.voxelmatters.com/shining-3d-full-wireless-scanner-range-at-formnext
+📷 Black Friday 3D scanner deals: Five ultimate scanners from just $384 - Creative Bloq
+Black Friday 3D scanner deals: Five ultimate scanners from just $384 Creative Bloq
+Reported by Google News - 3D Printing on Nov 26, 2026.
+Read more ? https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXY5RlNRZFd5VUc5bDN2STRXbWdRaUpzWElvY2phcG1EaE1VbDl6UDRTQm9QRFZWVFJpdVNpT1paeGJJMHI3dlNrdmJxMWFueTNkYWN4anMwcGlOMWp1eXZYSDNqbGdweXQwZUpKdzhOZGlicE54SlN5N3VkYXRpakszYnVyM0kyRFdjREUwRHhiaVBsdi05LU1vVU9DU0J4c0hWQXRhNA?oc=5
 
-📷 Black Friday 2026 3D printing deals: printers, scanners, filament and upgrades
-Offers checked on 25 November 2026.
-Black Friday 2026 brings discounts across desktop 3D printers, scanners, materials and components, with offers from Bambu Lab, ROSA3D, Revopoint, Snapmaker, eufyMake, E3D, Polymaker, Creality, Anycubic and Prusa, reported by 3D Printing Industry on Nov 25, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Untitled-Design-15-150x100.png
-Read more ? https://3dprintingindustry.com/news/black-friday-2026-3d-printing-deals-printers-scanners-filament-and-upgrades-257275
+💻 JATEC Project Targets 3D Printing for Drone Repair and Component Supply
+The NATO-Ukraine Joint Analysis, Training and Education Centre (JATEC) is running a project to develop additive manufacturing (AM) systems for unmanned aerial vehicles (UAVs), according to the Ministry of Defence of...
+The ministry says the project’s goal is to introduce new technologies that support the defense of Ukraine and of member states of the…, reported by 3D Printing Industry on Nov 25, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/large_3d-printers-for-uavs-site-01-en-c9bfa1371f-150x100.jpg
+Read more ? https://3dprintingindustry.com/news/jatec-project-targets-3d-printing-for-drone-repair-and-component-supply-257213
 
-📷 SHINING 3D presents the EINSTAR EZ GO, a mobile 3D scanner with AI and cloud - Foro3D
-SHINING 3D presents the EINSTAR EZ GO, a mobile 3D scanner with AI and cloud Foro3D
-Reported by Google News - 3D Scanners on Nov 25, 2026.
-Read more ? https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHBja1NNSnVVdG5rb1k1YmpyZXh6WnJXRDYxcXJraXJhQjdUZzF1UHpnbU9TbFJ5bnRKc3NVOThXZmRaWkV5V0NOUnFUenloMk8xQ1VJTEF4VjBOd25OWkxwMUp3V3BIYllZRlkxNm9RVnNRTHFVeVRWdlhON0NxNS1FUmRyamRBc3R3N0Z1R2t0SjNtdGRxUEM1WTJURlJWXzlIb0ZxdENwb0JVeWc?oc=5
+♻️ FlexCycle Solutions targets sustainable copper powder production
+FlexCycle Solutions, a winner and two-category-finalist in the 2026 Formnext Awards, is creating a new way to turn industrial byproducts into high-quality additive manufacturing powder.
+The young company—still in the process of being formally founded—is a spin-off from TU Bergakademie Freiberg, a German institution that specializes in mining and the recycling of natural resources, reported by VoxelMatters on Nov 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/app-lpbf-1-150x150.jpg
+Read more ? https://www.voxelmatters.com/flexcycle-solutions-targets-sustainable-copper-powder-production
 
-💻 3DCERAM heads for an employee-led buyout as Sinto transfers its stake
-Four employees of 3DCERAM are set to take control of the French ceramic additive manufacturing company through a management buyout.
-The company’s current shareholders, Sinto (Sintokogio Group) and founders Christophe Chaput and Richard Gaignon, back the deal, reported by VoxelMatters on Nov 25, 2026.
-Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/3dceram-150x150.jpg
-Read more ? https://www.voxelmatters.com/3dceram-heads-for-an-employee-led-buyout-as-sinto-transfers-its-stake
+🖨 Fabri uses 3D printed patterns to remove hard tooling from investment casting
+Fabri, a metal casting company founded by MIT alumni, has replaced the steel tooling and wax patterns of traditional investment casting with 3D printed resin patterns and its own software, FoundryOS.
+Co-founder Steven Davis has said that the company could go from receiving a design to producing a finished part in as little as a … The post Fabri uses 3D printed patterns to remove hard tooling from investment, reported by VoxelMatters on Nov 26, 2026.
+Image ? https://www.voxelmatters.com/wp-content/uploads/2026/11/MIT-metal-AM-150x150.jpg
+Read more ? https://www.voxelmatters.com/fabri-uses-3d-printed-patterns-to-remove-hard-tooling-from-investment-casting
 
-🖨 Metal Powder Works to install 8 more NextGen units after new capital injection
-"We are very pleased with the strong support received from investors through this raising," CEO John Barnes says.
-Reported by TCT Magazine on Nov 25, 2026.
-Image ? https://storage.ghost.io/c/f0/da/f0da4f6a-82b1-46cf-ab14-3cc5e6b2d473/content/images/2026/11/MPW-metal-3D-printing-powder-production-Machine-metal-powder-works-1.png
-Read more ? https://www.tctmagazine.com/metal-powder-works-to-install-8-more-nextgen-units-after-new-capital-injection
+🖨 WAAM3D upgrades MiniWAAM with dual-wire feeding as standard for multi-material metal parts
+WAAM3D, the Milton Keynes-based supplier of wire arc additive manufacturing (WAAM) systems, has upgraded its MiniWAAM platform, making dual-wire feeding a standard feature.
+Announced ahead of Formnext 2026, the updated MiniWAAM/DW brings multi-material processing and in-process alloying to the company’s machine for small components, reported by 3D Printing Industry on Nov 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Pic1_MiniWAAM-System-150x100.png
+Read more ? https://3dprintingindustry.com/news/waam3d-upgrades-miniwaam-with-dual-wire-feeding-as-standard-for-multi-material-metal-parts-257404
 
-🖨 AVIC reports five-meter 3D printed airframe structure
-The Aviation Industry Corporation of China (AVIC) has reported the manufacture of an integrated aircraft structure measuring more than five meters using metal additive manufacturing.
-Developed by AVIC’s Shenyang Aircraft Design and Research Institute, the primary load-bearing component is positioned in an aircraft’s central fuselage, where it functions as a frame-and-beam structure to carry and…, reported by 3D Printing Industry on Nov 25, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/J-35_J-15T_J-15DT_formation_CNS-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/avic-reports-five-meter-3d-printed-airframe-structure-257252
+🖨 OctoPrint 2.0.0 Adds Plugin Route to Bambu Lab Printers After Years of Serial-Only Connections
+OctoPrint, the free and open software for controlling 3D printers, has released version 2.0.0.
+Until now, OctoPrint connected to printers through a serial connection, reported by 3D Printing Industry on Nov 26, 2026.
+Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-25-a-las-10.12.05-p.m-150x100.png
+Read more ? https://3dprintingindustry.com/news/octoprint-2-0-0-adds-plugin-route-to-bambu-lab-printers-after-years-of-serial-only-connections-257408
 
-🖨 Nippon Sanso brings RotoTIG metal AM torch to Europe
-Industrial gas and process technology company Nippon Sanso showcased its 3DPro RotoTIG torch in Europe at last week’s Formnext 2026, bringing its rotary tungsten inert gas (TIG) welding technology to the region for...
-The system combines a centrally fed metal wire with a tungsten electrode that rotates around it, reported by 3D Printing Industry on Nov 25, 2026.
-Image ? https://3dprintingindustry.com/wp-content/uploads/2026/11/3DProRotoTIG-150x100.jpg
-Read more ? https://3dprintingindustry.com/news/nippon-sanso-brings-rototig-metal-am-torch-to-europe-257257
+🖨 Can Metal 3D Printing Leave the Factory? SnowX Makes Its Case with SnowPod, Announces Partnerships with Autodesk and Meshy AI
+Last month, we looked at the winding road that led SnowX to SnowPod, its desktop metal 3D printer.
+At Formnext 2026, we met founder and CEO Fangda Xu at the SnowX booth to see the machine in action and hear…, reported by 3D Natives on Nov 25, 2026.
+Image ? https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/formnext-snowx-cover.jpg
+Read more ? https://www.3dnatives.com/en/snowpod-formnext-2026-23112026
 <!-- PULSE:END -->
 
 This repo hosts the latest Quality3Ds Daily Pulse.
