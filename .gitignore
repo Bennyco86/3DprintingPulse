@@ -8,6 +8,8 @@
 !publish.ps1
 !setup_scheduled_task.ps1
 !sources.json
+!prepare_linkedin_draft.py
+!LINKEDIN_DRAFT.txt
 !requirements.txt
 !.github/
 !.github/workflows/

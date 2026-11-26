@@ -1,0 +1,68 @@
+name: Daily Pulse
+
+# Runs in GitHub's cloud instead of the Windows scheduled task.
+# 19:30 UTC = 8:30am NZDT (7:30am in NZ winter). GitHub may start it a few minutes late.
+on:
+  schedule:
+    - cron: "30 19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-pulse
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: Pacific/Auckland   # issue folders use the NZ date
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m unittest test_pulse
+
+      - name: Feed check (manual runs only)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          python -c "
+          import auto_daily as a
+          for s in a.load_sources('.'):
+              print(len(a.fetch_feed(s)), s['name'])
+          "
+
+      - name: Build today's issue
+        run: python auto_daily.py
+
+      - name: Rebuild feed
+        run: python generate_rss.py
+
+      - name: LinkedIn draft email
+        env:
+          PULSE_EMAIL_GMAIL_USER: ${{ secrets.PULSE_EMAIL_GMAIL_USER }}
+          PULSE_EMAIL_GMAIL_APP_PASSWORD: ${{ secrets.PULSE_EMAIL_GMAIL_APP_PASSWORD }}
+          PULSE_EMAIL_TO: ${{ secrets.PULSE_EMAIL_TO }}
+        run: python prepare_linkedin_draft.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "Bennyco86"
+          git config user.email "Bennyco86@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "Daily content update: $(date +%Y-%m-%d)"
+          git push
