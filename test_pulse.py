@@ -45,6 +45,32 @@ class PulseRegressionTests(unittest.TestCase):
             item['title'] = 'Bambu Lab H3C nine-tool printer specifications'
             self.assertEqual(a.select_stories([item], history), [])
 
+    def test_launch_not_blocked_by_earlier_teaser(self):
+        teasers = ['Bambu Lab teases its first 3D scanner, the S1 3D, for November 2026 launch',
+                   "Bambu Lab S1: FCC Approval Marks Bambu Lab's First Portable 3D Scanner",
+                   'Bambu Lab launches S1 3D scanner, opening sign-ups for early access']
+        with tempfile.TemporaryDirectory() as tmp:
+            for day, title in zip(('2026-10-13', '2026-10-14', '2026-10-19'), teasers):
+                folder = Path(tmp, day)
+                folder.mkdir()
+                (folder / 'README.md').write_text('# Pulse\n\n## Stories\n\n' + title
+                    + '\nSummary.\nRead more ? https://p.test/' + day + '\n', encoding='utf-8')
+            history = a.load_seen_story_history(tmp)
+            self.assertIn('bambu:s1', history['prelaunch_signatures'])
+            self.assertNotIn('bambu:s1', history['major_signatures'])
+            now = datetime.datetime.now(datetime.timezone.utc)
+            launch = dict(title='Easy in Hand, Pro in Every Scan: Bambu Lab introduces the S1 3D scanner',
+                          summary='', url='https://p.test/launch', source='Bambu Lab', published=now)
+            self.assertEqual(len(a.select_stories([launch], history)), 1)
+            teaser = dict(title='Bambu Lab S1 scanner spotted ahead of launch', summary='',
+                          url='https://p.test/leak', source='Bambu Lab', published=now)
+            self.assertEqual(a.select_stories([teaser], history), [])
+            archive = 'Bambu Lab introduces the S1 3D scanner\nDetails.\nRead more ? https://p.test/launch'
+            self.assertEqual(rss.filter_archive_repeats(archive, history), archive)
+            self.assertIn('bambu:s1', history['major_signatures'])
+            relaunch = 'Bambu Lab launches S1 scanner\nDetails.\nRead more ? https://p.test/again'
+            self.assertEqual(rss.filter_archive_repeats(relaunch, history), '')
+
     def test_same_model_across_categories_in_one_run(self):
         now = datetime.datetime.now(datetime.timezone.utc)
         items = [dict(title=title, summary='', url='https://p.test/' + str(i),

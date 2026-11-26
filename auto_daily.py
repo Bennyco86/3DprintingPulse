@@ -649,6 +649,35 @@ def major_release_spec_note(item):
     return ""
 
 
+# Teasers, leaks and certifications come before the real launch. They must not
+# block the launch story itself, only other pre-launch stories for the model.
+PRELAUNCH_TITLE_PATTERN = re.compile(
+    r"\b(teas(e|es|ed|er|ers|ing)|rumou?r(s|ed)?|leak(s|ed)?|fcc|spotted|"
+    r"coming soon|set for|ahead of (its )?launch|first look|sneak peek|countdown|"
+    r"early access|sign-?ups?|wait-?list|pre-?orders?)\b"
+)
+
+
+def is_prelaunch_title(title):
+    return bool(PRELAUNCH_TITLE_PATTERN.search((title or "").lower()))
+
+
+def is_repeat_major_release(signature, title, history):
+    """True when this model's story was already covered at the same stage."""
+    if not signature:
+        return False
+    if signature in history.get("major_signatures", set()):
+        return True
+    return is_prelaunch_title(title) and signature in history.get("prelaunch_signatures", set())
+
+
+def record_major_release(signature, title, history):
+    if not signature:
+        return
+    key = "prelaunch_signatures" if is_prelaunch_title(title) else "major_signatures"
+    history.setdefault(key, set()).add(signature)
+
+
 def normalize_url(url):
     if not url:
         return ""
@@ -758,6 +787,7 @@ def load_seen_story_history(project_root, exclude_date=None, before_date=None):
     seen_title_signatures = set()
     seen_title_topic_tokens = set()
     seen_major_signatures = set()
+    seen_prelaunch_signatures = set()
     paths = glob.glob(os.path.join(project_root, "20??-??-??", "README.md"))
     paths.sort(reverse=True)
     skip_path = None
@@ -796,7 +826,10 @@ def load_seen_story_history(project_root, exclude_date=None, before_date=None):
                             seen_title_topic_tokens.add(topic_tokens)
                         major_signature = major_release_signature_from_text(pending_title)
                         if major_signature:
-                            seen_major_signatures.add(major_signature)
+                            if is_prelaunch_title(pending_title):
+                                seen_prelaunch_signatures.add(major_signature)
+                            else:
+                                seen_major_signatures.add(major_signature)
                         pending_title = ""
 
                     if "Read more" not in stripped:
@@ -814,6 +847,7 @@ def load_seen_story_history(project_root, exclude_date=None, before_date=None):
         "title_signatures": seen_title_signatures,
         "title_topic_tokens": seen_title_topic_tokens,
         "major_signatures": seen_major_signatures,
+        "prelaunch_signatures": seen_prelaunch_signatures,
     }
 
 
@@ -828,7 +862,6 @@ def select_stories(items, seen_history):
     seen_urls = seen_history.get("urls", set())
     seen_title_signatures = seen_history.get("title_signatures", set())
     seen_title_topic_tokens = seen_history.get("title_topic_tokens", set())
-    seen_major_signatures = seen_history.get("major_signatures", set())
 
     now = datetime.datetime.now(datetime.timezone.utc)
     cutoff = now - datetime.timedelta(hours=MAX_ITEM_AGE_HOURS)
@@ -875,7 +908,7 @@ def select_stories(items, seen_history):
         if any(title_topics_overlap(item["title_topic_tokens"], seen) for seen in seen_title_topic_tokens):
             continue
         signature = major_release_signature(item)
-        if signature and signature in seen_major_signatures:
+        if is_repeat_major_release(signature, title, seen_history):
             continue
         candidates.append(item)
 

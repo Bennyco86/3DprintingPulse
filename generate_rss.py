@@ -139,7 +139,7 @@ def validate_unique_latest_pulse(markdown_body, project_root, date_str, file_pat
 
         if major_signature and major_signature in seen_major_signatures:
             duplicate_messages.append(f"line {entry['line']}: duplicate printer-release model in today's Pulse ({major_signature}): {title}")
-        if major_signature and major_signature in history["major_signatures"]:
+        if auto_daily.is_repeat_major_release(major_signature, title, history):
             duplicate_messages.append(f"line {entry['line']}: printer-release model already covered ({major_signature}): {title}")
 
         seen_urls.add(url)
@@ -182,14 +182,13 @@ def filter_archive_repeats(markdown_body, history):
         model = auto_daily.major_release_signature_from_text(entry["title"])
         repeated = (url in history["urls"] or title in history["title_signatures"]
                     or any(auto_daily.title_topics_overlap(tokens, old) for old in history["title_topic_tokens"])
-                    or (model and model in history["major_signatures"]))
+                    or auto_daily.is_repeat_major_release(model, entry["title"], history))
         if not repeated:
             kept.append(block)
         history["urls"].add(url)
         history["title_signatures"].add(title)
         history["title_topic_tokens"].add(tokens)
-        if model:
-            history["major_signatures"].add(model)
+        auto_daily.record_major_release(model, entry["title"], history)
     return "\n\n".join(kept)
 
 def update_root_readme(pulse_title, markdown_body):
