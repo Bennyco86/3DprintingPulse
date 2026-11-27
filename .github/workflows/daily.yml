@@ -31,7 +31,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Tests
-        run: python -m unittest test_pulse
+        run: python -m unittest test_pulse test_subscriber_mail
 
       - name: Feed check (manual runs only)
         if: github.event_name == 'workflow_dispatch'
@@ -54,6 +54,13 @@ jobs:
           PULSE_EMAIL_GMAIL_APP_PASSWORD: ${{ secrets.PULSE_EMAIL_GMAIL_APP_PASSWORD }}
           PULSE_EMAIL_TO: ${{ secrets.PULSE_EMAIL_TO }}
         run: python prepare_linkedin_draft.py
+
+      - name: Email today's Pulse to subscribers
+        env:
+          PULSE_EMAIL_GMAIL_USER: ${{ secrets.PULSE_EMAIL_GMAIL_USER }}
+          PULSE_EMAIL_GMAIL_APP_PASSWORD: ${{ secrets.PULSE_EMAIL_GMAIL_APP_PASSWORD }}
+          SUBSCRIBER_EXPORT_TOKEN: ${{ secrets.SUBSCRIBER_EXPORT_TOKEN }}
+        run: python send_pulse_email.py
 
       - name: Commit and push
         run: |

@@ -1,0 +1,60 @@
+name: Send product email
+
+# Manual only: Actions -> Send product email -> Run workflow. See emails/README.md.
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        description: "Email file in the emails folder, e.g. 2026-12-makita-mounts.md"
+        required: true
+      send_to:
+        description: "test = only the Quality3Ds inbox; all = every offers subscriber"
+        type: choice
+        options: [test, all]
+        default: test
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-pulse   # never overlaps the daily run's Gmail sending or commits
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PYTHONUTF8: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Send
+        env:
+          EMAIL_FILE: ${{ inputs.file }}
+          SEND_TO: ${{ inputs.send_to }}
+          PULSE_EMAIL_GMAIL_USER: ${{ secrets.PULSE_EMAIL_GMAIL_USER }}
+          PULSE_EMAIL_GMAIL_APP_PASSWORD: ${{ secrets.PULSE_EMAIL_GMAIL_APP_PASSWORD }}
+          SUBSCRIBER_EXPORT_TOKEN: ${{ secrets.SUBSCRIBER_EXPORT_TOKEN }}
+        run: |
+          case "$EMAIL_FILE" in
+            */*|*..*|"") echo "Give just the file name inside the emails folder."; exit 1 ;;
+          esac
+          python send_offer_email.py "emails/$EMAIL_FILE" "$SEND_TO"
+
+      - name: Record the send
+        if: inputs.send_to == 'all'
+        run: |
+          git config user.name "Bennyco86"
+          git config user.email "Bennyco86@users.noreply.github.com"
+          git add emails/sent.txt
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Sent product email: ${{ inputs.file }}"
+          git pull --rebase -q
+          git push
