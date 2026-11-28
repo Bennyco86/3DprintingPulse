@@ -1,51 +1,52 @@
-﻿# 3D PRINTING PULSE #324 - 2026-11-27
+﻿# 3D PRINTING PULSE #325 - 2026-11-28
 
-🚨 Elegoo unveils Saturn 5 Ultra at Formnext: resin printer with automatic resin feeding set to launch in early 2027 - 3Druck.com
-Elegoo unveils Saturn 5 Ultra at Formnext: resin printer with automatic resin feeding set to launch in early 2027 3Druck.com
-Reported by Google News - New Printer Releases on Nov 18, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMiggJBVV95cUxPSER4NHJaVGcyeVB6anhkZVRJR0hyUGc2d1hvOE14RllxT2RGQml1SGZqMFQtSUFJcFJ4ZXFoOUlFaEVybnp0ZUIxU3E4dU1QRnRuNDhZQXQ0YjEyRHBHN1p2SWhkZS1zd3ZmcS1EaGNBdk41cUFxaFQ2SVJ5MnNyMWR5bS1OamNQbGgzak94V194Rkk3cGtoSUpaVkViSTVIdXVZZXpob1Z6d201eWxuNU1zZHRFak1mWElURS1JZ0tRVlFLOHZUV3dxY0dKWlRDNnNZa0JJTmV1amxQY012cy1Ea05YbUludDhsazU3NHJKaXB6NWFibVgyMHpyRnA1OGc?oc=5
+🔥 Upcoming iPhone 20 Pro rumoured to have 3D printed titanium frame
+The tech rumor mill is abuzz today after a post on Chinese social media platform Weibo suggested that Apple’s upcoming iPhone 20 Pro will feature a 3D printed titanium frame.
+The post was published by Fixed Focus Digital, a leaker who had previously shared production timeline info about the ‌iPhone 18‌, reported by VoxelMatters on Nov 27, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/apple-leak-iphone-20-pro-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/upcoming-iphone-20-pro-rumoured-to-have-3d-printed-titanium-frame
 
-📷 Black Friday 3D scanner deals: Five ultimate scanners from just $384 - Creative Bloq
-Black Friday 3D scanner deals: Five ultimate scanners from just $384 Creative Bloq
-Reported by Google News - 3D Printing on Nov 26, 2026.
-🔗 Read more: https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXY5RlNRZFd5VUc5bDN2STRXbWdRaUpzWElvY2phcG1EaE1VbDl6UDRTQm9QRFZWVFJpdVNpT1paeGJJMHI3dlNrdmJxMWFueTNkYWN4anMwcGlOMWp1eXZYSDNqbGdweXQwZUpKdzhOZGlicE54SlN5N3VkYXRpakszYnVyM0kyRFdjREUwRHhiaVBsdi05LU1vVU9DU0J4c0hWQXRhNA?oc=5
+🚨 MIRACO 2 portable 3D scanner launches on Kickstarter
+Revopoint, a maker of professional 3D scanning systems, launched its latest solution on Kickstarter this month.
+The MIRACO 2, a portable all-in-one 3D scanner, offers a variety of different scan modes for high-precision capture and is supported by the company’s new AI-powered Revo Agents, which the company says is the world’s, reported by VoxelMatters on Nov 27, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/revopoint-3-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/miraco-2-portable-3d-scanner-launches-on-kickstarter
 
-💻 JATEC Project Targets 3D Printing for Drone Repair and Component Supply
-The NATO-Ukraine Joint Analysis, Training and Education Centre (JATEC) is running a project to develop additive manufacturing (AM) systems for unmanned aerial vehicles (UAVs), according to the Ministry of Defence of...
-The ministry says the project’s goal is to introduce new technologies that support the defense of Ukraine and of member states of the…, reported by 3D Printing Industry on Nov 25, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/large_3d-printers-for-uavs-site-01-en-c9bfa1371f-150x100.jpg
-🔗 Read more: https://3dprintingindustry.com/news/jatec-project-targets-3d-printing-for-drone-repair-and-component-supply-257213
+🚨 Easy in Hand, Pro in Every Scan: Bambu Lab introduces the S1 3D scanner
+Professional scan processing without additional licenses
+Reported by Bambu Lab on Nov 26, 2026.
+🖼️ Image: https://storage.ghost.io/c/8d/d9/8dd9f85b-21c3-4782-bba8-8778cd8f2f93/content/images/2026/11/S1-000.jpg
+🔗 Read more: https://blog.bambulab.com/easy-in-hand-pro-in-every-scan-bambu-lab-introduces-the-s1-3d-scanner
 
-♻️ FlexCycle Solutions targets sustainable copper powder production
-FlexCycle Solutions, a winner and two-category-finalist in the 2026 Formnext Awards, is creating a new way to turn industrial byproducts into high-quality additive manufacturing powder.
-The young company—still in the process of being formally founded—is a spin-off from TU Bergakademie Freiberg, a German institution that specializes in mining and the recycling of natural resources, reported by VoxelMatters on Nov 26, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/app-lpbf-1-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/flexcycle-solutions-targets-sustainable-copper-powder-production
+📷 Creality Brings Three-Tier 3D Scanner Lineup to Formnext 2026 - Gadget Review
+Creality Brings Three-Tier 3D Scanner Lineup to Formnext 2026 Gadget Review
+Reported by Google News - 3D Scanners on Nov 27, 2026.
+🔗 Read more: https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0FLb3paeWhNV1ByMWZiQ3lrNUhDMDR1WDFKb1hPSjVPbzZadWx5OWlUeDliZERXNzd1QnIxVXFJeGZRMDNkeEZ5UXJwY3pBTFE5RkZJTllfVjdhUjktT1ZkYzFJWmVRNEtndUU4YzFzYlctbUxZY183bWFYcWRZTk5CMGFTcjVlZ3Y1WGxuSlNqNHNK?oc=5
 
-🖨 Fabri uses 3D printed patterns to remove hard tooling from investment casting
-Fabri, a metal casting company founded by MIT alumni, has replaced the steel tooling and wax patterns of traditional investment casting with 3D printed resin patterns and its own software, FoundryOS.
-Co-founder Steven Davis has said that the company could go from receiving a design to producing a finished part in as little as a … The post Fabri uses 3D printed patterns to remove hard tooling from investment, reported by VoxelMatters on Nov 26, 2026.
-🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/MIT-metal-AM-150x150.jpg
-🔗 Read more: https://www.voxelmatters.com/fabri-uses-3d-printed-patterns-to-remove-hard-tooling-from-investment-casting
+💻 Formnext 2026: additive manufacturing, this is your year
+Lately, I have been reading/listening to several books/audiobooks on the rise of AI.
+One of the most striking observations is that the great minds who started working on it in the 1950s thought they could achieve it in weeks, grossly underestimating the challenges involved, reported by VoxelMatters on Nov 27, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/Formnext_20206_IMG_8196-e1795709752644-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/formnext-2026-additive-manufacturing-this-is-your-year
 
-🖨 WAAM3D upgrades MiniWAAM with dual-wire feeding as standard for multi-material metal parts
-WAAM3D, the Milton Keynes-based supplier of wire arc additive manufacturing (WAAM) systems, has upgraded its MiniWAAM platform, making dual-wire feeding a standard feature.
-Announced ahead of Formnext 2026, the updated MiniWAAM/DW brings multi-material processing and in-process alloying to the company’s machine for small components, reported by 3D Printing Industry on Nov 26, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/Pic1_MiniWAAM-System-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/waam3d-upgrades-miniwaam-with-dual-wire-feeding-as-standard-for-multi-material-metal-parts-257404
+🖨 Push Button Metal: Timid
+In a previous article, we looked at what is driving the new low-cost metal 3D printing market.
+Below-$100,000 diode lasers, gantry motion stages, software, and design will drive a growing, reported by 3DPrint.com on Nov 27, 2026.
+🖼️ Image: https://3dprint.com/wp-content/uploads/2026/09/metalone.webp
+🔗 Read more: https://3dprint.com/333899/push-button-metal-timid
 
-🖨 OctoPrint 2.0.0 Adds Plugin Route to Bambu Lab Printers After Years of Serial-Only Connections
-OctoPrint, the free and open software for controlling 3D printers, has released version 2.0.0.
-Until now, OctoPrint connected to printers through a serial connection, reported by 3D Printing Industry on Nov 26, 2026.
-🖼️ Image: https://3dprintingindustry.com/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-25-a-las-10.12.05-p.m-150x100.png
-🔗 Read more: https://3dprintingindustry.com/news/octoprint-2-0-0-adds-plugin-route-to-bambu-lab-printers-after-years-of-serial-only-connections-257408
+📰 APWORKS adds EOS M4 ONYX to scale titanium production
+APWORKS will add an EOS M4 ONYX laser powder bed fusion system to its production portfolio in the second quarter of 2027, expanding its titanium manufacturing capacity.
+Long-term contracts, growing serial production volumes and strong momentum in the defense sector are behind the investment, which marks the company’s next step in scaling its output, reported by VoxelMatters on Nov 27, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2026/11/APWORKS-EOS-Onyx-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/apworks-adds-eos-m4-onyx-to-scale-titanium-production
 
-🖨 Can Metal 3D Printing Leave the Factory? SnowX Makes Its Case with SnowPod, Announces Partnerships with Autodesk and Meshy AI
-Last month, we looked at the winding road that led SnowX to SnowPod, its desktop metal 3D printer.
-At Formnext 2026, we met founder and CEO Fangda Xu at the SnowX booth to see the machine in action and hear…, reported by 3D Natives on Nov 25, 2026.
-🖼️ Image: https://www.3dnatives.com/en/wp-content/uploads/sites/2/2026/11/formnext-snowx-cover.jpg
-🔗 Read more: https://www.3dnatives.com/en/snowpod-formnext-2026-23112026
+🚀 Titomic USA secured $250 million IDIQ subcontract from U.S. defense prime
+Titomic USA, Inc., the wholly owned U.S.
+subsidiary of Titomic Limited, has received an indefinite delivery/indefinite quantity (IDIQ) subcontract from a major U.S, reported by VoxelMatters on Nov 27, 2026.
+🖼️ Image: https://www.voxelmatters.com/wp-content/uploads/2025/01/titomic-cold-spray-for-engine-remanufacturing-150x150.jpg
+🔗 Read more: https://www.voxelmatters.com/titomic-usa-secured-250-million-idiq-subcontract-from-u-s-defense-prime
 
 ---
 *Originally published at: https://www.quality3ds.com/*
-Today's pulse highlight is "Elegoo unveils Saturn 5 Ultra at Formnext: resin printer with automatic resin feeding set to launch in early 2027 - 3Druck.com" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Story link: https://news.google.com/rss/articles/CBMiggJBVV95cUxPSER4NHJaVGcyeVB6anhkZVRJR0hyUGc2d1hvOE14RllxT2RGQml1SGZqMFQtSUFJcFJ4ZXFoOUlFaEVybnp0ZUIxU3E4dU1QRnRuNDhZQXQ0YjEyRHBHN1p2SWhkZS1zd3ZmcS1EaGNBdk41cUFxaFQ2SVJ5MnNyMWR5bS1OamNQbGgzak94V194Rkk3cGtoSUpaVkViSTVIdXVZZXpob1Z6d201eWxuNU1zZHRFak1mWElURS1JZ0tRVlFLOHZUV3dxY0dKWlRDNnNZa0JJTmV1amxQY012cy1Ea05YbUludDhsazU3NHJKaXB6NWFibVgyMHpyRnA1OGc?oc=5 | Full pulse: https://www.quality3ds.com/
+If you only open one story from today, make it "Easy in Hand, Pro in Every Scan: Bambu Lab introduces the S1 3D scanner" because it is exactly the kind of viral, debate-driving update that pulls strong community attention. Direct link: https://blog.bambulab.com/easy-in-hand-pro-in-every-scan-bambu-lab-introduces-the-s1-3d-scanner | Full coverage: https://www.quality3ds.com/
